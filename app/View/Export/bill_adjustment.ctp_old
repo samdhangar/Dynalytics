@@ -1,0 +1,49 @@
+<?php
+$data_first = array(
+    __('Sr. No.'),
+);
+if (!isCompany() && empty($companyDetail)):
+    $data_first = array(
+        __('Sr. No.'),
+        __('Company Name')
+    );
+endif;
+
+$data_second = array(
+    __('Branch Name'),
+    __('Station'),
+    __('Manager Name'),
+    __('Adjustment Type'),
+    __('Adjustment Value'),
+    __('New Value'),
+    __('Bill Adjustment Date Time'),
+);
+$data = array_merge($data_first, $data_second);
+$this->CSV->addRow(array_values($data));
+$startNo = 1;
+foreach ($bills as $bill): 
+    $exportArr_first = array(
+        $startNo++,
+    );
+    if (!isCompany() && empty($companyDetail)):
+        $exportArr_first = array(
+            $startNo++,
+            (isset($bill['FileProccessingDetail']['Company']['first_name']) ? $bill['FileProccessingDetail']['Company']['first_name'] : ''),
+        );
+    endif;
+
+    $exportArr_second = array(
+        (isset($bill['FileProccessingDetail']['Branch']['name']) ? $bill['FileProccessingDetail']['Branch']['name'] : ''),
+        (isset($bill['BillAdjustment']['station']) ? $bill['BillAdjustment']['station'] : ''),
+        (isset($bill['Manager']['name']) ? trim($bill['Manager']['name']) : $bill['BillAdjustment']['manager_id']),
+        (isset($bill['BillAdjustment']['adjustment_type']) ? $bill['BillAdjustment']['adjustment_type'] : ''),
+        (isset($bill['BillAdjustment']['adjustment_value']) ? $bill['BillAdjustment']['adjustment_value'] : ''),
+        (isset($bill['BillAdjustment']['new_value_total']) ? $bill['BillAdjustment']['new_value_total'] : ''),
+        (isset($bill['BillAdjustment']['datetime']) ? showdatetime($bill['BillAdjustment']['datetime']) : ''),
+    );
+    $exportArr = array_merge($exportArr_first, $exportArr_second);
+    $this->CSV->addRow($exportArr);
+endforeach;
+$filename = getReportName('BillAdjustment');
+echo $this->CSV->render($filename);
+?>

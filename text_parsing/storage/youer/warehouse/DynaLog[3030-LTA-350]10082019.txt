@@ -1,0 +1,750 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.151 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+   *** Entered Configuration Mode ***   
+01/08/20 01:54 PM
+ID:                               Level2
+
+
+Logon:                             Addon
+01/08/20 01:54 PM
+
+
+           *** Added User ***           
+01/08/20 01:56 PM
+ID:                                 Josh
+
+
+
+           *** Added User ***           
+01/08/20 01:56 PM
+ID:                                  Ray
+
+
+
+    *** Exited Configuration Mode ***   
+01/08/20 01:56 PM
+ID:                                Addon
+
+
+========================================
+             DynaCore Groups            
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+01/08/20 01:56 PM
+
+Group 0
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 1
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 2
+     No Enabled Functions
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 3
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+========================================
+             DynaCore Users             
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+01/08/20 01:56 PM
+
+Josh
+     Master
+
+Ray
+     Master
+
+========================================
+
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0b:82:7a
+LAN 1 IP Address           192.168.1.237
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0b:83:42
+LAN 2 IP Address           192.168.1.238
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.1
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.151
+Release Date                    10/04/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           1.1.0.085
+Min. DynaCash Version          4.3.0.065
+Min. DynaLog Server Version    2.0.0.005
+Min. DynaLog Viewer Version    2.0.0.000
+========================================
+
+
+
+========================================
+              User Settings             
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.151 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/08/20 01:58 PM
+
+
+   *** Entered Configuration Mode ***   
+01/08/20 01:58 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/08/20 01:59 PM
+ID:                                 josh
+
+
+========================================
+            Hardware Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.151 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/08/20 02:00 PM
+
+   *** Entered Configuration Mode ***   
+01/08/20 02:00 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/08/20 02:00 PM
+ID:                                 josh
+
+
+========================================
+            Hardware Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 2
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.151 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/08/20 02:04 PM
+
+Logoff:                             josh
+01/08/20 02:05 PM
+
+Logon:                              josh
+01/08/20 02:19 PM
+
+   *** Entered Configuration Mode ***   
+01/08/20 02:19 PM
+ID:                                 josh
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.151 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+   *** Entered Configuration Mode ***   
+01/08/20 02:38 PM
+ID:                               Level2
+
+Logon:                             Addon
+01/08/20 02:38 PM
+
+    *** Exited Configuration Mode ***   
+01/08/20 02:38 PM
+ID:                                Addon
+
+
+========================================
+              User Settings             
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.151 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/08/20 02:39 PM
+
+   *** Entered Configuration Mode ***   
+01/08/20 02:39 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/08/20 02:50 PM
+ID:                                 josh
+
+(Online Deposit)                        
+Transaction #                          3
+01/08/20 02:50 PM
+Josh
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                      36.00
+
+$1                  100           100.00
+
+Other Cash Deposited              100.00
+
+Deposit Total                     136.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+Denom            Pieces            Value
+$100                 88          8800.00
+$50                 128          6400.00
+$20                 257          5140.00
+$10                  48           480.00
+$5                   45           225.00
+$2                    0              .00
+$1                   30            30.00
+Coin                                 .00
+Starting Inventory              19919.00
+Net Adjustments                      .00
+Total Inventory                 21075.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                 88          8800.00
+$50                 128          6400.00
+$20                 257          5140.00
+$10                  48           480.00
+$5                   45           225.00
+$1                   30            30.00
+Total Dispensable Notes         21075.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Notes              .00
+
+Cass. 1 $1           30            30.00
+Cass. 2 $20         257          5140.00
+Cass. 3 $5           45           225.00
+Cass. 4 $100         88          8800.00
+Cass. 5 $10          48           480.00
+Cass. 6 $50         128          6400.00
+              $1 Notes Low              
+              $5 Notes Low              
+              $10 Notes Low             
+                CST-A Low               
+                CST-C Low               
+                CST-D Low               
+                CST-E Low               
+========================================
+
+
+
+
+
+
+
+
+========================================
+             Activity Report            
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+01/08/20 02:53 PM
+
+ID:                                 josh
+========================================
+              User Activity             
+----------------------------------------
+Josh
+# of Deposits                          1
+# of Withdrawals                       0
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+$1                  100           100.00
+
+Other Cash Deposited              100.00
+Machine Total                      36.00
+Deposit Total                     136.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Net Total                         +36.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                 107          2140.00
+$10                   1            10.00
+$5                    1             5.00
+$2                    0              .00
+$1                    1             1.00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                  100           100.00
+
+Other Coin                           .00
+
+Other Cash Deposited              100.00
+Machine Total                    2156.00
+Total Deposited                  2256.00
+# of Deposits                          1
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  8           800.00
+$50                   0              .00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+Coin                                 .00
+Total Dispensed                  1000.00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  8          -800.00
+$50                   0              .00
+$20                 100         +2000.00
+$10                   2           -20.00
+$5                    4           -20.00
+$2                    0              .00
+$1                    4            -4.00
+Coin                                 .00
+Net Total                       +1156.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                 88          8800.00
+$50                 128          6400.00
+$20                 257          5140.00
+$10                  48           480.00
+$5                   45           225.00
+$2                    0              .00
+$1                   30            30.00
+Coin                                 .00
+Starting Inventory              19919.00
+Net Adjustments                      .00
+Total Inventory                 21075.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                 88          8800.00
+$50                 128          6400.00
+$20                 257          5140.00
+$10                  48           480.00
+$5                   45           225.00
+$1                   30            30.00
+Total Dispensable Notes         21075.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Notes              .00
+
+Cass. 1 $1           30            30.00
+Cass. 2 $20         257          5140.00
+Cass. 3 $5           45           225.00
+Cass. 4 $100         88          8800.00
+Cass. 5 $10          48           480.00
+Cass. 6 $50         128          6400.00
+              $1 Notes Low              
+              $5 Notes Low              
+              $10 Notes Low             
+                CST-A Low               
+                CST-C Low               
+                CST-D Low               
+                CST-E Low               
+========================================
+
+
+
+
+
+
+
+
+========================================
+           User Totals Report           
+----------------------------------------
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+01/08/20 02:53 PM
+
+
+Josh
+# of Deposits                          1
+# of Withdrawals                       0
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+$1                  100           100.00
+
+Other Cash Deposited              100.00
+Machine Total                      36.00
+Deposit Total                     136.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Sell                               36.00
+========================================
+
+
+
+
+
+
+
+
+Logoff:                             josh
+01/08/20 03:10 PM
+
+   *** Entered Configuration Mode ***   
+01/08/20 03:13 PM
+ID:                                  OEM
+
+    *** Exited Configuration Mode ***   
+01/08/20 03:13 PM
+ID:                                  OEM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.151 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+   *** Entered Configuration Mode ***   
+01/08/20 03:14 PM
+ID:                                Addon
+
+
+Logon:                             Addon
+01/08/20 03:14 PM
+
+    *** Exited Configuration Mode ***   
+01/08/20 03:18 PM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.151 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             

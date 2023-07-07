@@ -1,0 +1,483 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.167 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           teller1
+01/16/20 11:38 AM
+       *** Day Limit Override ***       
+      *** Limit Override Logon ***      
+01/16/20 11:38 AM
+josh
+
+(Online Mix Dispense)                   
+Transaction #                         12
+01/01/70 12:00 AM
+Teller1
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+Logoff:                          teller1
+01/16/20 12:35 PM At 01/01/70 12:00 AM
+
+Logon:                              josh
+01/16/20 12:36 PM
+
+   *** Entered Configuration Mode ***   
+01/16/20 12:36 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/16/20 12:36 PM
+ID:                                 josh
+
+   *** Entered Configuration Mode ***   
+01/16/20 12:36 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/16/20 12:36 PM
+ID:                                 josh
+
+
+========================================
+            Security Settings           
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         8:00    17:30
+Monday         8:00    11:00
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                   Yes
+Use DynaCore Alarm                   Yes
+Use Machine Alarm                    Yes
+AutoLogoff                      Disabled
+Duress Lump Sum                     1000
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+========================================
+
+
+      *** Client Disconnection ***      
+Logoff:                             josh
+01/16/20 01:36 PM At 01/01/70 12:00 AM
+
+Logon:                              josh
+01/16/20 01:37 PM
+
+   *** Entered Configuration Mode ***   
+01/16/20 01:37 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/16/20 01:37 PM
+ID:                                 josh
+
+
+========================================
+            Security Settings           
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         8:00    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                   Yes
+Use DynaCore Alarm                   Yes
+Use Machine Alarm                    Yes
+AutoLogoff                      Disabled
+Duress Lump Sum                     1000
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+========================================
+
+
+Logoff:                             josh
+01/16/20 01:37 PM At 01/01/70 12:00 AM
+
+Logon:                              josh
+01/16/20 01:37 PM
+
+Logoff:                             josh
+01/16/20 01:37 PM At 01/01/70 12:00 AM
+
+Logon:                              josh
+01/16/20 01:38 PM
+
+(Online Mix Dispense)                   
+Transaction #                         13
+01/01/70 12:00 AM
+Josh
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+Logoff:                             josh
+01/16/20 01:38 PM At 01/01/70 12:00 AM
+
+Logon:                           teller1
+01/16/20 01:38 PM
+         Request Over User Limit        
+
+
+(Online Mix Dispense)                   
+01/16/20 01:38 PM
+teller1
+
+
+Amount Requested                    1.00
+Amount Tendered                      .00
+Balance Due                         1.00
+----------------------------------------
+
+
+Logoff:                          teller1
+01/16/20 01:38 PM At 01/01/70 12:00 AM
+
+Logon:                              josh
+01/16/20 01:50 PM
+
+
+   *** Entered Configuration Mode ***   
+01/16/20 01:50 PM
+ID:                                 josh
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.168 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.168 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.168 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+           RBG-100 Link Error           
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.168 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/16/20 03:04 PM
+
+
+   *** Entered Configuration Mode ***   
+01/16/20 03:04 PM
+ID:                                 josh
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.168 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/16/20 03:06 PM
+
+   *** Entered Configuration Mode ***   
+01/16/20 03:06 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/16/20 03:06 PM
+ID:                                 josh
+
+Logoff:                             josh
+01/16/20 03:06 PM At 01/01/70 12:00 AM
+
+   *** Entered Configuration Mode ***   
+01/16/20 03:06 PM
+ID:                                  OEM
+
+========================================
+             Activity Report            
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+01/16/20 03:06 PM
+
+ID:                                  OEM
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Coin                                 .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                142         14200.00
+$50                 192          9600.00
+$20                 140          2800.00
+$10                 267          2670.00
+$5                  165           825.00
+$2                    0              .00
+$1                  180           180.00
+Coin                                 .00
+Starting Inventory            3027500.00
+Net Adjustments                      .00
+Total Inventory                 30275.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                142         14200.00
+$50                 192          9600.00
+$20                 140          2800.00
+$10                 267          2670.00
+$5                  165           825.00
+$1                  180           180.00
+Total Dispensable Notes         30275.00
+
+----------------------------------------
+          Collection Box Notes          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Notes                .00
+
+Cass. 1 $1          180           180.00
+Cass. 2 $5          165           825.00
+Cass. 3 $10         267          2670.00
+Cass. 4U $20        140          2800.00
+Cass. 4L $50        192          9600.00
+Cass. 5 $100        142         14200.00
+               Cass. 1 Low              
+               Cass. 2 Low              
+               Cass. 3 Low              
+               Cass. 5 Low              
+========================================
+
+      *** System Memory Cleared ***     
+01/16/20 03:06 PM
+ID:                                  OEM
+
+
+    *** Exited Configuration Mode ***   
+01/16/20 03:07 PM
+ID:                                  OEM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.168 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/16/20 03:08 PM
+
+   *** Entered Configuration Mode ***   
+01/16/20 03:08 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/16/20 03:08 PM
+ID:                                 josh
+
+Logoff:                             josh
+01/16/20 03:08 PM At 01/01/70 12:00 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.168 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           teller1
+01/16/20 03:24 PM
+
+Logoff:                          teller1
+01/16/20 03:24 PM At 01/01/70 12:00 AM
+
+Logon:                          manager1
+01/16/20 03:24 PM
+
+   *** Entered Configuration Mode ***   
+01/16/20 03:24 PM
+ID:                             manager1
+
+    *** Exited Configuration Mode ***   
+01/16/20 03:25 PM
+ID:                             manager1
+
+Logoff:                         manager1
+01/16/20 04:33 PM At 01/01/70 12:00 AM

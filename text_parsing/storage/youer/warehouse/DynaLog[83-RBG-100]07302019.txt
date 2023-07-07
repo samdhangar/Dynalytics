@@ -1,0 +1,278 @@
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBG-100 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: USB           
+
+                   RBG                  
+                  Test                  
+                 CC-5000                
+
+Station #                             83
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/30/20
+Time                          9:54:00 AM
+           Manager Logged Off           
+Manager #                              1
+Date                             01/30/20
+Time                          9:54:23 AM
+****************************************
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBG-100 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: USB           
+
+                   RBG                  
+                  Test                  
+                 CC-5000                
+
+Station #                             83
+
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBG-100 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: LAN           
+
+                   RBG                  
+                  Test                  
+                 CC-5000                
+
+Station #                             83
+
+            Side A Logged On            
+Date                             01/30/20
+Time                         10:08:01 AM
+Teller #                               1
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/30/20
+Time                         10:10:40 AM
+
+(Reconciled Exposed Bills)              
+Transaction #                          3
+Date                             01/30/20
+Time                         10:12:17 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                 85          8500.00
+$50                 182          9100.00
+$10                 531          5310.00
+$5                  160           800.00
+
+Exposed Bills Reconciled        23710.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             83
+Denom            Pieces            Value
+$100                134         13400.00
+$50                 193          9650.00
+$20                 258          5160.00
+$10                 268          2680.00
+$5                  165           825.00
+$2                    0              .00
+$1                  183           183.00
+Starting Inventory                   .00
+Net Adjustments                -23952.00
+Total Inventory                 31898.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                134         13400.00
+$50                 193          9650.00
+$20                 134          2680.00
+$10                 268          2680.00
+$5                  165           825.00
+$1                  183           183.00
+Total Dispensable Bills         29418.00
+
+----------------------------------------
+          Collection Box Bills          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Bills                .00
+
+----------------------------------------
+              Exposed Bills             
+----------------------------------------
+$20                 124          2480.00
+Total Exposed Bills              2480.00
+
+Cass. 1 ($1)        183           183.00
+Cass. 2 ($5)        165           825.00
+Cass. 3 ($10)       268          2680.00
+Cass. 4U ($20)      134          2680.00
+Cass. 4L ($50)      193          9650.00
+Cass. 5 ($100)      134         13400.00
+----------------------------------------
+          Verification Required         
+----------------------------------------
+Collection Box               Long Verify
+
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/30/20
+Time                         10:12:26 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/30/20
+Time                         10:13:20 AM
+
+(Reconciled Exposed Bills)              
+Transaction #                          4
+Date                             01/30/20
+Time                         10:13:45 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$20                 124          2480.00
+
+Exposed Bills Reconciled         2480.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             83
+Denom            Pieces            Value
+$100                134         13400.00
+$50                 193          9650.00
+$20                 134          2680.00
+$10                 268          2680.00
+$5                  165           825.00
+$2                    0              .00
+$1                  183           183.00
+Starting Inventory                   .00
+Net Adjustments                -26432.00
+Total Inventory                 29418.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                134         13400.00
+$50                 193          9650.00
+$20                 134          2680.00
+$10                 268          2680.00
+$5                  165           825.00
+$1                  183           183.00
+Total Dispensable Bills         29418.00
+
+----------------------------------------
+          Collection Box Bills          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Bills                .00
+
+Cass. 1 ($1)        183           183.00
+Cass. 2 ($5)        165           825.00
+Cass. 3 ($10)       268          2680.00
+Cass. 4U ($20)      134          2680.00
+Cass. 4L ($50)      193          9650.00
+Cass. 5 ($100)      134         13400.00
+----------------------------------------
+          Verification Required         
+----------------------------------------
+Collection Box               Long Verify
+
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/30/20
+Time                         10:13:54 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/30/20
+Time                         10:23:54 AM
+   *** Collection Cassette Emptied ***  
+     *** Collection Bill Removal ***    
+
+(Inventory Removal)                     
+Transaction #                          5
+Date                             01/30/20
+Time                         10:26:06 AM
+Manager #                              1
+
+Denom            Pieces            Value
+
+Total Inventory Removed              .00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             83
+Denom            Pieces            Value
+$100                134         13400.00
+$50                 193          9650.00
+$20                 134          2680.00
+$10                 268          2680.00
+$5                  165           825.00
+$2                    0              .00
+$1                  183           183.00
+Starting Inventory                   .00
+Net Adjustments                -26432.00
+Total Inventory                 29418.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                134         13400.00
+$50                 193          9650.00
+$20                 134          2680.00
+$10                 268          2680.00
+$5                  165           825.00
+$1                  183           183.00
+Total Dispensable Bills         29418.00
+
+----------------------------------------
+          Collection Box Bills          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Bills                .00
+
+Cass. 1 ($1)        183           183.00
+Cass. 2 ($5)        165           825.00
+Cass. 3 ($10)       268          2680.00
+Cass. 4U ($20)      134          2680.00
+Cass. 4L ($50)      193          9650.00
+Cass. 5 ($100)      134         13400.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/30/20
+Time                         10:26:17 AM
+****************************************
+            Side A Logged Off           
+Teller #                               1
+Date                             01/30/20
+Time                         10:26:33 AM

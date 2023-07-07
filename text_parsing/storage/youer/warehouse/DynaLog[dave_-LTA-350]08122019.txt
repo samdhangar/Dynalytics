@@ -1,0 +1,1469 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 11:30 AM
+ID:                                Addon
+
+    *** Exited Configuration Mode ***   
+001/12/20 12:21 PM
+ID:                                Addon
+
+
+========================================
+              User Settings             
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 12:31 PM
+ID:                                addon
+
+           *** Added User ***           
+001/12/20 12:31 PM
+ID:                                  Ray
+
+
+           *** Added User ***           
+001/12/20 12:32 PM
+ID:                           trash user
+
+
+    *** Exited Configuration Mode ***   
+001/12/20 12:33 PM
+ID:                                addon
+
+
+========================================
+             DynaCore Groups            
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+001/12/20 12:33 PM
+
+Group 0
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+trash
+     Online Deposits
+     Manual (Offline) Withdrawals
+     View Reports (Self Only)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 3
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+========================================
+             DynaCore Users             
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+001/12/20 12:33 PM
+
+Ray
+     Master
+
+trash user
+     trash
+
+========================================
+
+
+
+========================================
+              User Settings             
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/12/20 12:34 PM
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 12:34 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/12/20 12:34 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/12/20 12:34 PM
+
+   *** Entered Configuration Mode ***   
+001/12/20 12:34 PM
+ID:                                addon
+
+    *** Exited Configuration Mode ***   
+001/12/20 12:34 PM
+ID:                                addon
+
+
+========================================
+             DynaCore Groups            
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+001/12/20 12:34 PM
+
+Group 0
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+trash
+     Online Deposits
+     Manual (Offline) Withdrawals
+     View Reports (Self Only)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 3
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+========================================
+              User Settings             
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/12/20 12:36 PM
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 12:36 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/12/20 12:36 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/12/20 12:36 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 12:41 PM
+ID:                                Addon
+
+           *** Added User ***           
+001/12/20 12:42 PM
+ID:                                  Ray
+
+
+           *** Added User ***           
+001/12/20 12:42 PM
+ID:                                 Paul
+
+
+           *** Edited User ***          
+001/12/20 12:42 PM
+ID:                                  Ray
+
+
+          *** Deleted User ***          
+001/12/20 12:43 PM
+ID:                                 Paul
+
+          *** Deleted User ***          
+001/12/20 12:43 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/12/20 12:44 PM
+ID:                                Addon
+
+
+========================================
+             DynaCore Groups            
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+001/12/20 12:44 PM
+
+Group 0
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+poo
+     Online Deposits
+     Manual (Offline) Withdrawals
+     View Reports (Self Only)
+     View Reports (All)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 3
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+             DynaCore Users             
+----------------------------------------
+             No Users Found             
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 12:45 PM
+ID:                                Addon
+
+           *** Added User ***           
+001/12/20 12:45 PM
+ID:                                  Ray
+
+
+           *** Added User ***           
+001/12/20 12:45 PM
+ID:                                 Paul
+
+
+           *** Edited User ***          
+001/12/20 12:46 PM
+ID:                                 Paul
+
+
+          *** Deleted User ***          
+001/12/20 12:46 PM
+ID:                                 Paul
+
+    *** Exited Configuration Mode ***   
+001/12/20 12:50 PM
+ID:                                Addon
+             DynaCore Users             
+----------------------------------------
+             No Users Found             
+========================================
+
+
+
+========================================
+              User Settings             
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 02:13 PM
+ID:                                Addon
+
+
+    *** Exited Configuration Mode ***   
+001/12/20 02:13 PM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 02:36 PM
+ID:                                Addon
+
+          *** Deleted User ***          
+001/12/20 02:39 PM
+ID:                                 Paul
+
+          *** Deleted User ***          
+001/12/20 02:39 PM
+ID:                                  Ray
+
+          *** Deleted User ***          
+001/12/20 02:40 PM
+ID:                                 Paul
+
+    *** Exited Configuration Mode ***   
+001/12/20 02:40 PM
+ID:                                Addon
+
+
+========================================
+             DynaCore Groups            
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+001/12/20 02:40 PM
+
+Group 0
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+poo
+     Online Deposits
+     Manual (Offline) Withdrawals
+     View Reports (Self Only)
+     View Reports (All)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 3
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+========================================
+             DynaCore Users             
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+001/12/20 02:40 PM
+
+Ray
+     Master
+
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/12/20 02:41 PM
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 02:41 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/12/20 02:41 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/12/20 02:41 PM
+
+   *** Entered Configuration Mode ***   
+001/12/20 02:42 PM
+ID:                                Addon
+
+    *** Exited Configuration Mode ***   
+001/12/20 02:42 PM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              Paul
+001/12/20 02:43 PM
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 02:43 PM
+ID:                                 Paul
+
+    *** Exited Configuration Mode ***   
+001/12/20 02:43 PM
+ID:                                 Paul
+
+
+Logoff:                             Paul
+001/12/20 02:43 PM
+
+   *** Entered Configuration Mode ***   
+001/12/20 02:43 PM
+ID:                                Addon
+
+    *** Exited Configuration Mode ***   
+001/12/20 02:43 PM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 02:46 PM
+ID:                                aDDON
+
+    *** Exited Configuration Mode ***   
+001/12/20 02:46 PM
+ID:                                aDDON
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 02:47 PM
+ID:                                aDDON
+
+    *** Exited Configuration Mode ***   
+001/12/20 02:48 PM
+ID:                                aDDON
+
+
+========================================
+              User Settings             
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/12/20 02:49 PM
+
+   *** Entered Configuration Mode ***   
+001/12/20 02:49 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/12/20 02:49 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/12/20 02:49 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 02:59 PM
+ID:                                Addon
+
+           *** Added User ***           
+001/12/20 02:59 PM
+ID:                                 SCum
+
+
+           *** Added User ***           
+001/12/20 02:59 PM
+ID:                                SCum1
+
+
+    *** Exited Configuration Mode ***   
+001/12/20 02:59 PM
+ID:             11872130 date: 6-10-2019
+
+
+========================================
+             DynaCore Users             
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+001/12/20 02:59 PM
+
+Paul
+     Master
+     poo
+
+Ray
+     Master
+
+SCum
+     poo
+
+SCum1
+     poo
+
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 04:13 PM
+ID:                                addon
+
+    *** Exited Configuration Mode ***   
+001/12/20 04:13 PM
+ID:             11872130 date: 6-10-2019
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 04:14 PM
+ID:                                addon
+
+    *** Exited Configuration Mode ***   
+001/12/20 04:16 PM
+ID:             11872130 date: 6-10-2019
+
+
+========================================
+             DynaCore Groups            
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+001/12/20 04:16 PM
+
+Group 0
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master Users
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+poo
+     Online Deposits
+     Manual (Offline) Withdrawals
+     View Reports (Self Only)
+     View Reports (All)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 3
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+========================================
+              User Settings             
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                 Yes
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                       josh cannon
+001/12/20 04:18 PM
+
+Logoff:                      josh cannon
+001/12/20 04:18 PM
+
+Logon:                       josh cannon
+001/12/20 04:19 PM
+
+Logoff:                      josh cannon
+001/12/20 04:19 PM
+
+Logon:                       josh cannon
+001/12/20 04:20 PM
+
+Logoff:                      josh cannon
+001/12/20 04:20 PM
+
+   *** Entered Configuration Mode ***   
+001/12/20 04:20 PM
+ID:                                Addon
+
+    *** Exited Configuration Mode ***   
+001/12/20 04:20 PM
+ID:             11872130 date: 6-10-2019
+
+
+========================================
+              User Settings             
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 04:33 PM
+ID:                                Addon
+
+    *** Exited Configuration Mode ***   
+001/12/20 04:33 PM
+ID:             11872130 date: 6-10-2019
+
+
+========================================
+              User Settings             
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                 Yes
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                       josh cannon
+001/12/20 04:34 PM
+
+Logoff:                      josh cannon
+001/12/20 04:34 PM
+
+Logon:                       josh cannon
+001/12/20 04:35 PM
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 04:35 PM
+ID:                          josh cannon
+
+    *** Exited Configuration Mode ***   
+001/12/20 04:48 PM
+ID:                          josh cannon
+
+
+Logoff:                      josh cannon
+001/12/20 04:48 PM

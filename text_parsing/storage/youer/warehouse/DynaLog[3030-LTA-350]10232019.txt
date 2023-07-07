@@ -1,0 +1,301 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                               Ray
+01/23/20 10:15 AM
+
+Logoff:                              Ray
+01/23/20 10:15 AM
+
+Logon:                               Ray
+01/23/20 01:01 PM
+
+Logoff:                              Ray
+01/23/20 01:01 PM
+
+Logon:                               Ray
+01/23/20 01:33 PM
+
+Logoff:                              Ray
+01/23/20 01:33 PM
+
+Logon:                               Ray
+01/23/20 02:12 PM
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         186.00
+Reversed Amount                   186.00
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         186.00
+Reversed Amount                   186.00
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/23/20 02:15 PM
+Ray
+
+
+
+
+Logoff:                              Ray
+01/23/20 02:15 PM
+
+Logon:                               Ray
+01/23/20 02:30 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/23/20 02:30 PM
+Ray
+
+
+
+Logoff:                              Ray
+01/23/20 02:30 PM
+
+Logon:                               Ray
+01/23/20 02:35 PM
+
+             TCR Link Error             
+
+             TCR Link Error             
+     *** Deposit Needs Audited! ***     
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+01/23/20 02:42 PM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            186.00
+Reversed Amount                   186.00
+
+(Inventory Load)                        
+Transaction #                          1
+01/23/20 02:43 PM
+Ray
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     286.00
+Total Inventory Added             286.00
+----------------------------------------
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+01/23/20 02:44 PM
+Ray
+
+
+
+(Inventory Load)                        
+Transaction #                          2
+01/23/20 02:44 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$2                    1             2.00
+$1                    1             1.00
+
+Machine Total                     183.00
+Total Inventory Added             183.00
+----------------------------------------
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+01/23/20 02:44 PM
+Ray
+
+
+
+Logoff:                              Ray
+01/23/20 02:44 PM
+
+Logon:                               Ray
+01/23/20 02:54 PM
+
+(Inventory Load)                        
+Transaction #                          3
+01/23/20 02:54 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     186.00
+Total Inventory Added             186.00
+----------------------------------------
+
+Logoff:                              Ray
+01/23/20 02:55 PM
+
+Logon:                               Ray
+01/23/20 02:57 PM
+
+             TCR Link Error             
+
+             TCR Link Error             
+     *** Deposit Needs Audited! ***     
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+          *** Power Failed ***          
+ *** Possible Partial Inventory Load ***
+ 
+
+
+(Inventory Load)                        
+Transaction #                          4
+01/23/20 02:57 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     186.00
+Total Inventory Added             186.00
+----------------------------------------
+
+Logon:                               Ray
+01/23/20 03:33 PM
+
+Logoff:                              Ray
+01/23/20 03:39 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+01/23/20 03:40 PM
+
+             TCR Link Error             
+
+             TCR Link Error             
+     *** Deposit Needs Audited! ***     
+
+             TCR Link Error             
+      *** Failed To Release TCR ***     
+
+
+            Deposit Canceled            
+    *** Possible Partial Deposit ***    
+
+(Inventory Load)                        
+Transaction #                          5
+01/23/20 03:40 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     186.00
+Total Inventory Added             186.00
+----------------------------------------
+
+Logoff:                              Ray
+01/23/20 03:46 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+01/23/20 04:07 PM
+
+Logoff:                              Ray
+01/23/20 04:07 PM
+
+Logon:                               Ray
+01/23/20 04:08 PM
+
+Logoff:                              Ray
+01/23/20 04:08 PM
+
+Logon:                               Ray
+01/23/20 04:08 PM
+
+Logoff:                              Ray
+01/23/20 04:08 PM

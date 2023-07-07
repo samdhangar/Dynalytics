@@ -1,0 +1,96 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.162 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+Logon:                              Josh
+01/06/20 03:14 PM
+
+   *** Entered Configuration Mode ***   
+01/06/20 03:14 PM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+01/06/20 03:15 PM
+ID:                                 Josh
+
+
+========================================
+            Hardware Settings           
+Station:                     MS500S Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.99
+TCD/TCR Port                        9998
+TCD/TCR Connection                 LAN 1
+Coin Dispenser             No Coin Usage
+Bill Discriminator       Toshiba IBS-200
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                         
+EEProm Serial #                        0
+Station:                     MS500S Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0b:82:7a
+LAN 1 IP Address           192.168.1.239
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0b:83:42
+LAN 2 IP Address           192.168.1.238
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.1
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.162
+Release Date                    01/06/20
+Subscription Level                     3
+Subscription Start              10/10/19
+Subscription End                10/10/20
+
+Min. Console Version           1.1.0.085
+Min. DynaCash Version          4.3.0.065
+Min. DynaLog Server Version    2.0.0.005
+Min. DynaLog Viewer Version    2.0.0.000
+========================================
+

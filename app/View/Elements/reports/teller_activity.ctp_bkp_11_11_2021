@@ -1,0 +1,180 @@
+<?php // debug($activity);exit; ?>
+<div class="box box-primary">
+    <div class="box-footer clearfix">
+        <?php
+        echo $this->element('paginationtop');
+
+        ?>
+    </div>
+    <div class="box-body table-responsive no-padding">
+        <?php
+        $startNo = (int) $this->Paginator->counter('{:start}');
+
+        ?>
+        <table class="table table-hover table-bordered">
+            <thead>
+                <tr>
+                    <?php $noOfFields = 63; ?>
+                    <th>
+                        <?php
+                        echo __('Sr. No.');
+
+                        ?>
+                    </th>
+					<?php if (!$this->Session->check('Auth.User.BranchDetail.id')) {?>
+                    <th>
+                        <?php
+                        echo $this->Paginator->sort('FileProccessingDetail.Branch.name', __('Branch Name'));
+                        ?>
+                    </th>
+					<?php }?>
+                    <th>
+                        <?php
+                        echo $this->Paginator->sort('TellerActivityReport.station', __('Station'));
+                        ?>
+                    </th>
+                     <th>
+                        <?php
+                        echo $this->Paginator->sort('TellerActivityReport.teller_id', __('Teller'));
+                        ?>
+                    </th>
+                    <th> 
+                        <?php
+                        echo $this->Paginator->sort('FileProccessingDetail.file_date', __('File Date'));
+                        ?>
+                    </th>
+                    <th>
+                        <?php
+                        echo $this->Paginator->sort('TellerActivityReport.number_of_deposits', __('No. Of Deposite'));
+
+                        ?>
+                    </th>
+                    <th>
+                        <?php
+                        echo $this->Paginator->sort('TellerActivityReport.number_of_withdrawals', __('No. Of Withdrawals'));
+
+                        ?>
+                    </th>
+                   <th>
+                        <?php
+                        echo 'Total Transaction';
+
+                        ?>
+                    </th>
+                    <th>
+                        <?php
+                        echo $this->Paginator->sort('TellerActivityReport.deposit_total', __('Deposite Total'));
+
+                        ?>
+                    </th>
+                    <th>
+                        <?php
+                        echo $this->Paginator->sort('TellerActivityReport.Withdrawal_total', __('Withdrawal Total'));
+
+                        ?>
+                    </th>
+                   
+                    <th>
+                        <?php
+                        echo $this->Paginator->sort('TellerActivityReport.net_total', __('Net Total'));
+
+                        ?>
+                    </th>
+                    
+<!--                    <th> 
+                        <?php
+                        echo $this->Paginator->sort('TellerActivityReport.created_date', __('Create Date'));
+                        ?>
+                    </th>-->
+                </tr>
+            </thead>
+            <tbody>
+                <?php if (empty($activity)): ?>
+                    <tr>
+                        <td colspan="<?php echo $noOfFields; ?>">
+                            <?php echo __('No data available for selected period'); ?>
+                        </td>
+                    </tr>
+                <?php endif; ?>
+                <?php foreach ($activity as $act): ?> 
+                
+                    <tr>
+                        <td>
+                            <?php echo $startNo++; ?>
+                        </td>
+						<?php if (!$this->Session->check('Auth.User.BranchDetail.id')) {?>
+                        <td class="table-text">
+                            <?php
+                            echo isset($act['FileProccessingDetail']['Branch']['name']) ? $act['FileProccessingDetail']['Branch']['name'] : '';
+                            ?>
+                        </td>
+						<?php }?>
+                        <td>
+                            <?php
+                            echo isset($act['TellerActivityReport']['station']) ? $act['TellerActivityReport']['station'] : '';
+                            ?>
+                        </td>
+                        <td> 
+                            <?php
+                            echo ($act['TellerActivityReport']['teller_id']);
+                            ?>
+                        </td>
+                        <td> 
+                            <?php
+                            echo isset($act['FileProccessingDetail']['file_date']) ? showdate($act['FileProccessingDetail']['file_date']) : '';
+                            ?>
+                        </td>
+                        <td>
+                            <?php
+                            echo isset($act['TellerActivityReport']['number_of_deposits']) ? $act['TellerActivityReport']['number_of_deposits'] : '';
+
+                            ?>
+                        </td>
+                        <td>
+                            <?php
+                            echo isset($act['TellerActivityReport']['number_of_withdrawals']) ? $act['TellerActivityReport']['number_of_withdrawals'] : '';
+                            
+
+                            ?>
+                        </td>
+                        <td>
+                            <?php
+                            echo ($act['TellerActivityReport']['number_of_withdrawals']+$act['TellerActivityReport']['number_of_deposits']);
+                            
+
+                            ?>
+                        </td>
+                        <td>
+                            <?php
+                            echo isset($act['TellerActivityReport']['deposit_total']) ? GetNumberFormat(($act['TellerActivityReport']['deposit_total']),'$') : '';
+                            ?>
+                        </td>
+                        <td>
+                            <?php
+                            echo isset($act['TellerActivityReport']['Withdrawal_total']) ? GetNumberFormat(($act['TellerActivityReport']['Withdrawal_total']),'$') : '';
+                            ?>
+                        </td>
+                        
+                        <td>
+                            <?php
+                            echo isset($act['TellerActivityReport']['net_total']) ? GetNumberFormat(($act['TellerActivityReport']['net_total']),'$')  : '';
+                            ?>
+                        </td>
+                      
+<!--                        <td> 
+                            <?php
+                            echo isset($act['TellerActivityReport']['created_date']) ? showdatetime($act['TellerActivityReport']['created_date']) : '';
+                            ?>
+                        </td>-->
+                    </tr>
+                <?php endforeach; ?>
+            </tbody>
+            <tfoot>
+
+            </tfoot>
+        </table>
+    </div>
+    <div class="box-footer clearfix">
+        <?php echo $this->element('pagination'); ?>
+    </div>
+</div>

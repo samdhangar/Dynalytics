@@ -1,0 +1,370 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.134 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           Stephen
+001/26/20 01:03 PM
+    *** Onboard Alarm Deactivated ***   
+     *** Duress Lockout Released ***    
+001/26/20 01:03 PM
+ID:                              Stephen
+
+(Online Mix Dispense)                   
+Transaction #                          5
+001/26/20 01:03 PM
+Stephen
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.134 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           Stephen
+001/26/20 01:09 PM
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+Denom            Pieces            Value
+$100                219         21900.00
+$50                 375         18750.00
+$20                 258          5160.00
+$10                 799          7990.00
+$5                  325          1625.00
+$2                    0              .00
+$1                  183           183.00
+Starting Inventory            3027400.00
+Net Adjustments                      .00
+Total Inventory                 55608.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                134         13400.00
+$50                 193          9650.00
+$20                 134          2680.00
+$10                 268          2680.00
+$5                  165           825.00
+$1                  183           183.00
+Total Dispensable Notes         29418.00
+
+----------------------------------------
+          Collection Box Notes          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Notes                .00
+
+----------------------------------------
+              Exposed Notes             
+----------------------------------------
+$100                 85          8500.00
+$50                 182          9100.00
+$20                 124          2480.00
+$10                 531          5310.00
+$5                  160           800.00
+Total Exposed Notes             26190.00
+
+Cass. 1 $1          183           183.00
+Cass. 2 $5          165           825.00
+Cass. 3 $10         268          2680.00
+Cass. 4U $20        134          2680.00
+Cass. 4L $50        193          9650.00
+Cass. 5 $100        134         13400.00
+               Cass. 1 Low              
+               Cass. 2 Low              
+               Cass. 3 Low              
+               Cass. 5 Low              
+========================================
+
+
+
+
+
+
+
+
+========================================
+             Activity Report            
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/26/20 01:17 PM
+
+ID:                              Stephen
+========================================
+              User Activity             
+----------------------------------------
+Charo
+# of Deposits                          1
+# of Withdrawals                       2
+
+Denom            Pieces            Value
+$100                  5           500.00
+$50                   5           250.00
+$20                   5           100.00
+$1                    6             6.00
+
+Deposit Total                     856.00
+
+Denom            Pieces            Value
+$100                  5           500.00
+$50                   5           250.00
+$20                   5           100.00
+$1                    6             6.00
+
+Withdrawal Total                  856.00
+----------------------------------------
+Net Total                     In Balance
+----------------------------------------
+Stephen
+# of Deposits                          0
+# of Withdrawals                       2
+
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$100                  5           500.00
+$50                   5           250.00
+$20                   5           100.00
+$1                    6             6.00
+
+Withdrawal Total                  856.00
+----------------------------------------
+Net Total                        -856.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  5           500.00
+$50                   5           250.00
+$20                   5           100.00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    6             6.00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                     856.00
+Total Deposited                   856.00
+# of Deposits                          1
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                   0              .00
+$5                    0              .00
+$1                   12            12.00
+Total Dispensed                  1712.00
+# of Withdrawals                       4
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  5          -500.00
+$50                   5          -250.00
+$20                   5          -100.00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    6            -6.00
+Net Total                        -856.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                219         21900.00
+$50                 375         18750.00
+$20                 258          5160.00
+$10                 799          7990.00
+$5                  325          1625.00
+$2                    0              .00
+$1                  183           183.00
+Starting Inventory            3027400.00
+Net Adjustments                      .00
+Total Inventory                 55608.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                134         13400.00
+$50                 193          9650.00
+$20                 134          2680.00
+$10                 268          2680.00
+$5                  165           825.00
+$1                  183           183.00
+Total Dispensable Notes         29418.00
+
+----------------------------------------
+          Collection Box Notes          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Notes                .00
+
+----------------------------------------
+              Exposed Notes             
+----------------------------------------
+$100                 85          8500.00
+$50                 182          9100.00
+$20                 124          2480.00
+$10                 531          5310.00
+$5                  160           800.00
+Total Exposed Notes             26190.00
+
+Cass. 1 $1          183           183.00
+Cass. 2 $5          165           825.00
+Cass. 3 $10         268          2680.00
+Cass. 4U $20        134          2680.00
+Cass. 4L $50        193          9650.00
+Cass. 5 $100        134         13400.00
+               Cass. 1 Low              
+               Cass. 2 Low              
+               Cass. 3 Low              
+               Cass. 5 Low              
+========================================
+
+  *** Activity Clear Not Permitted ***  
+
+
+
+
+
+
+
+
+========================================
+           User Totals Report           
+----------------------------------------
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/26/20 01:18 PM
+
+
+Charo
+# of Deposits                          1
+# of Withdrawals                       2
+Denom            Pieces            Value
+$100                  5           500.00
+$50                   5           250.00
+$20                   5           100.00
+$1                    6             6.00
+
+Deposit Total                     856.00
+
+Denom            Pieces            Value
+$100                  5           500.00
+$50                   5           250.00
+$20                   5           100.00
+$1                    6             6.00
+
+Withdrawal Total                  856.00
+----------------------------------------
+      *** No Buy or Sell Needed ***     
+========================================
+
+
+
+
+
+
+
+
+========================================
+           User Totals Report           
+----------------------------------------
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/26/20 01:18 PM
+
+
+Stephen
+# of Deposits                          0
+# of Withdrawals                       2
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$100                  5           500.00
+$50                   5           250.00
+$20                   5           100.00
+$1                    6             6.00
+
+Withdrawal Total                  856.00
+----------------------------------------
+Buy                               856.00
+========================================
+
+
+
+
+
+
+
+
+Logon:                           Patrick
+001/26/20 03:14 PM
+
+Logoff:                          Patrick
+001/26/20 03:34 PM

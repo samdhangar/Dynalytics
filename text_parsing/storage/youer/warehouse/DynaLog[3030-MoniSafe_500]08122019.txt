@@ -1,0 +1,297 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.139 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 09:58 AM
+ID:                                addon
+
+    *** Exited Configuration Mode ***   
+001/12/20 09:58 AM
+ID:                                addon
+
+
+========================================
+              User Settings             
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.139 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/12/20 11:25 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/12/20 11:25 AM
+Ray
+
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 11:25 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/12/20 11:25 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/12/20 11:26 AM
+
+Logon:                               Ray
+001/12/20 12:46 PM
+
+(Online Deposit)                        
+Transaction #                          9
+001/12/20 12:46 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Other Cash Deposited              100.00
+
+Deposit Total                     100.00
+----------------------------------------
+
+Logoff:                              Ray
+001/12/20 12:46 PM
+
+Logon:                               Ray
+001/12/20 12:56 PM
+
+Logoff:                              Ray
+001/12/20 12:56 PM
+
+Logon:                               Ray
+001/12/20 12:58 PM
+
+Logoff:                              Ray
+001/12/20 12:58 PM
+
+Logon:                               Ray
+001/12/20 01:06 PM
+
+Logoff:                              Ray
+001/12/20 01:06 PM
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/12/20 01:15 PM
+Ray
+
+
+
+Logon:                               Ray
+001/12/20 01:15 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/12/20 01:15 PM
+Ray
+
+
+
+Logoff:                              Ray
+001/12/20 01:15 PM
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/12/20 01:16 PM
+Ray
+
+
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/12/20 01:17 PM
+Ray
+
+
+
+Logon:                               Ray
+001/12/20 02:02 PM
+
+Logoff:                              Ray
+001/12/20 02:02 PM
+
+Logon:                               Ray
+001/12/20 02:19 PM
+
+Logoff:                              Ray
+001/12/20 02:19 PM
+
+Logon:                               Ray
+001/12/20 02:26 PM
+
+Logoff:                              Ray
+001/12/20 02:27 PM
+
+Logon:                               Ray
+001/12/20 02:28 PM
+
+Logoff:                              Ray
+001/12/20 02:28 PM
+
+Logon:                               Ray
+001/12/20 02:29 PM
+
+Logoff:                              Ray
+001/12/20 02:29 PM
+
+Logon:                               Ray
+001/12/20 02:34 PM
+
+      TCR Result Code 103 Occurred      
+      *** TCR Note Audit Failed ***     
+
+      TCR Result Code 103 Occurred      
+      *** TCR Note Audit Failed ***     
+
+      TCR Result Code 103 Occurred      
+      *** TCR Note Audit Failed ***     
+
+($1) Assumed Count:                   39
+($1) Actual Count:                     0
+
+  *** Inventory Adjusted Per Audit ***  
+
+
+(Auto Audit Note Count)                 
+Transaction #                         10
+001/12/20 02:39 PM
+Ray
+
+Denom            Pieces            Value
+$1                    0              .00
+
+Audited Total                        .00
+----------------------------------------
+
+Logoff:                              Ray
+001/12/20 02:41 PM
+
+Logon:                               Ray
+001/12/20 02:42 PM
+
+Logoff:                              Ray
+001/12/20 02:42 PM
+
+Logon:                               Ray
+001/12/20 02:42 PM
+
+Logoff:                              Ray
+001/12/20 02:42 PM
+
+Logon:                               Ray
+001/12/20 02:43 PM
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                         11
+001/12/20 02:43 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$1                   37            37.00
+
+Reject Notes Removed               37.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$1                   37            37.00
+
+Reloaded Notes                     37.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+Logoff:                              Ray
+001/12/20 02:44 PM
+
+Logon:                               Ray
+001/12/20 03:15 PM
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 03:15 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/12/20 03:15 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/12/20 03:15 PM
+
+Logon:                               Ray
+001/12/20 04:22 PM
+
+   *** Entered Configuration Mode ***   
+001/12/20 04:22 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.139 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/12/20 04:24 PM
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 04:24 PM
+ID:                                  Ray

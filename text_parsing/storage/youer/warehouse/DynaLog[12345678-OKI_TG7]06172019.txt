@@ -1,0 +1,649 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.121 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                        12345678
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                              josh
+001/17/20 11:20 AM
+
+(Inventory Load)                        
+Transaction #                          1
+001/17/20 11:21 AM
+Josh
+
+Denom            Pieces            Value
+$50                 298         14900.00
+$20                 300          6000.00
+$10                 294          2940.00
+$5                  148           740.00
+
+Machine Total                   24580.00
+Total Inventory Added           24580.00
+----------------------------------------
+
+Logoff:                             josh
+001/17/20 11:26 AM
+
+Logon:                              josh
+001/17/20 12:10 PM
+
+Logoff:                             josh
+001/17/20 12:10 PM
+
+Logon:                              josh
+001/17/20 12:10 PM
+
+             TCR Link Error             
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+001/17/20 12:10 PM
+josh
+
+
+Amount Requested                  100.00
+Amount Tendered                      .00
+Balance Due                       100.00
+----------------------------------------
+
+
+Logoff:                             josh
+001/17/20 12:10 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.121 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                        12345678
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                              josh
+001/17/20 12:14 PM
+
+(Online Mix Dispense)                   
+Transaction #                          2
+001/17/20 12:14 PM
+Josh
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+      TCR Error #FFFFFBAB Occurred      
+    Note Dispense Shortage Occurred!    
+            Dispense Failure            
+
+
+(Inventory Removal)                     
+001/17/20 12:16 PM
+josh
+
+
+Amount Requested                  680.00
+Amount Tendered                      .00
+Balance Due                       680.00
+----------------------------------------
+
+
+      *** Client Disconnection ***      
+Logoff:                             josh
+001/17/20 12:16 PM
+
+Logon:                              josh
+001/17/20 12:28 PM
+
+   *** Entered Configuration Mode ***   
+001/17/20 12:28 PM
+ID:                                 josh
+
+           *** Added User ***           
+001/17/20 12:30 PM
+ID:                                 Chad
+
+
+    *** Exited Configuration Mode ***   
+001/17/20 12:30 PM
+ID:                                 josh
+
+========================================
+             DynaCore Users             
+
+Station:                        12345678
+Branch:                       Ray Branch
+Region:                       Ray Region
+001/17/20 12:30 PM
+
+Addon
+     MasterUser
+
+Chad
+     No Groups Assigned
+
+Josh
+     MasterUser
+
+Paul
+     MasterUser
+
+Ray
+     MasterUser
+
+========================================
+
+
+   *** Entered Configuration Mode ***   
+001/17/20 12:30 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/17/20 12:30 PM
+ID:                                 josh
+
+Logoff:                             josh
+001/17/20 12:30 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.121 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                        12345678
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                              josh
+001/17/20 12:31 PM
+
+   *** Entered Configuration Mode ***   
+001/17/20 12:31 PM
+ID:                                 josh
+
+           *** Added User ***           
+001/17/20 12:35 PM
+ID:                                 chad
+
+
+           *** Added User ***           
+001/17/20 12:35 PM
+ID:                                fdsaf
+
+
+          *** Deleted User ***          
+001/17/20 01:01 PM
+ID: *Ilm∆vè¨aoúRmUàø+—√Pi$' mU
+àø+—√Pi$' mUàø+—√Pi$' mUàø+—√Pi
+$' Addon
+
+          *** Deleted User ***          
+001/17/20 01:01 PM
+ID:                                 chad
+
+          *** Deleted User ***          
+001/17/20 01:01 PM
+ID:                                fdsaf
+
+    *** Exited Configuration Mode ***   
+001/17/20 01:02 PM
+ID:                                 josh
+
+
+========================================
+             DynaCore Users             
+
+Station:                        12345678
+Branch:                       Ray Branch
+Region:                       Ray Region
+001/17/20 01:02 PM
+
+Addon
+     MasterUser
+
+Josh
+     MasterUser
+
+Paul
+     MasterUser
+
+Ray
+     MasterUser
+
+========================================
+
+
+Logoff:                             josh
+001/17/20 01:02 PM
+
+Logon:                              josh
+001/17/20 01:03 PM
+
+   *** Entered Configuration Mode ***   
+001/17/20 01:03 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/17/20 01:56 PM
+ID:                                 josh
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.121 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                        12345678
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                              josh
+001/17/20 02:02 PM
+
+(Reconciled Rejects)                    
+Transaction #                          3
+001/17/20 02:03 PM
+Josh
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$50                  10           500.00
+
+Reject Notes Removed              500.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$50                  10          +500.00
+Differences                      +500.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+       *** Cassette 2 Emptied ***       
+       *** Cassette 3 Emptied ***       
+       *** Cassette 4 Emptied ***       
+       *** Cassette 9 Emptied ***       
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                          4
+001/17/20 02:07 PM
+Josh
+
+Denom            Pieces            Value
+$100                339         33900.00
+$20                 295          5900.00
+$10                 294          2940.00
+$5                  148           740.00
+$1                  298           298.00
+
+Total Inventory Removed         43778.00
+----------------------------------------
+  Removed Notes Subject To Fine Count!  
+
+Logoff:                             josh
+001/17/20 02:10 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.121 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                        12345678
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                              josh
+001/17/20 02:12 PM
+
+(Inventory Load)                        
+Transaction #                          5
+001/17/20 02:12 PM
+Josh
+
+Denom            Pieces            Value
+$100                339         33900.00
+$50                 288         14400.00
+$20                 295          5900.00
+$10                 294          2940.00
+$5                  148           740.00
+$1                  148           148.00
+
+Machine Total                   58028.00
+Total Inventory Added           58028.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                          6
+001/17/20 02:21 PM
+Josh
+
+Denom            Pieces            Value
+$100                  3           300.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          7
+001/17/20 02:21 PM
+Ray
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                  10           500.00
+$20                  12           240.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                    1100.00
+Deposit Total                    1100.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                             josh
+001/17/20 02:22 PM
+
+Logon:                               Ray
+001/17/20 02:23 PM
+
+(Vault Buy)                             
+Transaction #                          8
+001/17/20 02:23 PM
+Josh
+
+Denom            Pieces            Value
+$50                   6           300.00
+$20                  10           200.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/17/20 02:24 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/17/20 02:31 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/17/20 02:31 PM
+
+Logon:                              josh
+001/17/20 03:58 PM
+
+   *** Entered Configuration Mode ***   
+001/17/20 03:58 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/17/20 03:58 PM
+ID:                                 josh
+
+(Online Deposit)                        
+Transaction #                          9
+001/17/20 03:58 PM
+Josh
+
+Denom            Pieces            Value
+$50                   6           300.00
+$20                  10           200.00
+
+Machine Total                     500.00
+Deposit Total                     500.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         10
+001/17/20 03:59 PM
+Josh
+
+Denom            Pieces            Value
+$100                  3           300.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/17/20 04:02 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/17/20 04:03 PM
+ID:                                 josh
+
+Logoff:                             josh
+001/17/20 04:03 PM
+
+Logon:                              josh
+001/17/20 04:04 PM
+
+(Online Mix Dispense)                   
+Transaction #                         11
+001/17/20 04:14 PM
+Josh
+
+Denom            Pieces            Value
+$100                  8           800.00
+$20                   6           120.00
+$10                   3            30.00
+$5                    6            30.00
+$1                    7             7.00
+
+Amount Tendered                   987.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         12
+001/17/20 04:14 PM
+Josh
+
+Denom            Pieces            Value
+$100                 11          1100.00
+$20                  13           260.00
+$10                   6            60.00
+$5                   11            55.00
+$1                   12            12.00
+
+Machine Total                    1487.00
+Deposit Total                    1487.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         13
+001/17/20 04:15 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         14
+001/17/20 04:17 PM
+Josh
+
+Denom            Pieces            Value
+$100                  3           300.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   500.00
+----------------------------------------
+       TCR Error #04-9099 Occurred      
+   Entrance/Exit In Improper Position   
+
+(Online Deposit)                        
+Transaction #                         15
+001/17/20 04:18 PM
+Josh
+
+Denom            Pieces            Value
+$100                  4           400.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                     600.00
+Deposit Total                     600.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/17/20 04:29 PM
+ID:                                 josh
+
+           *** Added User ***           
+001/17/20 04:30 PM
+ID:                                 Chad
+
+
+    *** Exited Configuration Mode ***   
+001/17/20 04:30 PM
+ID:                                 josh
+
+========================================
+             DynaCore Users             
+
+Station:                        12345678
+Branch:                       Ray Branch
+Region:                       Ray Region
+001/17/20 04:30 PM
+
+Addon
+     MasterUser
+
+Chad
+     No Groups Assigned
+
+Josh
+     MasterUser
+
+Paul
+     MasterUser
+
+Ray
+     MasterUser
+
+========================================
+
+
+Logoff:                             josh
+001/17/20 04:30 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.121 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                        12345678
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                              josh
+001/17/20 04:30 PM
+
+   *** Entered Configuration Mode ***   
+001/17/20 04:30 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/17/20 04:33 PM
+ID:                                 josh
+
+Logoff:                             josh
+001/17/20 04:33 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.121 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                        12345678
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                              josh
+001/17/20 04:35 PM
+
+   *** Entered Configuration Mode ***   
+001/17/20 04:35 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/17/20 04:56 PM
+ID:                                 josh
+
+Logoff:                             josh
+001/17/20 04:56 PM
+
+Logon:                              josh
+001/17/20 04:57 PM
+
+Logoff:                             josh
+001/17/20 04:57 PM

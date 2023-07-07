@@ -1,0 +1,809 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              Josh
+001/05/20 09:41 AM
+
+   *** Entered Configuration Mode ***   
+001/05/20 09:49 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/05/20 09:49 AM
+ID:                                 Josh
+
+
+========================================
+            Hardware Settings           
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator       Toshiba IBS-200
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+             TCR Link Error             
+             Deposit Failure            
+
+(Online Deposit)                        
+001/05/20 09:49 AM
+Josh
+       *** Dual Control Logon ***       
+peter
+
+
+      *** Client Disconnection ***      
+Logoff:                             Josh
+001/05/20 09:51 AM
+
+Logon:                              Josh
+001/05/20 09:51 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/05/20 09:51 AM
+Josh
+       *** Dual Control Logon ***       
+peter
+
+
+Logoff:                             Josh
+001/05/20 09:51 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                              Josh
+001/05/20 10:12 AM
+
+             TCR Link Error             
+             Deposit Failure            
+
+(Online Deposit)                        
+001/05/20 10:12 AM
+Josh
+       *** Dual Control Logon ***       
+patrick
+
+
+      *** Client Disconnection ***      
+Logoff:                             Josh
+001/05/20 10:13 AM
+
+Logon:                              Josh
+001/05/20 10:14 AM
+
+(Online Deposit)                        
+Transaction #                          1
+001/05/20 10:14 AM
+Josh
+       *** Dual Control Logon ***       
+peter
+Denom            Pieces            Value
+$100                 75          7500.00
+$50                   3           150.00
+$20                   4            80.00
+
+Machine Total                    7730.00
+
+$10                   9            90.00
+$5                    1             5.00
+$1                    3             3.00
+
+Other Cash Deposited               98.00
+
+Deposit Total                    7828.00
+----------------------------------------
+
+========================================
+             Activity Report            
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+001/05/20 10:21 AM
+
+ID:                                 Josh
+========================================
+              User Activity             
+----------------------------------------
+Josh
+# of Deposits                          1
+# of Withdrawals                       0
+
+Denom            Pieces            Value
+$100                 75          7500.00
+$50                   3           150.00
+$20                   4            80.00
+
+$10                   9            90.00
+$5                    1             5.00
+$1                    3             3.00
+
+Other Cash Deposited               98.00
+Machine Total                    7730.00
+Deposit Total                    7828.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Net Total                       +7730.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                 75          7500.00
+$50                   3           150.00
+$20                   4            80.00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   9            90.00
+$5                    1             5.00
+$2                    0              .00
+$1                    3             3.00
+
+Other Coin                           .00
+
+Other Cash Deposited               13.00
+Machine Total                    7730.00
+Total Deposited                  7743.00
+# of Deposits                          1
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Coin                                 .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                 75         +7500.00
+$50                   3          +150.00
+$20                   4           +80.00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Net Total                       +7730.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                111         11100.00
+$50                 356         17800.00
+$20                 496          9920.00
+$10                  50           500.00
+$5                  125           625.00
+$2                    1             2.00
+$1                   40            40.00
+Coin                                 .00
+Starting Inventory              32257.00
+Net Adjustments                      .00
+Total Inventory                 39987.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                111         11100.00
+$50                 356         17800.00
+$20                 496          9920.00
+$10                  50           500.00
+$5                  125           625.00
+$1                   40            40.00
+Total Dispensable Notes         39985.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    1             2.00
+$1                    0              .00
+Total Op Cassette Notes             2.00
+
+Cass. 1 $1           40            40.00
+Cass. 2 $20         496          9920.00
+Cass. 3 $5          125           625.00
+Cass. 4 $100        111         11100.00
+Cass. 5 $10          50           500.00
+Cass. 6 $50         356         17800.00
+              $1 Notes Low              
+              $10 Notes Low             
+                CST-A Low               
+                CST-E Low               
+========================================
+
+
+
+
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+Denom            Pieces            Value
+$100                111         11100.00
+$50                 356         17800.00
+$20                 496          9920.00
+$10                  50           500.00
+$5                  125           625.00
+$2                    1             2.00
+$1                   40            40.00
+Coin                                 .00
+Starting Inventory              32257.00
+Net Adjustments                      .00
+Total Inventory                 39987.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                111         11100.00
+$50                 356         17800.00
+$20                 496          9920.00
+$10                  50           500.00
+$5                  125           625.00
+$1                   40            40.00
+Total Dispensable Notes         39985.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    1             2.00
+$1                    0              .00
+Total Op Cassette Notes             2.00
+
+Cass. 1 $1           40            40.00
+Cass. 2 $20         496          9920.00
+Cass. 3 $5          125           625.00
+Cass. 4 $100        111         11100.00
+Cass. 5 $10          50           500.00
+Cass. 6 $50         356         17800.00
+              $1 Notes Low              
+              $10 Notes Low             
+                CST-A Low               
+                CST-E Low               
+========================================
+
+
+
+
+
+
+
+
+========================================
+           User Totals Report           
+----------------------------------------
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+001/05/20 10:22 AM
+
+
+Josh
+# of Deposits                          1
+# of Withdrawals                       0
+Denom            Pieces            Value
+$100                 75          7500.00
+$50                   3           150.00
+$20                   4            80.00
+
+$10                   9            90.00
+$5                    1             5.00
+$1                    3             3.00
+
+Other Cash Deposited               98.00
+Machine Total                    7730.00
+Deposit Total                    7828.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Sell                             7730.00
+========================================
+
+
+
+
+
+
+
+
+(Vault Buy)                             
+Transaction #                          2
+001/05/20 10:22 AM
+Charo
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          3
+001/05/20 10:34 AM
+Josh
+       *** Dual Control Logon ***       
+peter
+Denom            Pieces            Value
+$100                  1           100.00
+$10                   9            90.00
+$5                    1             5.00
+$1                    3             3.00
+
+Other Cash Deposited              198.00
+
+Deposit Total                     198.00
+----------------------------------------
+
+========================================
+           User Totals Report           
+----------------------------------------
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+001/05/20 12:09 PM
+
+
+Charo
+# of Deposits                          0
+# of Withdrawals                       1
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Withdrawal Total                  100.00
+----------------------------------------
+Buy                               100.00
+========================================
+
+
+
+
+
+
+
+        TCR Error #1204 Occurred        
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         337.00
+Reversed Amount                   337.00
+
+(Online Deposit)                        
+Transaction #                          4
+001/05/20 12:16 PM
+Josh
+       *** Dual Control Logon ***       
+peter
+Denom            Pieces            Value
+$100                  2           200.00
+$10                   8            80.00
+$5                   10            50.00
+$1                    7             7.00
+
+Machine Total                     337.00
+Deposit Total                     337.00
+----------------------------------------
+       *** Op Cassette Emptied ***      
+
+(Reconciled OPs Cassette)               
+Transaction #                          5
+001/05/20 12:17 PM
+Josh
+       *** Dual Control Logon ***       
+patrick
+----------------------------------------
+         Overflow Notes Removed         
+----------------------------------------
+Denom            Pieces            Value
+$2                    1             2.00
+
+Overflow Notes Removed              2.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                    1            +2.00
+Differences                        +2.00
+----------------------------------------
+
+ *** Reject Box Was Emptied To Exit *** 
+
+(Reconciled Rejects)                    
+Transaction #                          6
+001/05/20 12:18 PM
+Josh
+       *** Dual Control Logon ***       
+peter
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+
+Reject Notes Removed              100.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+
+Reloaded Notes                    100.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                          7
+001/05/20 12:20 PM
+Josh
+       *** Dual Control Logon ***       
+peter
+Denom            Pieces            Value
+$100                  5           500.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+ *** Reject Box Was Emptied To Exit *** 
+
+(Reconciled Rejects)                    
+Transaction #                          8
+001/05/20 12:21 PM
+Josh
+       *** Dual Control Logon ***       
+peter
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+
+Reject Notes Removed              100.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+
+Removed (Mutilated) Notes         100.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+Logoff:                             Josh
+001/05/20 12:22 PM
+
+Logon:                              Josh
+001/05/20 12:23 PM
+
+(Online Deposit)                        
+Transaction #                          9
+001/05/20 12:23 PM
+Josh
+       *** Dual Control Logon ***       
+peter
+Denom            Pieces            Value
+$100                  1           100.00
+
+Machine Total                     100.00
+Deposit Total                     100.00
+----------------------------------------
+($100) Assumed Count:                107
+($100) Actual Count:                 107
+
+(Auto Audit Note Count)                 
+Transaction #                         10
+001/05/20 12:38 PM
+Josh
+       *** Dual Control Logon ***       
+patrick
+Denom            Pieces            Value
+$100                107         10700.00
+
+Audited Total                   10700.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         11
+001/05/20 12:41 PM
+Josh
+       *** Dual Control Logon ***       
+peter
+Denom            Pieces            Value
+$100                  5           500.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+ *** Reject Box Was Emptied To Exit *** 
+
+(Reconciled Rejects)                    
+Transaction #                         12
+001/05/20 12:41 PM
+Josh
+       *** Dual Control Logon ***       
+patrick
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+
+Reject Notes Removed              100.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$100                  1          +100.00
+Differences                      +100.00
+----------------------------------------
+
+Logoff:                             Josh
+001/05/20 12:42 PM
+
+Logon:                              Josh
+001/05/20 12:43 PM
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+Denom            Pieces            Value
+$100                101         10100.00
+$50                 356         17800.00
+$20                 496          9920.00
+$10                  58           580.00
+$5                  135           675.00
+$2                    0              .00
+$1                   47            47.00
+Coin                                 .00
+Starting Inventory              32257.00
+Net Adjustments                  -100.00
+Total Inventory                 39122.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                101         10100.00
+$50                 356         17800.00
+$20                 496          9920.00
+$10                  58           580.00
+$5                  135           675.00
+$1                   47            47.00
+Total Dispensable Notes         39122.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Notes              .00
+
+Cass. 1 $1           47            47.00
+Cass. 2 $20         496          9920.00
+Cass. 3 $5          135           675.00
+Cass. 4 $100        101         10100.00
+Cass. 5 $10          58           580.00
+Cass. 6 $50         356         17800.00
+              $1 Notes Low              
+                CST-A Low               
+                CST-E Low               
+========================================
+
+
+
+
+
+
+
+        TCR Error #1204 Occurred        
+
+             Deposit Failure            
+    *** Possible Partial Deposit ***    
+
+(Online Deposit)                        
+Transaction #                         13
+001/05/20 12:55 PM
+Josh
+       *** Dual Control Logon ***       
+patrick
+Denom            Pieces            Value
+$100                 10          1000.00
+
+Machine Total                    1000.00
+Deposit Total                    1000.00
+----------------------------------------
+       *** $1 Notes Collected ***       
+
+
+(Inventory Collected)                   
+Transaction #                         14
+001/05/20 01:56 PM
+Josh
+
+Denom            Pieces            Value
+$1                   47            47.00
+
+Total Inventory Collected          47.00
+----------------------------------------
+       *** $20 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         15
+001/05/20 01:58 PM
+Josh
+
+Denom            Pieces            Value
+$20                 496          9920.00
+
+Total Inventory Collected        9920.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         16
+001/05/20 02:04 PM
+Josh
+       *** Dual Control Logon ***       
+peter
+Denom            Pieces            Value
+$50                 356         17800.00
+$10                  58           580.00
+$5                  135           675.00
+
+Total Inventory Removed         19055.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         17
+001/05/20 02:06 PM
+Josh
+       *** Dual Control Logon ***       
+peter
+Denom            Pieces            Value
+$50                 355         17750.00
+$10                  58           580.00
+$5                  135           675.00
+
+Machine Total                   19005.00
+Total Inventory Added           19005.00
+----------------------------------------
+       *** $5 Notes Collected ***       
+
+
+(Inventory Collected)                   
+Transaction #                         18
+001/05/20 02:10 PM
+Josh
+
+Denom            Pieces            Value
+$5                  135           675.00
+
+Total Inventory Collected         675.00
+----------------------------------------

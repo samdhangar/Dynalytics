@@ -1,0 +1,267 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/27/20 10:34 AM
+       *** $10 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         40
+01/27/20 10:34 AM
+Josh
+
+Denom            Pieces            Value
+$10                  15           150.00
+
+Total Inventory Collected         150.00
+----------------------------------------
+
+           RBG-100 Link Error           
+
+           RBG-100 Link Error           
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+01/27/20 10:38 AM
+josh
+
+
+
+         *** Security Event! ***        
+            01/27/20 01:05 PM           
+   *** TCR Lower Safe Door Opened ***   
+
+         *** Security Event! ***        
+            01/27/20 01:06 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/27/20 01:06 PM           
+    *** TCR Collection Box Opened ***   
+
+         *** Security Event! ***        
+            01/27/20 01:06 PM           
+    *** TCR Collection Box Closed ***   
+
+         *** Security Event! ***        
+            01/27/20 01:07 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            01/27/20 01:07 PM           
+   *** TCR Lower Safe Door Closed ***   
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         41
+01/27/20 01:07 PM
+Josh
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$10                  15           150.00
+
+Collection Notes Removed          150.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$10                  15           150.00
+
+Reloaded Notes                    150.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+      *** $100 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         42
+01/27/20 01:16 PM
+Josh
+
+Denom            Pieces            Value
+$100                 10          1000.00
+
+Total Inventory Collected        1000.00
+----------------------------------------
+
+         *** Security Event! ***        
+            01/27/20 01:17 PM           
+   *** TCR Lower Safe Door Opened ***   
+
+         *** Security Event! ***        
+            01/27/20 01:17 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/27/20 01:17 PM           
+    *** TCR Collection Box Opened ***   
+
+         *** Security Event! ***        
+            01/27/20 01:18 PM           
+    *** TCR Collection Box Closed ***   
+
+         *** Security Event! ***        
+            01/27/20 01:18 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            01/27/20 01:18 PM           
+   *** TCR Lower Safe Door Closed ***   
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         43
+01/27/20 01:18 PM
+Josh
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$100                 10          1000.00
+
+Collection Notes Removed         1000.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$100                 10          1000.00
+
+Reloaded Notes                   1000.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+       *** $10 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         44
+01/27/20 01:19 PM
+Josh
+
+Denom            Pieces            Value
+$10                  15           150.00
+
+Total Inventory Collected         150.00
+----------------------------------------
+
+========================================
+          Excess Notes History          
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+01/27/20 01:29 PM
+ID:                                 josh
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+01/27/20 10:36 AM
+Josh
+
+Denom            Pieces            Value
+$1                   31            31.00
+
+Total Excess Notes                 31.00
+========================================
+
+
+
+
+
+
+
+
+
+
+(Processed Excess Notes)                
+Transaction #                         45
+01/27/20 01:29 PM
+Josh
+
+Denom            Pieces            Value
+$1                   31            31.00
+
+Excess Notes Processed             31.00
+----------------------------------------
+  *** Excess Notes History Cleared ***  
+
+(Inventory Removal)                     
+Transaction #                         46
+01/27/20 01:40 PM
+Josh
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Total Inventory Removed            10.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         47
+01/27/20 01:41 PM
+Josh
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Machine Total                      10.00
+Total Inventory Added              10.00
+----------------------------------------
+
+           RBG-100 Link Error           
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+01/27/20 01:44 PM
+josh
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/27/20 01:48 PM
+josh
+
+
+
+Logoff:                             josh
+01/27/20 04:26 PM

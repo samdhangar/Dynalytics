@@ -1,0 +1,507 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.163 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              City of AddOn             
+           Josh's Demo System           
+
+Station:                      AddOn Demo
+Branch:                      Dyna Branch
+Region:                      Core Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+   *** Entered Configuration Mode ***   
+01/18/20 09:34 AM
+ID:                               Level2
+
+Logon:                             Addon
+01/18/20 09:34 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.163 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              City of AddOn             
+           Josh's Demo System           
+
+Station:                      AddOn Demo
+Branch:                      Dyna Branch
+Region:                      Core Region
+
+
+Logon:                              josh
+01/18/20 09:39 AM
+
+(Inventory Load)                        
+Transaction #                          1
+01/18/20 09:42 AM
+josh
+
+Denom            Pieces            Value
+$100                  2           200.00
+$10                  78           780.00
+$5                   81           405.00
+
+Machine Total                    1385.00
+Total Inventory Added            1385.00
+----------------------------------------
+
+CST-C ($100) Assumed Count:            2
+CST-C ($100) Actual Count:             2
+CST-D ($10) Assumed Count:            78
+CST-D ($10) Actual Count:             78
+       TCR Error #5x0NK00 Occurred      
+    *** TCR Note Audit Incomplete ***   
+
+
+(Auto Audit Note Count)                 
+Transaction #                          2
+01/18/20 09:43 AM
+josh
+
+Denom            Pieces            Value
+$100                  2           200.00
+$10                  78           780.00
+
+Audited Total                     980.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                             josh
+01/18/20 09:47 AM
+
+Logon:                              josh
+01/18/20 09:47 AM
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                          3
+01/18/20 09:47 AM
+josh
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$5                   40           200.00
+
+Reject Notes Removed              200.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$5                   40           200.00
+
+Reloaded Notes                    200.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          4
+01/18/20 09:49 AM
+josh
+
+Denom            Pieces            Value
+$5                    7            35.00
+
+Machine Total                      35.00
+Deposit Total                      35.00
+----------------------------------------
+
+        *** CST-A ($1) Empty ***        
+       *** CST-A Not Audited! ***       
+        *** CST-B ($1) Empty ***        
+       *** CST-B Not Audited! ***       
+CST-C ($100) Assumed Count:            2
+CST-C ($100) Actual Count:             2
+CST-D ($10) Assumed Count:            78
+CST-D ($10) Actual Count:             78
+CST-E ($5) Assumed Count:             81
+CST-E ($5) Actual Count:              79
+        *** CST-F ($50) Empty ***       
+       *** CST-F Not Audited! ***       
+    *** TCR Note Audit Incomplete ***   
+
+
+(Auto Audit Note Count)                 
+Transaction #                          5
+01/18/20 09:50 AM
+josh
+
+Denom            Pieces            Value
+$100                  2           200.00
+$10                  78           780.00
+$5                   79           395.00
+
+Audited Total                    1375.00
+----------------------------------------
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                          6
+01/18/20 09:52 AM
+josh
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$5                    2            10.00
+
+Reject Notes Removed               10.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$5                    2            10.00
+
+Reloaded Notes                     10.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+       *** Cassette 4 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                          7
+01/18/20 09:54 AM
+josh
+
+Denom            Pieces            Value
+$10                  78           780.00
+
+Total Inventory Removed           780.00
+----------------------------------------
+     *** Cassette CST-C Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                          8
+01/18/20 09:56 AM
+josh
+
+Denom            Pieces            Value
+$100                  2           200.00
+
+Total Inventory Removed           200.00
+----------------------------------------
+
+(Replenished Cassettes)                 
+Transaction #                          9
+01/18/20 10:07 AM
+josh
+
+Denom            Pieces            Value
+
+Replenished Total                    .00
+----------------------------------------
+       *** $10 Notes Collected ***      
+       *** $5 Notes Collected ***       
+
+
+(Inventory Removal)                     
+Transaction #                         10
+01/18/20 10:08 AM
+josh
+
+Denom            Pieces            Value
+$10                  10           100.00
+$5                   10            50.00
+
+Total Inventory Removed           150.00
+----------------------------------------
+
+(Replenished Cassettes)                 
+Transaction #                         11
+01/18/20 10:09 AM
+josh
+
+Denom            Pieces            Value
+
+Replenished Total                    .00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         12
+01/18/20 10:10 AM
+josh
+
+Denom            Pieces            Value
+$100                  2           200.00
+
+Machine Total                     200.00
+Total Inventory Added             200.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         13
+01/18/20 10:11 AM
+josh
+
+Denom            Pieces            Value
+$10                  10           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/18/20 10:11 AM
+ID:                                 josh
+
+           *** Added User ***           
+01/18/20 10:12 AM
+ID:                                  Ray
+
+
+           *** Edited User ***          
+01/18/20 10:12 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+01/18/20 10:12 AM
+ID:                                 josh
+
+
+========================================
+             DynaCore Groups            
+
+Station:                      AddOn Demo
+Branch:                      Dyna Branch
+Region:                      Core Region
+01/18/20 10:12 AM
+
+Dual Control Options
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                12288.00
+
+Group 1
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Online Only
+     Online Withdrawals
+     Online Deposits
+     View Reports (Self Only)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master Users
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+IT Only
+     View Reports (All)
+     Clear Daily Activity Totals
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Firmware Updates
+     Default System
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Default System
+     Limit Overrides
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+========================================
+             DynaCore Users             
+
+Station:                      AddOn Demo
+Branch:                      Dyna Branch
+Region:                      Core Region
+01/18/20 10:12 AM
+
+josh
+     Master Users
+
+Ray
+     Group 1
+
+========================================
+
+
+(Vault Sell)                            
+Transaction #                         14
+01/18/20 10:12 AM
+Ray
+
+Denom            Pieces            Value
+$10                  10           100.00
+
+Machine Total                     100.00
+Deposit Total                     100.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/18/20 10:55 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/18/20 11:01 AM
+ID:                                 josh
+
+Logoff:                             josh
+01/18/20 11:39 AM
+
+Logon:                              josh
+01/18/20 01:22 PM
+     *** Cassette CST-C Emptied ***     
+     *** Cassette CST-D Emptied ***     
+     *** Cassette CST-E Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                         15
+01/18/20 01:22 PM
+josh
+
+Denom            Pieces            Value
+$100                  2           200.00
+$10                  78           780.00
+$5                   81           405.00
+
+Total Inventory Removed          1385.00
+----------------------------------------
+
+Logoff:                             josh
+01/18/20 01:23 PM

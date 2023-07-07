@@ -1,0 +1,1337 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.158 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.158 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.158 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/31/20 09:32 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.158 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+           RBG-100 Link Error           
+
+Logon:                             Charo
+01/31/20 09:41 AM
+
+           RBG-100 Link Error           
+
+           RBG-100 Link Error           
+             Deposit Failure            
+
+(Online Deposit)                        
+01/31/20 09:50 AM
+Charo
+
+
+
+      *** Client Disconnection ***      
+Logoff:                            Charo
+01/31/20 09:56 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.158 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+           RBG-100 Link Error           
+
+   *** Entered Configuration Mode ***   
+01/31/20 09:57 AM
+ID:                               Level2
+
+Logon:                             addon
+01/31/20 09:57 AM
+
+    *** Exited Configuration Mode ***   
+01/31/20 09:57 AM
+ID:                                addon
+
+
+========================================
+            Hardware Settings           
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 2
+Coin Dispenser             No Coin Usage
+Bill Discriminator       Toshiba IBS-200
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.158 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/31/20 10:00 AM
+
+(Inventory Removal)                     
+Transaction #                         40
+01/31/20 10:00 AM
+Josh
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Total Inventory Removed          1860.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         41
+01/31/20 10:01 AM
+Josh
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Machine Total                    1860.00
+Total Inventory Added            1860.00
+----------------------------------------
+    *** Cassette Cass. 1 Emptied ***    
+    *** Cassette Cass. 4U Emptied ***   
+
+(Inventory Removal)                     
+Transaction #                         42
+01/31/20 10:02 AM
+Josh
+
+Denom            Pieces            Value
+$1                  191           191.00
+
+Total Inventory Removed           191.00
+----------------------------------------
+
+========================================
+          Exposed Notes History         
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+01/31/20 10:03 AM
+ID:                                 josh
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+01/31/20 10:02 AM
+Josh
+
+Denom            Pieces            Value
+$20                 129          2580.00
+
+Total Exposed Notes              2580.00
+========================================
+
+
+
+
+
+
+
+
+
+(Reconciled Exposed Notes)              
+Transaction #                         43
+01/31/20 10:03 AM
+Josh
+
+Denom            Pieces            Value
+$20                 129          2580.00
+
+Exposed Notes Reconciled         2580.00
+----------------------------------------
+  *** Exposed Notes History Cleared *** 
+
+(Inventory Load)                        
+Transaction #                         44
+01/31/20 10:04 AM
+Josh
+
+Denom            Pieces            Value
+$20                 129          2580.00
+$1                  178           178.00
+
+Machine Total                    2758.00
+Total Inventory Added            2758.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/31/20 10:05 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/31/20 10:05 AM
+ID:                                 josh
+
+
+Logoff:                             josh
+01/31/20 10:05 AM
+
+Logon:                              josh
+01/31/20 10:14 AM
+
+   *** Entered Configuration Mode ***   
+01/31/20 10:15 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/31/20 10:16 AM
+ID:                                 josh
+
+
+========================================
+           Inventory Settings           
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                        100
+Mix 2 Below $                        400
+
+         Low   Mid   High   Weight  Odds
+$100       0     1      0      1     Yes
+$50        0     2      0      2      No
+$20        4     5      0      3     Yes
+$10        1    10      0      4     Yes
+$5         1     0      0      5     Yes
+$1         1     0      0      6     Yes
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+$100      50    900          5        25
+$50       50    900          5        25
+$20       50    900          5        25
+$10       50    900          5        25
+$5        50    900          5        25
+$1        50    900          5        25
+========================================
+
+
+(Online Mix Dispense)                   
+Transaction #                         45
+01/31/20 10:17 AM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/31/20 10:17 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/31/20 10:18 AM
+ID:                                 josh
+
+
+========================================
+           Inventory Settings           
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                        100
+Mix 2 Below $                        400
+
+         Low   Mid   High   Weight  Odds
+$100       0     1      0      1     Yes
+$50        0     2      0      2      No
+$20        4     5      0      3     Yes
+$10        1    10      0      4     Yes
+$5         1     0      0      5     Yes
+$1         1     0      0      6     Yes
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+$100      50    900          5        25
+$50       50    900          5        25
+$20       50    900          5        25
+$10       50    900          5        25
+$5        50    900          5        25
+$1        50    900          5        25
+========================================
+
+
+Logoff:                             josh
+01/31/20 10:18 AM
+
+Logon:                              josh
+01/31/20 10:18 AM
+
+(Online Mix Dispense)                   
+Transaction #                         46
+01/31/20 10:18 AM
+Josh
+
+Denom            Pieces            Value
+$20                   4            80.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    4             4.00
+
+Amount Tendered                    99.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         47
+01/31/20 10:18 AM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/31/20 10:18 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/31/20 10:19 AM
+ID:                                 josh
+
+
+========================================
+           Inventory Settings           
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                        100
+Mix 2 Below $                        400
+
+         Low   Mid   High   Weight  Odds
+$100       0     0      0      1     Yes
+$50        0     2      0      2      No
+$20        4     5      0      3     Yes
+$10        1    10      0      4     Yes
+$5         1     0      0      5     Yes
+$1         1     0      0      6     Yes
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+$100      50    900          5        25
+$50       50    900          5        25
+$20       50    900          5        25
+$10       50    900          5        25
+$5        50    900          5        25
+$1        50    900          5        25
+========================================
+
+
+(Online Mix Dispense)                   
+Transaction #                         48
+01/31/20 10:19 AM
+Josh
+
+Denom            Pieces            Value
+$50                   2           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         49
+01/31/20 10:20 AM
+Josh
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Amount Tendered                  1860.00
+----------------------------------------
+
+========================================
+          Excess Notes History          
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+01/31/20 10:22 AM
+ID:                                 josh
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         35
+10/30/19 04:46 PM
+Charo
+
+Denom            Pieces            Value
+$5                    1             5.00
+$1                    3             3.00
+
+Total Excess Notes                  8.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         49
+01/31/20 10:20 AM
+Josh
+
+Denom            Pieces            Value
+$100                  2           200.00
+
+Total Excess Notes                200.00
+========================================
+
+
+
+
+
+
+
+
+
+(Processed Excess Notes)                
+Transaction #                         50
+01/31/20 10:22 AM
+Josh
+
+Denom            Pieces            Value
+$100                  2           200.00
+$5                    1             5.00
+$1                    3             3.00
+
+Excess Notes Processed            208.00
+----------------------------------------
+  *** Excess Notes History Cleared ***  
+
+(Inventory Load)                        
+Transaction #                         51
+01/31/20 10:24 AM
+Josh
+
+Denom            Pieces            Value
+$100                 12          1200.00
+$50                  12           600.00
+$20                  14           280.00
+$10                  11           110.00
+$5                   11            55.00
+$1                   14            14.00
+
+Machine Total                    2259.00
+Total Inventory Added            2259.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         52
+01/31/20 10:27 AM
+Josh
+
+Denom            Pieces            Value
+$1                   50            50.00
+
+Total Inventory Removed            50.00
+----------------------------------------
+       *** $1 Notes Collected ***       
+       *** $5 Notes Collected ***       
+       *** $10 Notes Collected ***      
+       *** $20 Notes Collected ***      
+      *** $100 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         53
+01/31/20 10:29 AM
+Josh
+
+Denom            Pieces            Value
+$100                  5           500.00
+$20                   5           100.00
+$10                   5            50.00
+$5                    5            25.00
+$1                    5             5.00
+
+Total Inventory Collected         680.00
+----------------------------------------
+    *** Cassette Cass. 1 Emptied ***    
+    *** Cassette Cass. 5 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         54
+01/31/20 10:30 AM
+Josh
+
+Denom            Pieces            Value
+$1                  123           123.00
+
+Total Inventory Removed           123.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         55
+01/31/20 10:35 AM
+Josh
+
+Denom            Pieces            Value
+$100                126         12600.00
+$1                  173           173.00
+
+Machine Total                   12773.00
+Total Inventory Added           12773.00
+----------------------------------------
+    *** Cassette Cass. 5 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         56
+01/31/20 10:36 AM
+Josh
+
+Denom            Pieces            Value
+$100                125         12500.00
+
+Total Inventory Removed         12500.00
+----------------------------------------
+    *** Cassette Cass. 1 Emptied ***    
+    *** Cassette Cass. 2 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         57
+01/31/20 10:37 AM
+Josh
+
+Denom            Pieces            Value
+$1                  173           173.00
+
+Total Inventory Removed           173.00
+----------------------------------------
+    *** Cassette Cass. 3 Emptied ***    
+    *** Cassette Cass. 4U Emptied ***   
+    *** Cassette Cass. 4L Emptied ***   
+
+(Inventory Removal)                     
+Transaction #                         58
+01/31/20 10:39 AM
+Josh
+
+Denom            Pieces            Value
+$10                 259          2590.00
+
+Total Inventory Removed          2590.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         59
+01/31/20 10:43 AM
+Josh
+
+Denom            Pieces            Value
+$100                125         12500.00
+$50                 192          9600.00
+$20                 124          2480.00
+$10                 259          2590.00
+$5                  154           770.00
+$1                  173           173.00
+
+Machine Total                   28113.00
+Total Inventory Added           28113.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/31/20 10:44 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/31/20 10:45 AM
+ID:                                 josh
+
+
+Logoff:                             josh
+01/31/20 10:45 AM
+
+Logon:                             charo
+01/31/20 11:20 AM
+
+
+========================================
+          Exposed Notes History         
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+01/31/20 11:20 AM
+ID:                                charo
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+01/31/20 10:30 AM
+Josh
+
+Denom            Pieces            Value
+$100                129         12900.00
+
+Total Exposed Notes             12900.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+01/31/20 10:37 AM
+Josh
+
+Denom            Pieces            Value
+$5                  159           795.00
+
+Total Exposed Notes               795.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+01/31/20 10:39 AM
+Josh
+
+Denom            Pieces            Value
+$50                 202         10100.00
+$20                 124          2480.00
+
+Total Exposed Notes             12580.00
+========================================
+
+
+
+
+
+
+
+
+
+(Reconciled Exposed Notes)              
+Transaction #                         60
+01/31/20 11:20 AM
+Charo
+
+Denom            Pieces            Value
+$100                129         12900.00
+$50                 202         10100.00
+$20                 124          2480.00
+$5                  159           795.00
+
+Exposed Notes Reconciled        26275.00
+----------------------------------------
+  *** Exposed Notes History Cleared *** 
+
+
+Logoff:                            charo
+01/31/20 11:21 AM
+
+
+Logon:                             Charo
+01/31/20 11:22 AM
+
+
+Console Disconnected During Transaction!
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/31/20 11:22 AM
+Charo
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                            Charo
+01/31/20 11:22 AM
+
+
+Logon:                             Charo
+01/31/20 11:23 AM
+
+
+Console Disconnected During Transaction!
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/31/20 11:23 AM
+Charo
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                            Charo
+01/31/20 11:23 AM
+
+
+Logon:                             Charo
+01/31/20 11:24 AM
+
+
+(Online Deposit)                        
+Transaction #                         61
+01/31/20 11:23 AM
+Charo
+
+Denom            Pieces            Value
+$1                  148           148.00
+
+Other Cash Deposited              148.00
+
+Deposit Total                     148.00
+----------------------------------------
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                            Charo
+01/31/20 11:25 AM
+
+
+Logon:                             charo
+01/31/20 11:26 AM
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/31/20 11:26 AM
+charo
+
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                            charo
+01/31/20 11:28 AM
+
+
+Logon:                             charo
+01/31/20 11:29 AM
+
+
+Console Disconnected During Transaction!
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/31/20 11:30 AM
+charo
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                            charo
+01/31/20 11:30 AM
+
+
+Logon:                             Charo
+01/31/20 11:31 AM
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/31/20 11:31 AM
+Charo
+
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                            Charo
+01/31/20 11:32 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.158 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                             Charo
+01/31/20 11:37 AM
+
+(Online Deposit)                        
+Transaction #                         62
+01/31/20 11:37 AM
+Charo
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                            Charo
+01/31/20 11:39 AM
+
+Logon:                             Charo
+01/31/20 11:40 AM
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         300.00
+Reversed Amount                   300.00
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         300.00
+Reversed Amount                   300.00
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         300.00
+Reversed Amount                   300.00
+
+(Online Deposit)                        
+Transaction #                         63
+01/31/20 11:42 AM
+Charo
+
+Denom            Pieces            Value
+$100                  3           300.00
+
+Machine Total                     300.00
+Deposit Total                     300.00
+----------------------------------------
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                            Charo
+01/31/20 11:42 AM
+
+Logon:                             Charo
+01/31/20 11:43 AM
+
+Logon:                               Ray
+01/31/20 12:55 PM
+*** Forced Logoff of Non-Admin Users ***
+
+
+   *** Entered Configuration Mode ***   
+01/31/20 12:56 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/31/20 12:56 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+01/31/20 12:56 PM
+
+Logon:                               Ray
+01/31/20 01:45 PM
+
+Logon:                             Charo
+01/31/20 01:49 PM
+
+Logon:                              Josh
+01/31/20 01:55 PM
+
+(Online Deposit)                        
+Transaction #                         64
+01/31/20 01:55 PM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   2           100.00
+$20                   5           100.00
+$10                  10           100.00
+$5                   20           100.00
+$2                   50           100.00
+$1                  248           248.00
+
+Other Coin                        100.00
+Other Cash Deposited              948.00
+
+Deposit Total                     948.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         65
+01/31/20 01:56 PM
+Charo
+
+Denom            Pieces            Value
+$100                  4           400.00
+$20                  10           200.00
+$10                   3            30.00
+$5                    4            20.00
+$1                    6             6.00
+
+Machine Total                     656.00
+
+$100                  3           300.00
+$1                  148           148.00
+
+Other Coin                           .33
+Other Cash Deposited              448.33
+
+Deposit Total                    1104.33
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         66
+01/31/20 02:00 PM
+Ray
+
+Denom            Pieces            Value
+$100                 50          5000.00
+
+Amount Tendered                  5000.00
+----------------------------------------
+    *** Cassette Cass. 1 Emptied ***    
+    *** Cassette Cass. 2 Emptied ***    
+    *** Cassette Cass. 5 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         67
+01/31/20 02:01 PM
+Charo
+
+Denom            Pieces            Value
+$1                  179           179.00
+
+Total Inventory Removed           179.00
+----------------------------------------
+
+Logoff:                            Charo
+01/31/20 02:49 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.160 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+
+Logon:                              josh
+01/31/20 03:46 PM
+    *** Cassette Cass. 4U Emptied ***   
+    *** Cassette Cass. 4L Emptied ***   
+
+
+(Inventory Removal)                     
+Transaction #                          1
+01/31/20 03:46 PM
+Josh
+
+Denom            Pieces            Value
+$50                 192          9600.00
+$20                 135          2700.00
+
+Total Inventory Removed         12300.00
+----------------------------------------
+
+(Reconciled Exposed Notes)              
+Transaction #                          2
+01/31/20 03:48 PM
+Josh
+
+Denom            Pieces            Value
+$100                 82          8200.00
+$5                  158           790.00
+
+Exposed Notes Reconciled         8990.00
+----------------------------------------
+  *** Exposed Notes History Cleared *** 
+
+
+(Inventory Load)                        
+Transaction #                          3
+01/31/20 03:49 PM
+Josh
+
+Denom            Pieces            Value
+$50                 192          9600.00
+$20                 135          2700.00
+
+Machine Total                   12300.00
+Total Inventory Added           12300.00
+----------------------------------------
+
+         *** Security Event! ***        
+            01/31/20 03:52 PM           
+   *** TCR Lower Safe Door Opened ***   
+
+         *** Security Event! ***        
+            01/31/20 03:52 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/31/20 03:52 PM           
+    *** TCR Collection Box Opened ***   
+
+         *** Security Event! ***        
+            01/31/20 03:52 PM           
+    *** TCR Collection Box Closed ***   
+
+         *** Security Event! ***        
+            01/31/20 03:52 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            01/31/20 03:52 PM           
+   *** TCR Lower Safe Door Closed ***   
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+
+(Reconciled Collection Box)             
+Transaction #                          4
+01/31/20 03:53 PM
+Josh
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$100                  6           600.00
+$20                   5           100.00
+$10                   5            50.00
+$5                    5            25.00
+$1                    5             5.00
+
+Collection Notes Removed          780.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$100                  6           600.00
+$20                   5           100.00
+$10                   5            50.00
+$5                    5            25.00
+$1                    5             5.00
+
+Reloaded Notes                    780.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          5
+01/31/20 03:54 PM
+Josh
+
+Denom            Pieces            Value
+$1                  179           179.00
+
+Machine Total                     179.00
+Total Inventory Added             179.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/31/20 03:56 PM
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+01/31/20 03:56 PM
+ID:                                 josh
+
+
+(Inventory Load)                        
+Transaction #                          6
+01/31/20 03:57 PM
+Josh
+
+Denom            Pieces            Value
+$100                132         13200.00
+$5                  158           790.00
+
+Machine Total                   13990.00
+Total Inventory Added           13990.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                          7
+01/31/20 03:58 PM
+Josh
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Amount Tendered                  1860.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          8
+01/31/20 03:59 PM
+Josh
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Machine Total                    1860.00
+Deposit Total                    1860.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                          9
+01/31/20 03:59 PM
+Josh
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Amount Tendered                  1860.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         10
+01/31/20 04:02 PM
+Josh
+
+Denom            Pieces            Value
+$20                   4            80.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    5             5.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         11
+01/31/20 04:03 PM
+Josh
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  14           280.00
+$10                  11           110.00
+$5                   11            55.00
+$1                   15            15.00
+
+Machine Total                    1960.00
+Deposit Total                    1960.00
+----------------------------------------
+
+         *** Security Event! ***        
+            01/31/20 04:04 PM           
+   *** TCR Lower Safe Door Opened ***   
+
+         *** Security Event! ***        
+            01/31/20 04:04 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/31/20 04:04 PM           
+    *** TCR Collection Box Opened ***   
+
+         *** Security Event! ***        
+            01/31/20 04:04 PM           
+    *** TCR Collection Box Closed ***   
+
+         *** Security Event! ***        
+            01/31/20 04:05 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            01/31/20 04:05 PM           
+   *** TCR Lower Safe Door Closed ***   
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         12
+01/31/20 04:05 PM
+Josh
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+
+Collection Notes Removed          100.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$10                   3            30.00
+
+Reloaded Notes                    130.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$10                   3           +30.00
+
+Differences                       +30.00
+----------------------------------------
+    *** Cassette Cass. 3 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         13
+01/31/20 04:06 PM
+Josh
+
+Denom            Pieces            Value
+$10                 272          2720.00
+
+Total Inventory Removed          2720.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         14
+01/31/20 04:11 PM
+Josh
+
+Denom            Pieces            Value
+$10                 246          2460.00
+
+Machine Total                    2460.00
+Total Inventory Added            2460.00
+----------------------------------------
+
+Logoff:                             josh
+01/31/20 04:11 PM

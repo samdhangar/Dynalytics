@@ -1,0 +1,108 @@
+[13-Feb-2016 13:30:29 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 13:31:25 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 13:33:29 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 13:36:03 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 05:36:05 America/Los_Angeles] PHP Notice:  Use of undefined constant _DIR__ - assumed '_DIR__' in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 73
+[13-Feb-2016 13:36:29 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 05:36:29 America/Los_Angeles] PHP Notice:  Use of undefined constant _DIR__ - assumed '_DIR__' in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 73
+[13-Feb-2016 05:36:29 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:81) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 05:36:29 America/Los_Angeles] PHP Notice:  Use of undefined constant _DIR__ - assumed '_DIR__' in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 73
+[13-Feb-2016 05:36:29 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:81) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 05:36:29 America/Los_Angeles] PHP Notice:  Use of undefined constant _DIR__ - assumed '_DIR__' in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 73
+[13-Feb-2016 05:36:29 America/Los_Angeles] PHP Warning:  dir(./text_parsing/storage/m1dgv/): failed to open dir: No such file or directory in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 82
+[13-Feb-2016 05:36:29 America/Los_Angeles] PHP Notice:  Use of undefined constant _DIR__ - assumed '_DIR__' in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 73
+[13-Feb-2016 05:36:29 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:81) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 05:36:29 America/Los_Angeles] PHP Notice:  Use of undefined constant _DIR__ - assumed '_DIR__' in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 73
+[13-Feb-2016 05:36:29 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:81) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 13:37:00 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 05:37:00 America/Los_Angeles] PHP Notice:  Use of undefined constant _DIR__ - assumed '_DIR__' in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 73
+[13-Feb-2016 05:37:00 America/Los_Angeles] PHP Notice:  Use of undefined constant _DIR__ - assumed '_DIR__' in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 74
+[13-Feb-2016 13:37:35 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 13:38:38 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 13:39:34 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 05:39:34 America/Los_Angeles] PHP Warning:  dir(/home/secureme/subdomain/demo/dynaliticsstorage): failed to open dir: No such file or directory in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 83
+[13-Feb-2016 05:39:34 America/Los_Angeles] PHP Warning:  dir(/home/secureme/subdomain/demo/dynaliticsstorage): failed to open dir: No such file or directory in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 83
+[13-Feb-2016 13:42:08 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 05:42:08 America/Los_Angeles] PHP Warning:  dir(/home/secureme/subdomain/demo/dynalitics/storage): failed to open dir: No such file or directory in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 82
+[13-Feb-2016 05:42:08 America/Los_Angeles] PHP Warning:  dir(/home/secureme/subdomain/demo/dynalitics/storage): failed to open dir: No such file or directory in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 82
+[13-Feb-2016 13:43:26 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 05:43:26 America/Los_Angeles] PHP Warning:  dir(/home/secureme/subdomain/demo/dynalitics/storage): failed to open dir: No such file or directory in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 81
+[13-Feb-2016 05:43:26 America/Los_Angeles] PHP Warning:  dir(/home/secureme/subdomain/demo/dynalitics/storage): failed to open dir: No such file or directory in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 81
+[13-Feb-2016 05:50:33 America/Los_Angeles] PHP Warning:  dir(/home/secureme/subdomain/demo/dynalitics/storage): failed to open dir: No such file or directory in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 81
+[13-Feb-2016 05:50:33 America/Los_Angeles] PHP Warning:  dir(/home/secureme/subdomain/demo/dynalitics/storage): failed to open dir: No such file or directory in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 81
+[13-Feb-2016 14:02:05 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[13-Feb-2016 06:02:05 America/Los_Angeles] PHP Warning:  dir(/home/secureme/subdomain/demo/dynalitics/storage): failed to open dir: No such file or directory in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 81
+[13-Feb-2016 06:02:05 America/Los_Angeles] PHP Warning:  dir(/home/secureme/subdomain/demo/dynalitics/storage): failed to open dir: No such file or directory in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 81
+[13-Feb-2016 06:02:05 America/Los_Angeles] PHP Warning:  dir(/home/secureme/subdomain/demo/dynalitics/storage): failed to open dir: No such file or directory in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 81
+[13-Feb-2016 06:02:05 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 06:08:37 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 06:08:37 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 06:08:37 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 06:08:37 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 06:08:37 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 06:08:37 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 06:08:37 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 06:08:37 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 06:08:37 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 06:08:37 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 06:08:37 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 06:08:37 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 06:08:37 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 06:08:37 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[13-Feb-2016 06:08:37 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[15-Feb-2016 08:07:23 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Feb-2016 00:07:26 America/Los_Angeles] PHP Warning:  dir(/home/secureme/subdomain/demo/dynalitics/storage): failed to open dir: No such file or directory in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 81
+[15-Feb-2016 00:07:26 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[15-Feb-2016 00:14:53 America/Los_Angeles] PHP Warning:  dir(/home/secureme/subdomain/demo/dynalitics/storage): failed to open dir: No such file or directory in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 81
+[15-Feb-2016 00:14:53 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[15-Feb-2016 08:17:51 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Feb-2016 00:17:51 America/Los_Angeles] PHP Warning:  dir(/home/secureme/subdomain/demo/dynalitics/storage): failed to open dir: No such file or directory in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 81
+[15-Feb-2016 00:17:51 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[15-Feb-2016 00:18:14 America/Los_Angeles] PHP Warning:  dir(/home/secureme/subdomain/demo/dynalitics/storage): failed to open dir: No such file or directory in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 81
+[15-Feb-2016 00:18:14 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php:177) in /home/secureme/subdomain/demo/dynalitics/text_parsing/worker.php on line 105
+[15-Feb-2016 15:53:45 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Feb-2016 15:54:04 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Feb-2016 07:54:04 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1044] Access denied for user 'secureme_dynalit'@'localhost' to database 'secureme_dynalitics_text'' in /home/secureme/subdomain/demo/dynalitics/text_parsing/models/DB.php:16
+Stack trace:
+#0 /home/secureme/subdomain/demo/dynalitics/text_parsing/models/DB.php(16): PDO->__construct('mysql:host=loca...', 'secureme_dynali...', 'Dynalitics@123')
+#1 /home/secureme/subdomain/demo/dynalitics/text_parsing/models/DbGrowth.php(13): DB::getInstance()
+#2 /home/secureme/subdomain/demo/dynalitics/text_parsing/db_growth_cron.php(35): DbGrowth->__construct()
+#3 /home/secureme/subdomain/demo/dynalitics/text_parsing/db_growth_cron.php(25): DbGrowthCron->process()
+#4 /home/secureme/subdomain/demo/dynalitics/text_parsing/db_growth_cron.php(47): DbGrowthCron->run()
+#5 /home/secureme/subdomain/demo/dynalitics/text_parsing/db_growth_cron.php(50): runApp()
+#6 {main}
+  thrown in /home/secureme/subdomain/demo/dynalitics/text_parsing/models/DB.php on line 16
+[15-Feb-2016 15:55:37 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Feb-2016 07:55:37 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1044] Access denied for user 'secureme_dynalit'@'localhost' to database 'secureme_dynalitics_text'' in /home/secureme/subdomain/demo/dynalitics/text_parsing/models/DB.php:16
+Stack trace:
+#0 /home/secureme/subdomain/demo/dynalitics/text_parsing/models/DB.php(16): PDO->__construct('mysql:host=loca...', 'secureme_dynali...', 'Dynalitics@123')
+#1 /home/secureme/subdomain/demo/dynalitics/text_parsing/models/DbGrowth.php(13): DB::getInstance()
+#2 /home/secureme/subdomain/demo/dynalitics/text_parsing/db_growth_cron.php(35): DbGrowth->__construct()
+#3 /home/secureme/subdomain/demo/dynalitics/text_parsing/db_growth_cron.php(25): DbGrowthCron->process()
+#4 /home/secureme/subdomain/demo/dynalitics/text_parsing/db_growth_cron.php(47): DbGrowthCron->run()
+#5 /home/secureme/subdomain/demo/dynalitics/text_parsing/db_growth_cron.php(50): runApp()
+#6 {main}
+  thrown in /home/secureme/subdomain/demo/dynalitics/text_parsing/models/DB.php on line 16
+[15-Feb-2016 15:55:39 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Feb-2016 07:55:39 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1044] Access denied for user 'secureme_dynalit'@'localhost' to database 'secureme_dynalitics_text'' in /home/secureme/subdomain/demo/dynalitics/text_parsing/models/DB.php:16
+Stack trace:
+#0 /home/secureme/subdomain/demo/dynalitics/text_parsing/models/DB.php(16): PDO->__construct('mysql:host=loca...', 'secureme_dynali...', 'Dynalitics@123')
+#1 /home/secureme/subdomain/demo/dynalitics/text_parsing/models/DbGrowth.php(13): DB::getInstance()
+#2 /home/secureme/subdomain/demo/dynalitics/text_parsing/db_growth_cron.php(35): DbGrowth->__construct()
+#3 /home/secureme/subdomain/demo/dynalitics/text_parsing/db_growth_cron.php(25): DbGrowthCron->process()
+#4 /home/secureme/subdomain/demo/dynalitics/text_parsing/db_growth_cron.php(47): DbGrowthCron->run()
+#5 /home/secureme/subdomain/demo/dynalitics/text_parsing/db_growth_cron.php(50): runApp()
+#6 {main}
+  thrown in /home/secureme/subdomain/demo/dynalitics/text_parsing/models/DB.php on line 16
+[15-Feb-2016 15:55:48 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0
+[15-Feb-2016 07:55:48 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1044] Access denied for user 'secureme_dynalit'@'localhost' to database 'secureme_dynalitics_text'' in /home/secureme/subdomain/demo/dynalitics/text_parsing/models/DB.php:16
+Stack trace:
+#0 /home/secureme/subdomain/demo/dynalitics/text_parsing/models/DB.php(16): PDO->__construct('mysql:host=loca...', 'secureme_dynali...', 'Dynalitics@123')
+#1 /home/secureme/subdomain/demo/dynalitics/text_parsing/models/DbGrowth.php(13): DB::getInstance()
+#2 /home/secureme/subdomain/demo/dynalitics/text_parsing/db_growth_cron.php(35): DbGrowth->__construct()
+#3 /home/secureme/subdomain/demo/dynalitics/text_parsing/db_growth_cron.php(25): DbGrowthCron->process()
+#4 /home/secureme/subdomain/demo/dynalitics/text_parsing/db_growth_cron.php(47): DbGrowthCron->run()
+#5 /home/secureme/subdomain/demo/dynalitics/text_parsing/db_growth_cron.php(50): runApp()
+#6 {main}
+  thrown in /home/secureme/subdomain/demo/dynalitics/text_parsing/models/DB.php on line 16
+[15-Feb-2016 15:56:26 Etc/GMT] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/intl.so' - libicui18n.so.42: cannot open shared object file: No such file or directory in Unknown on line 0

@@ -1,0 +1,720 @@
+            Side A Logged On            
+Date                            01/16/20
+Time                          8:12:00 AM
+Teller #                             278
+
+
+(Online Mix Dispense)                   
+Transaction #                          1
+Date                            01/16/20
+Time                          8:45:27 AM
+Teller #                             278
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   2           100.00
+$20                   5           100.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                          2
+Date                            01/16/20
+Time                          8:46:55 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$50                  20          1000.00
+$10                  10           100.00
+
+Amount Tendered                  1100.00
+----------------------------------------
+
+            Side A Logged Off           
+Teller #                             278
+Date                            01/16/20
+Time                          8:59:19 AM
+
+            Side B Logged On            
+Date                            01/16/20
+Time                          9:06:28 AM
+Teller #                             133
+
+
+(Online Nominated Dispense)             
+Transaction #                          3
+Date                            01/16/20
+Time                          9:06:45 AM
+Teller #                             133
+
+Denom            Pieces            Value
+$20                   2            40.00
+$10                   1            10.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+            Side B Logged Off           
+Teller #                             133
+Date                            01/16/20
+Time                          9:09:52 AM
+
+            Side A Logged On            
+Date                            01/16/20
+Time                          9:24:00 AM
+Teller #                             133
+
+
+(Online Nominated Dispense)             
+Transaction #                          4
+Date                            01/16/20
+Time                          9:24:19 AM
+Teller #                             133
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                          5
+Date                            01/16/20
+Time                          9:37:37 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                 50          5000.00
+
+Amount Tendered                  5000.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                          6
+Date                            01/16/20
+Time                          9:37:57 AM
+Teller #                             133
+
+Denom            Pieces            Value
+$100                  5           500.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                          7
+Date                            01/16/20
+Time                          9:48:19 AM
+Teller #                             133
+
+Denom            Pieces            Value
+$20                   2            40.00
+$10                   1            10.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                          8
+Date                            01/16/20
+Time                         10:26:24 AM
+Teller #                             133
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                          9
+Date                            01/16/20
+Time                         10:31:07 AM
+Teller #                             230
+
+Denom            Pieces            Value
+$100                 30          3000.00
+
+Amount Tendered                  3000.00
+----------------------------------------
+
+
+      This Transaction Went Offline     
+
+(Online Nominated Dispense)             
+Transaction #                         10
+Date                            01/16/20
+Time                         10:50:02 AM
+Teller #                             133
+
+Denom            Pieces            Value
+$20                   7           140.00
+$10                   1            10.00
+
+Amount Tendered                   150.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         11
+Date                            01/16/20
+Time                         10:52:23 AM
+Teller #                             133
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   2           100.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+
+      This Transaction Went Offline     
+
+(Online Mix Dispense)                   
+Transaction #                         12
+Date                            01/16/20
+Time                         10:55:41 AM
+Teller #                             133
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   2           100.00
+$20                  10           200.00
+
+Amount Tendered                   400.00
+----------------------------------------
+            Side B Logged On            
+Date                            01/16/20
+Time                         10:59:32 AM
+Teller #                             261
+
+
+(Online Mix Dispense)                   
+Transaction #                         13
+Date                            01/16/20
+Time                         11:06:48 AM
+Teller #                             133
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   2           100.00
+$20                   5           100.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         14
+Date                            01/16/20
+Time                         11:21:57 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                  5           500.00
+$50                  10           500.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         15
+Date                            01/16/20
+Time                         11:22:21 AM
+Teller #                             278
+
+Denom            Pieces            Value
+$100                 15          1500.00
+
+Amount Tendered                  1500.00
+----------------------------------------
+
+            Side A Logged Off           
+Teller #                             133
+Date                            01/16/20
+Time                         11:32:38 AM
+
+
+
+(Vault Buy)                             
+Transaction #                         16
+Date                            01/16/20
+Time                         11:40:55 AM
+Teller #                             278
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  20          1000.00
+
+Amount Tendered                  2000.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         17
+Date                            01/16/20
+Time                         11:42:15 AM
+Teller #                             230
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  20          1000.00
+
+Amount Tendered                  2000.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         18
+Date                            01/16/20
+Time                         11:56:20 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                 60          6000.00
+
+Amount Tendered                  6000.00
+----------------------------------------
+            Side A Logged On            
+Date                            01/16/20
+Time                         12:35:00 PM
+Teller #                             133
+
+
+(Online Mix Dispense)                   
+Transaction #                         19
+Date                            01/16/20
+Time                         12:35:12 PM
+Teller #                             133
+
+Denom            Pieces            Value
+$20                  10           200.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+
+      This Transaction Went Offline     
+
+(Online Nominated Dispense)             
+Transaction #                         20
+Date                            01/16/20
+Time                         12:52:59 PM
+Teller #                             133
+
+Denom            Pieces            Value
+$50                   6           300.00
+$20                   5           100.00
+
+Amount Tendered                   400.00
+----------------------------------------
+
+            Side B Logged Off           
+Teller #                             261
+Date                            01/16/20
+Time                          1:13:26 PM
+
+            Side B Logged On            
+Date                            01/16/20
+Time                          1:13:32 PM
+Teller #                             230
+
+            Side B Logged Off           
+Teller #                             230
+Date                            01/16/20
+Time                          1:13:44 PM
+
+            Side B Logged On            
+Date                            01/16/20
+Time                          1:13:51 PM
+Teller #                             261
+
+
+(Online Nominated Dispense)             
+Transaction #                         21
+Date                            01/16/20
+Time                          1:18:55 PM
+Teller #                             133
+
+Denom            Pieces            Value
+$20                   3            60.00
+
+Amount Tendered                    60.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         22
+Date                            01/16/20
+Time                          1:25:04 PM
+Teller #                             261
+
+Denom            Pieces            Value
+$50                   6           300.00
+$20                   3            60.00
+$10                   1            10.00
+$5                    1             5.00
+
+Amount Tendered                   375.00
+----------------------------------------
+
+            Side A Logged Off           
+Teller #                             133
+Date                            01/16/20
+Time                          1:58:25 PM
+
+            Side A Logged On            
+Date                            01/16/20
+Time                          1:58:00 PM
+Teller #                             278
+
+            Side A Logged Off           
+Teller #                             278
+Date                            01/16/20
+Time                          1:58:17 PM
+
+            Side A Logged On            
+Date                            01/16/20
+Time                          1:59:00 PM
+Teller #                             133
+
+
+(Vault Buy)                             
+Transaction #                         23
+Date                            01/16/20
+Time                          2:10:15 PM
+Teller #                             278
+
+Denom            Pieces            Value
+$20                  75          1500.00
+
+Amount Tendered                  1500.00
+----------------------------------------
+
+            Side B Logged Off           
+Teller #                             261
+Date                            01/16/20
+Time                          3:02:17 PM
+
+            Side B Logged On            
+Date                            01/16/20
+Time                          3:10:44 PM
+Teller #                             298
+
+            Side B Logged Off           
+Teller #                             298
+Date                            01/16/20
+Time                          3:11:06 PM
+
+
+
+      This Transaction Went Offline     
+
+(Online Mix Dispense)                   
+Transaction #                         24
+Date                            01/16/20
+Time                          3:23:26 PM
+Teller #                             133
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         25
+Date                            01/16/20
+Time                          3:25:18 PM
+Teller #                             133
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+
+      This Transaction Went Offline     
+
+(Online Mix Dispense)                   
+Transaction #                         26
+Date                            01/16/20
+Time                          3:25:35 PM
+Teller #                             133
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         27
+Date                            01/16/20
+Time                          3:28:02 PM
+Teller #                             133
+
+Denom            Pieces            Value
+$20                   5           100.00
+$10                   8            80.00
+$5                    4            20.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+
+      This Transaction Went Offline     
+
+(Online Nominated Dispense)             
+Transaction #                         28
+Date                            01/16/20
+Time                          3:31:36 PM
+Teller #                             133
+
+Denom            Pieces            Value
+$20                   4            80.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    5             5.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         29
+Date                            01/16/20
+Time                          3:32:50 PM
+Teller #                             133
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+
+      This Transaction Went Offline     
+
+(Online Nominated Dispense)             
+Transaction #                         30
+Date                            01/16/20
+Time                          3:59:58 PM
+Teller #                             133
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   2           100.00
+$20                   5           100.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         31
+Date                            01/16/20
+Time                          4:01:01 PM
+Teller #                             133
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Amount Tendered                    20.00
+----------------------------------------
+
+
+      This Transaction Went Offline     
+
+(Online Nominated Dispense)             
+Transaction #                         32
+Date                            01/16/20
+Time                          4:16:05 PM
+Teller #                             133
+
+Denom            Pieces            Value
+$20                  10           200.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         33
+Date                            01/16/20
+Time                          4:18:40 PM
+Teller #                             133
+
+Denom            Pieces            Value
+$20                   3            60.00
+$10                   4            40.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+            Side A Logged Off           
+Teller #                             133
+Date                            01/16/20
+Time                          4:30:34 PM
+
+            Side A Logged On            
+Date                            01/16/20
+Time                          4:30:00 PM
+Teller #                             278
+
+            Side A Logged Off           
+Teller #                             278
+Date                            01/16/20
+Time                          4:37:57 PM
+
+            Side A Logged On            
+Date                            01/16/20
+Time                          4:38:00 PM
+Teller #                             133
+            Side B Logged On            
+Date                            01/16/20
+Time                          4:50:55 PM
+Teller #                             298
+
+            Side B Logged Off           
+Teller #                             298
+Date                            01/16/20
+Time                          4:51:08 PM
+
+
+            Side A Logged Off           
+Teller #                             133
+Date                            01/16/20
+Time                          5:03:30 PM
+
+            Side A Logged On            
+Date                            01/16/20
+Time                          5:07:00 PM
+Teller #                             230
+
+            Side A Logged Off           
+Teller #                             230
+Date                            01/16/20
+Time                          5:07:13 PM
+
+****************************************
+            Manager Logged On           
+Manager #                            230
+Date                            01/16/20
+Time                          5:09:49 PM
+
+
+========================================
+             Activity Report            
+Station #                            303
+Date                            01/16/20
+Time                          5:09:51 PM
+Manager #                            230
+========================================
+             Teller Activity            
+----------------------------------------
+Teller #                             133
+# of Withdrawals                      22
+
+Withdrawals                      4630.00
+----------------------------------------
+Teller #                             230
+# of Withdrawals                       2
+
+Vault Buy Total                  5000.00
+Withdrawals                      5000.00
+----------------------------------------
+Teller #                             261
+# of Withdrawals                       1
+
+Withdrawals                       375.00
+----------------------------------------
+Teller #                             278
+# of Withdrawals                       4
+
+Vault Buy Total                  5000.00
+Withdrawals                      5500.00
+----------------------------------------
+Teller #                             298
+# of Withdrawals                       4
+
+Vault Buy Total                 13100.00
+Withdrawals                     13100.00
+========================================
+----------------------------------------
+               Vault Buys               
+----------------------------------------
+Denom            Pieces            Value
+$100                180         18000.00
+$50                  70          3500.00
+$20                  75          1500.00
+$10                  10           100.00
+$5                    0              .00
+$1                    0              .00
+Vault Buy Total                 23100.00
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                199         19900.00
+$50                  96          4800.00
+$20                 180          3600.00
+$10                  27           270.00
+$5                    6            30.00
+$1                    5             5.00
+Total Dispensed                 28605.00
+# of Withdrawals                      33
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                103         10300.00
+$50                1614         80700.00
+$20                1321         26420.00
+$10                1101         11010.00
+$5                 1524          7620.00
+$1                  534           534.00
+Starting Inventory             165189.00
+Net Adjustments                      .00
+Total Inventory                136584.00
+
+Cassette 1          534           534.00
+Cassette 2         1524          7620.00
+Cassette 3         1101         11010.00
+Cassette 4         1321         26420.00
+Cassette 5         1614         80700.00
+Cassette 6          103         10300.00
+
+========================================
+
+
+       Teller Grand Totals Cleared      
+            Activity Cleared            
+
+
+
+
+
+
+
+
+
+           Manager Logged Off           
+Manager #                            230
+Date                            01/16/20
+Time                          5:09:58 PM
+****************************************

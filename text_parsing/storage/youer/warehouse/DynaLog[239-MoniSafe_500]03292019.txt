@@ -1,0 +1,706 @@
+
+Logon:                               Ray
+001/29/20 08:43 AM
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/29/20 08:43 AM
+Ray
+
+
+
+
+Logoff:                              Ray
+001/29/20 08:43 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.086 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.086 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.086 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/29/20 09:39 AM
+
+   *** Entered Configuration Mode ***   
+001/29/20 09:39 AM
+ID:                                  Ray
+
+========================================
+             Activity Report            
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+001/29/20 09:39 AM
+ID:                                  Ray
+========================================
+              User Activity             
+----------------------------------------
+Adam
+# of Deposits                          2
+# of Withdrawals                       2
+
+Denom            Pieces            Value
+$1                    8             8.00
+
+Deposit Total                       8.00
+
+Denom            Pieces            Value
+$1                    8             8.00
+
+Withdrawal Total                    8.00
+----------------------------------------
+Net Total                     In Balance
+----------------------------------------
+Charo
+# of Deposits                          4
+# of Withdrawals                       4
+
+Denom            Pieces            Value
+$10                   1            10.00
+$5                    1             5.00
+$1                   91            91.00
+
+Deposit Total                     106.00
+
+Denom            Pieces            Value
+$10                   1            10.00
+$5                    1             5.00
+$1                   90            90.00
+
+Withdrawal Total                  105.00
+----------------------------------------
+Net Total                          +1.00
+----------------------------------------
+Ray
+# of Deposits                          3
+# of Withdrawals                       3
+
+Denom            Pieces            Value
+$5                    1             5.00
+$1                    8             8.00
+
+Deposit Total                      13.00
+
+Denom            Pieces            Value
+$5                    1             5.00
+$1                    8             8.00
+
+Withdrawal Total                   13.00
+----------------------------------------
+Net Total                     In Balance
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   1            10.00
+$5                    2            10.00
+$2                    0              .00
+$1                  107           107.00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                     127.00
+Total Deposited                   127.00
+# of Deposits                          9
+========================================
+----------------------------------------
+          Grand Total Dispensed
+         -------------------------------
+---------Denom            Pieces        
+    Value$100                  0        
+      .00$50                   0        
+      .00$20                   0        
+      .00$10                   1        
+    10.00$5                    2        
+    10.00$1                  106        
+   106.00Coin                           
+      .00
+Total Dispensed                   126.00
+# of Withdrawals                       9
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    1            +1.00
+Coin                                 .00
+Net Total                          +1.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$2                    0              .00
+$1                  564           564.00
+Coin                                 .00
+Starting Inventory                728.00
+Net Adjustments                    20.00
+Total Inventory                   749.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  0              .00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                  564           564.00
+Total Dispensable Notes           649.00
+
+----------------------------------------
+          Reject Cassette Notes         
+----------------------------------------
+$100                  1           100.00
+Total Reject Notes                100.00
+
+Cass. 1 $1          564           564.00
+Cass. 2 $20           1            20.00
+Cass. 3 $100          0              .00
+Cass. 4 $5            1             5.00
+Cass. 5 $10           1            10.00
+Cass. 6 $50           1            50.00
+========================================
+
+      *** System Memory Cleared ***     
+001/29/20 09:39 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/29/20 09:39 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/29/20 09:39 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.086 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/29/20 10:01 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/29/20 10:09 AM
+Ray
+
+
+
+Logoff:                              Ray
+001/29/20 10:32 AM
+
+(Vault Buy)                             
+Transaction #                          1
+001/29/20 10:34 AM
+Ray
+
+Denom            Pieces            Value
+$1                   25            25.00
+
+Amount Tendered                    25.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          2
+001/29/20 10:34 AM
+Ray
+
+Denom            Pieces            Value
+$1                   25            25.00
+
+Machine Total                      25.00
+Deposit Total                      25.00
+----------------------------------------
+
+Logon:                               Ray
+001/29/20 10:36 AM
+
+   *** Entered Configuration Mode ***   
+001/29/20 10:44 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 10:44 AM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/29/20 10:46 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 10:47 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/29/20 10:47 AM
+
+Logon:                               Ray
+001/29/20 10:48 AM
+
+   *** Entered Configuration Mode ***   
+001/29/20 10:48 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 10:48 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/29/20 10:48 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.086 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/29/20 01:48 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.086 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/29/20 01:55 PM
+
+Logoff:                              Ray
+001/29/20 01:56 PM
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/29/20 01:56 PM
+Ray
+
+
+
+(Vault Buy)                             
+Transaction #                          3
+001/29/20 01:56 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          4
+001/29/20 01:57 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Deposit Total                       1.00
+----------------------------------------
+
+Logon:                              josh
+001/29/20 01:58 PM
+
+Logoff:                             josh
+001/29/20 01:58 PM
+
+Logon:                               Ray
+001/29/20 02:00 PM
+
+Logoff:                              Ray
+001/29/20 02:00 PM
+
+Logon:                               Ray
+001/29/20 03:29 PM
+
+   *** Entered Configuration Mode ***   
+001/29/20 03:29 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 03:30 PM
+ID:                                  Ray
+
+
+========================================
+           Inventory Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Denom Weighting:   20, 10, 5, 1, 50, 100
+Dispense Odd $50 Note Quantities      No
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+         AutoMix     Warnings   Bundling
+       Lo  Mid  Hi    Hi  Lo    Tlr  Mgr
+$100    0    0   0   900  50     25  100
+$50     0    0   0   900  50     25  100
+$20     5    5   5   900  50    100  100
+$10     3    3   3   900  50    100  100
+$5      5    5   5   900  50    100  100
+$1      5    5   5   900  50     10   10
+========================================
+
+(Vault Buy)                             
+Transaction #                          5
+001/29/20 03:32 PM
+Adam
+
+Denom            Pieces            Value
+$1                   30            30.00
+
+Amount Tendered                    30.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          6
+001/29/20 03:33 PM
+Adam
+
+Denom            Pieces            Value
+$1                   30            30.00
+
+Machine Total                      30.00
+Deposit Total                      30.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/29/20 03:33 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 03:34 PM
+ID:                                  Ray
+
+
+========================================
+           Inventory Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Denom Weighting:   20, 10, 5, 1, 50, 100
+Dispense Odd $50 Note Quantities      No
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+         AutoMix     Warnings   Bundling
+       Lo  Mid  Hi    Hi  Lo    Tlr  Mgr
+$100    0    0   0   900  50     25  100
+$50     0    0   0   900  50     25  100
+$20     5    5   5   900  50    100  100
+$10     3    3   3   900  50    100  100
+$5      5    5   5   900  50    100  100
+$1      5    5   5   900  50      5   10
+========================================
+
+   *** Entered Configuration Mode ***   
+001/29/20 03:34 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 03:35 PM
+ID:                                  Ray
+
+(Online Nominated Dispense)             
+Transaction #                          7
+001/29/20 03:36 PM
+Ray
+
+Denom            Pieces            Value
+$1                   20            20.00
+
+Amount Tendered                    20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          8
+001/29/20 03:37 PM
+Ray
+
+Denom            Pieces            Value
+$1                   20            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+Logoff:                              Ray
+001/29/20 03:46 PM
+
+Logon:                               Ray
+001/29/20 04:23 PM
+
+(Vault Buy)                             
+Transaction #                          9
+001/29/20 04:23 PM
+Chad
+
+Denom            Pieces            Value
+$1                   25            25.00
+
+Amount Tendered                    25.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         10
+001/29/20 04:24 PM
+Chad
+
+Denom            Pieces            Value
+$1                   25            25.00
+
+Amount Tendered                    25.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                         11
+001/29/20 04:25 PM
+Chad
+
+Denom            Pieces            Value
+$1                   50            50.00
+
+Machine Total                      50.00
+Deposit Total                      50.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         12
+001/29/20 04:26 PM
+Ray
+
+Denom            Pieces            Value
+$1                   25            25.00
+
+Amount Tendered                    25.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         13
+001/29/20 04:26 PM
+Ray
+
+Denom            Pieces            Value
+$1                   25            25.00
+
+Machine Total                      25.00
+
+$1                   25            25.00
+
+Other Cash Deposited               25.00
+
+Deposit Total                      50.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         14
+001/29/20 04:31 PM
+Ray
+
+Denom            Pieces            Value
+$1                  564           564.00
+
+Total Inventory Removed           564.00
+----------------------------------------
+
+Logoff:                              Ray
+001/29/20 04:32 PM
+
+(Vault Sell)                            
+Transaction #                         15
+001/29/20 04:35 PM
+Chad
+
+Denom            Pieces            Value
+$1                  564           564.00
+
+Machine Total                     564.00
+Deposit Total                     564.00
+----------------------------------------
+
+Logon:                               Ray
+001/29/20 04:36 PM
+
+($1) Assumed Count:                  564
+($1) Actual Count:                   564
+
+(Auto Audit Note Count)                 
+Transaction #                         16
+001/29/20 04:38 PM
+Ray
+
+Denom            Pieces            Value
+$1                  564           564.00
+
+Audited Total                     564.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.086 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/29/20 04:40 PM
+       *** Cassette 2 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         17
+001/29/20 04:41 PM
+Ray
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Total Inventory Removed            20.00
+----------------------------------------
+       *** Cassette 4 Emptied ***       
+       *** Cassette 5 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         18
+001/29/20 04:41 PM
+Ray
+
+Denom            Pieces            Value
+$10                   1            10.00
+$5                    1             5.00
+
+Total Inventory Removed            15.00
+----------------------------------------
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/29/20 04:43 PM
+Ray
+
+
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/29/20 04:43 PM
+Ray
+
+
+
+(Inventory Load)                        
+Transaction #                         19
+001/29/20 04:44 PM
+Ray
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+
+Machine Total                      35.00
+Total Inventory Added              35.00
+----------------------------------------
+
+Logoff:                              Ray
+001/29/20 04:47 PM

@@ -1,0 +1,1191 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+001/27/20 10:05 AM
+
+             TCR Link Error             
+             Deposit Failure            
+
+(Online Deposit)                        
+001/27/20 10:05 AM
+Ray
+
+
+
+Logoff:                              Ray
+001/27/20 10:06 AM
+
+Logon:                               Ray
+001/27/20 10:20 AM
+
+Logoff:                              Ray
+001/27/20 10:20 AM
+
+Logon:                               Ray
+001/27/20 10:26 AM
+
+Logoff:                              Ray
+001/27/20 10:26 AM
+
+Logon:                               Ray
+001/27/20 10:31 AM
+
+Logoff:                              Ray
+001/27/20 10:32 AM
+
+Logon:                               Ray
+001/27/20 10:39 AM
+
+
+   *** Entered Configuration Mode ***   
+001/27/20 10:39 AM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/27/20 10:40 AM
+
+   *** Entered Configuration Mode ***   
+001/27/20 10:40 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/27/20 10:40 AM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/27/20 10:40 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/27/20 10:40 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/27/20 10:40 AM
+
+Logon:                               Ray
+001/27/20 11:05 AM
+
+ *** Reject Box Was Emptied To Exit *** 
+
+(Reconciled Rejects)                    
+Transaction #                          1
+001/27/20 11:05 AM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$5                   25           125.00
+
+Removed (Mutilated) Notes         125.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$5                   25          -125.00
+Differences                      +125.00
+----------------------------------------
+
+Logoff:                              Ray
+001/27/20 11:06 AM
+
+Logon:                               Ray
+001/27/20 11:07 AM
+        TCR Error #1415 Occurred        
+        TCR Error #0000 Occurred        
+      *** Inventory Read Failed ***     
+     *** Dispense Needs Audited! ***    
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+001/27/20 11:08 AM
+Ray
+
+
+Amount Requested                  100.00
+Amount Tendered                      .00
+Balance Due                       100.00
+----------------------------------------
+
+        TCR Error #1419 Occurred        
+        TCR Error #0000 Occurred        
+      *** Inventory Read Failed ***     
+     *** Dispense Needs Audited! ***    
+        TCR Error #1419 Occurred        
+        TCR Error #0000 Occurred        
+      *** Inventory Read Failed ***     
+     *** Dispense Needs Audited! ***    
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+001/27/20 11:10 AM
+Ray
+
+
+Amount Requested                   60.00
+Amount Tendered                      .00
+Balance Due                        60.00
+----------------------------------------
+
+        TCR Error #1415 Occurred        
+        TCR Error #0000 Occurred        
+      *** Inventory Read Failed ***     
+     *** Dispense Needs Audited! ***    
+      *** Failed To Release TCR ***     
+        TCR Error #E102 Occurred        
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+001/27/20 11:12 AM
+Ray
+
+
+Amount Requested                  100.00
+Amount Tendered                      .00
+Balance Due                       100.00
+----------------------------------------
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/27/20 11:15 AM
+
+Logon:                               Ray
+001/27/20 11:19 AM
+
+ *** Reject Box Was Emptied To Exit *** 
+
+(Reconciled Rejects)                    
+Transaction #                          2
+001/27/20 11:20 AM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$50                  10           500.00
+$20                  30           600.00
+$10                  50           500.00
+
+Reloaded Notes                   1600.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+
+Removed (Mutilated) Notes          80.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$50                  11          -550.00
+$20                  31          -620.00
+$10                  51          -510.00
+Differences                     +1680.00
+----------------------------------------
+($20) Assumed Count:                 366
+($20) Actual Count:                  366
+($10) Assumed Count:                 379
+($10) Actual Count:                  379
+($50) Assumed Count:                 227
+($50) Actual Count:                  227
+
+(Auto Audit Note Count)                 
+Transaction #                          3
+001/27/20 11:23 AM
+Ray
+
+Denom            Pieces            Value
+$50                 227         11350.00
+$20                 366          7320.00
+$10                 379          3790.00
+
+Audited Total                   22460.00
+----------------------------------------
+
+Logoff:                              Ray
+001/27/20 11:29 AM
+
+Logon:                               Ray
+001/27/20 01:26 PM
+        TCR Error #1415 Occurred        
+        TCR Error #0000 Occurred        
+      *** Inventory Read Failed ***     
+     *** Dispense Needs Audited! ***    
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+001/27/20 01:37 PM
+Ray
+
+
+Amount Requested                  100.00
+Amount Tendered                      .00
+Balance Due                       100.00
+----------------------------------------
+
+
+(Reconciled Rejects)                    
+Transaction #                          4
+001/27/20 01:44 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$50                  10           500.00
+
+Reject Notes Removed              500.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$50                  10           500.00
+
+Reloaded Notes                    500.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$50                   1            50.00
+
+Removed (Mutilated) Notes          50.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$50                   1           -50.00
+Differences                       +50.00
+----------------------------------------
+
+Logoff:                              Ray
+001/27/20 01:48 PM
+
+Logon:                               Ray
+001/27/20 02:10 PM
+
+Logoff:                              Ray
+001/27/20 02:10 PM
+
+Logon:                               Ray
+001/27/20 02:11 PM
+
+(Online Nominated Dispense)             
+Transaction #                          5
+001/27/20 02:12 PM
+Ray
+
+Denom            Pieces            Value
+$50                   1            50.00
+
+Amount Tendered                    50.00
+----------------------------------------
+        TCR Error #1415 Occurred        
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+001/27/20 02:15 PM
+Ray
+
+
+Amount Requested                   50.00
+Amount Tendered                      .00
+Balance Due                        50.00
+----------------------------------------
+
+
+Logoff:                              Ray
+001/27/20 02:15 PM
+
+Logon:                               Ray
+001/27/20 02:17 PM
+
+(Reconciled Rejects)                    
+Transaction #                          6
+001/27/20 02:17 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$50                   5           250.00
+
+Reject Notes Removed              250.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$50                   5          +250.00
+Differences                      +250.00
+----------------------------------------
+
+Logoff:                              Ray
+001/27/20 02:18 PM
+
+Logon:                               Ray
+001/27/20 02:19 PM
+
+(Reconciled Rejects)                    
+Transaction #                          7
+001/27/20 02:20 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$50                   5           250.00
+
+Removed (Mutilated) Notes         250.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$50                   5          -250.00
+Differences                      +250.00
+----------------------------------------
+       *** Op Cassette Emptied ***      
+
+(Reconciled OPs Cassette)               
+Transaction #                          8
+001/27/20 02:22 PM
+Ray
+
+----------------------------------------
+         Overflow Notes Removed         
+----------------------------------------
+Denom            Pieces            Value
+
+Overflow Notes Removed               .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/27/20 02:26 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/27/20 02:38 PM
+
+(Online Deposit)                        
+Transaction #                          9
+001/27/20 02:40 PM
+Ray
+
+Denom            Pieces            Value
+$2                   33            66.00
+
+Machine Total                      66.00
+Deposit Total                      66.00
+----------------------------------------
+
+Logoff:                              Ray
+001/27/20 02:41 PM
+
+Logon:                               Ray
+001/27/20 02:51 PM
+
+Logoff:                              Ray
+001/27/20 02:51 PM
+
+Logon:                               Ray
+001/27/20 02:57 PM
+
+Logoff:                              Ray
+001/27/20 02:57 PM
+
+Logon:                               Ray
+001/27/20 03:04 PM
+       *** Op Cassette Emptied ***      
+
+(Reconciled OPs Cassette)               
+Transaction #                         10
+001/27/20 03:05 PM
+Ray
+
+----------------------------------------
+         Overflow Notes Removed         
+----------------------------------------
+Denom            Pieces            Value
+$2                   33            66.00
+
+Overflow Notes Removed             66.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$2                   31            62.00
+
+Reloaded Notes                     62.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                    2            +4.00
+Differences                        +4.00
+----------------------------------------
+
+Logoff:                              Ray
+001/27/20 03:05 PM
+
+Logon:                               Ray
+001/27/20 03:07 PM
+
+
+   *** Entered Configuration Mode ***   
+001/27/20 03:07 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/27/20 03:07 PM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Groups            
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/27/20 03:07 PM
+
+Dual Control Options
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+MasterUser
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Inventory Control
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     Reset TCD/TCR Machine
+     Limit Overrides
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Close Day
+     View Reports (All)
+     Clear Daily Activity Totals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+User Control
+     User Management
+     Group Management
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Settings (Setup)
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Default System
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Transactions LL
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit           2000.00
+     Daily Limit                10000.00
+
+Manual Transactions
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Online Only
+     Online Withdrawals
+     Online Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Report Only
+     View Reports (All)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+IT Only
+     Hardware Setup
+     Network Setup
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+Logoff:                              Ray
+001/27/20 03:07 PM
+
+Logon:                               Ray
+001/27/20 03:09 PM
+        TCR Error #1415 Occurred        
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+001/27/20 03:10 PM
+Ray
+
+
+Amount Requested                  100.00
+Amount Tendered                      .00
+Balance Due                       100.00
+----------------------------------------
+
+
+Logoff:                              Ray
+001/27/20 03:10 PM
+
+Logon:                               Ray
+001/27/20 03:16 PM
+
+(Reconciled Rejects)                    
+Transaction #                         11
+001/27/20 03:16 PM
+Ray
+       *** Dual Control Logon ***       
+Paul
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$50                  10           500.00
+
+Reject Notes Removed              500.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$50                   9           450.00
+
+Removed (Mutilated) Notes         450.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$50                   1           +50.00
+Differences                       +50.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         12
+001/27/20 03:17 PM
+Ray
+       *** Dual Control Logon ***       
+Paul
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$50                  10           500.00
+
+Removed (Mutilated) Notes         500.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$50                  10          -500.00
+Differences                      +500.00
+----------------------------------------
+
+Logoff:                              Ray
+001/27/20 03:17 PM
+
+Logon:                               Ray
+001/27/20 03:18 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/27/20 03:18 PM
+Ray
+
+
+
+(Online Deposit)                        
+Transaction #                         13
+001/27/20 03:19 PM
+Ray
+
+Denom            Pieces            Value
+$5                   30           150.00
+$2                    1             2.00
+
+Machine Total                     152.00
+Deposit Total                     152.00
+----------------------------------------
+       *** Op Cassette Emptied ***      
+
+(Reconciled OPs Cassette)               
+Transaction #                         14
+001/27/20 03:20 PM
+Ray
+       *** Dual Control Logon ***       
+Paul
+----------------------------------------
+         Overflow Notes Removed         
+----------------------------------------
+Denom            Pieces            Value
+
+Overflow Notes Removed               .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Removed (Mutilated) Notes           4.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                    2            -4.00
+Differences                        +4.00
+----------------------------------------
+
+Logoff:                              Ray
+001/27/20 03:20 PM
+
+Logon:                               Ray
+001/27/20 03:21 PM
+
+
+   *** Entered Configuration Mode ***   
+001/27/20 03:21 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/27/20 03:21 PM
+ID:                                  Ray
+
+========================================
+             DynaCore Groups            
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/27/20 03:21 PM
+
+Dual Control Options
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+MasterUser
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Inventory Control
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     Reset TCD/TCR Machine
+     Limit Overrides
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Close Day
+     View Reports (All)
+     Clear Daily Activity Totals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+User Control
+     User Management
+     Group Management
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Settings (Setup)
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Default System
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Transactions LL
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit           2000.00
+     Daily Limit                10000.00
+
+Manual Transactions
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Online Only
+     Online Withdrawals
+     Online Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Report Only
+     View Reports (All)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+IT Only
+     Hardware Setup
+     Network Setup
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     
+Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+Logoff:                              Ray
+001/27/20 03:21 PM
+
+Logon:                               Ray
+001/27/20 04:45 PM
+
+Logoff:                              Ray
+001/27/20 04:46 PM
+
+Logon:                               Ray
+001/27/20 04:48 PM
+
+Logoff:                              Ray
+001/27/20 04:48 PM
+
+Logon:                               Ray
+001/27/20 04:48 PM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/27/20 04:49 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+001/27/20 04:51 PM
+
+Logoff:                              Ray
+001/27/20 04:51 PM
+
+Logon:                               Ray
+001/27/20 04:52 PM
+
+Logoff:                              Ray
+001/27/20 04:52 PM
+
+Logon:                               Ray
+001/27/20 04:55 PM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/27/20 04:55 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/27/20 04:57 PM
+
+Logoff:                              Ray
+001/27/20 04:57 PM
+
+Logon:                               Ray
+001/27/20 05:00 PM
+
+Logoff:                              Ray
+001/27/20 05:01 PM
+
+Logon:                               Ray
+001/27/20 05:08 PM
+
+Logoff:                              Ray
+001/27/20 05:08 PM
+
+Logon:                               Ray
+03/28/19 09:41 AM
+
+Logoff:                              Ray
+03/28/19 09:41 AM
+
+Logon:                               Ray
+03/28/19 09:42 AM
+
+   *** Entered Configuration Mode ***   
+03/28/19 09:42 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+03/28/19 09:42 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+03/28/19 09:42 AM
+
+Logon:                               Ray
+03/28/19 09:52 AM
+
+   *** Entered Configuration Mode ***   
+03/28/19 09:52 AM
+ID:                                  Ray

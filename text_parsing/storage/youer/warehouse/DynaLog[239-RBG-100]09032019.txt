@@ -1,0 +1,285 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.143 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                              josh
+001/03/20 11:51 AM
+
+Logoff:                             josh
+001/03/20 11:51 AM
+
+Logon:                              josh
+001/03/20 11:55 AM
+
+(Reconciled Exposed Notes)              
+Transaction #                          1
+001/03/20 11:56 AM
+Josh
+
+Denom            Pieces            Value
+$20                  66          1320.00
+
+Exposed Notes Reconciled         1320.00
+----------------------------------------
+  *** Exposed Notes History Cleared *** 
+
+========================================
+             Activity Report            
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+001/03/20 11:57 AM
+
+ID:                                 josh
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                 59          5900.00
+$50                 103          5150.00
+$20                   0              .00
+$10                 267          2670.00
+$5                  163           815.00
+$2                    0              .00
+$1                   53            53.00
+Starting Inventory            1458800.00
+Net Adjustments                 -1320.00
+Total Inventory                 14588.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                 59          5900.00
+$50                 103          5150.00
+$20                   0              .00
+$10                 267          2670.00
+$5                  163           815.00
+$1                   53            53.00
+Total Dispensable Notes         14588.00
+
+----------------------------------------
+          Collection Box Notes          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Notes                .00
+
+Cass. 1 $1           53            53.00
+Cass. 2 $5          163           815.00
+Cass. 3 $10         267          2670.00
+Cass. 4U $20          0              .00
+Cass. 4L $50        103          5150.00
+Cass. 5 $100         59          5900.00
+             $20 Notes Empty            
+               Cass. 1 Low              
+               Cass. 2 Low              
+               Cass. 3 Low              
+             Cass. 4U Empty             
+               Cass. 5 Low              
+========================================
+
+        User Grand Totals Cleared       
+            Activity Cleared            
+
+
+
+
+
+
+
+
+(Online Nominated Dispense)             
+Transaction #                          1
+001/03/20 11:58 AM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$10                   3            30.00
+$5                    1             5.00
+$1                    1             1.00
+
+Amount Tendered                   186.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          2
+001/03/20 11:58 AM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                  72          1440.00
+$10                   3            30.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                    1626.00
+Deposit Total                    1626.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/03/20 12:37 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/03/20 12:44 PM
+ID:                                 josh
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0b:82:8c
+LAN 1 IP Address           192.168.1.231
+LAN 1 Subnet               255.255.254.0
+LAN 1 Gateway                 172.18.2.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0b:83:54
+LAN 2 IP Address             172.18.2.24
+LAN 2 Subnet               255.255.254.0
+LAN 2 Gateway                 172.18.2.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.143
+Release Date                    08/30/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           1.1.0.085
+Min. DynaCash Version          4.3.0.065
+Min. DynaLog Server Version    2.0.0.005
+Min. DynaLog Viewer Version    2.0.0.000
+========================================
+
+
+Logoff:                             josh
+001/03/20 12:44 PM
+
+Logon:                              Josh
+001/03/20 12:45 PM
+
+   *** Entered Configuration Mode ***   
+001/03/20 12:45 PM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/03/20 12:45 PM
+ID:                                 Josh
+
+Logoff:                             Josh
+001/03/20 12:45 PM
+
+Logon:                              Josh
+001/03/20 12:47 PM
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 12:47 PM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/03/20 12:47 PM
+ID:                                 Josh
+
+Logoff:                             Josh
+001/03/20 12:47 PM

@@ -1,0 +1,403 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.144 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/17/20 01:23 PM
+ID:                               Level2
+
+    *** Exited Configuration Mode ***   
+001/17/20 01:23 PM
+ID:                                AddOn
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.144 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/17/20 02:15 PM
+
+
+   *** Entered Configuration Mode ***   
+001/17/20 02:15 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/17/20 02:15 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/17/20 02:15 PM
+
+Logon:                               Ray
+001/17/20 02:18 PM
+
+
+   *** Entered Configuration Mode ***   
+001/17/20 02:18 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/17/20 02:20 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/17/20 02:20 PM
+
+Logon:                               Ray
+001/17/20 02:29 PM
+
+Logoff:                              Ray
+001/17/20 02:29 PM
+
+Logon:                               Ray
+001/17/20 02:30 PM
+
+
+   *** Entered Configuration Mode ***   
+001/17/20 02:30 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/17/20 02:30 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/17/20 02:30 PM
+
+Logon:                               Ray
+001/17/20 02:30 PM
+
+Logoff:                              Ray
+001/17/20 02:30 PM
+
+Logon:                               Ray
+001/17/20 02:31 PM
+
+Logoff:                              Ray
+001/17/20 02:31 PM
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/17/20 02:51 PM
+Ray
+
+
+
+Logon:                               Ray
+001/17/20 02:51 PM
+
+
+   *** Entered Configuration Mode ***   
+001/17/20 02:51 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/17/20 02:51 PM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Groups            
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/17/20 02:51 PM
+
+Group 0
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+MASTER USERS
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 2
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 3
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+Logoff:                              Ray
+001/17/20 02:51 PM
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/17/20 02:52 PM
+Ray
+       *** Dual Control Logon ***       
+Marcus
+
+
+Logon:                               Ray
+001/17/20 02:52 PM
+
+
+   *** Entered Configuration Mode ***   
+001/17/20 02:52 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/17/20 02:52 PM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Groups            
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/17/20 02:52 PM
+
+Group 0
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+MASTER USERS
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 2
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 3
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+Logoff:                              Ray
+001/17/20 02:52 PM

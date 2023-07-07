@@ -1,0 +1,449 @@
+ Mode ***   
+001/21/20 10:21 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/21/20 10:21 AM
+ID:                                  Ray
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window        Dy
+naCore (c) 1999 - 2019 by              A
+dd-On Technologies, Inc.              Ve
+rsion 10.00.084 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+
+Logon:                               Ray
+001/21/20 10:36 AM
+
+
+   *** Entered Configuration Mode ***   
+001/21/20 10:36 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/21/20 10:36 AM
+ID:                                  Ray
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0c:27:5d
+LAN 1 IP Address           192.168.1.237
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0c:29:1f
+LAN 2 IP Address           192.168.1.238
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.084
+Release Date                    03/19/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           00.00.001
+Min. DynaCash Version          00.00.002
+Min. DynaLog Server Version    00.00.003
+Min. DynaLog Viewer Version    00.00.004
+========================================
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.084 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/21/20 10:37 AM
+
+(Online Mix Dispense)                   
+Transaction #                          3
+001/21/20 10:37 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+Logoff:                              Ray
+001/21/20 10:37 AM
+
+Logon:                               Ray
+001/21/20 10:41 AM
+
+   *** Entered Configuration Mode ***   
+001/21/20 10:41 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/21/20 10:41 AM
+ID:                                  Ray
+
+(Online Mix Dispense)                   
+Transaction #                          4
+001/21/20 10:41 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+Logon:                              Paul
+001/21/20 10:45 AM
+
+
+(Online Mix Dispense)                   
+Transaction #                          5
+001/21/20 10:46 AM
+Paul
+
+
+Denom            Pieces            Value
+$20                   2            40.00
+$10                   1            10.00
+$1                    3             3.00
+
+Amount Tendered                    53.00
+----------------------------------------
+
+Logoff:                             Paul
+001/21/20 10:46 AM
+
+
+Logon:                             addon
+001/21/20 11:01 AM
+
+
+(Online Mix Dispense)                   
+Transaction #                          6
+001/21/20 11:01 AM
+Addon
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+Logoff:                            addon
+001/21/20 11:02 AM
+
+
+Logon:                             addon
+001/21/20 11:03 AM
+
+
+Logoff:                            addon
+001/21/20 11:05 AM
+
+
+Logon:                              Paul
+001/21/20 11:27 AM
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/21/20 11:27 AM
+Paul
+
+
+
+
+Logoff:                             Paul
+001/21/20 11:27 AM
+
+
+Logon:                              Paul
+001/21/20 11:27 AM
+
+
+(Online Mix Dispense)                   
+Transaction #                          7
+001/21/20 11:28 AM
+Paul
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+$1                    3             3.00
+
+Amount Tendered                    23.00
+----------------------------------------
+
+Logoff:                             Paul
+001/21/20 11:28 AM
+
+
+Logon:                              Paul
+001/21/20 11:29 AM
+
+Logoff:                             Paul
+001/21/20 11:29 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.084 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.084 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.084 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/21/20 04:57 PM
+
+(Online Mix Dispense)                   
+Transaction #                          8
+001/21/20 04:57 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/21/20 04:57 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.084 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/21/20 05:15 PM
+
+(Online Deposit)                        
+Transaction #                          9
+001/21/20 05:15 PM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+$1                    4             4.00
+
+Deposit Total                      24.00
+----------------------------------------
+
+Logoff:                              Ray
+001/21/20 05:15 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.084 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/21/20 02:46 PM
+
+(Online Mix Dispense)                   
+Transaction #                         10
+001/21/20 02:46 PM
+Ray
+
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/21/20 02:47 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/21/20 02:47 PM
+ID:                                  Ray
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded             10.00
+Reversed Amount                    10.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/21/20 02:49 PM
+Ray
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+  *** Automatic System Memory Clear *** 
+
+
+
+Logon:                               Ray
+03/25/19 01:59 PM
+
+
+   *** Entered Configuration Mode ***   
+03/25/19 01:59 PM
+ID:                                  Ray
+
+
+           *** Added User ***           
+03/25/19 01:59 PM
+ID:                                Charo
+
+
+
+    *** Exited Configuration Mode ***   
+03/25/19 01:59 PM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Users             
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+03/25/19 01:59 PM
+
+Addon
+     Group 1
+
+Charo
+     Group 1
+
+joshu
+     Group 2
+     Group 3
+
+Paul
+     Group 1
+
+Ray
+     Group 1
+
+User 1
+     Group 1
+
+========================================
+
+
+
+Logoff:                              Ray
+03/25/19 01:59 PM
+
+
+Logon:                             Charo
+03/25/19 02:00 PM
+
+
+(Online Mix Dispense)                   

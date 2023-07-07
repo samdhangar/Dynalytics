@@ -1,0 +1,517 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.137 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                               Ray
+001/06/20 09:28 AM
+
+   *** Entered Configuration Mode ***   
+001/06/20 09:28 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/06/20 09:28 AM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/06/20 09:28 AM
+ID:                                  Ray
+
+========================================
+             Activity Report            
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+001/06/20 09:28 AM
+
+ID:                                  Ray
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Coin                                 .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                111         11100.00
+$50                 355         17750.00
+$20                 496          9920.00
+$10                  58           580.00
+$5                  135           675.00
+$2                    0              .00
+$1                   47            47.00
+Coin                                 .00
+Starting Inventory              40072.00
+Net Adjustments                      .00
+Total Inventory                 40072.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                111         11100.00
+$50                 355         17750.00
+$20                   0              .00
+$10                  58           580.00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Notes         29430.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                 496          9920.00
+$10                   0              .00
+$5                  135           675.00
+$2                    0              .00
+$1                   47            47.00
+Total Op Cassette Notes         10642.00
+
+Cass. 1 $1            0              .00
+Cass. 2 $20           0              .00
+Cass. 3 $5            0              .00
+Cass. 4 $100        111         11100.00
+Cass. 5 $10          58           580.00
+Cass. 6 $50         355         17750.00
+             $1 Notes Empty             
+             $5 Notes Empty             
+             $20 Notes Empty            
+               CST-A Empty              
+               CST-B Empty              
+               CST-C Empty              
+                CST-E Low               
+========================================
+
+      *** System Memory Cleared ***     
+001/06/20 09:28 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/06/20 09:29 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/06/20 09:29 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.137 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/06/20 02:55 PM
+
+   *** Entered Configuration Mode ***   
+001/06/20 02:55 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/06/20 02:55 PM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator       Toshiba IBS-200
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+(Online Mix Dispense)                   
+Transaction #                          1
+001/06/20 02:57 PM
+Ray
+       *** Dual Control Logon ***       
+Josh
+Denom            Pieces            Value
+$10                   1            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+Denom            Pieces            Value
+$100                111         11100.00
+$50                 355         17750.00
+$20                 496          9920.00
+$10                  57           570.00
+$5                  135           675.00
+$2                    0              .00
+$1                   47            47.00
+Coin                                 .00
+Starting Inventory              40072.00
+Net Adjustments                      .00
+Total Inventory                 40062.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                111         11100.00
+$50                 355         17750.00
+$20                   0              .00
+$10                  57           570.00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Notes         29420.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                 496          9920.00
+$10                   0              .00
+$5                  135           675.00
+$2                    0              .00
+$1                   47            47.00
+Total Op Cassette Notes         10642.00
+
+Cass. 1 $1            0              .00
+Cass. 2 $20           0              .00
+Cass. 3 $5            0              .00
+Cass. 4 $100        111         11100.00
+Cass. 5 $10          57           570.00
+Cass. 6 $50         355         17750.00
+             $1 Notes Empty             
+             $5 Notes Empty             
+             $20 Notes Empty            
+               CST-A Empty              
+               CST-B Empty              
+               CST-C Empty              
+                CST-E Low               
+========================================
+
+
+
+
+
+
+
+
+========================================
+           User Totals Report           
+----------------------------------------
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+001/06/20 02:58 PM
+
+
+Ray
+# of Deposits                          0
+# of Withdrawals                       1
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Withdrawal Total                   10.00
+----------------------------------------
+Buy                                10.00
+========================================
+
+
+
+
+
+
+
+
+========================================
+             Activity Report            
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+001/06/20 02:59 PM
+
+ID:                                  Ray
+========================================
+              User Activity             
+----------------------------------------
+Ray
+# of Deposits                          0
+# of Withdrawals                       1
+
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Withdrawal Total                   10.00
+----------------------------------------
+Net Total                         -10.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   1            10.00
+$5                    0              .00
+$1                    0              .00
+Coin                                 .00
+Total Dispensed                    10.00
+# of Withdrawals                       1
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   1           -10.00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Net Total                         -10.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                111         11100.00
+$50                 355         17750.00
+$20                 496          9920.00
+$10                  57           570.00
+$5                  135           675.00
+$2                    0              .00
+$1                   47            47.00
+Coin                                 .00
+Starting Inventory              40072.00
+Net Adjustments                      .00
+Total Inventory                 40062.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                111         11100.00
+$50                 355         17750.00
+$20                   0              .00
+$10                  57           570.00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Notes         29420.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                 496          9920.00
+$10                   0              .00
+$5                  135           675.00
+$2                    0              .00
+$1                   47            47.00
+Total Op Cassette Notes         10642.00
+
+Cass. 1 $1            0              .00
+Cass. 2 $20           0              .00
+Cass. 3 $5            0              .00
+Cass. 4 $100        111         11100.00
+Cass. 5 $10          57           570.00
+Cass. 6 $50         355         17750.00
+             $1 Notes Empty
+             
+             $5 Notes Empty             
+             $20 Notes Empty            
+               CST-A Empty              
+               CST-B Empty              
+               CST-C Empty              
+                CST-E Low               
+========================================
+
+        User Grand Totals Cleared       
+            Activity Cleared            
+
+
+
+
+
+
+
+
+Logoff:                              Ray
+001/06/20 03:00 PM
+
+Logon:                               Ray
+001/06/20 03:00 PM
+
+   *** Entered Configuration Mode ***   
+001/06/20 03:00 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/06/20 03:00 PM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator       Toshiba IBS-200
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+Logoff:                              Ray
+001/06/20 03:00 PM
+
+Logon:                              Josh
+001/06/20 04:20 PM
+
+Logoff:                             Josh
+001/06/20 04:20 PM
+
+Logon:                              Josh
+001/06/20 04:21 PM
+
+   *** Entered Configuration Mode ***   
+001/06/20 04:55 PM
+ID:                                 Josh

@@ -1,0 +1,365 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.086 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              Adam
+001/28/20 10:59 AM
+
+             TCR Link Error             
+
+(Vault Buy)                             
+Transaction #                         19
+001/28/20 10:59 AM
+Ray
+
+Denom            Pieces            Value
+$1                    4             4.00
+
+Amount Tendered                     4.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                         20
+001/28/20 11:00 AM
+Ray
+
+Denom            Pieces            Value
+$1                    4             4.00
+
+Machine Total                       4.00
+Deposit Total                       4.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         21
+001/28/20 11:01 AM
+Adam
+
+Denom            Pieces            Value
+$1                    4             4.00
+
+Amount Tendered                     4.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         22
+001/28/20 11:02 AM
+Adam
+
+Denom            Pieces            Value
+$1                    4             4.00
+
+Machine Total                       4.00
+Deposit Total                       4.00
+----------------------------------------
+       *** Cassette 4 Emptied ***       
+       *** Cassette 5 Emptied ***       
+       *** Cassette 6 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         23
+001/28/20 11:04 AM
+Adam
+
+Denom            Pieces            Value
+$50                   1            50.00
+$10                   1            10.00
+$5                    1             5.00
+
+Total Inventory Removed            65.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.086 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+          *** Power Failed ***          
+ *** Possible Partial Inventory Load ***
+ 
+
+
+(Inventory Load)                        
+Transaction #                         24
+001/28/20 11:06 AM
+Adam
+
+Denom            Pieces            Value
+$50                   1            50.00
+$10                   1            10.00
+$5                    1             5.00
+
+Machine Total                      65.00
+Total Inventory Added              65.00
+----------------------------------------
+
+Logon:                              Adam
+001/28/20 11:08 AM
+       *** Cassette 4 Emptied ***       
+       *** Cassette 5 Emptied ***       
+       *** Cassette 6 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         25
+001/28/20 11:10 AM
+Adam
+
+Denom            Pieces            Value
+$50                   1            50.00
+$10                   1            10.00
+$5                    1             5.00
+
+Total Inventory Removed            65.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         26
+001/28/20 11:15 AM
+Adam
+
+Denom            Pieces            Value
+$50                   1            50.00
+$10                   1            10.00
+$5                    1             5.00
+
+Machine Total                      65.00
+Total Inventory Added              65.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/28/20 11:16 AM
+ID:                                 Adam
+
+    *** Exited Configuration Mode ***   
+001/28/20 11:17 AM
+ID:                                 Adam
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/28/20 11:18 AM
+Ray
+
+
+
+Logoff:                             Adam
+001/28/20 11:18 AM
+
+Logon:                              adam
+001/28/20 11:43 AM
+
+Logoff:                             adam
+001/28/20 11:43 AM
+
+Logon:                               Ray
+001/28/20 11:53 AM
+
+Logoff:                              Ray
+001/28/20 11:53 AM
+
+Logon:                               Ray
+001/28/20 11:49 AM
+
+Logoff:                              Ray
+001/28/20 11:49 AM
+
+Logon:                               Ray
+001/28/20 11:57 AM
+
+
+             TCR Link Error             
+
+Logoff:                              Ray
+001/28/20 11:58 AM
+
+
+Logon:                               Ray
+001/28/20 11:58 AM
+
+
+(Online Mix Dispense)                   
+Transaction #                         27
+001/28/20 11:58 AM
+Ray
+
+Denom            Pieces            Value
+$1                    4             4.00
+
+Amount Tendered                     4.00
+----------------------------------------
+
+Logoff:                              Ray
+001/28/20 11:58 AM
+
+
+Logon:                               Ray
+001/28/20 11:59 AM
+
+
+(Online Deposit)                        
+Transaction #                         28
+001/28/20 11:59 AM
+Ray
+
+Denom            Pieces            Value
+$1                    4             4.00
+
+Machine Total                       4.00
+Deposit Total                       4.00
+----------------------------------------
+
+Logoff:                              Ray
+001/28/20 11:59 AM
+
+
+Logon:                               Ray
+001/28/20 12:08 PM
+
+
+Logoff:                              Ray
+001/28/20 12:08 PM
+
+
+Logon:                               Ray
+001/28/20 12:47 PM
+
+
+Logoff:                              Ray
+001/28/20 12:47 PM
+
+
+Logon:                               Ray
+001/28/20 12:47 PM
+
+
+Logoff:                              Ray
+001/28/20 12:47 PM
+
+Logon:                               Ray
+001/28/20 01:04 PM
+
+
+Logoff:                              Ray
+001/28/20 01:04 PM
+
+
+Logon:                               Ray
+001/28/20 01:05 PM
+
+
+Logoff:                              Ray
+001/28/20 01:05 PM
+
+
+Logon:                               Ray
+001/28/20 01:21 PM
+
+
+Logoff:                              Ray
+001/28/20 01:21 PM
+
+
+Logon:                               Ray
+001/28/20 01:22 PM
+
+
+Logoff:                              Ray
+001/28/20 01:22 PM
+
+
+Logon:                               Ray
+001/28/20 01:23 PM
+
+
+Logoff:                              Ray
+001/28/20 01:23 PM
+
+
+Logon:                               Ray
+001/28/20 01:32 PM
+
+
+Logoff:                              Ray
+001/28/20 01:32 PM
+
+
+Logon:                               Ray
+001/28/20 01:34 PM
+
+
+Logoff:                              Ray
+001/28/20 01:34 PM
+
+
+Logon:                               Ray
+001/28/20 01:33 PM
+
+
+Logoff:                              Ray
+001/28/20 01:33 PM
+
+
+Logon:                               Ray
+001/28/20 01:34 PM
+
+
+Logoff:                              Ray
+001/28/20 01:34 PM
+
+
+Logon:                               Ray
+001/28/20 01:37 PM
+
+
+Logoff:                              Ray
+001/28/20 01:37 PM
+
+
+Logon:                               Ray
+001/28/20 01:44 PM
+
+
+Logoff:                              Ray
+001/28/20 01:44 PM
+
+
+Logon:                               Ray
+001/28/20 03:12 PM
+
+
+Logoff:                              Ray
+001/28/20 03:12 PM
+
+
+Logon:                               Ray
+001/28/20 03:12 PM
+
+
+Logoff:                              Ray
+001/28/20 03:12 PM
+
+
+Logon:                               Ray
+001/28/20 03:13 PM
+
+
+Logoff:                              Ray
+001/28/20 03:13 PM

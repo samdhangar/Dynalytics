@@ -1,0 +1,679 @@
+            Side A Logged On            
+Date                             01/09/20
+Time                          8:10:00 AM
+Teller #                             278
+
+
+(Vault Buy)                             
+Transaction #                          1
+Date                             01/09/20
+Time                          8:18:19 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                 100          2000.00
+$10                  10           100.00
+$5                   20           100.00
+
+Amount Tendered                  2200.00
+----------------------------------------
+            Side B Logged On            
+Date                             01/09/20
+Time                          8:39:25 AM
+Teller #                             136
+
+
+(Online Mix Dispense)                   
+Transaction #                          2
+Date                             01/09/20
+Time                          8:39:34 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$10                   1            10.00
+$5                    1             5.00
+
+Amount Tendered                    15.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          3
+Date                             01/09/20
+Time                          8:59:32 AM
+Teller #                             278
+
+Denom            Pieces            Value
+$20                   2            40.00
+$10                   1            10.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                          4
+Date                             01/09/20
+Time                          9:17:17 AM
+Teller #                             278
+
+Denom            Pieces            Value
+$50                   6           300.00
+
+Amount Tendered                   300.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          5
+Date                             01/09/20
+Time                          9:18:49 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Amount Tendered                    40.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          6
+Date                             01/09/20
+Time                          9:25:03 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Amount Tendered                    40.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          7
+Date                             01/09/20
+Time                          9:37:52 AM
+Teller #                             278
+
+Denom            Pieces            Value
+$20                   3            60.00
+$5                    1             5.00
+
+Amount Tendered                    65.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          8
+Date                             01/09/20
+Time                          9:42:12 AM
+Teller #                             278
+
+Denom            Pieces            Value
+$20                  11           220.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    4             4.00
+
+Amount Tendered                   239.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                          9
+Date                             01/09/20
+Time                          9:45:25 AM
+Teller #                             261
+
+Denom            Pieces            Value
+$100                 20          2000.00
+
+Amount Tendered                  2000.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         10
+Date                             01/09/20
+Time                          9:50:39 AM
+Teller #                             230
+
+Denom            Pieces            Value
+$50                  20          1000.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         11
+Date                             01/09/20
+Time                          9:55:23 AM
+Teller #                             261
+
+Denom            Pieces            Value
+$100                 20          2000.00
+
+Amount Tendered                  2000.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         12
+Date                             01/09/20
+Time                         10:02:51 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$20                   3            60.00
+
+Amount Tendered                    60.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         13
+Date                             01/09/20
+Time                         10:24:09 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                 15          1500.00
+
+Amount Tendered                  1500.00
+----------------------------------------
+
+            Side B Logged Off           
+Teller #                             136
+Date                             01/09/20
+Time                         10:29:57 AM
+
+
+
+(Vault Buy)                             
+Transaction #                         14
+Date                             01/09/20
+Time                         10:30:54 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  25           500.00
+
+Amount Tendered                  2000.00
+----------------------------------------
+            Side B Logged On            
+Date                             01/09/20
+Time                         10:31:11 AM
+Teller #                             136
+
+
+(Online Mix Dispense)                   
+Transaction #                         15
+Date                             01/09/20
+Time                         10:33:30 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$20                  12           240.00
+$10                   1            10.00
+
+Amount Tendered                   250.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         16
+Date                             01/09/20
+Time                         10:36:56 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         17
+Date                             01/09/20
+Time                         10:41:13 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$20                   3            60.00
+
+Amount Tendered                    60.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         18
+Date                             01/09/20
+Time                         10:46:47 AM
+Teller #                             230
+
+Denom            Pieces            Value
+$50                  20          1000.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         19
+Date                             01/09/20
+Time                         10:47:29 AM
+Teller #                             261
+
+Denom            Pieces            Value
+$100                 20          2000.00
+
+Amount Tendered                  2000.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         20
+Date                             01/09/20
+Time                         11:03:42 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         21
+Date                             01/09/20
+Time                         11:05:30 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$100                  1           100.00
+$10                  10           100.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         22
+Date                             01/09/20
+Time                         11:13:03 AM
+Teller #                             278
+
+Denom            Pieces            Value
+$10                   1            10.00
+$5                    1             5.00
+$1                    4             4.00
+
+Amount Tendered                    19.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         23
+Date                             01/09/20
+Time                         11:13:25 AM
+Teller #                              24
+
+Denom            Pieces            Value
+$100                 10          1000.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         24
+Date                             01/09/20
+Time                         11:22:22 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$20                  10           200.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         25
+Date                             01/09/20
+Time                         11:23:27 AM
+Teller #                             230
+
+Denom            Pieces            Value
+$100                 20          2000.00
+
+Amount Tendered                  2000.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         26
+Date                             01/09/20
+Time                         11:26:08 AM
+Teller #                             278
+
+Denom            Pieces            Value
+$100                 13          1300.00
+$50                   2           100.00
+$20                   5           100.00
+
+Amount Tendered                  1500.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         27
+Date                             01/09/20
+Time                         11:27:02 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$100                  5           500.00
+$20                  15           300.00
+$10                   1            10.00
+$5                    2            10.00
+
+Amount Tendered                   820.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         28
+Date                             01/09/20
+Time                         11:31:10 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Amount Tendered                     5.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         29
+Date                             01/09/20
+Time                         11:32:05 AM
+Teller #                             230
+
+Denom            Pieces            Value
+$5                   50           250.00
+
+Amount Tendered                   250.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         30
+Date                             01/09/20
+Time                         11:35:39 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$20                  10           200.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         31
+Date                             01/09/20
+Time                         11:42:12 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         32
+Date                             01/09/20
+Time                         11:48:28 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$20                   6           120.00
+$1                    5             5.00
+
+Amount Tendered                   125.00
+----------------------------------------
+
+
+      This Transaction Went Offline     
+
+(Online Mix Dispense)                   
+Transaction #                         33
+Date                             01/09/20
+Time                         11:48:45 AM
+Teller #                             278
+
+Denom            Pieces            Value
+$20                   4            80.00
+$5                    1             5.00
+$1                    3             3.00
+
+Amount Tendered                    88.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         34
+Date                             01/09/20
+Time                         11:51:01 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$100                  4           400.00
+
+Amount Tendered                   400.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         35
+Date                             01/09/20
+Time                         11:53:57 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+
+Amount Tendered                    35.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         36
+Date                             01/09/20
+Time                         11:56:17 AM
+Teller #                             136
+
+Denom            Pieces            Value
+$20                  10           200.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+            Side B Logged Off           
+Teller #                             136
+Date                             01/09/20
+Time                         11:57:15 AM
+
+            Side B Logged On            
+Date                             01/09/20
+Time                         11:57:19 AM
+Teller #                             298
+
+            Side B Logged Off           
+Teller #                             298
+Date                             01/09/20
+Time                         11:57:32 AM
+
+            Side B Logged On            
+Date                             01/09/20
+Time                         11:58:07 AM
+Teller #                             136
+
+            Side B Logged Off           
+Teller #                             136
+Date                             01/09/20
+Time                         12:07:44 PM
+
+            Side B Logged On            
+Date                             01/09/20
+Time                         12:07:48 PM
+Teller #                             230
+
+            Side B Logged Off           
+Teller #                             230
+Date                             01/09/20
+Time                         12:07:58 PM
+
+       DynaCash (c) 1999 - 2015 by      
+        Add-On Technologies, Inc.       
+         TCD Pgm. Ver. 5.2.80-DC        
+           DynaCash Mode: USB           
+
+          TOWPATH CREDIT UNION          
+          2500 N. TURKEYFOOT RD         
+            AKRON, OHIO 44319           
+
+Station #                            303
+
+
+            Side A Logged On            
+Date                             01/09/20
+Time                         12:08:00 PM
+Teller #                             278
+            Side B Logged On            
+Date                             01/09/20
+Time                         12:08:35 PM
+Teller #                             136
+
+
+(Online Mix Dispense)                   
+Transaction #                         37
+Date                             01/09/20
+Time                         12:13:16 PM
+Teller #                             136
+
+Denom            Pieces            Value
+$50                   2           100.00
+$20                  10           200.00
+$5                    1             5.00
+$1                    3             3.00
+
+Amount Tendered                   308.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         38
+Date                             01/09/20
+Time                         12:16:43 PM
+Teller #                             136
+
+Denom            Pieces            Value
+$50                   2           100.00
+$20                   7           140.00
+$10                   1            10.00
+
+Amount Tendered                   250.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         39
+Date                             01/09/20
+Time                         12:18:41 PM
+Teller #                             136
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+            Side A Logged Off           
+Teller #                             278
+Date                             01/09/20
+Time                         12:23:22 PM
+
+            Side A Logged On            
+Date                             01/09/20
+Time                         12:24:00 PM
+Teller #                             261
+
+            Side A Logged Off           
+Teller #                             261
+Date                             01/09/20
+Time                         12:24:12 PM
+
+            Side A Logged On            
+Date                             01/09/20
+Time                         12:25:00 PM
+Teller #                             278
+
+
+(Online Nominated Dispense)             
+Transaction #                         40
+Date                             01/09/20
+Time                         12:31:00 PM
+Teller #                             278
+
+Denom            Pieces            Value
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+
+Amount Tendered                    80.00
+----------------------------------------
+
+            Side B Logged Off           
+Teller #                             136
+Date                             01/09/20
+Time                         12:33:40 PM
+
+
+            Side A Logged Off           
+Teller #                             278
+Date                             01/09/20
+Time                         12:45:44 PM
+
+            Side A Logged On            
+Date                             01/09/20
+Time                         12:46:00 PM
+Teller #                             230
+
+            Side A Logged Off           
+Teller #                             230
+Date                             01/09/20
+Time                         12:47:14 PM
+
+            Side A Logged On            
+Date                             01/09/20
+Time                         12:52:00 PM
+Teller #                             278
+
+            Side A Logged Off           
+Teller #                             278
+Date                             01/09/20
+Time                         12:55:56 PM
+

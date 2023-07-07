@@ -1,0 +1,48 @@
+       DynaCash (c) 1999 - 2016 by      
+        Add-On Technologies, Inc.       
+      CIMA 7000 Pgm. Ver. 5.3.70-DC     
+           DynaCash Mode: LAN           
+
+                  Cima                  
+                Test Unit               
+                TCR Hall                
+
+Station #                             87
+
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             4/29/19
+Time                          6:42:51 PM
+           Manager Logged Off           
+Manager #                              1
+Date                             4/29/19
+Time                          6:43:11 PM
+****************************************
+
+
+(Vault Sell)                            
+Transaction #                         18
+Date                             4/29/19
+Time                          6:58:17 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         19
+Date                             4/29/19
+Time                          6:58:39 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------

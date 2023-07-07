@@ -1,0 +1,268 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+001/26/20 08:30 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/26/20 09:08 AM
+josh
+
+
+
+Logoff:                             josh
+001/26/20 09:08 AM
+
+Logon:                               Ray
+001/26/20 09:36 AM
+
+   *** Entered Configuration Mode ***   
+001/26/20 09:36 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 09:36 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/26/20 09:36 AM
+
+Logon:                               Ray
+001/26/20 09:42 AM
+  *** Cassette Cass. 4U Needs Long Verif
+y ***                                   
+                                        
+                                        
+                                        
+                                        
+                                        
+                     *** Use Manual Cas
+sette Removal ***  
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/26/20 09:54 AM
+       *** Cassette 4U Emptied ***      
+       *** Cassette 4L Emptied ***      
+       *** Cassette 5 Emptied ***       
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                        148
+001/26/20 09:55 AM
+Ray
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 199          9950.00
+$20                 139          2780.00
+
+Total Inventory Removed         26730.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                        149
+001/26/20 09:56 AM
+Ray
+
+Denom            Pieces            Value
+$100                 58          5800.00
+$50                 102          5100.00
+$20                  65          1300.00
+
+Machine Total                   12200.00
+Total Inventory Added           12200.00
+----------------------------------------
+
+Logon:                              josh
+001/26/20 09:58 AM
+
+
+Logoff:                              Ray
+001/26/20 09:58 AM
+
+   *** Entered Configuration Mode ***   
+001/26/20 09:58 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/26/20 09:59 AM
+ID:                                 josh
+
+
+Logoff:                             josh
+001/26/20 09:59 AM
+
+Logon:                              josh
+001/26/20 10:04 AM
+
+(Online Mix Dispense)                   
+Transaction #                        150
+001/26/20 10:04 AM
+Josh
+
+Denom            Pieces            Value
+$20                   4            80.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    5             5.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                        151
+001/26/20 10:05 AM
+Josh
+
+Denom            Pieces            Value
+$20                   4            80.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    5             5.00
+
+Machine Total                     100.00
+Deposit Total                     100.00
+----------------------------------------
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/26/20 10:05 AM
+josh
+
+
+
+(Online Deposit)                        
+Transaction #                        152
+001/26/20 10:06 AM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$2                    1             2.00
+$1                    1             1.00
+
+Other Cash Deposited              188.00
+
+Deposit Total                     188.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                        153
+001/26/20 10:06 AM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Other Cash Deposited              100.00
+
+Deposit Total                     100.00
+----------------------------------------
+
+Logoff:                             josh
+001/26/20 10:33 AM
+
+Logon:                              josh
+001/26/20 10:33 AM
+
+   *** Entered Configuration Mode ***   
+001/26/20 10:33 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/26/20 10:33 AM
+ID:                                 josh
+
+
+Logoff:                             josh
+001/26/20 10:33 AM
+
+Logon:                              josh
+001/26/20 10:34 AM
+
+(Online Deposit)                        
+Transaction #                        154
+001/26/20 10:34 AM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$1                    1             1.00
+
+Machine Total                     171.00
+Deposit Total                     171.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                        155
+001/26/20 10:35 AM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Amount Tendered                   186.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                        156
+001/26/20 10:37 AM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     186.00
+Deposit Total                     186.00
+----------------------------------------
+
+Logoff:                             josh
+001/26/20 11:16 AM
+
+Logon:                              josh
+001/26/20 11:21 AM
+
+Logoff:                             josh
+001/26/20 11:33 AM

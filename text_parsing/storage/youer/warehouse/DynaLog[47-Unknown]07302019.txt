@@ -1,0 +1,1483 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.135 (MoniSafe 500S)   
+
+              DynaCore Test             
+        9000 Stinson Hartis Road        
+         Indian Trail, NC 28079         
+          Drive Through Window          
+
+Station:                              47
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                           Stephen
+001/30/20 08:33 AM
+
+(Online Deposit)                        
+Transaction #                         56
+001/30/20 08:33 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   2           100.00
+$20                  33           660.00
+$10                  39           390.00
+$5                   30           150.00
+$2                    2             4.00
+$1                  204           204.00
+
+Machine Total                    2108.00
+Deposit Total                    2108.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         57
+001/30/20 08:36 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/30/20 08:36 AM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/30/20 08:36 AM
+ID:                              Stephen
+
+
+========================================
+           Inventory Settings           
+Station:                              47
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                        200
+Mix 2 Below $                        500
+
+         Low   Mid   High   Weight  Odds
+$100       0     3      5      5     Yes
+$50        0     0      2      6      No
+$20        5     5      5      1     Yes
+$10        3     3      3      2     Yes
+$5         5     5      5      3     Yes
+$1         5     5      5      4     Yes
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+$100       1      5          2         3
+$50        1      5          1         2
+$20        1      5          5        10
+$10        1      5          5        10
+$5         1      5          5        10
+$1         1      5         50        60
+========================================
+
+
+(Online Mix Dispense)                   
+Transaction #                         58
+001/30/20 08:37 AM
+Stephen
+
+Denom            Pieces            Value
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   200.00
+----------------------------------------
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 08:44 AM
+Stephen
+
+
+
+(Inventory Removal)                     
+Transaction #                         59
+001/30/20 08:45 AM
+Stephen
+
+Denom            Pieces            Value
+$50                   2           100.00
+
+Total Inventory Removed           100.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            500.00
+Reversed Amount                   500.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 08:46 AM
+Stephen
+
+
+
+(Inventory Load)                        
+Transaction #                         60
+001/30/20 08:47 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                     500.00
+Total Inventory Added             500.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         61
+001/30/20 08:48 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  3           300.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/30/20 08:49 AM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/30/20 08:49 AM
+ID:                              Stephen
+
+
+========================================
+           Inventory Settings           
+Station:                              47
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                        200
+Mix 2 Below $                        500
+
+         Low   Mid   High   Weight  Odds
+$100       0     2      5      5     Yes
+$50        0     2      2      6      No
+$20        5     5      5      1     Yes
+$10        3     3      3      2     Yes
+$5         5     5      5      3     Yes
+$1         5     5      5      4     Yes
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+$100       1      5          2         3
+$50        1      5          1         2
+$20        1      5          5        10
+$10        1      5          5        10
+$5         1      5          5        10
+$1         1      5         50        60
+========================================
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            500.00
+Reversed Amount                   500.00
+
+(Inventory Load)                        
+Transaction #                         62
+001/30/20 08:50 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  3           300.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                     500.00
+Total Inventory Added             500.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         63
+001/30/20 08:51 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  3           300.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/30/20 08:52 AM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/30/20 08:53 AM
+ID:                              Stephen
+
+
+========================================
+           Inventory Settings           
+Station:                              47
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                        200
+Mix 2 Below $                        501
+
+         Low   Mid   High   Weight  Odds
+$100       0     2      5      5     Yes
+$50        0     2      2      6      No
+$20        5     5      5      1     Yes
+$10        3     3      3      2     Yes
+$5         5     5      5      3     Yes
+$1         5     5      5      4     Yes
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+$100       1      5          2         3
+$50        1      5          1         2
+$20        1      5          5        10
+$10        1      5          5        10
+$5         1      5          5        10
+$1         1      5         50        60
+========================================
+
+
+(Online Deposit)                        
+Transaction #                         64
+001/30/20 08:53 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  3           300.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                     500.00
+Deposit Total                     500.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         65
+001/30/20 08:55 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   500.00
+----------------------------------------
+      TCR Result Code 127 Occurred      
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            500.00
+Reversed Amount                   500.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 08:57 AM
+Stephen
+
+
+
+Logoff:                          Stephen
+001/30/20 08:59 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.135 (MoniSafe 500S)   
+
+              DynaCore Test             
+        9000 Stinson Hartis Road        
+         Indian Trail, NC 28079         
+          Drive Through Window          
+
+Station:                              47
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                           Stephen
+001/30/20 09:01 AM
+      TCR Result Code 127 Occurred      
+
+(Inventory Load)                        
+Transaction #                         66
+001/30/20 09:04 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                     500.00
+Total Inventory Added             500.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         67
+001/30/20 09:07 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   500.00
+----------------------------------------
+      TCR Result Code 128 Occurred      
+
+(Inventory Load)                        
+Transaction #                         68
+001/30/20 09:09 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                     500.00
+Total Inventory Added             500.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         69
+001/30/20 09:13 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         70
+001/30/20 09:13 AM
+Stephen
+
+Denom            Pieces            Value
+$1                    5             5.00
+
+Machine Total                       5.00
+Total Inventory Added               5.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         71
+001/30/20 09:14 AM
+Stephen
+
+Denom            Pieces            Value
+$5                    5            25.00
+
+Machine Total                      25.00
+Total Inventory Added              25.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         72
+001/30/20 09:15 AM
+Stephen
+
+Denom            Pieces            Value
+$10                   3            30.00
+
+Machine Total                      30.00
+Total Inventory Added              30.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         73
+001/30/20 09:15 AM
+Stephen
+
+Denom            Pieces            Value
+$20                   7           140.00
+
+Machine Total                     140.00
+Total Inventory Added             140.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         74
+001/30/20 09:16 AM
+Stephen
+
+Denom            Pieces            Value
+$50                   2           100.00
+
+Machine Total                     100.00
+Total Inventory Added             100.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         75
+001/30/20 09:16 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+
+Machine Total                     200.00
+Total Inventory Added             200.00
+----------------------------------------
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                         76
+001/30/20 09:17 AM
+Stephen
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Reject Notes Removed                4.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Removed (Mutilated) Notes           4.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         77
+001/30/20 09:18 AM
+Stephen
+
+Denom            Pieces            Value
+$2                    2             4.00
+
+Machine Total                       4.00
+Total Inventory Added               4.00
+----------------------------------------
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                         78
+001/30/20 09:18 AM
+Stephen
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Reject Notes Removed                4.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Removed (Mutilated) Notes           4.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         79
+001/30/20 09:19 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+ *** Inventory Load Partial Reversal ***
+ 
+
+Original Amount Loaded            504.00
+Reversed Amount                   500.00
+
+(Inventory Load)                        
+Transaction #                         80
+001/30/20 09:20 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$2                    2             4.00
+$1                    5             5.00
+
+Machine Total                     504.00
+Total Inventory Added             504.00
+----------------------------------------
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                         81
+001/30/20 09:23 AM
+Stephen
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Reject Notes Removed                4.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Removed (Mutilated) Notes           4.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+       TCR Error #570GC00 Occurred      
+
+(Online Mix Dispense)                   
+Transaction #                         82
+001/30/20 09:25 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/30/20 09:26 AM
+
+Logon:                           Stephen
+001/30/20 10:23 AM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded              5.00
+Reversed Amount                     5.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 10:26 AM
+Stephen
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded             25.00
+Reversed Amount                    25.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 10:27 AM
+Stephen
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded             30.00
+Reversed Amount                    30.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 10:28 AM
+Stephen
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            140.00
+Reversed Amount                   140.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 10:29 AM
+Stephen
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            100.00
+Reversed Amount                   100.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 10:30 AM
+Stephen
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            200.00
+Reversed Amount                   200.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 10:30 AM
+Stephen
+
+
+
+(Inventory Load)                        
+Transaction #                         83
+001/30/20 10:31 AM
+Stephen
+
+Denom            Pieces            Value
+$2                    2             4.00
+
+Machine Total                       4.00
+Total Inventory Added               4.00
+----------------------------------------
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                         84
+001/30/20 10:32 AM
+Stephen
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Reject Notes Removed                4.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Removed (Mutilated) Notes           4.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+ *** Inventory Load Partial Reversal ***
+ 
+
+Original Amount Loaded              9.00
+Reversed Amount                     5.00
+
+(Inventory Load)                        
+Transaction #                         85
+001/30/20 10:33 AM
+Stephen
+
+Denom            Pieces            Value
+$2                    2             4.00
+
+Machine Total                       4.00
+Total Inventory Added               4.00
+----------------------------------------
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                         86
+001/30/20 10:33 AM
+Stephen
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Reject Notes Removed                4.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Removed (Mutilated) Notes           4.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded              5.00
+Reversed Amount                     5.00
+
+(Inventory Load)                        
+Transaction #                         87
+001/30/20 10:46 AM
+Stephen
+
+Denom            Pieces            Value
+$1                    5             5.00
+
+Machine Total                       5.00
+Total Inventory Added               5.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded             30.00
+Reversed Amount                    30.00
+
+(Inventory Load)                        
+Transaction #                         88
+001/30/20 10:49 AM
+Stephen
+
+Denom            Pieces            Value
+$10                   3            30.00
+
+Machine Total                      30.00
+Total Inventory Added              30.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            140.00
+Reversed Amount                   140.00
+
+(Inventory Load)                        
+Transaction #                         89
+001/30/20 10:52 AM
+Stephen
+
+Denom            Pieces            Value
+$20                   7           140.00
+
+Machine Total                     140.00
+Total Inventory Added             140.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            100.00
+Reversed Amount                   100.00
+
+(Inventory Load)                        
+Transaction #                         90
+001/30/20 10:53 AM
+Stephen
+
+Denom            Pieces            Value
+$50                   2           100.00
+
+Machine Total                     100.00
+Total Inventory Added             100.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            200.00
+Reversed Amount                   200.00
+
+(Inventory Load)                        
+Transaction #                         91
+001/30/20 10:54 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+
+Machine Total                     200.00
+Total Inventory Added             200.00
+----------------------------------------
+       *** Cassette 3 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         92
+001/30/20 10:55 AM
+Stephen
+
+Denom            Pieces            Value
+$5                   25           125.00
+
+Total Inventory Removed           125.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         93
+001/30/20 10:56 AM
+Stephen
+
+Denom            Pieces            Value
+$5                   25           125.00
+
+Machine Total                     125.00
+Deposit Total                     125.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/30/20 10:56 AM
+
+Logon:                           Stephen
+001/30/20 10:56 AM
+
+(Inventory Load)                        
+Transaction #                         94
+001/30/20 11:05 AM
+Stephen
+
+Denom            Pieces            Value
+$5                    5            25.00
+
+Machine Total                      25.00
+Total Inventory Added              25.00
+----------------------------------------
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 11:06 AM
+Stephen
+
+
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 11:08 AM
+Stephen
+
+
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 11:10 AM
+Stephen
+
+
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 11:10 AM
+Stephen
+
+
+
+(Inventory Removal)                     
+Transaction #                         95
+001/30/20 11:11 AM
+Stephen
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Total Inventory Removed            10.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         96
+001/30/20 11:12 AM
+Stephen
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Machine Total                      10.00
+Total Inventory Added              10.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         97
+001/30/20 11:13 AM
+Stephen
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Total Inventory Removed            10.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded             10.00
+Reversed Amount                    10.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 11:14 AM
+Stephen
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded             10.00
+Reversed Amount                    10.00
+
+(Inventory Load)                        
+Transaction #                         98
+001/30/20 11:17 AM
+Stephen
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Machine Total                      10.00
+Total Inventory Added              10.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         99
+001/30/20 11:17 AM
+Stephen
+
+Denom            Pieces            Value
+$5                    5            25.00
+
+Total Inventory Removed            25.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                        100
+001/30/20 11:19 AM
+Stephen
+
+Denom            Pieces            Value
+$5                    5            25.00
+
+Machine Total                      25.00
+Total Inventory Added              25.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                        101
+001/30/20 11:21 AM
+Stephen
+
+Denom            Pieces            Value
+$5                    5            25.00
+
+Total Inventory Removed            25.00
+----------------------------------------
+       TCR Error #570GC00 Occurred      
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded             25.00
+Reversed Amount                    25.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 11:28 AM
+Stephen
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded             25.00
+Reversed Amount                    25.00
+
+(Inventory Load)                        
+Transaction #                        102
+001/30/20 11:31 AM
+Stephen
+
+Denom            Pieces            Value
+$5                    5            25.00
+
+Machine Total                      25.00
+Total Inventory Added              25.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                        103
+001/30/20 11:32 AM
+Stephen
+
+Denom            Pieces            Value
+$5                    5            25.00
+
+Total Inventory Removed            25.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded             25.00
+Reversed Amount                    25.00
+
+(Inventory Load)                        
+Transaction #                        104
+001/30/20 11:33 AM
+Stephen
+
+Denom            Pieces            Value
+$5                    5            25.00
+
+Machine Total                      25.00
+Total Inventory Added              25.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                        105
+001/30/20 11:34 AM
+Stephen
+
+Denom            Pieces            Value
+$5                    5            25.00
+
+Total Inventory Removed            25.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded             25.00
+Reversed Amount                    25.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 11:36 AM
+Stephen
+
+
+
+(Inventory Load)                        
+Transaction #                        106
+001/30/20 11:38 AM
+Stephen
+
+Denom            Pieces            Value
+$5                    5            25.00
+
+Machine Total                      25.00
+Total Inventory Added              25.00
+----------------------------------------
+       TCR Error #5D0GC00 Occurred      
+      TCR Result Code 114 Occurred      
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/30/20 11:49 AM
+Stephen
+
+
+
+(Online Mix Dispense)                   
+Transaction #                        107
+001/30/20 11:50 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                        108
+001/30/20 11:51 AM
+Stephen
+
+Denom            Pieces            Value
+$2                    1             2.00
+
+Machine Total                       2.00
+Total Inventory Added               2.00
+----------------------------------------
+      TCR Result Code 114 Occurred      
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 11:55 AM
+Stephen
+
+
+      TCR Result Code 114 Occurred      
+
+(Inventory Load)                        
+Transaction #                        109
+001/30/20 11:58 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                     500.00
+Total Inventory Added             500.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                        110
+001/30/20 11:59 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   500.00
+----------------------------------------
+      TCR Result Code 114 Occurred      
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            500.00
+Reversed Amount                   500.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 12:07 PM
+Stephen
+
+
+      TCR Result Code 114 Occurred      
+
+(Inventory Load)                        
+Transaction #                        111
+001/30/20 12:11 PM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                     500.00
+Total Inventory Added             500.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                        112
+001/30/20 12:14 PM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   500.00
+----------------------------------------
+      TCR Result Code 114 Occurred      
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            500.00
+Reversed Amount                   500.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/30/20 12:18 PM
+Stephen
+
+
+      TCR Result Code 114 Occurred      
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            500.00
+Reversed Amount                   500.00
+
+(Inventory Load)                        
+Transaction #                        113
+001/30/20 12:24 PM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                     500.00
+Total Inventory Added             500.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                        114
+001/30/20 12:24 PM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   500.00
+----------------------------------------
+      TCR Result Code 114 Occurred      
+      TCR Result Code 114 Occurred      
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            500.00
+Reversed Amount                   500.00
+
+(Inventory Load)                        
+Transaction #                        115
+001/30/20 12:30 PM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                     500.00
+Total Inventory Added             500.00
+----------------------------------------
+      TCR Result Code 114 Occurred      
+
+             Deposit Failure            
+    *** Possible Partial Deposit ***    
+
+(Inventory Load)                        
+Transaction #                        116
+001/30/20 12:32 PM
+Stephen
+
+Denom            Pieces            Value
+$2                    1             2.00
+
+Machine Total                       2.00
+Total Inventory Added               2.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                        117
+001/30/20 12:37 PM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   500.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.135 (MoniSafe 500S)   
+
+              DynaCore Test             
+        9000 Stinson Hartis Road        
+         Indian Trail, NC 28079         
+          Drive Through Window          
+
+Station:                              47
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                           Stephen
+001/30/20 12:42 PM
+       TCR Error #5D0GD00 Occurred      
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/30/20 02:03 PM
+
+Logon:                               Ray
+001/30/20 02:04 PM
+
+Logon:                           Stephen
+001/30/20 02:04 PM
+       TCR Error #5D0GC00 Occurred      
+       TCR Error #5D0GC00 Occurred      
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.135 (MoniSafe 500S)   
+
+              DynaCore Test             
+        9000 Stinson Hartis Road        
+         Indian Trail, NC 28079         
+          Drive Through Window          
+
+Station:                              47
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                           Stephen
+001/30/20 02:36 PM
+
+   *** Entered Configuration Mode ***   
+001/30/20 02:36 PM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/30/20 02:36 PM
+ID:                              Stephen
+       TCR Error #5D0GD00 Occurred      
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/30/20 02:38 PM
+
+Logon:                           Stephen
+001/30/20 02:39 PM
+
+Logoff:                          Stephen
+001/30/20 02:39 PM
+
+Logon:                               ray
+001/30/20 02:41 PM
+       TCR Error #5D0GD00 Occurred      
+
+      *** Client Disconnection ***      
+Logoff:                              ray
+001/30/20 03:18 PM

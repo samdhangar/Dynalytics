@@ -1,0 +1,186 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.143 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              Josh
+01/01/20 09:15 AM
+
+   *** Entered Configuration Mode ***   
+01/01/20 09:15 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+01/01/20 09:15 AM
+ID:                                 Josh
+
+
+========================================
+            Hardware Settings           
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser             No Coin Usage
+Bill Discriminator      Cassida Pro Zeus
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          150
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0b:82:27
+LAN 1 IP Address           192.168.1.231
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0b:82:ef
+LAN 2 IP Address           192.168.1.232
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.143
+Release Date                    08/30/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           1.1.0.085
+Min. DynaCash Version          4.3.0.065
+Min. DynaLog Server Version    2.0.0.005
+Min. DynaLog Viewer Version    2.0.0.000
+========================================
+
+
+(Inventory Load)                        
+Transaction #                          1
+01/01/20 09:15 AM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Machine Total                     100.00
+Total Inventory Added             100.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.143 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              Josh
+01/01/20 11:12 AM
+
+(Online Deposit)                        
+Transaction #                          2
+01/01/20 11:12 AM
+Josh
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+
+$1                   19            19.00
+
+Other Cash Deposited               19.00
+
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                          3
+01/01/20 11:14 AM
+Josh
+
+Denom            Pieces            Value
+$20                   4            80.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    5             5.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/01/20 11:16 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+01/01/20 11:19 AM
+ID:                                 Josh
+
+   *** Entered Configuration Mode ***   
+01/01/20 11:20 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+01/01/20 11:21 AM
+ID:                                 Josh
+
+   *** Entered Configuration Mode ***   
+01/01/20 11:26 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+01/01/20 11:26 AM
+ID:                                 Josh
+
+   *** Entered Configuration Mode ***   
+01/01/20 11:26 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+01/01/20 11:27 AM
+ID:                                 Josh
+
+Logoff:                             Josh
+01/01/20 11:28 AM

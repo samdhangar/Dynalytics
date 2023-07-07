@@ -1,0 +1,1072 @@
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       OKI TG7 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: LAN           
+
+                 OKI TG7                
+                Test Unit               
+                TCR Hall                
+
+Station #                             92
+
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       OKI TG7 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: LAN           
+
+                 OKI TG7                
+                Test Unit               
+                TCR Hall                
+
+Station #                             92
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/30/20
+Time                          8:08:22 AM
+           Manager Logged Off           
+Manager #                              1
+Date                             01/30/20
+Time                          8:09:17 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/30/20
+Time                          8:09:19 AM
+
+========================================
+             Activity Report            
+Station #                             92
+Date                             01/30/20
+Time                          8:09:21 AM
+Manager #                              1
+         No Teller Transactions         
+----------------------------------------
+            Side A Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Deposited                      .00
+----------------------------------------
+            Side B Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   2           100.00
+$20                   5           100.00
+$10                  12           120.00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Deposited                   320.00
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   2           100.00
+$20                   5           100.00
+$10                  12           120.00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Deposited                   320.00
+# of Deposits                          0
+========================================
+----------------------------------------
+            Side A Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+----------------------------------------
+            Side B Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   2           100.00
+$20                   5           100.00
+$10                  12           120.00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                   320.00
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   2           100.00
+$20                   5           100.00
+$10                  12           120.00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                   320.00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                193         19300.00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    1             2.00
+$1                    0              .00
+Starting Inventory              39152.00
+Net Adjustments                  2350.00
+Total Inventory                 19302.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                501         50100.00
+$50                  34          1700.00
+$20                 321          6420.00
+$10                 535          5350.00
+$5                  190           950.00
+$1                   10            10.00
+Total Dispensable Bills         64530.00
+
+----------------------------------------
+   Missing/Inoperative Cassette Bills   
+----------------------------------------
+$100                501         50100.00
+$50                  34          1700.00
+$20                 321          6420.00
+$10                 535          5350.00
+$5                  190           950.00
+$1                   10            10.00
+Total Missing Cass. Bills       64530.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$20                  32           640.00
+$10                  16           160.00
+Unknown Bills       114              .00
+Total Reject Bills                800.00
+
+Cass. 1 ($20)       321          6420.00
+Cass. 2 ($10)       535          5350.00
+Cass. 3 ($5)        190           950.00
+Cass. 4 ($1)         10            10.00
+Cass. 5 ($50)        34          1700.00
+Cass. 9 ($100)      501         50100.00
+               Ones Empty               
+               Fives Empty              
+               Tens Empty               
+             Twenties Empty             
+              Fifties Empty             
+             Hundreds Empty             
+              Cass. 1 Empty             
+              Cass. 2 Empty             
+              Cass. 3 Empty             
+              Cass. 4 Empty             
+              Cass. 5 Empty             
+              Cass. 9 Empty             
+========================================
+
+       Teller Grand Totals Cleared      
+            Activity Cleared            
+
+
+
+
+
+
+
+Cass. 1 Adjustment Pending      -6420.00
+New Cassette Total                   .00
+
+Cass. 2 Adjustment Pending      -5350.00
+New Cassette Total                   .00
+
+Cass. 3 Adjustment Pending       -950.00
+New Cassette Total                   .00
+
+Cass. 4 Adjustment Pending        -10.00
+New Cassette Total                   .00
+
+Cass. 5 Adjustment Pending      -1700.00
+New Cassette Total                   .00
+
+       TCR Error #29-0902 Occurred      
+        Line Error: Call Service        
+  *** Inventory Adjustment Failed! ***  
+           Manager Logged Off           
+Manager #                              1
+Date                             01/30/20
+Time                          8:19:42 AM
+****************************************
+             Deposit Failure            
+
+(Vault Sell)                            
+Date                             01/30/20
+Time                          9:05:45 AM
+Teller #                               1
+
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       OKI TG7 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: LAN           
+
+                 OKI TG7                
+                Test Unit               
+                TCR Hall                
+
+Station #                             92
+
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       OKI TG7 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: LAN           
+
+                 OKI TG7                
+                Test Unit               
+                TCR Hall                
+
+Station #                             92
+
+
+(Vault Sell)                            
+Transaction #                          1
+Date                             01/30/20
+Time                          9:11:19 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$1                    1             1.00
+
+Deposit Total                     181.00
+----------------------------------------
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/30/20
+Time                          9:11:33 AM
+
+(Inventory Removal)                     
+Transaction #                          2
+Date                             01/30/20
+Time                          9:12:02 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Total Inventory Removed            20.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          3
+Date                             01/30/20
+Time                          9:12:25 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Total Inventory Removed            10.00
+----------------------------------------
+       *** Cassette 2 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          4
+Date                             01/30/20
+Time                          9:13:02 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Total Inventory Removed             1.00
+----------------------------------------
+       *** Cassette 4 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          5
+Date                             01/30/20
+Time                          9:13:23 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$50                   1            50.00
+
+Total Inventory Removed            50.00
+----------------------------------------
+       *** Cassette 5 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          6
+Date                             01/30/20
+Time                          9:14:04 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Total Inventory Removed           100.00
+----------------------------------------
+       *** Cassette 9 Emptied ***       
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             92
+Denom            Pieces            Value
+$100                193         19300.00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    1             2.00
+$1                    0              .00
+Starting Inventory              19302.00
+Net Adjustments                  -181.00
+Total Inventory                 19302.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                501         50100.00
+$50                  34          1700.00
+$20                 321          6420.00
+$10                 535          5350.00
+$5                  190           950.00
+$1                   10            10.00
+Total Dispensable Bills         64530.00
+
+----------------------------------------
+   Missing/Inoperative Cassette Bills   
+----------------------------------------
+$100                501         50100.00
+$50                  34          1700.00
+$20                 321          6420.00
+$10                 535          5350.00
+$5                  190           950.00
+$1                   10            10.00
+Total Missing Cass. Bills       64530.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$20                  32           640.00
+$10                  16           160.00
+Unknown Bills       114              .00
+Total Reject Bills                800.00
+
+Cass. 1 ($20)       321          6420.00
+Cass. 2 ($10)       535          5350.00
+Cass. 3 ($5)        190           950.00
+Cass. 4 ($1)         10            10.00
+Cass. 5 ($50)        34          1700.00
+Cass. 9 ($100)      501         50100.00
+               Ones Empty               
+               Fives Empty              
+               Tens Empty               
+             Twenties Empty             
+              Fifties Empty             
+             Hundreds Empty             
+              Cass. 1 Empty             
+              Cass. 2 Empty             
+              Cass. 3 Empty             
+              Cass. 4 Empty             
+              Cass. 5 Empty             
+              Cass. 9 Empty             
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/30/20
+Time                          9:14:12 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/30/20
+Time                          9:14:16 AM
+
+========================================
+             Activity Report            
+Station #                             92
+Date                             01/30/20
+Time                          9:14:17 AM
+Manager #                              1
+========================================
+             Teller Activity            
+----------------------------------------
+Teller #                               1
+# of Deposits                          1
+# of Withdrawals                       0
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$1                    1             1.00
+
+Deposit Total                     181.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Net Total                        +181.00
+========================================
+----------------------------------------
+            Side A Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Deposited                      .00
+----------------------------------------
+            Side B Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    0              .00
+$2                    0              .00
+$1                    1             1.00
+Total Deposited                   181.00
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    0              .00
+$2                    0              .00
+$1                    1             1.00
+Total Deposited                   181.00
+# of Deposits                          1
+========================================
+----------------------------------------
+            Side A Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+----------------------------------------
+            Side B Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  1          +100.00
+$50                   1           +50.00
+$20                   1           +20.00
+$10                   1           +10.00
+$5                    0              .00
+$2                    0              .00
+$1                    1            +1.00
+Net Total                        +181.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                193         19300.00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    1             2.00
+$1                    0              .00
+Starting Inventory              19302.00
+Net Adjustments                  -181.00
+Total Inventory                 19302.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                501         50100.00
+$50                  34          1700.00
+$20                 321          6420.00
+$10                 535          5350.00
+$5                  190           950.00
+$1                   10            10.00
+Total Dispensable Bills         64530.00
+
+----------------------------------------
+   Missing/Inoperative Cassette Bills   
+----------------------------------------
+$100                501         50100.00
+$50                  34          1700.00
+$20                 321          6420.00
+$10                 535          5350.00
+$5                  190           950.00
+$1                   10            10.00
+Total Missing Cass. Bills       64530.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$20                  32           640.00
+$10                  16           160.00
+Unknown Bills       114              .00
+Total Reject Bills                800.00
+
+Cass. 1 ($20)       321          6420.00
+Cass. 2 ($10)       535          5350.00
+Cass. 3 ($5)        190           950.00
+Cass. 4 ($1)         10            10.00
+Cass. 5 ($50)        34          1700.00
+Cass. 9 ($100)      501         50100.00
+               Ones Empty               
+               Fives Empty              
+               Tens Empty               
+             Twenties Empty             
+              Fifties Empty             
+             Hundreds Empty             
+              Cass. 1 Empty             
+              Cass. 2 Empty             
+              Cass. 3 Empty             
+              Cass. 4 Empty             
+              Cass. 5 Empty             
+              Cass. 9 Empty             
+========================================
+
+       Teller Grand Totals Cleared      
+            Activity Cleared            
+
+
+
+
+
+
+
+           Manager Logged Off           
+Manager #                              1
+Date                             01/30/20
+Time                          9:14:33 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/30/20
+Time                          2:41:46 PM
+Cass. 4 Adjustment Pending        -10.00
+New Cassette Total                   .00
+
+Cass. 1 Adjustment Pending       -500.00
+New Cassette Total               5920.00
+
+       TCR Error #29-0901 Occurred      
+        Line Error: Call Service        
+  *** Inventory Adjustment Failed! ***  
+           Manager Logged Off           
+Manager #                              1
+Date                             01/30/20
+Time                          2:42:46 PM
+****************************************
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       OKI TG7 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: LAN           
+
+                 OKI TG7                
+                Test Unit               
+                TCR Hall                
+
+Station #                             92
+
+
+             TCR Link Error             
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       OKI TG7 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: LAN           
+
+                 OKI TG7                
+                Test Unit               
+                TCR Hall                
+
+Station #                             92
+
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       OKI TG7 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: LAN           
+
+                 OKI TG7                
+                Test Unit               
+                TCR Hall                
+
+Station #                             92
+
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       OKI TG7 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: LAN           
+
+                 OKI TG7                
+                Test Unit               
+                TCR Hall                
+
+Station #                             92
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/30/20
+Time                          2:52:59 PM
+Cass. 4 Adjustment Pending        -10.00
+New Cassette Total                   .00
+
+       TCR Error #29-0901 Occurred      
+        Line Error: Call Service        
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       OKI TG7 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: LAN           
+
+                 OKI TG7                
+                Test Unit               
+                TCR Hall                
+
+Station #                             92
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/30/20
+Time                          3:13:38 PM
+Cass. 4 Adjustment Pending        -10.00
+New Cassette Total                   .00
+
+
+(Cassette Adjustment)                   
+Transaction #                          1
+Date                             01/30/20
+Time                          3:13:53 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                   10           -10.00
+
+Total Net Added                     +.00
+Total Net Removed                 -10.00
+Total Net Adjusted                -10.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             92
+Denom            Pieces            Value
+$100                193         19300.00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    1             2.00
+$1                    0              .00
+Starting Inventory              19302.00
+Net Adjustments                   -10.00
+Total Inventory                 19302.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                501         50100.00
+$50                  34          1700.00
+$20                 321          6420.00
+$10                 535          5350.00
+$5                  190           950.00
+$1                    0              .00
+Total Dispensable Bills         64520.00
+
+----------------------------------------
+   Missing/Inoperative Cassette Bills   
+----------------------------------------
+$100                501         50100.00
+$50                  34          1700.00
+$20                 321          6420.00
+$10                 535          5350.00
+$5                  190           950.00
+Total Missing Cass. Bills       64520.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$20                  32           640.00
+$10                  16           160.00
+Unknown Bills       114              .00
+Total Reject Bills                800.00
+
+Cass. 1 ($20)       321          6420.00
+Cass. 2 ($10)       535          5350.00
+Cass. 3 ($5)        190           950.00
+Cass. 4 ($1)          0              .00
+Cass. 5 ($50)        34          1700.00
+Cass. 9 ($100)      501         50100.00
+               Ones Empty               
+               Fives Empty              
+               Tens Empty               
+             Twenties Empty             
+              Fifties Empty             
+             Hundreds Empty             
+              Cass. 1 Empty             
+              Cass. 2 Empty             
+              Cass. 3 Empty             
+              Cass. 4 Empty             
+              Cass. 5 Empty             
+              Cass. 9 Empty             
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/30/20
+Time                          3:13:59 PM
+****************************************
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       OKI TG7 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: LAN           
+
+                 OKI TG7                
+                Test Unit               
+                TCR Hall                
+
+Station #                             92
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/30/20
+Time                          4:48:14 PM
+
+========================================
+             Activity Report            
+Station #                             92
+Date                             01/30/20
+Time                          4:48:20 PM
+Manager #                              1
+         No Teller Transactions         
+----------------------------------------
+            Side A Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Deposited                      .00
+----------------------------------------
+            Side B Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Deposited                      .00
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+            Side A Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+----------------------------------------
+            Side B Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                193         19300.00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    1             2.00
+$1                    0              .00
+Starting Inventory              19302.00
+Net Adjustments                   -10.00
+Total Inventory                 19302.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                501         50100.00
+$50                  34          1700.00
+$20                 321          6420.00
+$10                 535          5350.00
+$5                  190           950.00
+$1                    0              .00
+Total Dispensable Bills         64520.00
+
+----------------------------------------
+   Missing/Inoperative Cassette Bills   
+----------------------------------------
+$100                501         50100.00
+$50                  34          1700.00
+$20                 321          6420.00
+$10                 535          5350.00
+$5                  190           950.00
+Total Missing Cass. Bills       64520.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$20                  32           640.00
+$10                  16           160.00
+Unknown Bills       114              .00
+Total Reject Bills                800.00
+
+Cass. 1 ($20)       321          6420.00
+Cass. 2 ($10)       535          5350.00
+Cass. 3 ($5)        190           950.00
+Cass. 4 ($1)          0              .00
+Cass. 5 ($50)        34          1700.00
+Cass. 9 ($100)      501         50100.00
+               Ones Empty               
+               Fives Empty              
+               Tens Empty               
+             Twenties Empty             
+              Fifties Empty             
+             Hundreds Empty             
+              Cass. 1 Empty             
+              Cass. 2 Empty             
+              Cass. 3 Empty             
+              Cass. 4 Empty             
+              Cass. 5 Empty             
+              Cass. 9 Empty             
+========================================
+
+
+
+
+
+
+
+           Manager Logged Off           
+Manager #                              1
+Date                             01/30/20
+Time                          4:56:58 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/30/20
+Time                          4:57:42 PM
+Cass. 1 Adjustment Pending      -6420.00
+New Cassette Total                   .00
+
+Cass. 2 Adjustment Pending      -5350.00
+New Cassette Total                   .00
+
+Cass. 3 Adjustment Pending       -950.00
+New Cassette Total                   .00
+
+Cass. 5 Adjustment Pending      -1700.00
+New Cassette Total                   .00
+
+Cass. 9 Adjustment Pending     -50100.00
+New Cassette Total                   .00
+
+
+(Cassette Adjustment)                   
+Transaction #                          2
+Date                             01/30/20
+Time                          4:59:27 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                501        -50100.00
+$50                  34         -1700.00
+$20                 321         -6420.00
+$10                 535         -5350.00
+$5                  190          -950.00
+
+Total Net Added                     +.00
+Total Net Removed              -64520.00
+Total Net Adjusted             -64520.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             92
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    1             2.00
+$1                    0              .00
+Starting Inventory              19302.00
+Net Adjustments                -64530.00
+Total Inventory                     2.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Bills              .00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$20                  32           640.00
+$10                  16           160.00
+Unknown Bills       114              .00
+Total Reject Bills                800.00
+
+Cass. 1 ($20)         0              .00
+Cass. 2 ($10)         0              .00
+Cass. 3 ($5)          0              .00
+Cass. 4 ($1)          0              .00
+Cass. 5 ($50)         0              .00
+Cass. 9 ($100)        0              .00
+               Ones Empty               
+               Fives Empty              
+               Tens Empty               
+             Twenties Empty             
+              Fifties Empty             
+             Hundreds Empty             
+              Cass. 1 Empty             
+              Cass. 2 Empty             
+              Cass. 3 Empty             
+              Cass. 4 Empty             
+              Cass. 5 Empty             
+              Cass. 9 Empty             
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/30/20
+Time                          4:59:33 PM
+****************************************

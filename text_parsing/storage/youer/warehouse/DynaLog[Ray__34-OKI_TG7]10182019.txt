@@ -1,0 +1,343 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/18/20 10:52 AM
+
+(Inventory Removal)                     
+Transaction #                         12
+01/18/20 10:53 AM
+Ray
+
+Denom            Pieces            Value
+200k                  1             200k
+10k                   5              50k
+
+Total Inventory Removed             250k
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         13
+01/18/20 10:53 AM
+Ray
+
+Denom            Pieces            Value
+500k                  1             500k
+
+Machine Total                       500k
+Total Inventory Added               500k
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+Denom            Pieces            Value
+500k                  2            1000k
+200k                  2             400k
+100k                  2             200k
+50k                   5             250k
+20k                   2              40k
+10k                   2              20k
+Starting Inventory                16910k
+Net Adjustments                  -56730k
+Total Inventory                    1910k
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+500k                  2            1000k
+200k                  2             400k
+100k                  2             200k
+50k                   5             250k
+20k                   2              40k
+10k                   2              20k
+Total Dispensable Notes            1910k
+
+Cass. 1 500k          2            1000k
+Cass. 2 200k          2             400k
+Cass. 3 100k          2             200k
+Cass. 4 10k           2              20k
+Cass. 5 50k           5             250k
+Cass. 10 20k          2              40k
+              10k Notes Low             
+              20k Notes Low             
+              50k Notes Low             
+             100k Notes Low             
+             200k Notes Low             
+             500k Notes Low             
+               Cass. A Low              
+               Cass. B Low              
+               Cass. C Low              
+               Cass. D Low              
+               Cass. E Low              
+              Cass. E2 Low              
+========================================
+
+
+
+
+
+
+
+       TCR Error #04-9099 Occurred      
+   Entrance/Exit In Improper Position   
+       TCR Error #04-9099 Occurred      
+   Entrance/Exit In Improper Position   
+       TCR Error #04-9099 Occurred      
+   Entrance/Exit In Improper Position   
+       TCR Error #31-5902 Occurred      
+      Clean And Inspect Escrow Unit     
+       TCR Error #31-5902 Occurred      
+      Clean And Inspect Escrow Unit     
+
+         *** Security Event! ***        
+            01/18/20 11:02 AM           
+      *** TCR Upper Unit Opened ***     
+
+         *** Security Event! ***        
+            01/18/20 11:02 AM           
+      *** TCR Upper Unit Closed ***     
+
+         *** Security Event! ***        
+            01/18/20 10:59 AM           
+     *** TCR Bill Reader Opened ***     
+
+         *** Security Event! ***        
+            01/18/20 11:00 AM           
+     *** TCR Bill Reader Closed ***     
+
+            Deposit Canceled            
+    *** Possible Partial Deposit ***    
+
+(Online Deposit)                        
+Transaction #                         14
+01/18/20 10:54 AM
+Ray
+
+Deposit Total                         0k
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/18/20 11:23 AM
+       TCR Error #04-9099 Occurred      
+   Entrance/Exit In Improper Position   
+
+         *** Security Event! ***        
+            01/18/20 11:26 AM           
+      *** TCR Upper Unit Opened ***     
+
+         *** Security Event! ***        
+            01/18/20 11:26 AM           
+      *** TCR Upper Unit Closed ***     
+       TCR Error #04-9099 Occurred      
+   Entrance/Exit In Improper Position   
+
+         *** Security Event! ***        
+            01/18/20 11:27 AM           
+      *** TCR Upper Unit Opened ***     
+
+         *** Security Event! ***        
+            01/18/20 11:28 AM           
+      *** TCR Upper Unit Closed ***     
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         40000k
+Reversed Amount                   40000k
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/18/20 11:29 AM
+Ray
+
+
+
+Logoff:                              Ray
+01/18/20 11:40 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/18/20 12:12 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/18/20 12:13 PM
+Ray
+
+
+
+
+Logoff:                              Ray
+01/18/20 12:13 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/18/20 12:17 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/18/20 12:18 PM
+Ray
+
+
+
+Logoff:                              Ray
+01/18/20 12:18 PM
+
+Logon:                               ray
+01/18/20 12:46 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/18/20 12:48 PM
+ray
+
+
+
+Logoff:                              ray
+01/18/20 12:48 PM
+
+Logon:                               ray
+01/18/20 12:49 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+          *** Power Failed ***          
+    *** Possible Partial Deposit ***    
+
+
+(Online Deposit)                        
+Transaction #                         15
+01/18/20 12:51 PM
+Ray
+
+Denom            Pieces            Value
+500k                 21           10500k
+100k                 31            3100k
+20k                 124            2480k
+10k                  24             240k
+
+Machine Total                     16320k
+Deposit Total                     16320k
+----------------------------------------
+
+Logon:                               Ray
+01/18/20 12:55 PM
+
+         *** Security Event! ***        
+            01/18/20 12:55 PM           
+      *** TCR Upper Unit Opened ***     
+
+         *** Security Event! ***        
+            01/18/20 12:55 PM           
+      *** TCR Upper Unit Closed ***     
+
+Logoff:                              Ray
+01/18/20 12:57 PM
+
+Logon:                               Ray
+01/18/20 12:58 PM
+
+             TCR Link Error             
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/18/20 12:59 PM
+
+Logon:                               Ray
+01/18/20 01:00 PM
+
+(Online Deposit)                        
+Transaction #                         16
+01/18/20 01:01 PM
+Ray
+
+Denom            Pieces            Value
+500k                 61           30500k
+100k                 31            3100k
+20k                 106            2120k
+10k                   2              20k
+
+Machine Total                     35740k
+Deposit Total                     35740k
+----------------------------------------
+
+Logoff:                              Ray
+01/18/20 01:39 PM

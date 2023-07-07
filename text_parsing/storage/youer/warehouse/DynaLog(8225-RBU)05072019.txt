@@ -1,0 +1,356 @@
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.60-DC       
+           DynaCash Mode: USB           
+
+
+
+Station #                           8225
+
+
+
+
+            RBU-11 Link Error           
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.60-DC       
+           DynaCash Mode: USB           
+
+
+
+Station #                           8225
+
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/07/20
+Time                          8:58:52 AM
+Coin  Adjusted                   +100.00
+New Coin Total                    199.90
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                           8225
+Denom            Pieces            Value
+$100                744         74400.00
+$50                 744         37200.00
+$20                 745         14900.00
+$10                 848          8480.00
+$5                  798          3990.00
+$2                    0              .00
+$1                  239           239.00
+Coin                              199.90
+Starting Inventory             139210.00
+Net Adjustments                   200.00
+Total Inventory                139408.90
+========================================
+
+           Manager Logged Off           
+Manager #                              1
+Date                             01/07/20
+Time                          8:59:04 AM
+****************************************
+            Side A Logged On            
+Date                             01/07/20
+Time                          9:00:00 AM
+Teller #                               1
+
+
+            RBU-11 Link Error           
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.60-DC       
+           DynaCash Mode: USB           
+
+
+
+Station #                           8225
+
+
+          *** Power Failed ***          
+
+
+            Partial Dispense            
+
+(Online Mix Dispense)                   
+Transaction #                          2
+Date                             01/07/20
+Time                          9:00:04 AM
+Teller #                               1
+
+Denom            Pieces            Value
+Coin                                 .10
+
+Amount Requested                    1.10
+Amount Tendered                      .10
+Balance Due                         1.00
+----------------------------------------
+            Side A Logged On            
+Date                             01/07/20
+Time                          9:05:00 AM
+Teller #                               1
+
+
+            RBU-11 Link Error           
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.60-DC       
+           DynaCash Mode: USB           
+
+
+
+Station #                           8225
+
+
+          *** Power Failed ***          
+
+
+(Online Mix Dispense)                   
+Transaction #                          3
+Date                             01/07/20
+Time                          9:05:05 AM
+Teller #                               1
+
+Denom            Pieces            Value
+Coin                                 .10
+
+Amount Tendered                      .10
+----------------------------------------
+            Side A Logged On            
+Date                             01/07/20
+Time                          9:17:00 AM
+Teller #                               1
+    RBU-11 Upper Unit Jam: Section 6    
+
+
+ REMOVE BILLS: RBU UPPER PATH (MACHINE) 
+
+
+
+(Online Mix Dispense)                   
+Transaction #                          4
+Date                             01/07/20
+Time                          9:17:04 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          5
+Date                             01/07/20
+Time                          9:18:13 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+            Side B Logged On            
+Date                             01/07/20
+Time                          9:18:48 AM
+Teller #                               1
+
+
+            RBU-11 Link Error           
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.60-DC       
+           DynaCash Mode: USB           
+
+
+
+Station #                           8225
+
+
+          *** Power Failed ***          
+
+
+(Online Mix Dispense)                   
+Transaction #                          6
+Date                             01/07/20
+Time                          9:18:53 AM
+Teller #                               1
+
+Denom            Pieces            Value
+Coin                                 .10
+
+Amount Tendered                      .10
+----------------------------------------
+            Side B Logged On            
+Date                             01/07/20
+Time                          9:20:21 AM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          7
+Date                             01/07/20
+Time                          9:20:26 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.60-DC       
+           DynaCash Mode: USB           
+
+
+
+Station #                           8225
+
+
+            Side B Logged On            
+Date                             01/07/20
+Time                          9:21:18 AM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          8
+Date                             01/07/20
+Time                          9:21:24 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.60-DC       
+           DynaCash Mode: USB           
+
+
+
+Station #                           8225
+
+
+            Side B Logged On            
+Date                             01/07/20
+Time                          9:55:01 AM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          9
+Date                             01/07/20
+Time                          9:55:06 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+
+
+Station #                           8225
+
+
+          *** Power Failed ***          
+
+
+(Reconciled Rejects)                    
+Transaction #                      31884
+Date                             5/08/50
+Time                         12:02:08 AM
+Manager #                     2059601447
+
+Denom            Pieces            Value
+$100              52230       5223000.00
+$50               10002        500100.00
+$20                5069        101380.00
+$10               58720        587200.00
+$5                32289        161445.00
+$2                52389        104778.00
+$1                58658         58658.00
+
+Reconciled Total              6736561.00
+----------------------------------------
+
+
+            RBU-11 Link Error           
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+
+
+Station #                           8225
+
+
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+
+
+Station #                           8225
+
+
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+
+
+Station #                           8225
+
+
+          *** Power Failed ***          
+
+
+            Partial Dispense            
+
+(Online Nominated Dispense)             
+Category 7                              
+Transaction #                       9056
+Date                             7/14/17
+Time                          5:09:30 PM
+Teller #                      2707697803
+Identifier 1         æ7>Œ˛~V5Â«JTö:≈œj
+Identifier 2        ≈œjW1cG–êO∫p÷C¯[R
+
+Denom            Pieces            Value
+$100               8805        880500.00
+$50               61700       3085000.00
+$20               29589        591780.00
+$10               13481        134810.00
+$5                 3745         18725.00
+$1                26005         26005.00
+Coin                               38.99
+
+Non-Cash Total             39810952.53ˇˇ
+Amount Requested           20499616.00ˇˇ
+Amount Tendered               4736858.99
+Balance Due                   6389223.87
+----------------------------------------

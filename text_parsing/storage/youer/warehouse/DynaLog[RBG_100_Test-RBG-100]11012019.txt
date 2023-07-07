@@ -1,0 +1,880 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.160 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.160 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/01/20 08:20 AM
+
+   *** Entered Configuration Mode ***   
+01/01/20 08:20 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/01/20 08:20 AM
+ID:                                 josh
+    *** Cassette Cass. 2 Emptied ***    
+    *** Cassette Cass. 4U Emptied ***   
+
+(Inventory Removal)                     
+Transaction #                         15
+01/01/20 08:21 AM
+Josh
+
+Denom            Pieces            Value
+$20                 140          2800.00
+$5                  163           815.00
+
+Total Inventory Removed          3615.00
+----------------------------------------
+
+         *** Security Event! ***        
+            01/01/20 08:22 AM           
+    *** TCR Main Safe Door Opened ***   
+
+         *** Security Event! ***        
+            01/01/20 08:22 AM           
+  *** TCR Main Storage Unit Opened ***  
+
+         *** Security Event! ***        
+            01/01/20 08:23 AM           
+  *** TCR Main Storage Unit Closed ***  
+
+         *** Security Event! ***        
+            01/01/20 08:23 AM           
+    *** TCR Main Safe Door Closed ***   
+       *** Cassette 5 Emptied ***       
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         16
+01/01/20 08:23 AM
+Josh
+
+Denom            Pieces            Value
+$100                138         13800.00
+
+Total Inventory Removed         13800.00
+----------------------------------------
+
+Logoff:                             josh
+01/01/20 08:32 AM
+
+   *** Entered Configuration Mode ***   
+01/01/20 08:33 AM
+ID:                               Level2
+
+Logon:                             addon
+01/01/20 08:33 AM
+
+    *** Exited Configuration Mode ***   
+01/01/20 08:46 AM
+ID:                                addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.160 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.160 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+           RBG-100 Link Error           
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.160 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.160 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.160 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/01/20 01:47 PM
+
+   *** Entered Configuration Mode ***   
+01/01/20 01:47 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/01/20 01:47 PM
+ID:                                 josh
+
+(Inventory Load)                        
+Transaction #                         17
+01/01/20 01:49 PM
+Josh
+
+Denom            Pieces            Value
+$100                138         13800.00
+$20                 140          2800.00
+$5                  163           815.00
+
+Machine Total                   17415.00
+Total Inventory Added           17415.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/01/20 01:49 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/01/20 01:50 PM
+ID:                                 josh
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/01/20 01:58 PM
+josh
+
+
+
+   *** Entered Configuration Mode ***   
+01/01/20 01:59 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/01/20 01:59 PM
+ID:                                 josh
+
+   *** Entered Configuration Mode ***   
+01/01/20 01:59 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/01/20 02:00 PM
+ID:                                 josh
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/01/20 02:03 PM
+josh
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.160 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.160 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.160 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/01/20 02:20 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/01/20 02:21 PM
+josh
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/01/20 02:27 PM
+josh
+
+
+       *** $1 Notes Collected ***       
+       *** $5 Notes Collected ***       
+       *** $10 Notes Collected ***      
+       *** $20 Notes Collected ***      
+      *** $100 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         18
+01/01/20 02:28 PM
+Josh
+
+Denom            Pieces            Value
+$100                 20          2000.00
+$20                  20           400.00
+$10                  20           200.00
+$5                   20           100.00
+$1                   20            20.00
+
+Total Inventory Collected        2720.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         19
+01/01/20 02:50 PM
+Ray
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                         20
+01/01/20 02:51 PM
+Chad
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Machine Total                     100.00
+Deposit Total                     100.00
+----------------------------------------
+
+========================================
+             Activity Report            
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+01/01/20 02:52 PM
+
+ID:                                 josh
+========================================
+              User Activity             
+----------------------------------------
+Josh
+# of Deposits                          2
+# of Withdrawals                       3
+
+Denom            Pieces            Value
+$100                 20          2000.00
+$50                  20          1000.00
+$20                  24           480.00
+$10                  21           210.00
+$5                   21           105.00
+$1                   25            25.00
+
+Deposit Total                    3820.00
+
+Denom            Pieces            Value
+$100                 20          2000.00
+$50                  20          1000.00
+$20                  24           480.00
+$10                  21           210.00
+$5                   21           105.00
+$1                   25            25.00
+
+Withdrawal Total                 3820.00
+----------------------------------------
+Net Total                     In Balance
+----------------------------------------
+Ray
+# of Deposits                          0
+# of Withdrawals                       1
+
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Withdrawal Total                  100.00
+----------------------------------------
+Net Total                        -100.00
+----------------------------------------
+Chad
+# of Deposits                          1
+# of Withdrawals                       0
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Deposit Total                     100.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Net Total                        +100.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                 20          2000.00
+$50                  20          1000.00
+$20                  29           580.00
+$10                  21           210.00
+$5                   21           105.00
+$2                    0              .00
+$1                   25            25.00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                    3920.00
+Total Deposited                  3920.00
+# of Deposits                          3
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                 20          2000.00
+$50                  20          1000.00
+$20                  29           580.00
+$10                  21           210.00
+$5                   21           105.00
+$1                   25            25.00
+Total Dispensed                  3920.00
+# of Withdrawals                       4
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                138         13800.00
+$50                 192          9600.00
+$20                 140          2800.00
+$10                 246          2460.00
+$5                  163           815.00
+$2                    0              .00
+$1                  184           184.00
+Starting Inventory            1570000.00
+Net Adjustments                  4919.00
+Total Inventory                 29659.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                118         11800.00
+$50                 192          9600.00
+$20                 120          2400.00
+$10                 226          2260.00
+$5                  143           715.00
+$1                  164           164.00
+Total Dispensable Notes         26939.00
+
+----------------------------------------
+          Collection Box Notes          
+----------------------------------------
+$100                 20          2000.00
+$50                   0              .00
+$20                  20           400.00
+$10                  20           200.00
+$5                   20           100.00
+$2                    0              .00
+$1                   20            20.00
+Total Collected Notes            2720.00
+
+Cass. 1 $1          164           164.00
+Cass. 2 $5          143           715.00
+Cass. 3 $10         226          2260.00
+Cass. 4U $20        120          2400.00
+Cass. 4L $50        192          9600.00
+Cass. 5 $100        118         11800.00
+               Cass. 1 Low              
+               Cass. 2 Low              
+               Cass. 3 Low              
+               Cass. 5 Low              
+========================================
+
+        User Grand Totals Cleared       
+            Activity Cleared            
+
+
+
+
+
+
+
+
+(Vault Buy)                             
+Transaction #                          1
+01/01/20 02:53 PM
+Chad
+
+Denom            Pieces            Value
+$1                   50            50.00
+
+Amount Tendered                    50.00
+----------------------------------------
+      RBG-100 Error #3901 Occurred      
+
+
+         *** Security Event! ***        
+            01/01/20 02:56 PM           
+      *** TCR Upper Unit Opened ***     
+
+         *** Security Event! ***        
+            01/01/20 02:56 PM           
+      *** TCR Upper Unit Closed ***     
+
+(Online Deposit)                        
+Transaction #                          2
+01/01/20 02:59 PM
+Josh
+
+Denom            Pieces            Value
+$1                   50            50.00
+
+Machine Total                      50.00
+Deposit Total                      50.00
+----------------------------------------
+
+Logoff:                             josh
+01/01/20 03:53 PM
+
+   *** Entered Configuration Mode ***   
+01/01/20 04:03 PM
+ID:                               Level2
+
+Logon:                             addon
+01/01/20 04:03 PM
+
+    *** Exited Configuration Mode ***   
+01/01/20 04:03 PM
+ID:                                addon
+
+
+========================================
+             DynaCore Groups            
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+01/01/20 04:03 PM
+
+Group 0
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 2
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 3
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+========================================
+              User Settings             
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                 Yes
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.160 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+01/01/20 04:09 PM
+ID:                               Level2
+
+
+Logon:                             addon
+01/01/20 04:09 PM
+
+    *** Exited Configuration Mode ***   
+01/01/20 04:10 PM
+ID:                                addon
+
+
+========================================
+             DynaCore Groups            
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+01/01/20 04:10 PM
+
+Group 0
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master Users
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+IT Only
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Reboot System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 3
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.160 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              Josh
+01/01/20 04:11 PM
+
+
+Logoff:                             Josh
+01/01/20 04:11 PM
+
+Logon:                                 X
+01/01/20 04:11 PM
+
+Logoff:                                X
+01/01/20 04:11 PM

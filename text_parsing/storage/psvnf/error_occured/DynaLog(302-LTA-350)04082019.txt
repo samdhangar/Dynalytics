@@ -1,0 +1,1333 @@
+            Side A Logged On            
+Date                             4/08/19
+Time                          7:59:02 AM
+Teller #                             230
+            Side B Logged On            
+Date                             4/08/19
+Time                          8:00:13 AM
+Teller #                             298
+
+
+(Online Deposit)                        
+Transaction #                          1
+Date                             4/08/19
+Time                          8:08:29 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   6           120.00
+
+Deposit Total                     120.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                          2
+Date                             4/08/19
+Time                          8:15:05 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   2            40.00
+$10                   2            20.00
+$1                    7             7.00
+
+Deposit Total                      67.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                          3
+Date                             4/08/19
+Time                          8:17:15 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                  25           500.00
+
+Deposit Total                     800.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                          4
+Date                             4/08/19
+Time                          8:32:43 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+
+Deposit Total                      30.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                          5
+Date                             4/08/19
+Time                          8:34:27 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                  9           900.00
+$20                   2            40.00
+$1                    4             4.00
+
+Deposit Total                     944.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                          6
+Date                             4/08/19
+Time                          9:07:21 AM
+Teller #                             230
+
+Denom            Pieces            Value
+$20                   2            40.00
+$10                   1            10.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                          7
+Date                             4/08/19
+Time                          9:10:44 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$1                   50            50.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+Date                             4/08/19
+Time                          9:15:43 AM
+Teller #                             230
+
+Amount Requested                  200.00
+Amount Tendered                      .00
+Balance Due                       200.00
+----------------------------------------
+
+
+
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+Date                             4/08/19
+Time                          9:16:03 AM
+Teller #                             230
+
+Amount Requested                  200.00
+Amount Tendered                      .00
+Balance Due                       200.00
+----------------------------------------
+
+
+
+
+(Online Nominated Dispense)             
+Transaction #                          8
+Date                             4/08/19
+Time                          9:17:33 AM
+Teller #                             230
+
+Denom            Pieces            Value
+$20                  10           200.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                          9
+Date                             4/08/19
+Time                          9:23:42 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   5           250.00
+$20                 307          6140.00
+$10                   5            50.00
+$5                    4            20.00
+$1                    5             5.00
+
+Deposit Total                    6765.00
+----------------------------------------
+
+
+(Vault Sell)                            
+Transaction #                         10
+Date                             4/08/19
+Time                          9:27:17 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                  15           300.00
+$10                   4            40.00
+$5                    6            30.00
+
+Deposit Total                     370.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         11
+Date                             4/08/19
+Time                          9:28:36 AM
+Teller #                             230
+
+Denom            Pieces            Value
+$20                   4            80.00
+$5                    4            20.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         12
+Date                             4/08/19
+Time                          9:31:22 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   7           140.00
+$10                   1            10.00
+
+Amount Tendered                   150.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                         13
+Date                             4/08/19
+Time                          9:34:03 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   4            80.00
+$1                    2             2.00
+
+Deposit Total                      82.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         14
+Date                             4/08/19
+Time                          9:55:48 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                  5           500.00
+$50                   1            50.00
+
+Amount Tendered                   550.00
+----------------------------------------
+
+
+(Vault Sell)                            
+Transaction #                         15
+Date                             4/08/19
+Time                         10:01:28 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                  2           200.00
+$20                   2            40.00
+$10                   2            20.00
+$5                    2            10.00
+
+Deposit Total                     270.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         16
+Date                             4/08/19
+Time                         10:05:23 AM
+Teller #                             230
+
+Denom            Pieces            Value
+$100                  2           200.00
+$20                   6           120.00
+
+Amount Tendered                   320.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         17
+Date                             4/08/19
+Time                         10:14:04 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   6           120.00
+$5                    1             5.00
+$1                    2             2.00
+
+Amount Tendered                   127.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         18
+Date                             4/08/19
+Time                         10:44:10 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                  10           200.00
+$10                   6            60.00
+$5                    8            40.00
+
+Amount Tendered                   600.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         19
+Date                             4/08/19
+Time                         11:20:24 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                  5           500.00
+$20                  20           400.00
+$10                   7            70.00
+$5                    6            30.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         20
+Date                             4/08/19
+Time                         11:21:15 AM
+Teller #                             230
+
+Denom            Pieces            Value
+$50                   1            50.00
+$20                   5           100.00
+$10                   1            10.00
+$1                    4             4.00
+
+Amount Tendered                   164.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         21
+Date                             4/08/19
+Time                         11:22:58 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$10                   1            10.00
+$5                    1             5.00
+$1                    5             5.00
+
+Amount Tendered                    20.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         22
+Date                             4/08/19
+Time                         11:24:35 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                  7           700.00
+$20                   1            20.00
+
+Amount Tendered                   720.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                         23
+Date                             4/08/19
+Time                         11:27:06 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   8           160.00
+
+Deposit Total                     160.00
+----------------------------------------
+
+
+       *** Vault Sell Reversed ***      
+
+Original Amount Sold               20.00
+Reversed Amount                    20.00
+
+
+(Vault Sell)                            
+Transaction #                         24
+Date                             4/08/19
+Time                         11:29:24 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Deposit Total                      20.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                         25
+Date                             4/08/19
+Time                         11:34:03 AM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Deposit Total                      40.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         26
+Date                             4/08/19
+Time                         11:34:55 AM
+Teller #                             230
+
+Denom            Pieces            Value
+$20                   3            60.00
+$10                   2            20.00
+$5                    2            10.00
+$1                   10            10.00
+
+Amount Tendered                   100.00
+----------------------------------------
+        TCR Error #1231 Occurred        
+
+
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+Date                             4/08/19
+Time                         12:08:50 PM
+Teller #                             298
+
+Amount Requested                   20.00
+Amount Tendered                      .00
+Balance Due                        20.00
+----------------------------------------
+
+
+
+
+(Online Nominated Dispense)             
+Transaction #                         27
+Date                             4/08/19
+Time                         12:10:54 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   7           140.00
+$10                   1            10.00
+
+Amount Tendered                   150.00
+----------------------------------------
+****************************************
+            Manager Logged On           
+Manager #                            168
+Date                             4/08/19
+Time                         12:11:04 PM
+
+
+ *** Reject Box Was Emptied To Exit *** 
+ *** Rejects Need To Be Reconciled! *** 
+
+
+
+(Inventory Load)                        
+Transaction #                         28
+Date                             4/08/19
+Time                         12:12:05 PM
+Manager #                            168
+
+Denom            Pieces            Value
+$100                 27          2700.00
+$20                   1            20.00
+$1                    1             1.00
+
+Total Inventory Added            2721.00
+----------------------------------------
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                            302
+Denom            Pieces            Value
+$100                205         20500.00
+$50                 302         15100.00
+$20                 756         15120.00
+$10                 106          1060.00
+$5                  357          1785.00
+$2                    0              .00
+$1                  264           264.00
+Starting Inventory              48462.00
+Net Adjustments                  2721.00
+Total Inventory                 53829.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                205         20500.00
+$50                 302         15100.00
+$20                 756         15120.00
+$10                 106          1060.00
+$5                  357          1785.00
+$1                  264           264.00
+Total Dispensable Bills         53829.00
+
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+Cass. 1 ($1)        264           264.00
+Cass. 2 ($5)        357          1785.00
+Cass. 3 ($20)       756         15120.00
+Cass. 4 ($100)      205         20500.00
+Cass. 5 ($10)       106          1060.00
+Cass. 6 ($50)       302         15100.00
+----------------------------------------
+          Verification Required         
+----------------------------------------
+Cass. 3                      Long Verify
+
+========================================
+
+           Manager Logged Off           
+Manager #                            168
+Date                             4/08/19
+Time                         12:12:33 PM
+****************************************
+
+
+(Online Nominated Dispense)             
+Transaction #                         29
+Date                             4/08/19
+Time                         12:18:24 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$50                   6           300.00
+$20                  10           200.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         30
+Date                             4/08/19
+Time                         12:22:51 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   7           140.00
+$10                   1            10.00
+
+Amount Tendered                   150.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                         31
+Date                             4/08/19
+Time                         12:48:06 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                  4           400.00
+$20                   3            60.00
+$10                   4            40.00
+
+Deposit Total                     500.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                         32
+Date                             4/08/19
+Time                         12:52:59 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                  15           300.00
+
+Deposit Total                     300.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         33
+Date                             4/08/19
+Time                         12:59:58 PM
+Teller #                             230
+
+Denom            Pieces            Value
+$5                    6            30.00
+
+Amount Tendered                    30.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         34
+Date                             4/08/19
+Time                          1:20:56 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                 39          3900.00
+$20                   1            20.00
+
+Amount Tendered                  3920.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         35
+Date                             4/08/19
+Time                          1:28:08 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                  14           280.00
+$1                    2             2.00
+
+Amount Tendered                   282.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                         36
+Date                             4/08/19
+Time                          1:53:06 PM
+Teller #                             230
+
+Denom            Pieces            Value
+$100                  4           400.00
+$20                   7           140.00
+
+Deposit Total                     540.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                         37
+Date                             4/08/19
+Time                          2:12:02 PM
+Teller #                             230
+
+Denom            Pieces            Value
+$20                  17           340.00
+
+Deposit Total                     340.00
+----------------------------------------
+
+
+(Vault Sell)                            
+Transaction #                         38
+Date                             4/08/19
+Time                          2:22:39 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                  7           700.00
+$50                   1            50.00
+
+Deposit Total                     750.00
+----------------------------------------
+
+            Side A Logged Off           
+Teller #                             230
+Date                             4/08/19
+Time                          2:26:53 PM
+
+            Side A Logged On            
+Date                             4/08/19
+Time                          2:27:00 PM
+Teller #                             230
+
+            Side B Logged Off           
+Teller #                             298
+Date                             4/08/19
+Time                          2:29:44 PM
+
+            Side B Logged On            
+Date                             4/08/19
+Time                          2:29:50 PM
+Teller #                             298
+
+
+(Vault Sell)                            
+Transaction #                         39
+Date                             4/08/19
+Time                          2:38:42 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                  2           200.00
+
+Deposit Total                     200.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         40
+Date                             4/08/19
+Time                          2:43:12 PM
+Teller #                             230
+
+Denom            Pieces            Value
+$50                 140          7000.00
+
+Amount Tendered                  7000.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         41
+Date                             4/08/19
+Time                          2:44:01 PM
+Teller #                             230
+
+Denom            Pieces            Value
+$100                 90          9000.00
+
+Amount Tendered                  9000.00
+----------------------------------------
+****************************************
+            Manager Logged On           
+Manager #                            168
+Date                             4/08/19
+Time                          2:47:19 PM
+
+
+ *** Reject Box Was Emptied To Exit *** 
+ *** Rejects Need To Be Reconciled! *** 
+
+
+
+(Inventory Load)                        
+Transaction #                         42
+Date                             4/08/19
+Time                          2:48:20 PM
+Manager #                            168
+
+Denom            Pieces            Value
+$100                 28          2800.00
+$50                   1            50.00
+
+Total Inventory Added            2850.00
+----------------------------------------
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                            302
+Denom            Pieces            Value
+$100                 93          9300.00
+$50                 157          7850.00
+$20                 766         15320.00
+$10                 109          1090.00
+$5                  351          1755.00
+$2                    0              .00
+$1                  262           262.00
+Starting Inventory              48462.00
+Net Adjustments                  5571.00
+Total Inventory                 35577.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                 93          9300.00
+$50                 157          7850.00
+$20                 766         15320.00
+$10                 109          1090.00
+$5                  351          1755.00
+$1                  262           262.00
+Total Dispensable Bills         35577.00
+
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+Cass. 1 ($1)        262           262.00
+Cass. 2 ($5)        351          1755.00
+Cass. 3 ($20)       766         15320.00
+Cass. 4 ($100)       93          9300.00
+Cass. 5 ($10)       109          1090.00
+Cass. 6 ($50)       157          7850.00
+----------------------------------------
+          Verification Required         
+----------------------------------------
+Cass. 3                      Long Verify
+
+========================================
+
+           Manager Logged Off           
+Manager #                            168
+Date                             4/08/19
+Time                          2:48:51 PM
+****************************************
+        TCR Error #1231 Occurred        
+
+
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+Date                             4/08/19
+Time                          2:54:23 PM
+Teller #                             298
+
+Amount Requested                   50.00
+Amount Tendered                      .00
+Balance Due                        50.00
+----------------------------------------
+
+
+
+
+(Online Nominated Dispense)             
+Transaction #                         43
+Date                             4/08/19
+Time                          2:54:55 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   2            40.00
+$10                   1            10.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                         44
+Date                             4/08/19
+Time                          2:57:27 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                  10           200.00
+
+Deposit Total                     200.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         45
+Date                             4/08/19
+Time                          3:23:08 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   2            40.00
+$10                   1            10.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         46
+Date                             4/08/19
+Time                          3:35:41 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+
+Amount Tendered                    35.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         47
+Date                             4/08/19
+Time                          3:45:28 PM
+Teller #                             230
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                         48
+Date                             4/08/19
+Time                          3:45:44 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                  5           500.00
+
+Deposit Total                     500.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         49
+Date                             4/08/19
+Time                          3:46:28 PM
+Teller #                             230
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+
+Amount Tendered                    30.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                         50
+Date                             4/08/19
+Time                          3:48:06 PM
+Teller #                             230
+
+Denom            Pieces            Value
+$1                    5             5.00
+
+Deposit Total                       5.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         51
+Date                             4/08/19
+Time                          3:53:38 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+
+(Vault Sell)                            
+Transaction #                         52
+Date                             4/08/19
+Time                          3:58:04 PM
+Teller #                             129
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$20                 100          2000.00
+
+Deposit Total                    3000.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         53
+Date                             4/08/19
+Time                          4:00:38 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   4            80.00
+$1                    4             4.00
+
+Amount Tendered                    84.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                         54
+Date                             4/08/19
+Time                          4:06:59 PM
+Teller #                             230
+
+Denom            Pieces            Value
+$100                 30          3000.00
+
+Deposit Total                    3000.00
+----------------------------------------
+
+
+(Vault Sell)                            
+Transaction #                         55
+Date                             4/08/19
+Time                          4:07:24 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                  3           300.00
+
+Deposit Total                     300.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         56
+Date                             4/08/19
+Time                          4:11:25 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   5           100.00
+$10                   4            40.00
+
+Amount Tendered                   140.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         57
+Date                             4/08/19
+Time                          4:12:57 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   5           100.00
+$1                    4             4.00
+
+Amount Tendered                   104.00
+----------------------------------------
+
+
+(Vault Sell)                            
+Transaction #                         58
+Date                             4/08/19
+Time                          4:15:37 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   5           100.00
+$10                   4            40.00
+
+Deposit Total                     140.00
+----------------------------------------
+
+
+(Vault Sell)                            
+Transaction #                         59
+Date                             4/08/19
+Time                          4:39:02 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$100                  9           900.00
+$50                   1            50.00
+$5                    1             5.00
+
+Deposit Total                     955.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         60
+Date                             4/08/19
+Time                          4:44:29 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                  25           500.00
+$10                   5            50.00
+
+Amount Tendered                   550.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         61
+Date                             4/08/19
+Time                          4:54:40 PM
+Teller #                             298
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+            Side B Logged Off           
+Teller #                             298
+Date                             4/08/19
+Time                          4:59:35 PM
+
+            Side B Logged On            
+Date                             4/08/19
+Time                          4:59:39 PM
+Teller #                             129
+
+            Side A Logged Off           
+Teller #                             230
+Date                             4/08/19
+Time                          4:59:48 PM
+
+
+            Side B Logged Off           
+Teller #                             129
+Date                             4/08/19
+Time                          5:00:14 PM
+
+****************************************
+            Manager Logged On           
+Manager #                            168
+Date                             4/08/19
+Time                          5:00:57 PM
+
+
+========================================
+             Activity Report            
+Station #                            302
+Date                             4/08/19
+Time                          5:01:05 PM
+Manager #                            168
+========================================
+             Teller Activity            
+----------------------------------------
+Teller #                             129
+# of Deposits                          1
+# of Withdrawals                       0
+
+Deposit Total                    3000.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Net Total                       +3000.00
+----------------------------------------
+Teller #                             230
+# of Deposits                          4
+# of Withdrawals                      11
+
+Deposit Total                    3885.00
+
+Vault Buy Total                 16100.00
+Withdrawal Total                17094.00
+----------------------------------------
+Net Total                      -13209.00
+----------------------------------------
+Teller #                             298
+# of Deposits                         21
+# of Withdrawals                      22
+
+Deposit Total                   13513.00
+
+Vault Buy Total                    50.00
+Withdrawal Total                 9432.00
+----------------------------------------
+Net Total                       +4081.00
+========================================
+----------------------------------------
+            Side A Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                 34          3400.00
+$50                   0              .00
+$20                  24           480.00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    5             5.00
+Total Deposited                  3885.00
+----------------------------------------
+            Side B Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                 56          5600.00
+$50                   9           450.00
+$20                 508         10160.00
+$10                  22           220.00
+$5                   13            65.00
+$2                    0              .00
+$1                   18            18.00
+Total Deposited                 16513.00
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+Denom            Pieces            Value
+$100                 90          9000.00
+$50                   9           450.00
+$20                 532         10640.00
+$10                  22           220.00
+$5                   13            65.00
+$2                    0              .00
+$1                   23            23.00
+Total Deposited                 20398.00
+# of Deposits                         26
+========================================
+----------------------------------------
+            Side A Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   1            50.00
+$20                  32           640.00
+$10                   5            50.00
+$5                    8            40.00
+$1                   14            14.00
+Total Dispensed                   994.00
+----------------------------------------
+            Side B Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+$100                 58          5800.00
+$50                   9           450.00
+$20                 137          2740.00
+$10                  29           290.00
+$5                   17            85.00
+$1                   17            17.00
+Total Dispensed                  9382.00
+----------------------------------------
+               Vault Buys               
+----------------------------------------
+Denom            Pieces            Value
+$100                 90          9000.00
+$50                 140          7000.00
+$20                   4            80.00
+$10                   0              .00
+$5                    4            20.00
+$1                   50            50.00
+Vault Buy Total                 16150.00
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                150         15000.00
+$50                 150          7500.00
+$20                 173          3460.00
+$10                  34           340.00
+$5                   29           145.00
+$1                   81            81.00
+Total Dispensed                 26526.00
+# of Withdrawals                      33
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                 30         +3000.00
+$50                   1           -50.00
+$20                 363         +7260.00
+$10                  12          -120.00
+$5                   12           -60.00
+$2                    0              .00
+$1                    8            -8.00
+Net Total                       -6128.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                150         15000.00
+$50                 158          7900.00
+$20                 821         16420.00
+$10                 100          1000.00
+$5                  351          1755.00
+$2                    0              .00
+$1                  259           259.00
+Starting Inventory              48462.00
+Net Adjustments                  5571.00
+Total Inventory                 42334.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                150         15000.00
+$50                 158          7900.00
+$20                 821         16420.00
+$10                 100          1000.00
+$5                  351          1755.00
+$1                  259           259.00
+Total Dispensable Bills         42334.00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+Cass. 1 ($1)        259           259.00
+Cass. 2 ($5)        351          1755.00
+Cass. 3 ($20)       821         16420.00
+Cass. 4 ($100)      150         15000.00
+Cass. 5 ($10)       100          1000.00
+Cass. 6 ($50)       158          7900.00
+----------------------------------------
+          Verification Required         
+----------------------------------------
+Cass. 3                      Long Verify
+
+========================================
+
+
+       Teller Grand Totals Cleared      
+            Activity Cleared            
+
+
+
+
+
+
+
+
+
+
+           Manager Logged Off           
+Manager #                            168
+Date                             4/08/19
+Time                          5:06:43 PM
+****************************************

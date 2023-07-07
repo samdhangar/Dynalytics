@@ -1,0 +1,122 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.162 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                     MS500S Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+01/06/20 03:18 PM
+
+Logoff:                              Ray
+01/06/20 03:18 PM
+
+Logon:                               Ray
+01/06/20 03:20 PM
+
+   *** Entered Configuration Mode ***   
+01/06/20 03:24 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/06/20 03:26 PM
+ID:                                  Ray
+
+
+========================================
+            Security Settings           
+Station:                     MS500S Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         8:00    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                   Yes
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        0
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   5            50.00
+$5                    0              .00
+$1                   10            10.00
+========================================
+
+
+(Online Deposit)                        
+Transaction #                          1
+01/06/20 03:27 PM
+Ray
+
+Denom            Pieces            Value
+$10                  10           100.00
+$1                    5             5.00
+
+Machine Total                     105.00
+Deposit Total                     105.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/06/20 03:27 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/06/20 03:27 PM
+ID:                                  Ray
+
+(Online Nominated Dispense)             
+Transaction #                          2
+01/06/20 03:41 PM
+Ray
+
+Denom            Pieces            Value
+$10                  10           100.00
+$1                    5             5.00
+
+Amount Tendered                   105.00
+----------------------------------------
+
+Logoff:                              Ray
+01/06/20 03:42 PM
+
+Logon:                               Ray
+01/06/20 04:50 PM
+
+(Inventory Load)                        
+Transaction #                          3
+01/06/20 04:51 PM
+Ray
+
+Denom            Pieces            Value
+$20                   8           160.00
+$10                   4            40.00
+$5                   13            65.00
+$1                   71            71.00
+
+Machine Total                     336.00
+Total Inventory Added             336.00
+----------------------------------------

@@ -1,0 +1,822 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+      Version 10.00.141A (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+Logon:                              josh
+001/05/20 01:37 PM
+
+(Online Nominated Dispense)             
+Transaction #                          1
+001/05/20 01:38 PM
+josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Amount Tendered                   186.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/05/20 01:39 PM
+ID:                                 josh
+    *** Exited Configuration Mode ***   
+001/05/20 01:41 PM
+ID:                                 josh
+
+
+========================================
+            Hardware Settings           
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser               InstaChange
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+Coin Adjusted                       +.99
+New Coin Total                       .99
+
+(Inventory Adjustment)                  
+Transaction #                          2
+001/05/20 01:42 PM
+josh
+
+Coin                                +.99
+
+Total Net Added                     +.99
+Total Net Removed                   -.00
+Total Net Adjusted                  +.99
+----------------------------------------
+
+Logoff:                             josh
+001/05/20 01:43 PM
+
+Logon:                              josh
+001/05/20 01:44 PM
+
+(Online Mix Dispense)                   
+Transaction #                          3
+001/05/20 01:44 PM
+josh
+
+Denom            Pieces            Value
+Coin                                 .99
+
+Amount Tendered                      .99
+----------------------------------------
+
+Logoff:                             josh
+001/05/20 01:44 PM
+
+Logon:                              josh
+001/05/20 01:44 PM
+
+Coin Adjusted                       +.99
+New Coin Total                       .99
+
+(Inventory Adjustment)                  
+Transaction #                          4
+001/05/20 01:44 PM
+josh
+
+Coin                                +.99
+
+Total Net Added                     +.99
+Total Net Removed                   -.00
+Total Net Adjusted                  +.99
+----------------------------------------
+
+             Coin Link Error            
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+001/05/20 01:44 PM
+josh
+
+
+Amount Requested                     .99
+Amount Tendered                      .00
+Balance Due                          .99
+----------------------------------------
+
+
+   *** Entered Configuration Mode ***   
+001/05/20 01:44 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/05/20 01:44 PM
+ID:                                 josh
+
+
+========================================
+            Hardware Settings           
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser               InstaChange
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+             Coin Link Error            
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+001/05/20 01:45 PM
+josh
+
+
+Amount Requested                     .99
+Amount Tendered                      .00
+Balance Due                          .99
+----------------------------------------
+
+
+   *** Entered Configuration Mode ***   
+001/05/20 01:45 PM
+ID:                                 josh
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+      Version 10.00.141A (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+Logon:                              josh
+001/05/20 01:46 PM
+
+Coin Adjusted                       +.99
+New Coin Total                       .99
+
+(Inventory Adjustment)                  
+Transaction #                          1
+001/05/20 01:47 PM
+josh
+
+Coin                                +.99
+
+Total Net Added                     +.99
+Total Net Removed                   -.00
+Total Net Adjusted                  +.99
+----------------------------------------
+
+             Coin Link Error            
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+001/05/20 01:49 PM
+josh
+
+
+Amount Requested                     .99
+Amount Tendered                      .00
+Balance Due                          .99
+----------------------------------------
+
+
+   *** Entered Configuration Mode ***   
+001/05/20 01:49 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/05/20 01:50 PM
+ID:                                 josh
+
+
+========================================
+            Hardware Settings           
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+
+Logoff:                             josh
+001/05/20 01:50 PM
+
+Logon:                              josh
+001/05/20 01:51 PM
+
+             Coin Link Error            
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+001/05/20 01:51 PM
+josh
+
+
+Amount Requested                     .99
+Amount Tendered                      .00
+Balance Due                          .99
+----------------------------------------
+
+
+   *** Entered Configuration Mode ***   
+001/05/20 01:51 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/05/20 01:51 PM
+ID:                                 josh
+
+
+========================================
+            Hardware Settings           
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser               InstaChange
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+             Coin Link Error            
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+001/05/20 01:52 PM
+josh
+
+
+Amount Requested                     .99
+Amount Tendered                      .00
+Balance Due                          .99
+----------------------------------------
+
+
+Logoff:                             josh
+001/05/20 01:52 PM
+
+Logon:                              josh
+001/05/20 01:54 PM
+
+   *** Entered Configuration Mode ***   
+001/05/20 01:54 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/05/20 01:54 PM
+ID:                                 josh
+
+
+========================================
+            Hardware Settings           
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+Logoff:                             josh
+001/05/20 01:54 PM
+
+Logon:                              josh
+001/05/20 01:54 PM
+
+(Online Mix Dispense)                   
+Transaction #                          2
+001/05/20 01:54 PM
+josh
+
+Denom            Pieces            Value
+Coin                                 .50
+
+Amount Tendered                      .50
+----------------------------------------
+
+Logoff:                             josh
+001/05/20 01:54 PM
+
+Logon:                              josh
+001/05/20 01:55 PM
+
+(Online Mix Dispense)                   
+Transaction #                          3
+001/05/20 01:55 PM
+josh
+
+Denom            Pieces            Value
+Coin                                 .49
+
+Amount Tendered                      .49
+----------------------------------------
+
+Logoff:                             josh
+001/05/20 01:55 PM
+
+Logon:                              josh
+001/05/20 01:55 PM
+
+
+   *** Entered Configuration Mode ***   
+001/05/20 01:55 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/05/20 01:56 PM
+ID:                                 josh
+
+
+========================================
+            Hardware Settings           
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 2
+Coin Dispenser             No Coin Usage
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0b:82:8e
+LAN 1 IP Address           192.168.1.237
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.4
+LAN 1 DNS                        0.0.0.0
+
+LAN 2 MAC Address      00:03:f4:0b:83:56
+LAN 2 IP Address           192.168.1.238
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                        0.0.0.0
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version              10.00.141A
+Release Date                    08/13/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           1.1.0.085
+Min. DynaCash Version          4.3.0.065
+Min. DynaLog Server Version    2.0.0.005
+Min. DynaLog Viewer Version    2.0.0.000
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+      Version 10.00.141A (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+Logon:                              josh
+001/05/20 02:00 PM
+
+Logoff:                             josh
+001/05/20 02:01 PM
+
+Logon:                              josh
+001/05/20 02:08 PM
+
+Logoff:                             josh
+001/05/20 02:08 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+      Version 10.00.141A (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+   *** Entered Configuration Mode ***   
+001/05/20 03:04 PM
+ID:                                     
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+      Version 10.00.141B (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+   *** Entered Configuration Mode ***   
+001/05/20 03:10 PM
+ID:                                     
+
+    *** Exited Configuration Mode ***   
+001/05/20 03:10 PM
+ID:                                Addon
+
+
+========================================
+            Hardware Settings           
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser             No Coin Usage
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+      Version 10.00.141B (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+   *** Entered Configuration Mode ***   
+001/05/20 03:11 PM
+ID:                                     
+
+    *** Exited Configuration Mode ***   
+001/05/20 03:11 PM
+ID:                                Addon
+
+
+========================================
+              User Settings             
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+      Version 10.00.141B (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+      Version 10.00.141B (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                              josh
+001/05/20 04:25 PM
+
+   *** Entered Configuration Mode ***   
+001/05/20 04:25 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/05/20 04:25 PM
+ID:                                 josh
+
+
+========================================
+            Hardware Settings           
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser             No Coin Usage
+Bill Discriminator       Toshiba IBS-200
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/05/20 04:26 PM
+josh
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                             josh
+001/05/20 04:27 PM
+
+Logon:                              Josh
+001/05/20 04:28 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/05/20 04:28 PM
+Josh
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+      Version 10.00.141B (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                              Josh
+001/05/20 04:30 PM
+
+             TCR Link Error             
+             Deposit Failure            
+
+(Online Deposit)                        
+001/05/20 04:30 PM
+Josh
+
+
+
+      *** Client Disconnection ***      
+Logoff:                             Josh
+001/05/20 04:31 PM
+
+   *** Entered Configuration Mode ***   
+001/05/20 04:31 PM
+ID:                                     
+
+    *** Exited Configuration Mode ***   
+001/05/20 04:31 PM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+      Version 10.00.141B (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+Logon:                              Josh
+001/05/20 04:34 PM
+
+             TCR Link Error             
+             Deposit Failure            
+
+(Online Deposit)                        
+001/05/20 04:34 PM
+Josh
+
+
+
+      *** Client Disconnection ***      
+Logoff:                             Josh
+001/05/20 04:35 PM
+
+Logon:                              Josh
+001/05/20 04:36 PM
+
+   *** Entered Configuration Mode ***   
+001/05/20 04:36 PM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/05/20 04:36 PM
+ID:                                 Josh
+
+
+========================================
+            Hardware Settings           
+Station:                          237237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser             No Coin Usage
+Bill Discriminator       Toshiba IBS-200
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+Logoff:                             Josh
+001/05/20 04:36 PM
+
+Logon:                              Josh
+001/05/20 04:37 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/05/20 04:38 PM
+Josh
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                             Josh
+001/05/20 04:38 PM
+
+Logon:                              Josh
+001/05/20 04:39 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/05/20 04:39 PM
+Josh
+
+

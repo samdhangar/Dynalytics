@@ -1,0 +1,205 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+  *** Automatic System Memory Clear *** 
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                              josh
+001/30/20 10:19 AM
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:22 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:22 AM
+ID:                                 josh
+
+
+========================================
+            Hardware Settings           
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+TCD/TCR Address            192.168.1.115
+TCD/TCR Port                       60000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                              josh
+001/30/20 10:26 AM
+
+Logoff:                             josh
+001/30/20 10:26 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                              josh
+001/30/20 10:27 AM
+      TCR Error #FFFFFBAB Occurred      
+    Note Dispense Shortage Occurred!    
+            Dispense Failure            
+
+
+(Inventory Removal)                     
+001/30/20 10:27 AM
+josh
+
+
+Amount Requested                 1600.00
+Amount Tendered                      .00
+Balance Due                      1600.00
+----------------------------------------
+
+
+(Inventory Removal)                     
+Transaction #                          1
+001/30/20 10:28 AM
+Josh
+
+Denom            Pieces            Value
+$10                 100          1000.00
+$5                  100           500.00
+
+Total Inventory Removed          1500.00
+----------------------------------------
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         500.00
+Reversed Amount                   500.00
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/30/20 10:33 AM
+josh
+
+
+
+Logoff:                             josh
+001/30/20 10:33 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                              josh
+001/30/20 10:42 AM
+
+(Online Deposit)                        
+Transaction #                          2
+001/30/20 10:42 AM
+Josh
+
+Denom            Pieces            Value
+$5                  100           500.00
+
+Machine Total                     500.00
+Deposit Total                     500.00
+----------------------------------------
+      TCR Error #FFFF 3EC Occurred      
+  Undocumented TCR Error: Call Service  
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/30/20 10:44 AM
+josh
+
+
+
+Logoff:                             josh
+001/30/20 10:48 AM

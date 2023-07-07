@@ -1,0 +1,354 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.165 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           teller1
+01/12/20 04:23 PM
+
+(Online Mix Dispense)                   
+Transaction #                          1
+01/12/20 04:23 PM
+Teller1
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Duress Dispense)                       
+Transaction #                          2
+01/12/20 04:23 PM
+Teller1
+
+Denom            Pieces            Value
+$100                  8           800.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          3
+01/12/20 04:24 PM
+Teller1
+
+Denom            Pieces            Value
+$100                 24          2400.00
+$20                  21           420.00
+$10                   8            80.00
+$5                   15            75.00
+$1                   16            16.00
+
+Machine Total                    2991.00
+
+$50                   2           100.00
+
+Other Cash Deposited              100.00
+
+Deposit Total                    3091.00
+----------------------------------------
+
+Logoff:                          teller1
+01/12/20 04:26 PM
+
+Logon:                          manager1
+01/12/20 04:27 PM
+    *** Onboard Alarm Deactivated ***   
+     *** Duress Lockout Released ***    
+01/12/20 04:27 PM
+ID:                             manager1
+
+Logoff:                         manager1
+01/12/20 04:27 PM
+
+Logon:                           teller2
+01/12/20 04:27 PM
+
+(Online Mix Dispense)                   
+Transaction #                          4
+01/12/20 04:27 PM
+Teller2
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Amount Tendered                    20.00
+----------------------------------------
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited          20.00
+Reversed Amount                    20.00
+
+(Online Deposit)                        
+Transaction #                          5
+01/12/20 04:27 PM
+Teller2
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+
+$50                   2           100.00
+
+Other Cash Deposited              100.00
+
+Deposit Total                     120.00
+----------------------------------------
+
+Logoff:                          teller2
+01/12/20 04:28 PM
+
+Logon:                          manager1
+01/12/20 04:29 PM
+
+   *** Entered Configuration Mode ***   
+01/12/20 04:29 PM
+ID:                             manager1
+
+    *** Exited Configuration Mode ***   
+01/12/20 04:29 PM
+ID:                             manager1
+
+
+========================================
+            Hardware Settings           
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser               InstaChange
+Bill Discriminator       Toshiba IBS-200
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.165 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                          manager2
+01/12/20 04:31 PM
+
+========================================
+             Activity Report            
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+01/12/20 04:32 PM
+
+ID:                             manager2
+========================================
+              User Activity             
+----------------------------------------
+Teller1
+# of Deposits                          1
+# of Withdrawals                       2
+
+Denom            Pieces            Value
+$100                 24          2400.00
+$20                  21           420.00
+$10                   8            80.00
+$5                   15            75.00
+$1                   16            16.00
+
+$50                   2           100.00
+
+Other Cash Deposited              100.00
+Machine Total                    2991.00
+Deposit Total                    3091.00
+
+Denom            Pieces            Value
+$100                  8           800.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    6             6.00
+
+Withdrawal Total                 1001.00
+----------------------------------------
+Net Total                       +1990.00
+----------------------------------------
+Teller2
+# of Deposits                          1
+# of Withdrawals                       1
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+$50                   2           100.00
+
+Other Cash Deposited              100.00
+Machine Total                      20.00
+Deposit Total                     120.00
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Withdrawal Total                   20.00
+----------------------------------------
+Net Total                     In Balance
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                 24          2400.00
+$50                   0              .00
+$20                  22           440.00
+$10                   8            80.00
+$5                   15            75.00
+$2                    0              .00
+$1                   16            16.00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   4           200.00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited              200.00
+Machine Total                    3011.00
+Total Deposited                  3211.00
+# of Deposits                          2
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  8           800.00
+$50                   0              .00
+$20                   8           160.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    6             6.00
+Coin                                 .00
+Total Dispensed                  1021.00
+# of Withdrawals                       3
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                 16         +1600.00
+$50                   0              .00
+$20                  14          +280.00
+$10                   5           +50.00
+$5                   10           +50.00
+$2                    0              .00
+$1                   10           +10.00
+Coin                                 .00
+Net Total                       +1990.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                144         14400.00
+$50                 192          9600.00
+$20                 140          2800.00
+$10                 271          2710.00
+$5                  168           840.00
+$2                    0              .00
+$1                  219           219.00
+Coin                                 .00
+Starting Inventory            2857400.00
+Net Adjustments                      .00
+Total Inventory                 30569.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                144         14400.00
+$50                 192          9600.00
+$20                 140          2800.00
+$10                 271          2710.00
+$5                  168           840.00
+$1                  219           219.00
+Total Dispensable Notes         30569.00
+
+----------------------------------------
+          Collection Box Notes          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Notes                .00
+
+Cass. 1 $1          219           219.00
+Cass. 2 $5          168           840.00
+Cass. 3 $10         271          2710.00
+Cass. 4U $20        140          2800.00
+Cass. 4L $50        192          9600.00
+Cass. 5 $100        144         14400.00
+----------------------------------------
+          Verification Required         
+----------------------------------------
+Collection Box               Long Verify
+
+               Cass. 1 Low              
+               Cass. 2 Low              
+               Cass. 5 Low              
+         Collection Manipulated         
+========================================
+
+  *** Activity Clear Not Permitted ***  
+
+
+
+
+
+
+
+
+Logoff:                         manager2
+01/12/20 04:32 PM
+
+Logon:                          manager2
+01/12/20 04:33 PM

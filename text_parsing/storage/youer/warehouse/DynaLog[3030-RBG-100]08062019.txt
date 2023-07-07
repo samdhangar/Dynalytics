@@ -1,0 +1,685 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.137 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+   *** Entered Configuration Mode ***   
+001/06/20 09:49 AM
+ID:                                addon
+
+    *** Exited Configuration Mode ***   
+001/06/20 09:50 AM
+ID:                                addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.137 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+Logon:                               Ray
+001/06/20 01:04 PM
+       *** $1 Notes Collected ***       
+       *** $5 Notes Collected ***       
+       *** $10 Notes Collected ***      
+       *** $20 Notes Collected ***      
+      *** $100 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         12
+001/06/20 01:05 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Total Inventory Collected         136.00
+----------------------------------------
+
+Logoff:                              Ray
+001/06/20 01:08 PM
+
+Logon:                               Ray
+001/06/20 01:25 PM
+
+   *** Manual Note Removal Attempt ***  
+      *** No Notes Were Removed ***     
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/06/20 01:27 PM
+
+Logon:                               Ray
+001/06/20 01:35 PM
+
+   *** Manual Note Removal Attempt ***  
+      *** No Notes Were Removed ***     
+
+   *** Manual Note Removal Attempt ***  
+      *** No Notes Were Removed ***     
+
+   *** Manual Note Removal Attempt ***  
+      *** No Notes Were Removed ***     
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         13
+001/06/20 01:38 PM
+Ray
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Collection Notes Removed          136.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Reloaded Notes                    136.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+Logoff:                              Ray
+001/06/20 01:41 PM
+
+Logon:                               Ray
+001/06/20 01:50 PM
+       *** $1 Notes Collected ***       
+       *** $5 Notes Collected ***       
+       *** $10 Notes Collected ***      
+       *** $20 Notes Collected ***      
+      *** $100 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         14
+001/06/20 01:50 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Total Inventory Collected         136.00
+----------------------------------------
+
+Logoff:                              Ray
+001/06/20 01:51 PM
+
+Logon:                               Ray
+001/06/20 02:31 PM
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         15
+001/06/20 02:31 PM
+Ray
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Collection Notes Removed          136.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$100                  1          +100.00
+$20                   1           +20.00
+$10                   1           +10.00
+$5                    1            +5.00
+$1                    1            +1.00
+Differences                      +136.00
+----------------------------------------
+
+Logoff:                              Ray
+001/06/20 02:33 PM
+
+Logon:                               Ray
+001/06/20 02:39 PM
+       *** $1 Notes Collected ***       
+       *** $5 Notes Collected ***       
+       *** $10 Notes Collected ***      
+       *** $20 Notes Collected ***      
+      *** $100 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         16
+001/06/20 02:39 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Total Inventory Collected         136.00
+----------------------------------------
+
+Logoff:                              Ray
+001/06/20 02:40 PM
+
+Logon:                               Ray
+001/06/20 03:03 PM
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         17
+001/06/20 03:03 PM
+Ray
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Collection Notes Removed          136.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+
+Removed (Mutilated) Notes         135.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$1                    1            +1.00
+Differences                        +1.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         18
+001/06/20 03:04 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Total Inventory Removed             1.00
+----------------------------------------
+       *** $1 Notes Collected ***       
+
+
+(Inventory Collected)                   
+Transaction #                         19
+001/06/20 03:05 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Total Inventory Collected           1.00
+----------------------------------------
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         20
+001/06/20 03:06 PM
+Ray
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$1                    1             1.00
+
+Collection Notes Removed            1.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$1                    1            +1.00
+Differences                        +1.00
+----------------------------------------
+       *** $1 Notes Collected ***       
+
+
+(Inventory Collected)                   
+Transaction #                         21
+001/06/20 03:07 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Total Inventory Collected           1.00
+----------------------------------------
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         22
+001/06/20 03:07 PM
+Ray
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$1                    1             1.00
+
+Collection Notes Removed            1.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$1                    1            +1.00
+Differences                        +1.00
+----------------------------------------
+       *** $1 Notes Collected ***       
+
+
+(Inventory Collected)                   
+Transaction #                         23
+001/06/20 03:14 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Total Inventory Collected           1.00
+----------------------------------------
+
+Logoff:                              Ray
+001/06/20 03:14 PM
+
+Logon:                               Ray
+001/06/20 04:18 PM
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         24
+001/06/20 04:18 PM
+Ray
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$1                    1             1.00
+
+Collection Notes Removed            1.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$1                    1            +1.00
+Differences                        +1.00
+----------------------------------------
+       *** $1 Notes Collected ***       
+       *** $5 Notes Collected ***       
+       *** $10 Notes Collected ***      
+       *** $20 Notes Collected ***      
+      *** $100 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         25
+001/06/20 04:19 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Total Inventory Collected         136.00
+----------------------------------------
+
+   *** Manual Note Removal Attempt ***  
+      *** No Notes Were Removed ***     
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         26
+001/06/20 04:22 PM
+Ray
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Collection Notes Removed          136.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+
+Reloaded Notes                    135.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$1                    1            +1.00
+Differences                        +1.00
+----------------------------------------
+
+Logoff:                              Ray
+001/06/20 04:23 PM
+
+Logon:                               Ray
+001/06/20 04:26 PM
+       *** $1 Notes Collected ***       
+
+
+(Inventory Collected)                   
+Transaction #                         27
+001/06/20 04:26 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Total Inventory Collected           1.00
+----------------------------------------
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         28
+001/06/20 04:27 PM
+Ray
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$1                    1             1.00
+
+Collection Notes Removed            1.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$1                    1            +1.00
+Differences                        +1.00
+----------------------------------------
+       *** $1 Notes Collected ***       
+
+
+(Inventory Collected)                   
+Transaction #                         29
+001/06/20 04:27 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Total Inventory Collected           1.00
+----------------------------------------
+       *** $5 Notes Collected ***       
+
+
+(Inventory Collected)                   
+Transaction #                         30
+001/06/20 04:28 PM
+Ray
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Total Inventory Collected           5.00
+----------------------------------------
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         31
+001/06/20 04:28 PM
+Ray
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$5                    1             5.00
+$1                    1             1.00
+
+Collection Notes Removed            6.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$5                    1             5.00
+
+Reloaded Notes                      5.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$1                    1            +1.00
+Differences                        +1.00
+----------------------------------------
+       *** $1 Notes Collected ***       
+       *** $5 Notes Collected ***       
+
+
+(Inventory Collected)                   
+Transaction #                         32
+001/06/20 04:29 PM
+Ray
+
+Denom            Pieces            Value
+$5                    1             5.00
+$1                    1             1.00
+
+Total Inventory Collected           6.00
+----------------------------------------
+
+Logoff:                              Ray
+001/06/20 04:30 PM
+
+Logon:                               Ray
+001/06/20 04:32 PM
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         33
+001/06/20 04:32 PM
+Ray
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$5                    1             5.00
+$1                    1             1.00
+
+Collection Notes Removed            6.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$5                    1             5.00
+$1                    1             1.00
+
+Reloaded Notes                      6.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+Logoff:                              Ray
+001/06/20 04:33 PM

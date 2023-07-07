@@ -1,0 +1,627 @@
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    MoniSafe 500S Pgm. Ver. 5.6.10-DC   
+           DynaCash Mode: LAN           
+
+
+
+Station #                             47
+
+            Side A Logged On            
+Date                             0001/06/20
+Time                         12:12:00 PM
+Teller #                               1
+
+(Duress Dispense)                       
+Transaction #                         36
+Date                             0001/06/20
+Time                         12:12:18 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  21           420.00
+$10                   1            10.00
+
+Amount Tendered                   930.00
+----------------------------------------
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             0001/06/20
+Time                         12:15:14 PM
+         Duress Lockout Released        
+Date                             0001/06/20
+Time                         12:15:32 PM
+           Manager Logged Off           
+Manager #                              1
+Date                             0001/06/20
+Time                         12:15:33 PM
+****************************************
+
+(Vault Buy)                             
+Transaction #                         37
+Date                             0001/06/20
+Time                         12:22:40 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$50                   1            50.00
+
+Amount Tendered                    50.00
+----------------------------------------
+            Side A Logged Off           
+Teller #                               1
+Date                             0001/06/20
+Time                         12:48:13 PM
+
+(Vault Sell)                            
+Transaction #                         38
+Date                             0001/06/20
+Time                         12:48:35 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   5           250.00
+$20                   6           120.00
+$10                   3            30.00
+$5                    2            10.00
+$1                    1             1.00
+
+Deposit Total                     711.00
+----------------------------------------
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    MoniSafe 500S Pgm. Ver. 5.6.10-DC   
+           DynaCash Mode: LAN           
+
+
+
+Station #                             47
+
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    MoniSafe 500S Pgm. Ver. 5.6.10-DC   
+           DynaCash Mode: LAN           
+
+
+
+Station #                             47
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             0001/06/20
+Time                         12:54:11 PM
+           Manager Logged Off           
+Manager #                              1
+Date                             0001/06/20
+Time                         12:54:12 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             0001/06/20
+Time                         12:54:21 PM
+
+========================================
+             Activity Report            
+Station #                             47
+Date                             0001/06/20
+Time                         12:54:24 PM
+Manager #                              1
+========================================
+             Teller Activity            
+----------------------------------------
+Teller #                               1
+# of Deposits                          1
+# of Withdrawals                       3
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   5           250.00
+$20                   6           120.00
+$10                   3            30.00
+$5                    2            10.00
+$1                    1             1.00
+
+Deposit Total                     711.00
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   5           250.00
+$20                  21           420.00
+$10                   1            10.00
+$1                    1             1.00
+
+Withdrawal Total                  981.00
+----------------------------------------
+Net Total                        -270.00
+========================================
+----------------------------------------
+            Side A Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   5           250.00
+$20                   6           120.00
+$10                   3            30.00
+$5                    2            10.00
+$2                    0              .00
+$1                    1             1.00
+Total Deposited                   711.00
+----------------------------------------
+            Side B Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Deposited                      .00
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   5           250.00
+$20                   6           120.00
+$10                   3            30.00
+$5                    2            10.00
+$2                    0              .00
+$1                    1             1.00
+Total Deposited                   711.00
+# of Deposits                          1
+========================================
+----------------------------------------
+            Side A Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+Coin                                 .00
+Total Dispensed                   980.00
+----------------------------------------
+            Side B Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+Coin                                 .00
+Total Dispensed                     1.00
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+Coin                                 .00
+Total Dispensed                   981.00
+# of Withdrawals                       3
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                  15          -300.00
+$10                   2           +20.00
+$5                    2           +10.00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Net Total                        -270.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Starting Inventory                  1.00
+Net Adjustments                  1113.00
+Total Inventory                      .00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+Total Dispensable Bills              .00
+
+Cass. 1 ($1)          0              .00
+Cass. 2 ($1)          0              .00
+Cass. 3 ($1)          0              .00
+Cass. 4 ($1)          0              .00
+Cass. 5 ($1)          0              .00
+Cass. 6 ($1)          0              .00
+Cass. 7 ($1)          0              .00
+Cass. 8 ($1)          0              .00
+========================================
+
+       Teller Grand Totals Cleared      
+            Activity Cleared            
+
+
+
+
+
+
+
+           Manager Logged Off           
+Manager #                              1
+Date                             0001/06/20
+Time                         12:54:40 PM
+****************************************
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    MoniSafe 500S Pgm. Ver. 5.6.10-DC   
+           DynaCash Mode: LAN           
+
+
+
+Station #                             47
+
+
+(Vault Buy)                             
+Transaction #                          1
+Date                             0001/06/20
+Time                          1:01:06 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$100                  3           300.00
+
+Amount Tendered                   300.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                          2
+Date                             0001/06/20
+Time                          1:01:43 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$50                   5           250.00
+
+Amount Tendered                   250.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                          3
+Date                             0001/06/20
+Time                          1:02:18 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$20                  18           360.00
+
+Amount Tendered                   360.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                          4
+Date                             0001/06/20
+Time                          1:02:59 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$10                   5            50.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                          5
+Date                             0001/06/20
+Time                          1:03:37 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$5                    5            25.00
+$1                  100           100.00
+
+Amount Tendered                   125.00
+----------------------------------------
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             0001/06/20
+Time                          3:08:49 PM
+
+(Inventory Removal)                     
+Transaction #                          6
+Date                             0001/06/20
+Time                          3:10:04 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  369           369.00
+
+Total Inventory Removed           369.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+           Manager Logged Off           
+Manager #                              1
+Date                             0001/06/20
+Time                          3:42:55 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             0001/06/20
+Time                          3:42:58 PM
+
+(Inventory Load)                        
+Transaction #                          7
+Date                             0001/06/20
+Time                          3:43:43 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  18           360.00
+$10                   4            40.00
+$5                    5            25.00
+$1                  374           374.00
+
+Total Inventory Added            1299.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             47
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  18           360.00
+$10                  82           820.00
+$5                   95           475.00
+$2                    0              .00
+$1                 1404          1404.00
+Coin                                 .00
+Starting Inventory                   .00
+Net Adjustments                   930.00
+Total Inventory                  3559.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  3           300.00
+$50                   4           200.00
+$20                  18           360.00
+$10                  82           820.00
+$5                   95           475.00
+$1                 1404          1404.00
+Total Dispensable Bills          3559.00
+
+Cass. 1 ($1)        374           374.00
+Cass. 2 ($1)        561           561.00
+Cass. 3 ($5)         95           475.00
+Cass. 4 ($10)        82           820.00
+Cass. 5 ($1)        469           469.00
+Cass. 6 ($20)        18           360.00
+Cass. 7 ($50)         4           200.00
+Cass. 8 ($100)        3           300.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             0001/06/20
+Time                          4:21:51 PM
+****************************************
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    MoniSafe 500S Pgm. Ver. 5.6.10-DC   
+           DynaCash Mode: LAN           
+
+
+
+Station #                             47
+
+
+(Vault Buy)                             
+Transaction #                          8
+Date                             0001/06/20
+Time                          4:26:58 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             0001/06/20
+Time                          4:27:05 PM
+
+========================================
+             Activity Report            
+Station #                             47
+Date                             0001/06/20
+Time                          4:27:06 PM
+Manager #                              1
+========================================
+             Teller Activity            
+----------------------------------------
+Teller #                               1
+# of Deposits                          0
+# of Withdrawals                       6
+
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   5           250.00
+$20                  18           360.00
+$10                   5            50.00
+$5                    5            25.00
+$1                  101           101.00
+
+Withdrawal Total                 1086.00
+----------------------------------------
+Net Total                       -1086.00
+========================================
+----------------------------------------
+            Side A Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Deposited                      .00
+----------------------------------------
+            Side B Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Deposited                      .00
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+            Side A Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   5           250.00
+$20                  18           360.00
+$10                   5            50.00
+$5                    5            25.00
+$1                  101           101.00
+Coin                                 .00
+Total Dispensed                  1086.00
+----------------------------------------
+            Side B Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Coin                                 .00
+Total Dispensed                      .00
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   5           250.00
+$20                  18           360.00
+$10                   5            50.00
+$5                    5            25.00
+$1                  101           101.00
+Coin                                 .00
+Total Dispensed                  1086.00
+# of Withdrawals                       6
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  3          -300.00
+$50                   5          -250.00
+$20                  18          -360.00
+$10                   5           -50.00
+$5                    5           -25.00
+$2                    0              .00
+$1                  101          -101.00
+Coin                                 .00
+Net Total                       -1086.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  18           360.00
+$10                  82           820.00
+$5                   95           475.00
+$2                    0              .00
+$1                 1403          1403.00
+Coin                                 .00
+Starting Inventory                   .00
+Net Adjustments                   930.00
+Total Inventory                  3558.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  3           300.00
+$50                   4           200.00
+$20                  18           360.00
+$10                  82           820.00
+$5                   95           475.00
+$1                 1403          1403.00
+Total Dispensable Bills          3558.00
+
+Cass. 1 ($1)        374           374.00
+Cass. 2 ($1)        560           560.00
+Cass. 3 ($5)         95           475.00
+Cass. 4 ($10)        82           820.00
+Cass. 5 ($1)        469           469.00
+Cass. 6 ($20)        18           360.00
+Cass. 7 ($50)         4           200.00
+Cass. 8 ($100)        3           300.00
+
+          *** OPEN BATCHES ***          
+Teller #                               1
+========================================
+
+       Teller Grand Totals Cleared      
+            Activity Cleared            
+
+
+
+
+
+
+
+           Manager Logged Off           
+Manager #                              1
+Date                             0001/06/20
+Time                          4:27:22 PM
+****************************************
+
+(Vault Sell)                            
+Transaction #                          1
+Date                             0001/06/20
+Time                          4:31:04 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------

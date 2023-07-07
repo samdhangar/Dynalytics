@@ -1,0 +1,359 @@
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         22
+07/29/19 02:24 PM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Machine Total                     100.00
+Total Inventory Added             100.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              Josh
+001/30/20 11:44 AM
+       *** Op Cassette Emptied ***      
+
+(Reconciled OPs Cassette)               
+Transaction #                         23
+001/30/20 01:04 PM
+Josh
+
+----------------------------------------
+         Overflow Notes Removed         
+----------------------------------------
+Denom            Pieces            Value
+$50                  22          1100.00
+$2                    1             2.00
+
+Overflow Notes Removed           1102.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$50                  22          1100.00
+
+Reloaded Notes                   1100.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                    1            +2.00
+Differences                        +2.00
+----------------------------------------
+        TCR Error #2653 Occurred        
+
+      *** TCR Note Audit Failed ***     
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+Denom            Pieces            Value
+$100                575         57500.00
+$50                 328         16400.00
+$20                 507         10140.00
+$10                 244          2440.00
+$5                  135           675.00
+$2                    0              .00
+$1                  298           298.00
+Starting Inventory              65528.00
+Net Adjustments                -16634.51
+Total Inventory                 87453.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                575         57500.00
+$50                 328         16400.00
+$20                 507         10140.00
+$10                 244          2440.00
+$5                  135           675.00
+$1                  288           288.00
+Total Dispensable Notes         87443.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Notes              .00
+
+----------------------------------------
+          Reject Cassette Notes         
+----------------------------------------
+$1                   10            10.00
+Total Reject Notes                 10.00
+
+Cass. 1 $1          288           288.00
+Cass. 2 $20         507         10140.00
+Cass. 3 $5          135           675.00
+Cass. 4 $100        575         57500.00
+Cass. 5 $10         244          2440.00
+Cass. 6 $50         328         16400.00
+            CST-B Manipulated           
+========================================
+
+
+
+
+
+
+
+
+ *** Reject Box Was Emptied To Exit *** 
+
+(Reconciled Rejects)                    
+Transaction #                         24
+001/30/20 01:40 PM
+Josh
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$1                   10            10.00
+
+Reject Notes Removed               10.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$1                   10            10.00
+
+Reloaded Notes                     10.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+       *** $1 Notes Collected ***       
+       *** $20 Notes Collected ***      
+       *** $5 Notes Collected ***       
+      *** $100 Notes Collected ***      
+       *** $10 Notes Collected ***      
+       *** $50 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         25
+001/30/20 02:05 PM
+Josh
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Total Inventory Collected        1860.00
+----------------------------------------
+       *** Op Cassette Emptied ***      
+
+(Reconciled OPs Cassette)               
+Transaction #                         26
+001/30/20 02:12 PM
+Josh
+
+----------------------------------------
+         Overflow Notes Removed         
+----------------------------------------
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Overflow Notes Removed           1860.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$100                 10         +1000.00
+$50                  10          +500.00
+$20                  10          +200.00
+$10                  10          +100.00
+$5                   10           +50.00
+$1                   10           +10.00
+Differences                     +1860.00
+----------------------------------------
+($1) Assumed Count:                  288
+($1) Actual Count:                   288
+($20) Assumed Count:                 497
+($20) Actual Count:                  497
+($5) Assumed Count:                  125
+($5) Actual Count:                   125
+($100) Assumed Count:                565
+($100) Actual Count:                 565
+($10) Assumed Count:                 234
+($10) Actual Count:                  234
+($50) Assumed Count:                 318
+($50) Actual Count:                  318
+
+(Auto Audit Note Count)                 
+Transaction #                         27
+001/30/20 02:17 PM
+Josh
+
+Denom            Pieces            Value
+$100                565         56500.00
+$50                 318         15900.00
+$20                 497          9940.00
+$10                 234          2340.00
+$5                  125           625.00
+$1                  288           288.00
+
+Audited Total                   85593.00
+----------------------------------------
+       *** $1 Notes Collected ***       
+       *** $20 Notes Collected ***      
+       *** $5 Notes Collected ***       
+      *** $100 Notes Collected ***      
+       *** $10 Notes Collected ***      
+       *** $50 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         28
+001/30/20 02:53 PM
+Josh
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Total Inventory Collected        1860.00
+----------------------------------------
+       *** Op Cassette Emptied ***      
+
+(Reconciled OPs Cassette)               
+Transaction #                         29
+001/30/20 03:03 PM
+Josh
+
+----------------------------------------
+         Overflow Notes Removed         
+----------------------------------------
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Overflow Notes Removed           1860.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$100                 14          1400.00
+$50                  75          3750.00
+$20                  10           200.00
+$10                  84           840.00
+$5                   10            50.00
+$1                   46            46.00
+
+Reloaded Notes                   6286.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$100                  4          -400.00
+$50                  65         -3250.00
+$10                  74          -740.00
+$1                   36           -36.00
+Differences                     +4426.00
+----------------------------------------
+        TCR Error #1231 Occurred        
+
+      *** TCR Note Audit Failed ***     
+($1) Assumed Count:                  324
+($1) Actual Count:                   324
+($100) Assumed Count:                569
+($100) Actual Count:                 569
+($10) Assumed Count:                 308
+($10) Actual Count:                  308
+($50) Assumed Count:                 383
+($50) Actual Count:                  383
+
+(Auto Audit Note Count)                 
+Transaction #                         30
+001/30/20 03:10 PM
+Josh
+
+Denom            Pieces            Value
+$100                569         56900.00
+$50                 383         19150.00
+$10                 308          3080.00
+$1                  324           324.00
+
+Audited Total                   79454.00
+----------------------------------------

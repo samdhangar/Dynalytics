@@ -1,0 +1,872 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.104 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/03/20 02:18 PM
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 02:18 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 02:18 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/03/20 02:18 PM
+
+Logon:                               Ray
+001/03/20 02:29 PM
+
+Logoff:                              Ray
+001/03/20 02:29 PM
+
+Logon:                               Ray
+001/03/20 02:34 PM
+
+   *** Entered Configuration Mode ***   
+001/03/20 02:34 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 02:34 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/03/20 02:34 PM
+
+Logon:                               Ray
+001/03/20 02:36 PM
+
+   *** Entered Configuration Mode ***   
+001/03/20 02:36 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 02:36 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/03/20 02:36 PM
+
+Logon:                               Ray
+001/03/20 03:11 PM
+
+   *** Entered Configuration Mode ***   
+001/03/20 03:11 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 03:11 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/03/20 03:11 PM
+
+Logon:                               Ray
+001/03/20 03:55 PM
+
+   *** Entered Configuration Mode ***   
+001/03/20 03:55 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.105 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                               Ray
+001/03/20 03:56 PM
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 03:56 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 03:56 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/03/20 03:56 PM
+
+Logon:                               Ray
+001/03/20 03:58 PM
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 03:58 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 03:58 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/03/20 03:58 PM
+
+Logon:                               Ray
+001/03/20 03:58 PM
+
+   *** Entered Configuration Mode ***   
+001/03/20 03:58 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 03:58 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/03/20 03:58 PM
+
+Logon:                               Ray
+001/03/20 03:59 PM
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 03:59 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 03:59 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/03/20 03:59 PM
+
+Logon:                               Ray
+001/03/20 03:59 PM
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 03:59 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 03:59 PM
+ID:                                  Ray
+
+
+========================================
+           Inventory Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+----------------------------------------
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+$100  206  195  40    87No$50     0    0
+   0     6Yes$20     0    0   0     5Yes
+$10     5    5   5     1Yes$5      3    
+3   3     2Yes$1      0    0   0     0Ye
+s=======================================
+=
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 03:59 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 03:59 PM
+ID:                                  Ray
+
+
+========================================
+           Inventory Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+----------------------------------------
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+$100  206  195  40    87No$50     5    5
+   5     4Yes$20     5    5   5     3Yes
+$10     3    3   3     2Yes$5      5    
+5   5     1Yes$1      0    0   0     0Ye
+s=======================================
+=
+
+
+Logoff:                              Ray
+001/03/20 03:59 PM
+
+Logon:                               Ray
+001/03/20 04:01 PM
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 04:01 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 04:02 PM
+ID:                                  Ray
+
+========================================
+           Inventory Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+----------------------------------------
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+$100  206  195  40    87No$50     0    0
+   0     4Yes$20     0    0   0     5No$
+10     5    5   5     1Yes$5      3    3
+   3     2Yes$1      0    0   0     0Yes
+========================================
+
+
+Logoff:                              Ray
+001/03/20 04:02 PM
+
+Logon:                               Ray
+001/03/20 04:05 PM
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 04:05 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 04:05 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/03/20 04:05 PM
+
+Logon:                               Ray
+001/03/20 04:07 PM
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 04:07 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 04:07 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/03/20 04:07 PM
+
+Logon:                               Ray
+001/03/20 04:09 PM
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 04:09 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 04:09 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/03/20 04:09 PM
+
+Logon:                               Ray
+001/03/20 04:13 PM
+
+   *** Entered Configuration Mode ***   
+001/03/20 04:13 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 04:13 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/03/20 04:13 PM
+
+Logon:                               Ray
+001/03/20 04:15 PM
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 04:15 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 04:15 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/03/20 04:15 PM
+
+Logon:                               Ray
+001/03/20 04:16 PM
+
+   *** Entered Configuration Mode ***   
+001/03/20 04:16 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 04:16 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/03/20 04:16 PM
+
+Logon:                               Ray
+001/03/20 04:18 PM
+
+   *** Entered Configuration Mode ***   
+001/03/20 04:18 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 04:18 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/03/20 04:18 PM
+
+Logon:                               Ray
+001/03/20 04:51 PM
+
+   *** Entered Configuration Mode ***   
+001/03/20 04:51 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 04:52 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/03/20 04:52 PM
+
+Logon:                               Ray
+001/03/20 04:55 PM
+
+   *** Entered Configuration Mode ***   
+001/03/20 04:55 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 05:01 PM
+ID:                                  Ray
+
+
+========================================
+            Security Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         8:00    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                   Yes
+Use DynaCore Alarm                   Yes
+Use Machine Alarm                    Yes
+AutoLogoff                      Disabled
+Duress Lump Sum                        0
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  5           500.00
+$50                   5           250.00
+$20                   5           100.00
+$10                   5            50.00
+$5                    5            25.00
+$1                    5             5.00
+========================================
+
+
+
+========================================
+           Inventory Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+----------------------------------------
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+$100  206  195  40    87No$50     0    0
+   0     4Yes$20     0    0   0     5No$
+10     5    5   5     1Yes$5      3    3
+   3     2Yes$1      0    0   0     0Yes
+========================================
+
+
+
+Logoff:                              Ray
+001/03/20 05:01 PM
+
+Logon:                               Ray
+001/03/20 05:05 PM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/03/20 05:05 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.105 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/03/20 05:05 PM
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 05:05 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 05:05 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/03/20 05:05 PM
+
+Logon:                               Ray
+001/03/20 05:06 PM
+
+Logoff:                              Ray
+001/03/20 05:06 PM
+
+Logon:                               Ray
+001/03/20 05:06 PM
+
+Coin Adjusted                     +10.00
+New Coin Total                     10.00
+
+(Inventory Adjustment)                  
+Transaction #                          1
+001/03/20 05:06 PM
+Ray
+
+Coin                              +10.00
+
+Total Net Added                   +10.00
+Total Net Removed                   -.00
+Total Net Adjusted                +10.00
+----------------------------------------
+
+Coin Adjusted                     -10.00
+New Coin Total                       .00
+
+(Inventory Adjustment)                  
+Transaction #                          2
+001/03/20 05:06 PM
+Ray
+
+Coin                              -10.00
+
+Total Net Added                     +.00
+Total Net Removed                 -10.00
+Total Net Adjusted                -10.00
+----------------------------------------
+
+Coin Adjusted                     +10.00
+New Coin Total                     10.00
+
+(Inventory Adjustment)                  
+Transaction #                          3
+001/03/20 05:06 PM
+Ray
+
+Coin                              +10.00
+
+Total Net Added                   +10.00
+Total Net Removed                   -.00
+Total Net Adjusted                +10.00
+----------------------------------------
+
+Logoff:                              Ray
+001/03/20 05:06 PM
+
+Logon:                               Ray
+001/03/20 05:12 PM
+
+   *** Entered Configuration Mode ***   
+001/03/20 05:12 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 05:12 PM
+ID:                                  Ray
+
+
+========================================
+           Inventory Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+----------------------------------------
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+$100  206  195  40    87No$50     0    0
+   0     4Yes$20     0    0   0     5No$
+10     5    5   5     1Yes$5      3    3
+   3     2Yes$1      0    0   0     0Yes
+========================================
+
+
+Logoff:                              Ray
+001/03/20 05:12 PM
+
+Logon:                               Ray
+001/03/20 05:13 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.105 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.105 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/03/20 05:14 PM
+
+   *** Entered Configuration Mode ***   
+001/03/20 05:14 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/03/20 05:14 PM
+ID:                                  Ray
+
+
+========================================
+           Inventory Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+----------------------------------------
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+$100  206  195  40    87No$50     0    0
+   0     4Yes$20     0    0   0     5No$
+10     5    5   5     1Yes$5      3    3
+   3     2Yes$1      0    0   0     0Yes
+========================================
+
+
+Logoff:                              Ray
+001/03/20 05:15 PM
+
+Logon:                               Ray
+05/06/19 10:04 AM
+
+   *** Entered Configuration Mode ***   
+05/06/19 10:04 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/06/19 10:04 AM
+ID:                                  Ray
+
+
+========================================
+           Inventory Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+----------------------------------------
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+$100  206  195  40    87No$50     0    0
+   0     4Yes$20     0    0   0     5No$
+10     5    5   5     1Yes$5      3    3
+   3     2Yes$1      0    0   0     0Yes
+========================================
+
+
+Logoff:                              Ray
+05/06/19 10:04 AM
+
+Logon:                               Ray
+05/06/19 10:05 AM
+
+   *** Entered Configuration Mode ***   
+05/06/19 10:05 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/06/19 10:05 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+05/06/19 10:05 AM
+
+Logon:                               Ray
+05/06/19 01:44 PM
+
+   *** Entered Configuration Mode ***   
+05/06/19 01:44 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/06/19 01:44 PM
+ID:                                  Ray
+
+
+========================================
+           Inventory Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+----------------------------------------
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+$100  206  195  40    87No$50     0    0
+   0     4Yes$20     0    0   0     5No$
+10     5    5   5     1Yes$5      3    3
+   3     2Yes$1      0    0   0     0Yes
+========================================
+
+
+Logoff:                              Ray
+05/06/19 01:44 PM
+
+Logon:                               Ray
+05/06/19 02:08 PM
+
+Logoff:                              Ray
+05/06/19 02:08 PM
+
+Logon:                               Ray
+05/06/19 02:12 PM
+
+
+   *** Entered Configuration Mode ***   
+05/06/19 02:12 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/06/19 02:12 PM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+05/06/19 02:12 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/06/19 02:12 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+05/06/19 02:12 PM
+
+Logon:                               Ray
+05/06/19 02:15 PM
+
+   *** Entered Configuration Mode ***   
+05/06/19 02:15 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/06/19 02:15 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+05/06/19 02:15 PM
+
+Logon:                               Ray
+05/06/19 02:17 PM
+
+   *** Entered Configuration Mode ***   
+05/06/19 02:17 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/06/19 02:17 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+05/06/19 02:17 PM
+
+Logon:                               Ray
+05/06/19 02:22 PM
+
+   *** Entered Configuration Mode ***   
+05/06/19 02:22 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/06/19 02:23 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+05/06/19 02:23 PM
+
+Logon:                               Ray
+05/06/19 02:33 PM
+
+   *** Entered Configuration Mode ***   
+05/06/19 02:33 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/06/19 02:33 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+05/06/19 02:33 PM
+
+Logon:                               Ray
+05/06/19 02:35 PM
+
+   *** Entered Configuration Mode ***   
+05/06/19 02:35 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/06/19 02:35 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+05/06/19 02:35 PM
+
+Logon:                               Ray
+05/06/19 02:38 PM
+
+   *** Entered Configuration Mode ***   
+05/06/19 02:38 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/06/19 02:38 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+05/06/19 02:38 PM
+
+Logon:                               Ray
+05/06/19 02:41 PM
+
+   *** Entered Configuration Mode ***   
+05/06/19 02:41 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/06/19 02:42 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+05/06/19 02:42 PM
+
+Logon:                               Ray
+05/06/19 02:47 PM
+
+
+   *** Entered Configuration Mode ***   
+05/06/19 02:47 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/06/19 02:47 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+05/06/19 02:47 PM
+
+Logon:                               Ray
+05/06/19 02:48 PM
+
+   *** Entered Configuration Mode ***   
+05/06/19 02:48 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/06/19 02:49 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+05/06/19 02:49 PM
+
+Logon:                               Ray
+05/06/19 02:50 PM

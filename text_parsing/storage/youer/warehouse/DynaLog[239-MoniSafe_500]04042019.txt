@@ -1,0 +1,180 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.092 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                              josh
+001/04/20 08:51 AM                       
+
+(Online Deposit)                        
+Transaction #                         25
+001/04/20 08:55 AM
+Josh
+
+Denom            Pieces            Value
+$100                  2           200.00
+$20                   1            20.00
+$10                  22           220.00
+$5                    1             5.00
+
+Machine Total                     445.00
+Deposit Total                     445.00
+----------------------------------------
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/04/20 11:14 AM                       
+josh
+
+
+
+
+(Online Deposit)                        
+Transaction #                         26
+001/04/20 11:15 AM
+Josh
+
+Denom            Pieces            Value
+$1                    6             6.00
+
+Machine Total                       6.00
+
+$1                    5             5.00
+
+Other Cash Deposited                5.00
+
+Deposit Total                      11.00
+----------------------------------------
+
+Logon:                              Chad
+001/04/20 11:33 AM                       
+
+Logoff:                             Chad
+001/04/20 11:33 AM                       
+
+   *** Entered Configuration Mode ***   
+001/04/20 11:51 AM                       
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/04/20 11:51 AM                       
+ID:                                 josh
+
+
+Logoff:                             josh
+001/04/20 11:51 AM                       
+
+Logon:                              josh
+001/04/20 11:52 AM                       
+
+   *** Entered Configuration Mode ***   
+001/04/20 11:52 AM                       
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/04/20 11:52 AM                       
+ID:                                 josh
+
+
+Logoff:                             josh
+001/04/20 11:52 AM                       
+
+Logon:                              Chad
+001/04/20 12:57 PM                       
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/04/20 01:05 PM                       
+Chad
+
+
+
+
+Logoff:                             Chad
+001/04/20 01:05 PM                       
+
+Logon:                               ray
+001/04/20 01:09 PM                       
+
+   *** Entered Configuration Mode ***   
+001/04/20 01:10 PM                       
+ID:                                  ray
+
+
+    *** Exited Configuration Mode ***   
+001/04/20 01:11 PM                       
+ID:                                  ray
+
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited          90.00
+Reversed Amount                    90.00
+
+(Online Deposit)                        
+Transaction #                         27
+001/04/20 01:36 PM
+Ray
+
+Denom            Pieces            Value
+$10                   4            40.00
+
+Other Cash Deposited               40.00
+
+Deposit Total                      40.00
+----------------------------------------
+
+Logoff:                              ray
+001/04/20 01:56 PM                       
+
+Logon:                               ray
+001/04/20 01:57 PM                       
+
+(Online Deposit)                        
+Transaction #                         28
+001/04/20 01:58 PM
+Ray
+
+Denom            Pieces            Value
+$1                   13            13.00
+
+Machine Total                      13.00
+
+$10                   1            10.00
+$1                   18            18.00
+
+Other Cash Deposited               28.00
+
+Deposit Total                      41.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/04/20 01:59 PM                       
+ID:                                  ray
+
+
+    *** Exited Configuration Mode ***   
+001/04/20 02:12 PM                       
+ID:                                  ray
+
+
+Logoff:                              ray
+001/04/20 02:12 PM                       
+
+Logon:                              josh
+001/04/20 02:14 PM                       
+
+Logoff:                             josh
+001/04/20 02:15 PM                       

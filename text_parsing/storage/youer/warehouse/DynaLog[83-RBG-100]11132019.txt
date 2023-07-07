@@ -1,0 +1,231 @@
+            Side B Logged On            
+Date                            01/13/20
+Time                          8:44:16 AM
+Teller #                               2
+
+(Online Deposit)                        
+Transaction #                         11
+Date                            01/13/20
+Time                          8:45:07 AM
+Teller #                               2
+
+Denom            Pieces            Value
+$20                   1            20.00
+$1                    1             1.00
+
+Deposit Total                      21.00
+----------------------------------------
+            Side B Logged Off           
+Teller #                               2
+Date                            01/13/20
+Time                          8:45:50 AM
+       DynaCash (c) 1999 - 2018 by      
+        Add-On Technologies, Inc.       
+       RBG-100 Pgm. Ver. 5.5.96-DC      
+           DynaCash Mode: LAN           
+
+                   RBG                  
+                  Test                  
+                 CC-5000                
+
+Station #                             83
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                            01/13/20
+Time                          9:20:39 AM
+========================================
+              Manager Setup             
+Date                            01/13/20
+Time                          9:20:52 AM
+           Exit Manager Setup           
+========================================
+
+           Manager Logged Off           
+Manager #                              1
+Date                            01/13/20
+Time                         11:48:11 AM
+****************************************
+            Side B Logged On            
+Date                            01/13/20
+Time                         11:48:28 AM
+Teller #                               2
+            Deposit Cancelled           
+
+(Online Deposit)                        
+Date                            01/13/20
+Time                         11:48:42 AM
+Teller #                               2
+
+
+(Online Deposit)                        
+Transaction #                         12
+Date                            01/13/20
+Time                         11:49:13 AM
+Teller #                               2
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+            Deposit Cancelled           
+
+(Online Deposit)                        
+Date                            01/13/20
+Time                         12:38:35 PM
+Teller #                               2
+
+
+(Online Mix Dispense)                   
+Transaction #                         13
+Date                            01/13/20
+Time                          2:21:06 PM
+Teller #                               2
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         14
+Date                            01/13/20
+Time                          2:21:24 PM
+Teller #                               2
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Amount Tendered                     2.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         15
+Date                            01/13/20
+Time                          2:21:41 PM
+Teller #                               2
+
+Denom            Pieces            Value
+$1                    3             3.00
+
+Deposit Total                       3.00
+----------------------------------------
+            Side A Logged On            
+Date                            01/13/20
+Time                          4:01:01 PM
+Teller #                               1
+            Side A Logged Off           
+Teller #                               1
+Date                            01/13/20
+Time                          4:02:05 PM
+            Side A Logged On            
+Date                            01/13/20
+Time                          4:03:01 PM
+Teller #                               1
+            Deposit Cancelled           
+
+(Online Deposit)                        
+Date                            01/13/20
+Time                          4:03:29 PM
+Teller #                               2
+
+
+(Online Mix Dispense)                   
+Transaction #                         16
+Date                            01/13/20
+Time                          4:03:37 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         17
+Date                            01/13/20
+Time                          4:04:44 PM
+Teller #                               2
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         18
+Date                            01/13/20
+Time                          4:05:13 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         19
+Date                            01/13/20
+Time                          4:05:30 PM
+Teller #                               2
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         20
+Date                            01/13/20
+Time                          4:06:13 PM
+Teller #                               2
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         21
+Date                            01/13/20
+Time                          4:14:56 PM
+Teller #                               2
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+Date                            01/13/20
+Time                          4:22:01 PM
+Teller #                               1
+
+Amount Requested                    1.00
+Amount Tendered                      .00
+Balance Due                         1.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                         22
+Date                            01/13/20
+Time                          4:22:30 PM
+Teller #                               2
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Deposit Total                      20.00
+----------------------------------------

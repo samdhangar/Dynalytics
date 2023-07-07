@@ -1,0 +1,423 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    LTA 350 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/06/20 10:42 AM
+
+   *** Entered Configuration Mode ***   
+01/06/20 10:42 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/06/20 10:43 AM
+ID:                                 josh
+
+
+========================================
+             DynaCore Groups            
+
+Station:                    LTA 350 Test
+Branch:                      Test Branch
+Region:                      Test Region
+01/06/20 10:43 AM
+
+Group 0
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Teller
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit           1000.00
+     Daily Limit                 5000.00
+
+Manager
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Inventory Control Setup
+     Reset TCD/TCR Machine
+     Reboot System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Administrator
+     Group Management
+     Hardware Setup
+     Security Setup
+     Network Setup
+     Firmware Updates
+     Reboot System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master User
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+Logoff:                             josh
+01/06/20 10:43 AM
+
+Logon:                            teller
+01/06/20 10:43 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    LTA 350 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                            teller
+01/06/20 11:11 AM
+        Request Over Teller Limit       
+
+
+(Online Mix Dispense)                   
+01/06/20 11:26 AM
+teller
+
+
+Amount Requested                  100.00
+Amount Tendered                      .00
+Balance Due                       100.00
+----------------------------------------
+
+        Request Over Teller Limit       
+
+
+(Online Mix Dispense)                   
+01/06/20 11:26 AM
+teller
+
+
+Amount Requested                  100.00
+Amount Tendered                      .00
+Balance Due                       100.00
+----------------------------------------
+
+
+Logoff:                           teller
+01/06/20 11:26 AM
+
+Logon:                              josh
+01/06/20 11:27 AM
+
+   *** Entered Configuration Mode ***   
+01/06/20 11:27 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/06/20 11:27 AM
+ID:                                 josh
+
+
+========================================
+             DynaCore Groups            
+
+Station:                    LTA 350 Test
+Branch:                      Test Branch
+Region:                      Test Region
+01/06/20 11:27 AM
+
+Group 0
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Teller
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit           1000.00
+     Daily Limit                 5000.00
+
+Manager
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Inventory Control Setup
+     Reset TCD/TCR Machine
+     Reboot System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Administrator
+     Group Management
+     Hardware Setup
+     Security Setup
+     Network Setup
+     Firmware Updates
+     Reboot System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master User
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+(Online Mix Dispense)                   
+Transaction #                          4
+01/06/20 11:27 AM
+Josh
+
+Denom            Pieces            Value
+$20                   4            80.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    5             5.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/06/20 11:27 AM
+ID:                                 josh
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    LTA 350 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                              josh
+01/06/20 03:23 PM

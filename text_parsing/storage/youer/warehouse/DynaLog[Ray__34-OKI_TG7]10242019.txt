@@ -1,0 +1,368 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+  *** Automatic System Memory Clear *** 
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+   *** Entered Configuration Mode ***   
+01/24/20 02:17 PM
+ID:                               Level2
+
+
+Logon:                            Add-On
+01/24/20 02:17 PM
+
+    *** Exited Configuration Mode ***   
+01/24/20 02:40 PM
+ID:                               Add-On
+
+
+========================================
+              User Settings             
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/24/20 02:46 PM
+
+   *** Entered Configuration Mode ***   
+01/24/20 02:46 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/24/20 02:47 PM
+ID:                                  Ray
+
+
+========================================
+            Security Settings           
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         8:00    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                    No
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        0
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+500k                  5            2500k
+200k                  5            1000k
+100k                  5             500k
+50k                   5             250k
+20k                   5             100k
+10k                   5              50k
+========================================
+
+
+
+========================================
+           Inventory Settings           
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                     500000
+Mix 2 Below $                    2500000
+
+         Low   Mid   High   Weight  Odds
+500k       0     0      0      6     Yes
+200k       5     5      5      5     Yes
+100k       3     3      3      4     Yes
+50k        5     5      5      3     Yes
+20k        0     0      0      2     Yes
+10k        5     5      5      1     Yes
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+500k      50    900         25       100
+200k      50    900        100       100
+100k      50    900        100       100
+50k       50    900        100       100
+20k       50    900        100       100
+10k       50    900        100       100
+========================================
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/24/20 02:53 PM
+Ray
+
+
+
+(Online Deposit)                        
+Transaction #                          1
+01/24/20 02:54 PM
+Ray
+
+Denom            Pieces            Value
+500k                117           58500k
+200k                  2             400k
+20k                  30             600k
+10k                  17             170k
+
+Machine Total                     59670k
+Deposit Total                     59670k
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          2
+01/24/20 02:56 PM
+Ray
+
+Denom            Pieces            Value
+500k                  4            2000k
+200k                 27            5400k
+100k                 49            4900k
+50k                   5             250k
+20k                 107            2140k
+10k                   8              80k
+
+Machine Total                     14770k
+Deposit Total                     14770k
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          3
+01/24/20 02:58 PM
+Ray
+
+Denom            Pieces            Value
+500k                 27           13500k
+200k                  3             600k
+100k                 28            2800k
+20k                 140            2800k
+
+Machine Total                     19700k
+Deposit Total                     19700k
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          4
+01/24/20 03:00 PM
+Ray
+
+Denom            Pieces            Value
+500k                 60           30000k
+200k                 34            6800k
+20k                  15             300k
+10k                  91             910k
+
+Machine Total                     38010k
+Deposit Total                     38010k
+----------------------------------------
+
+Logoff:                              Ray
+01/24/20 03:11 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/24/20 03:13 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/24/20 03:25 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/24/20 04:09 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/24/20 04:21 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/24/20 04:27 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/24/20 04:29 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/24/20 04:42 PM
+
+Logoff:                              Ray
+01/24/20 04:43 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/24/20 04:59 PM

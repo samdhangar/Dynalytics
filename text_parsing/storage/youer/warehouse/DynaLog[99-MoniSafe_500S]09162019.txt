@@ -1,0 +1,1135 @@
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    MoniSafe 500S Pgm. Ver. 5.6.10-DC   
+           DynaCash Mode: LAN           
+
+
+
+Station #                             99
+
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    MoniSafe 500S Pgm. Ver. 5.6.10-DC   
+           DynaCash Mode: LAN           
+
+
+
+Station #                             99
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          3:16:22 PM
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          3:16:25 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          3:16:26 PM
+
+(Inventory Load)                        
+Transaction #                          1
+Date                             01/16/20
+Time                          3:17:41 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$2                    3             6.00
+$1                  289           289.00
+
+Total Inventory Added            3050.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             99
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$2                    3             6.00
+$1                  289           289.00
+Starting Inventory                   .00
+Net Adjustments                  3050.00
+Total Inventory                  3050.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$1                  289           289.00
+Total Dispensable Bills          3044.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$2                    3             6.00
+Total Reject Bills                  6.00
+
+Cass. 1 ($1)          0              .00
+Cass. 2 ($1)        289           289.00
+Cass. 3 ($5)         91           455.00
+Cass. 4 ($10)        79           790.00
+Cass. 5 ($20)         0              .00
+Cass. 6 ($20)        33           660.00
+Cass. 7 ($50)         5           250.00
+Cass. 8 ($100)        6           600.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          3:18:08 PM
+****************************************
+            Side A Logged On            
+Date                             01/16/20
+Time                          3:18:00 PM
+Teller #                               1
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          3:20:21 PM
+
+($1) Assumed Count:                  289
+($1) Actual Count:                   285
+   *** $1 Needs Manual Adjustment! ***  
+
+
+  *** BE SURE TO ADJUST DUAL DENOM! *** 
+
+
+(Auto Audit Bill Count)                 
+Transaction #                          2
+Date                             01/16/20
+Time                          3:22:05 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  285           285.00
+
+Audited Total                     285.00
+----------------------------------------
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          3:22:13 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          3:31:08 PM
+      TCR Result Code 128 Occurred      
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    MoniSafe 500S Pgm. Ver. 5.6.10-DC   
+           DynaCash Mode: LAN           
+
+
+
+Station #                             99
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          3:34:01 PM
+ *** Inventory Adjustment Canceled! *** 
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          3:34:53 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          3:35:14 PM
+Cass. 1 Adjustment Pending       -285.00
+New Cassette Total                   .00
+
+
+(Cassette Adjustment)                   
+Transaction #                          3
+Date                             01/16/20
+Time                          3:35:34 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  285          -285.00
+
+Total Net Added                     +.00
+Total Net Removed                -285.00
+Total Net Adjusted               -285.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             99
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$2                    3             6.00
+$1                    0              .00
+Starting Inventory                   .00
+Net Adjustments                  2765.00
+Total Inventory                  2761.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$1                    0              .00
+Total Dispensable Bills          2755.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$2                    3             6.00
+Unknown Bills         4              .00
+Total Reject Bills                  6.00
+
+Cass. 1 ($1)          0              .00
+Cass. 2 ($1)          0              .00
+Cass. 3 ($5)         91           455.00
+Cass. 4 ($10)        79           790.00
+Cass. 5 ($20)         0              .00
+Cass. 6 ($20)        33           660.00
+Cass. 7 ($50)         5           250.00
+Cass. 8 ($100)        6           600.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          3:35:46 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          3:35:56 PM
+
+(Inventory Load)                        
+Transaction #                          4
+Date                             01/16/20
+Time                          3:36:41 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  285           285.00
+
+Total Inventory Added             285.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             99
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$2                    3             6.00
+$1                  285           285.00
+Starting Inventory                   .00
+Net Adjustments                  3050.00
+Total Inventory                  3046.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$1                    0              .00
+Total Dispensable Bills          2755.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$2                    3             6.00
+$1                  285           285.00
+Unknown Bills         4              .00
+Total Reject Bills                291.00
+
+Cass. 1 ($1)          0              .00
+Cass. 2 ($1)          0              .00
+Cass. 3 ($5)         91           455.00
+Cass. 4 ($10)        79           790.00
+Cass. 5 ($20)         0              .00
+Cass. 6 ($20)        33           660.00
+Cass. 7 ($50)         5           250.00
+Cass. 8 ($100)        6           600.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          3:36:50 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          3:42:19 PM
+
+(Reconciled Rejects)                    
+Transaction #                          5
+Date                             01/16/20
+Time                          3:42:46 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$2                    3             6.00
+$1                  289           289.00
+
+Reconciled Total                  295.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             99
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$2                    0              .00
+$1                    0              .00
+Starting Inventory                   .00
+Net Adjustments                  2755.00
+Total Inventory                  2755.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$1                    0              .00
+Total Dispensable Bills          2755.00
+
+Cass. 1 ($1)          0              .00
+Cass. 2 ($1)          0              .00
+Cass. 3 ($5)         91           455.00
+Cass. 4 ($10)        79           790.00
+Cass. 5 ($20)         0              .00
+Cass. 6 ($20)        33           660.00
+Cass. 7 ($50)         5           250.00
+Cass. 8 ($100)        6           600.00
+               Ones Empty               
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          3:43:10 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          3:43:21 PM
+
+(Inventory Load)                        
+Transaction #                          6
+Date                             01/16/20
+Time                          3:44:58 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  776           776.00
+
+Total Inventory Added             776.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             99
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$2                    0              .00
+$1                  776           776.00
+Starting Inventory                   .00
+Net Adjustments                  3531.00
+Total Inventory                  3531.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$1                  776           776.00
+Total Dispensable Bills          3531.00
+
+Cass. 1 ($1)         88            88.00
+Cass. 2 ($1)        688           688.00
+Cass. 3 ($5)         91           455.00
+Cass. 4 ($10)        79           790.00
+Cass. 5 ($20)         0              .00
+Cass. 6 ($20)        33           660.00
+Cass. 7 ($50)         5           250.00
+Cass. 8 ($100)        6           600.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          3:45:12 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          3:45:22 PM
+
+(Inventory Load)                        
+Transaction #                          7
+Date                             01/16/20
+Time                          3:46:12 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  203           203.00
+
+Total Inventory Added             203.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             99
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$2                    0              .00
+$1                  979           979.00
+Starting Inventory                   .00
+Net Adjustments                  3734.00
+Total Inventory                  3734.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$1                  979           979.00
+Total Dispensable Bills          3734.00
+
+Cass. 1 ($1)        291           291.00
+Cass. 2 ($1)        688           688.00
+Cass. 3 ($5)         91           455.00
+Cass. 4 ($10)        79           790.00
+Cass. 5 ($20)         0              .00
+Cass. 6 ($20)        33           660.00
+Cass. 7 ($50)         5           250.00
+Cass. 8 ($100)        6           600.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          3:46:30 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          3:46:49 PM
+
+($1) Assumed Count:                  979
+($1) Actual Count:                   711
+   *** $1 Needs Manual Adjustment! ***  
+
+
+  *** BE SURE TO ADJUST DUAL DENOM! *** 
+
+
+(Auto Audit Bill Count)                 
+Transaction #                          8
+Date                             01/16/20
+Time                          3:50:58 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  711           711.00
+
+Audited Total                     711.00
+----------------------------------------
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          3:51:07 PM
+****************************************
+            Side A Logged On            
+Date                             01/16/20
+Time                          3:51:00 PM
+Teller #                               1
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          3:51:40 PM
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          3:51:50 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          3:51:52 PM
+
+(Inventory Load)                        
+Transaction #                          9
+Date                             01/16/20
+Time                          3:52:32 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  152           152.00
+
+Total Inventory Added             152.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             99
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$2                    0              .00
+$1                  870           870.00
+Starting Inventory                   .00
+Net Adjustments                  3886.00
+Total Inventory                  3625.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$1                  863           863.00
+Total Dispensable Bills          3618.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$1                    7             7.00
+Unknown Bills         6              .00
+Total Reject Bills                  7.00
+
+Cass. 1 ($1)        711           711.00
+Cass. 2 ($1)        152           152.00
+Cass. 3 ($5)         91           455.00
+Cass. 4 ($10)        79           790.00
+Cass. 5 ($20)         0              .00
+Cass. 6 ($20)        33           660.00
+Cass. 7 ($50)         5           250.00
+Cass. 8 ($100)        6           600.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          3:53:33 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          3:54:10 PM
+
+($1) Assumed Count:                  863
+($1) Actual Count:                   705
+   *** $1 Needs Manual Adjustment! ***  
+
+
+  *** BE SURE TO ADJUST DUAL DENOM! *** 
+
+
+(Auto Audit Bill Count)                 
+Transaction #                         10
+Date                             01/16/20
+Time                          3:58:34 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  705           705.00
+
+Audited Total                     705.00
+----------------------------------------
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          3:59:50 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          4:02:19 PM
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          4:02:44 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          4:03:15 PM
+
+($1) Assumed Count:                  705
+($1) Actual Count:                   686
+   *** $1 Needs Manual Adjustment! ***  
+      TCR Result Code 124 Occurred      
+    *** TCR Bill Audit Incomplete ***   
+
+
+(Auto Audit Bill Count)                 
+Transaction #                         11
+Date                             01/16/20
+Time                          4:06:51 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  686           686.00
+
+Audited Total                     686.00
+----------------------------------------
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          4:15:15 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          4:18:52 PM
+
+(Inventory Removal)                     
+Transaction #                         12
+Date                             01/16/20
+Time                          4:20:13 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  300           300.00
+
+Total Inventory Removed           300.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             99
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$2                    0              .00
+$1                  407           407.00
+Starting Inventory                   .00
+Net Adjustments                  3586.00
+Total Inventory                  3162.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$1                  386           386.00
+Total Dispensable Bills          3141.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$1                   21            21.00
+Unknown Bills         6              .00
+Total Reject Bills                 21.00
+
+Cass. 1 ($1)        386           386.00
+Cass. 2 ($1)          0              .00
+Cass. 3 ($5)         91           455.00
+Cass. 4 ($10)        79           790.00
+Cass. 5 ($20)         0              .00
+Cass. 6 ($20)        33           660.00
+Cass. 7 ($50)         5           250.00
+Cass. 8 ($100)        6           600.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          4:20:23 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          4:20:37 PM
+
+($1) Assumed Count:                  386
+($1) Actual Count:                   386
+($5) Assumed Count:                   91
+($5) Actual Count:                    89
+($10) Assumed Count:                  79
+($10) Actual Count:                   79
+($20) Assumed Count:                  33
+($20) Actual Count:                   33
+($50) Assumed Count:                   5
+($50) Actual Count:                    5
+($100) Assumed Count:                  6
+($100) Actual Count:                   6
+
+  *** Inventory Adjusted Per Audit ***  
+
+
+(Auto Audit Bill Count)                 
+Transaction #                         13
+Date                             01/16/20
+Time                          4:22:35 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   89           445.00
+$1                  386           386.00
+
+Audited Total                    3131.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             99
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   91           455.00
+$2                    0              .00
+$1                  407           407.00
+Starting Inventory                   .00
+Net Adjustments                  3586.00
+Total Inventory                  3162.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  6           600.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  79           790.00
+$5                   89           445.00
+$1                  386           386.00
+Total Dispensable Bills          3131.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$5                    2            10.00
+$1                   21            21.00
+Unknown Bills         6              .00
+Total Reject Bills                 31.00
+
+Cass. 1 ($1)        386           386.00
+Cass. 2 ($1)          0              .00
+Cass. 3 ($5)         89           445.00
+Cass. 4 ($10)        79           790.00
+Cass. 5 ($20)        33           660.00
+Cass. 6 ($20)         0              .00
+Cass. 7 ($50)         5           250.00
+Cass. 8 ($100)        6           600.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          4:27:06 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          4:30:04 PM
+
+($1) Assumed Count:                  386
+($1) Actual Count:                   386
+($5) Assumed Count:                   89
+($5) Actual Count:                    87
+($10) Assumed Count:                  79
+($10) Actual Count:                   79
+($20) Assumed Count:                  33
+($20) Actual Count:                   32
+  *** $20 Needs Manual Adjustment! ***  
+($50) Assumed Count:                   5
+($50) Actual Count:                    5
+($100) Assumed Count:                  6
+($100) Actual Count:                   6
+
+  *** Inventory Adjusted Per Audit ***  
+  *** BE SURE TO ADJUST DUAL DENOM! *** 
+
+
+(Auto Audit Bill Count)                 
+Transaction #                         14
+Date                             01/16/20
+Time                          4:32:07 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                  32           640.00
+$10                  79           790.00
+$5                   87           435.00
+$1                  386           386.00
+
+Audited Total                    3101.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             99
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                  32           640.00
+$10                  79           790.00
+$5                   91           455.00
+$2                    0              .00
+$1                  407           407.00
+Starting Inventory                   .00
+Net Adjustments                  3586.00
+Total Inventory                  3142.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  6           600.00
+$50                   5           250.00
+$20                  32           640.00
+$10                  79           790.00
+$5                   87           435.00
+$1                  386           386.00
+Total Dispensable Bills          3101.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$5                    4            20.00
+$1                   21            21.00
+Unknown Bills         7              .00
+Total Reject Bills                 41.00
+
+Cass. 1 ($1)        386           386.00
+Cass. 2 ($1)          0              .00
+Cass. 3 ($5)         87           435.00
+Cass. 4 ($10)        79           790.00
+Cass. 5 ($20)        32           640.00
+Cass. 6 ($20)         0              .00
+Cass. 7 ($50)         5           250.00
+Cass. 8 ($100)        6           600.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          4:40:51 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          4:43:23 PM
+
+(Inventory Load)                        
+Transaction #                         15
+Date                             01/16/20
+Time                          4:44:10 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  705           705.00
+
+Total Inventory Added             705.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             99
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                  32           640.00
+$10                  79           790.00
+$5                   91           455.00
+$2                    0              .00
+$1                 1112          1112.00
+Starting Inventory                   .00
+Net Adjustments                  4291.00
+Total Inventory                  3847.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  6           600.00
+$50                   5           250.00
+$20                  32           640.00
+$10                  79           790.00
+$5                   87           435.00
+$1                 1091          1091.00
+Total Dispensable Bills          3806.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$5                    4            20.00
+$1                   21            21.00
+Unknown Bills         7              .00
+Total Reject Bills                 41.00
+
+Cass. 1 ($1)        392           392.00
+Cass. 2 ($1)        699           699.00
+Cass. 3 ($5)         87           435.00
+Cass. 4 ($10)        79           790.00
+Cass. 5 ($20)        32           640.00
+Cass. 6 ($20)         0              .00
+Cass. 7 ($50)         5           250.00
+Cass. 8 ($100)        6           600.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          4:45:26 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          4:45:55 PM
+
+($1) Assumed Count:                 1091
+($1) Actual Count:                   690
+   *** $1 Needs Manual Adjustment! ***  
+
+
+  *** BE SURE TO ADJUST DUAL DENOM! *** 
+
+
+(Auto Audit Bill Count)                 
+Transaction #                         16
+Date                             01/16/20
+Time                          4:49:47 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  690           690.00
+
+Audited Total                     690.00
+----------------------------------------
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          4:50:25 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          4:52:30 PM
+
+(Inventory Removal)                     
+Transaction #                         17
+Date                             01/16/20
+Time                          4:53:33 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Total Inventory Removed           200.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             99
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                  32           640.00
+$10                  79           790.00
+$5                   91           455.00
+$2                    0              .00
+$1                  518           518.00
+Starting Inventory                   .00
+Net Adjustments                  4091.00
+Total Inventory                  3253.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  6           600.00
+$50                   5           250.00
+$20                  32           640.00
+$10                  79           790.00
+$5                   87           435.00
+$1                  490           490.00
+Total Dispensable Bills          3205.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$5                    4            20.00
+$1                   28            28.00
+Unknown Bills        13              .00
+Total Reject Bills                 48.00
+
+Cass. 1 ($1)        490           490.00
+Cass. 2 ($1)          0              .00
+Cass. 3 ($5)         87           435.00
+Cass. 4 ($10)        79           790.00
+Cass. 5 ($20)        32           640.00
+Cass. 6 ($20)         0              .00
+Cass. 7 ($50)         5           250.00
+Cass. 8 ($100)        6           600.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          4:56:12 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          4:56:20 PM
+
+(Inventory Load)                        
+Transaction #                         18
+Date                             01/16/20
+Time                          4:57:15 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  379           379.00
+
+Total Inventory Added             379.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             99
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                  32           640.00
+$10                  79           790.00
+$5                   91           455.00
+$2                    0              .00
+$1                  897           897.00
+Starting Inventory                   .00
+Net Adjustments                  4470.00
+Total Inventory                  3632.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  6           600.00
+$50                   5           250.00
+$20                  32           640.00
+$10                  79           790.00
+$5                   87           435.00
+$1                  869           869.00
+Total Dispensable Bills          3584.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$5                    4            20.00
+$1                   28            28.00
+Unknown Bills        13              .00
+Total Reject Bills                 48.00
+
+Cass. 1 ($1)        490           490.00
+Cass. 2 ($1)        379           379.00
+Cass. 3 ($5)         87           435.00
+Cass. 4 ($10)        79           790.00
+Cass. 5 ($20)        32           640.00
+Cass. 6 ($20)         0              .00
+Cass. 7 ($50)         5           250.00
+Cass. 8 ($100)        6           600.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/16/20
+Time                          4:58:17 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/16/20
+Time                          4:58:24 PM

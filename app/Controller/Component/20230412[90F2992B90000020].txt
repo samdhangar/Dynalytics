@@ -1,0 +1,333 @@
+Serial #                90F2992B90000020
+
+       DynaCore (c) 1999 - 2022 by
+        Add-On Technologies, Inc.
+      Version 10.03.302 (LTA-350)
+
+
+                  PB&T
+        1499 Cottleville Parkway
+          Cottleville, MO 63376
+              Location ID
+
+
+Station:                             812
+Branch:                                8
+Region:                        Region ID
+
+
+Logon:                            jacobs
+04/12/23 08:25 AM
+
+Logon:                           nathank
+04/12/23 08:27 AM
+
+(Online Deposit)                        
+Transaction #                          1
+04/12/23 10:40 AM
+nathank
+Inventory Snapshot              38860.00
+
+Denom            Pieces            Value
+$20                  47           940.00
+
+Machine Total                     940.00
+Deposit Total                     940.00
+----------------------------------------
+
+      *** Client Disconnection ***
+Logoff:                           jacobs
+04/12/23 10:40 AM At 04/12/23 09:27 AM
+
+(Online Deposit)                        
+Transaction #                          2
+04/12/23 11:33 AM
+nathank
+Inventory Snapshot              39800.00
+
+Denom            Pieces            Value
+$20                  10           200.00
+
+Machine Total                     200.00
+Deposit Total                     200.00
+----------------------------------------
+
+Logon:                           isaiahr
+04/12/23 12:45 PM
+
+Logon:                           nathank
+04/12/23 01:14 PM
+
+
+      *** Client Disconnection ***
+Logoff:                          nathank
+04/12/23 01:14 PM At 04/12/23 12:45 PM
+
+(Online Deposit)                        
+Transaction #                          3
+04/12/23 02:45 PM
+nathank
+Inventory Snapshot              40000.00
+
+Denom            Pieces            Value
+$100                 10          1000.00
+
+Machine Total                    1000.00
+Deposit Total                    1000.00
+----------------------------------------
+
+      *** Client Disconnection ***
+Logoff:                          isaiahr
+04/12/23 03:56 PM At 04/12/23 02:46 PM
+
+========================================
+           User Totals Report
+----------------------------------------
+Station:                             812
+Branch:                                8
+Region:                        Region ID
+04/12/23 03:56 PM
+
+
+nathank
+# of Deposits                          3
+# of Withdrawals                       0
+Denom            Pieces            Value
+$100                 10          1000.00
+$20                  57          1140.00
+
+Deposit Total                    2140.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Sell                             2140.00
+========================================
+
+
+
+
+
+
+
+
+========================================
+                Inventory
+----------------------------------------
+Station:                             812
+Branch:                                8
+Region:                        Region ID
+04/12/23 03:56 PM
+
+Denom            Pieces            Value
+$100                 89          8900.00
+$50                 281         14050.00
+$20                 642         12840.00
+$10                 206          2060.00
+$5                  425          2125.00
+$2                    0              .00
+$1                 1025          1025.00
+Starting Inventory              38860.00
+Net Adjustments                      .00
+Total Inventory                 41000.00
+
+----------------------------------------
+            Dispensable Notes
+----------------------------------------
+$100                 88          8800.00
+$50                 281         14050.00
+$20                 642         12840.00
+$10                 205          2050.00
+$5                  425          2125.00
+$1                 1025          1025.00
+Total Dispensable Notes         40890.00
+
+----------------------------------------
+           Ops Cassette Notes
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Ops Cassette Notes             .00
+
+----------------------------------------
+          Reject Cassette Notes
+----------------------------------------
+$100                  1           100.00
+$10                   1            10.00
+Total Reject Notes                110.00
+
+CST-A   $1         1025          1025.00
+CST-B   $5          425          2125.00
+CST-C   $20         642         12840.00
+CST-D   $100         88          8800.00
+CST-E   $10         205          2050.00
+CST-F   $50         281         14050.00
+                CST-D Low
+========================================
+
+
+
+
+
+
+
+
+========================================
+             Activity Report
+
+
+Station:                             812
+Branch:                                8
+Region:                        Region ID
+04/12/23 04:03 PM
+
+ID:                              nathank
+========================================
+              User Activity
+----------------------------------------
+nathank
+# of Deposits                          3
+# of Withdrawals                       0
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$20                  57          1140.00
+
+Deposit Total                    2140.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Net Total                       +2140.00
+========================================
+----------------------------------------
+          Grand Total Deposited
+----------------------------------------
+
+            Machine Deposits
+
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                   0              .00
+$20                  57          1140.00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits
+
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                    2140.00
+Total Deposited                  2140.00
+# of Deposits                          3
+========================================
+----------------------------------------
+          Grand Total Dispensed
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage
+----------------------------------------
+Denom            Pieces            Value
+$100                 10         +1000.00
+$50                   0              .00
+$20                  57         +1140.00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Net Total                       +2140.00
+========================================
+----------------------------------------
+                Inventory
+----------------------------------------
+Denom            Pieces            Value
+$100                 89          8900.00
+$50                 281         14050.00
+$20                 642         12840.00
+$10                 206          2060.00
+$5                  425          2125.00
+$2                    0              .00
+$1                 1025          1025.00
+Starting Inventory              38860.00
+Net Adjustments                      .00
+Total Inventory                 41000.00
+
+----------------------------------------
+            Dispensable Notes
+----------------------------------------
+$100                 88          8800.00
+$50                 281         14050.00
+$20                 642         12840.00
+$10                 205          2050.00
+$5                  425          2125.00
+$1                 1025          1025.00
+Total Dispensable Notes         40890.00
+
+----------------------------------------
+           Ops Cassette Notes
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Ops Cassette Notes             .00
+
+----------------------------------------
+          Reject Cassette Notes
+----------------------------------------
+$100                  1           100.00
+$10                   1            10.00
+Total Reject Notes                110.00
+
+CST-A   $1         1025          1025.00
+CST-B   $5          425          2125.00
+CST-C   $20         642         12840.00
+CST-D   $100         88          8800.00
+CST-E   $10         205          2050.00
+CST-F   $50         281         14050.00
+                CST-D Low
+========================================
+
+        User Grand Totals Cleared
+
+            Activity Cleared
+
+
+
+
+
+
+
+
+
+Logoff:                          nathank
+04/12/23 04:56 PM

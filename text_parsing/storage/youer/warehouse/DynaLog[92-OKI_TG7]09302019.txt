@@ -1,0 +1,127 @@
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       OKI TG7 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: LAN           
+
+                 OKI TG7                
+                Test Unit               
+                TCR Hall                
+
+Station #                             92
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/30/20
+Time                          3:46:21 PM
+
+(Inventory Removal)                     
+Transaction #                         53
+Date                             01/30/20
+Time                          3:47:07 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$20                  36           720.00
+
+Total Inventory Removed           720.00
+----------------------------------------
+       *** Cassette 3 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         54
+Date                             01/30/20
+Time                          3:47:33 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$10                  50           500.00
+
+Total Inventory Removed           500.00
+----------------------------------------
+       *** Cassette 4 Emptied ***       
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             92
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                  140           700.00
+$2                    0              .00
+$1                  164           164.00
+Starting Inventory              19302.00
+Net Adjustments               -478084.00
+Total Inventory                   864.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                   21            21.00
+Total Dispensable Bills            21.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$10                   1            10.00
+Unknown Bills        37              .00
+Total Reject Bills                 10.00
+
+Cass. 1 ($100)        0              .00
+Cass. 2 ($50)         0              .00
+Cass. 3 ($20)         0              .00
+Cass. 4 ($10)         0              .00
+Cass. 5 ($5)          0              .00
+Cass. 10 ($1)        21            21.00
+               Fives Empty              
+               Tens Empty               
+             Twenties Empty             
+              Fifties Empty             
+             Hundreds Empty             
+              Cass. 1 Empty             
+              Cass. 2 Empty             
+              Cass. 3 Empty             
+              Cass. 4 Empty             
+              Cass. 5 Empty             
+              Cass. 10 Low              
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/30/20
+Time                          3:48:17 PM
+****************************************
+
+(Vault Buy)                             
+Transaction #                         55
+Date                             01/30/20
+Time                          3:48:45 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                   21            21.00
+
+Amount Tendered                    21.00
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       OKI TG7 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: LAN           
+
+                 OKI TG7                
+                Test Unit               
+                TCR Hall                
+
+Station #                             92
+
+      TCR Error #FFFFFC0C Occurred      
+   Device Config Error (OKITCRRev.ini)  
+      TCR Error #FFFFFC0C Occurred      
+   Device Config Error (OKITCRRev.ini)  

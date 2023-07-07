@@ -1,0 +1,728 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.091 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                              josh
+001/02/20 12:16 PM
+
+
+   *** Entered Configuration Mode ***   
+001/02/20 12:16 PM
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/02/20 12:16 PM
+ID:                                 josh
+
+
+========================================
+            Hardware Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address            192.168.1.202
+TCD/TCR Port                        9998
+TCD/TCR Connection                 LAN 1
+Coin Dispenser             No Coin Usage
+Bill Discriminator      Cassida Pro Zeus
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+Logoff:                             josh
+001/02/20 12:16 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.091 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                              josh
+001/02/20 12:17 PM
+
+
+(Online Deposit)                        
+Transaction #                          1
+001/02/20 12:17 PM
+Josh
+
+Denom            Pieces            Value
+$10                  32           320.00
+$5                    1             5.00
+$1                   46            46.00
+
+Other Cash Deposited              371.00
+
+Deposit Total                     371.00
+----------------------------------------
+
+
+
+
+
+
+
+
+
+Logoff:                             jos
+h
+
+Logon:                              jos
+h
+
+
+
+
+
+
+
+
+
+========================================
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address            192.168.1.202
+TCD/TCR Port                        9998
+TCD/TCR Connection                 LAN 1
+Coin Dispenser             No Coin Usage
+Bill Discriminator       Cummins JetScan
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+Logoff:                             jos
+h
+
+Logon:                              jos
+h
+
+
+
+Original Amount Deposited          25.00
+Reversed Amount                    25.0
+0
+
+
+
+Original Amount Deposited          11.00
+Reversed Amount                    11.0
+0
+
+(Online Deposit)                       
+ Transaction #                          
+2001/02/20 12:28 PM
+
+
+
+Other Cash Deposited               45.0
+0
+
+Deposit Total                      45.00
+----------------------------------------
+
+Logoff:                             jos
+h
+
+Logon:                              jos
+h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+========================================
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0c:27:5c
+LAN 1 IP Address           192.168.1.239
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0c:29:1e
+LAN 2 IP Address           192.168.1.240
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address          192.168.1.97
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.091
+Release Date                    04/01/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           00.00.001
+Min. DynaCash Version          00.00.002
+Min. DynaLog Server Version    00.00.003
+Min. DynaLog Viewer Version    00.00.004
+========================================
+
+   *** Entered Configuration Mode ***   
+001/02/20 12:44 PM
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/02/20 12:44 PM
+ID:                                 josh
+
+
+Logoff:                             josh
+001/02/20 12:44 PM
+
+
+Logon:                              josh
+001/02/20 12:44 PM
+
+
+Logon:                             charo
+001/02/20 01:38 PM
+
+*** Forced Logoff of Non-Admin Users ***
+
+
+   *** Entered Configuration Mode ***   
+001/02/20 01:38 PM
+ID:                                charo
+
+
+    *** Exited Configuration Mode ***   
+001/02/20 01:40 PM
+ID:                                charo
+
+
+Logoff:                            charo
+001/02/20 01:40 PM
+
+
+Logon:                             charo
+001/02/20 01:45 PM
+
+
+(Online Deposit)                        
+Transaction #                          3
+001/02/20 01:46 PM
+Charo
+
+Denom            Pieces            Value
+$10                   2            20.00
+$5                    2            10.00
+$1                   22            22.00
+
+Other Cash Deposited               52.00
+
+Deposit Total                      52.00
+----------------------------------------
+
+Logoff:                            charo
+001/02/20 01:55 PM
+
+
+Logon:                              josh
+001/02/20 02:17 PM
+
+
+Logoff:                             josh
+001/02/20 02:22 PM
+
+
+Logon:                              josh
+001/02/20 02:24 PM
+
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited          24.00
+Reversed Amount                    24.00
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/02/20 02:25 PM
+josh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Logon:                              Cha
+d
+
+Logoff:                             Cha
+d
+
+Logon:                              Cha
+d
+
+
+(Online Deposit)                       
+ 
+
+
+
+Logoff:                             jos
+h
+
+Logoff:                             Cha
+d      *** System Memory Cleared ***   
+  
+001/02/20 04:10 PM                       
+ID:                                 josh
+
+
+
+    *** Exited Configuration Mode ***   
+001/02/20 04:10 PM                       
+ID:                                 josh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Logoff:                             josh
+001/02/20 04:10 PM                       
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.092 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                              Josh
+001/02/20 04:12 PM                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Logon:                              Chad
+001/02/20 04:13 PM                       
+
+(Online Deposit)                        
+Transaction #                          1
+001/02/20 04:15 PM
+Chad
+
+Denom            Pieces            Value
+$10                   1            10.00
+$1                    2             2.00
+
+Machine Total                      12.00
+
+$10                   1            10.00
+$5                    1             5.00
+
+Other Cash Deposited               15.00
+
+Deposit Total                      27.00
+----------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       *** Cassette 1 Emptied ***       
+       *** Cassette 2 Emptied ***       
+       *** Cassette 4 Emptied ***       
+       *** Cassette 5 Emptied ***       
+       *** Cassette 6 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                          2
+001/02/20 04:19 PM
+Chad
+
+Denom            Pieces            Value
+$50                   1            50.00
+$20                   1            20.00
+$10                   2            20.00
+$5                    1             5.00
+$1                  566           566.00
+
+Total Inventory Removed           661.00
+----------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Logoff:                             Chad
+001/02/20 04:24 PM                       

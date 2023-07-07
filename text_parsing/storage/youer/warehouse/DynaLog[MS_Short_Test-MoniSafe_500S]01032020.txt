@@ -1,0 +1,290 @@
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+Logon:                             charo
+00001/03/20 08:31 AM
+
+   *** Entered Configuration Mode ***   
+00001/03/20 08:31 AM
+ID:                                charo
+
+    *** Exited Configuration Mode ***   
+00001/03/20 08:31 AM
+ID:                                charo
+
+Logoff:                            charo
+00001/03/20 08:31 AM
+
+Logon:                              josh
+00001/03/20 09:01 AM
+
+(Online Mix Dispense)                   
+Transaction #                         37
+00001/03/20 09:01 AM
+Josh
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+             TCR Link Error             
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+00001/03/20 09:04 AM
+josh
+
+
+Amount Requested                    1.00
+Amount Tendered                      .00
+Balance Due                         1.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         38
+00001/03/20 09:05 AM
+Josh
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+Logon:                             charo
+00001/03/20 09:11 AM
+
+(Online Deposit)                        
+Transaction #                         39
+00001/03/20 09:11 AM
+Charo
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Machine Total                       2.00
+Deposit Total                       2.00
+----------------------------------------
+*** Forced Logoff of Non-Admin Users ***
+
+
+   *** Entered Configuration Mode ***   
+00001/03/20 09:24 AM
+ID:                               Level2
+
+
+Logon:                   addon_tester_01
+00001/03/20 09:24 AM
+
+    *** Exited Configuration Mode ***   
+00001/03/20 09:24 AM
+ID:                      addon_tester_01
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+Logon:                             Charo
+00001/03/20 01:04 PM
+
+(Inventory Removal)                     
+Transaction #                         40
+00001/03/20 01:05 PM
+Charo
+
+Denom            Pieces            Value
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Total Inventory Removed           160.00
+----------------------------------------
+
+Console Disconnected During Transaction!
+
+Console Disconnected During Transaction!
+
+             TCR Link Error             
+
+Console Disconnected During Transaction!
+
+Console Disconnected During Transaction!
+     *** Deposit Needs Audited! ***     
+
+
+Console Disconnected During Transaction!
+
+Console Disconnected During Transaction!
+             Deposit Failure            
+
+(Online Deposit)                        
+00001/03/20 01:07 PM
+Charo
+
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                            Charo
+00001/03/20 01:07 PM
+
+
+Logon:                             Charo
+00001/03/20 01:08 PM
+*** Forced Logoff of Non-Admin Users ***
+
+
+   *** Entered Configuration Mode ***   
+00001/03/20 01:12 PM
+ID:                               Level2
+
+
+Logon:                   addon_tester_01
+00001/03/20 01:12 PM
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+   *** Entered Configuration Mode ***   
+00001/03/20 01:25 PM
+ID:                               Level2
+
+
+Logon:                   addon_tester_01
+00001/03/20 01:25 PM
+
+    *** Exited Configuration Mode ***   
+00001/03/20 01:26 PM
+ID:                      addon_tester_01
+
+
+========================================
+              User Settings             
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+   *** Entered Configuration Mode ***   
+00001/03/20 01:27 PM
+ID:                               Level2
+
+
+Logon:                   addon_tester_01
+00001/03/20 01:27 PM
+
+    *** Exited Configuration Mode ***   
+00001/03/20 01:31 PM
+ID:                      addon_tester_01
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               ray
+00001/03/20 01:32 PM
+
+Logoff:                              ray
+00001/03/20 01:33 PM
+
+   *** Entered Configuration Mode ***   
+00001/03/20 01:34 PM
+ID:                               Level2
+
+Logon:                   addon_tester_01
+00001/03/20 01:34 PM
+
+    *** Exited Configuration Mode ***   
+00001/03/20 01:34 PM
+ID:                      addon_tester_01
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                             Charo
+00001/03/20 02:37 PM
+
+   *** Entered Configuration Mode ***   
+00001/03/20 02:37 PM
+ID:                                Charo

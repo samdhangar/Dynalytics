@@ -1,0 +1,370 @@
+
+Logon:                               ray
+01/23/20 09:10 AM
+
+
+Logoff:                              ray
+01/23/20 09:10 AM
+
+
+   *** Entered Configuration Mode ***   
+01/23/20 09:10 AM
+ID:                               Level2
+
+
+Logon:                   addon_tester_01
+01/23/20 09:10 AM
+
+
+    *** Exited Configuration Mode ***   
+01/23/20 09:10 AM
+ID:                      addon_tester_01
+
+
+========================================
+              User Settings             
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                          Manager1
+01/23/20 09:11 AM
+
+Logoff:                         Manager1
+01/23/20 10:46 AM
+
+Logon:                              Josh
+01/23/20 10:47 AM
+
+         *** Security Event! ***        
+            01/23/20 11:04 AM           
+    *** TCR Main Safe Door Opened ***   
+
+         *** Security Event! ***        
+            01/23/20 11:05 AM           
+  *** TCR Main Storage Unit Opened ***  
+
+         *** Security Event! ***        
+            01/23/20 11:05 AM           
+  *** TCR Main Storage Unit Closed ***  
+
+         *** Security Event! ***        
+            01/23/20 11:05 AM           
+    *** TCR Main Safe Door Closed ***   
+
+Logon:                          manager2
+01/23/20 11:06 AM
+    *** Cassette Cass. 1 Emptied ***    
+    *** Cassette Cass. 2 Emptied ***    
+    *** Cassette Cass. 3 Emptied ***    
+    *** Cassette Cass. 4U Emptied ***   
+    *** Cassette Cass. 5 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         32
+01/23/20 11:06 AM
+Manager2
+
+Denom            Pieces            Value
+$100                137         13700.00
+$20                 133          2660.00
+$10                 264          2640.00
+$5                  160           800.00
+$1                  179           179.00
+
+Total Inventory Removed         19979.00
+----------------------------------------
+
+         *** Security Event! ***        
+            01/23/20 11:09 AM           
+   *** TCR Lower Safe Door Opened ***   
+
+         *** Security Event! ***        
+            01/23/20 11:09 AM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/23/20 11:09 AM           
+    *** TCR Collection Box Opened ***   
+
+         *** Security Event! ***        
+            01/23/20 11:10 AM           
+    *** TCR Collection Box Closed ***   
+
+         *** Security Event! ***        
+            01/23/20 11:10 AM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            01/23/20 11:10 AM           
+   *** TCR Lower Safe Door Closed ***   
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         33
+01/23/20 11:10 AM
+Manager2
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$50                 192          9600.00
+
+Collection Notes Removed         9600.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$50                 192          9600.00
+
+Removed (Mutilated) Notes        9600.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+Logoff:                         manager2
+01/23/20 11:16 AM
+
+Logon:                          manager1
+01/23/20 11:21 AM
+
+         *** Security Event! ***        
+            01/23/20 11:22 AM           
+    *** TCR Main Safe Door Opened ***   
+
+         *** Security Event! ***        
+            01/23/20 11:22 AM           
+  *** TCR Main Storage Unit Opened ***  
+
+         *** Security Event! ***        
+            01/23/20 11:23 AM           
+  *** TCR Main Storage Unit Closed ***  
+
+         *** Security Event! ***        
+            01/23/20 11:23 AM           
+    *** TCR Main Safe Door Closed ***   
+
+   *** Manual Note Removal Attempt ***  
+      *** No Notes Were Removed ***     
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+01/23/20 11:24 AM
+manager1
+
+
+
+Coin Adjusted                    +200.69
+New Coin Total                    200.69
+
+(Inventory Adjustment)                  
+Transaction #                         34
+01/23/20 11:24 AM
+Manager1
+
+Coin                             +200.69
+
+Total Net Added                  +200.69
+Total Net Removed                   -.00
+Total Net Adjusted               +200.69
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         35
+01/23/20 11:25 AM
+Manager1
+
+Denom            Pieces            Value
+$100                132         13200.00
+$50                 191          9550.00
+$20                 133          2660.00
+$10                 264          2640.00
+$5                  160           800.00
+$1                    9             9.00
+
+Machine Total                   28859.00
+Total Inventory Added           28859.00
+----------------------------------------
+*** Forced Logoff of Non-Admin Users ***
+
+
+   *** Entered Configuration Mode ***   
+01/23/20 11:28 AM
+ID:                             manager1
+
+    *** Exited Configuration Mode ***   
+01/23/20 11:29 AM
+ID:                             manager1
+
+
+========================================
+           Inventory Settings           
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+         Low   Mid   High   Weight  Odds
+$100       0     0      0      6     Yes
+$50        0     0      0      5      No
+$20        5     5      5      1     Yes
+$10        3     3      3      2     Yes
+$5         5     5      5      3     Yes
+$1         5     5      5      4     Yes
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+$100      50    600         10        20
+$50       50    600         10        20
+$20       50    600        100       100
+$10       50    600        100       100
+$5        50    600        100       100
+$1        50    600        100       100
+========================================
+
+
+Logoff:                         manager1
+01/23/20 11:29 AM
+
+Logon:                              josh
+01/23/20 11:29 AM
+
+
+   *** Entered Configuration Mode ***   
+01/23/20 11:29 AM
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+01/23/20 11:29 AM
+ID:                                 josh
+
+(Online Nominated Dispense)             
+Transaction #                         36
+01/23/20 11:30 AM
+Josh
+
+Denom            Pieces            Value
+$1                    8             8.00
+
+Amount Tendered                     8.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/23/20 11:31 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/23/20 11:31 AM
+ID:                                 josh
+
+
+========================================
+           Inventory Settings           
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+         Low   Mid   High   Weight  Odds
+$100       0     0      0      6     Yes
+$50        0     0      0      5      No
+$20        5     5      5      1     Yes
+$10        3     3      3      2     Yes
+$5         5     5      5      3     Yes
+$1         5     5      5      4     Yes
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+$100      50    100         10        20
+$50       50    600         10        20
+$20       50    600        100       100
+$10       50    600        100       100
+$5        50    600        100       100
+$1        50    600        100       100
+========================================
+
+
+
+Logoff:                             josh
+01/23/20 11:31 AM
+
+Logon:                              josh
+01/23/20 11:32 AM
+
+Logon:                          manager1
+01/23/20 12:10 PM
+
+Logoff:                         manager1
+01/23/20 12:10 PM
+
+Logon:                          manager1
+01/23/20 12:11 PM
+
+Logoff:                         manager1
+01/23/20 12:12 PM
+
+Logon:                          manager1
+01/23/20 12:13 PM
+
+Logoff:                         manager1
+01/23/20 12:15 PM
+
+Logon:                          manager1
+01/23/20 03:06 PM
+
+Logoff:                         manager1
+01/23/20 03:06 PM
+
+Logon:                               ray
+01/23/20 03:06 PM
+
+      *** Client Disconnection ***      
+Logoff:                              ray
+01/23/20 03:17 PM
+
+Logon:                          manager1
+01/23/20 04:37 PM

@@ -1,0 +1,66 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.129 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                               Ray
+001/15/20 04:57 PM
+
+   *** Entered Configuration Mode ***   
+001/15/20 04:57 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/15/20 04:57 PM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address            192.168.1.202
+TCD/TCR Port                        9998
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator      Amrotec X-Series
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          200
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.129 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/15/20 04:58 PM
+
+Logoff:                              Ray
+001/15/20 04:58 PM

@@ -1,0 +1,858 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.149 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+  *** Automatic System Memory Clear *** 
+
+
+   *** Entered Configuration Mode ***   
+01/04/20 03:12 PM
+ID:                               Level2
+
+           *** Added User ***           
+01/04/20 03:12 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+01/04/20 03:13 PM
+ID:                               Add-On
+
+
+========================================
+             DynaCore Groups            
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+01/04/20 03:13 PM
+
+Dual Control Options
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                     12k
+
+Group 1
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 2
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+0
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                     18k
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+========================================
+             DynaCore Users             
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+01/04/20 03:13 PM
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+Ray
+     Group 1
+
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.149 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+  *** Automatic System Memory Clear *** 
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.149 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.149 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/04/20 03:22 PM
+
+   *** Entered Configuration Mode ***   
+01/04/20 03:22 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/04/20 03:25 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+01/04/20 03:25 PM
+
+   *** Entered Configuration Mode ***   
+01/04/20 03:26 PM
+ID:                               Level2
+
+    *** Exited Configuration Mode ***   
+01/04/20 03:35 PM
+ID:                               Add-On
+
+
+========================================
+            Security Settings           
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         8:00    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                    No
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        0
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+500k                  5            2500k
+200k                  5            1000k
+100k                  5             500k
+50k                   5             250k
+20k                   5             100k
+10k                   5              50k
+========================================
+
+
+
+========================================
+           Inventory Settings           
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                     500000
+Mix 2 Below $                    2500000
+
+         Low   Mid   High   Weight  Odds
+500k       0     0      0      5     Yes
+200k       5     5      5      1     Yes
+100k       3     3      3      2     Yes
+50k        5     5      5      3     Yes
+20k        0     0      0      6     Yes
+10k        5     5      5      4     Yes
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+500k      50    900         25       100
+200k      50    900        100       100
+100k      50    900        100       100
+50k       50    900        100       100
+20k       50    900        100       100
+10k       50    900        100       100
+========================================
+
+
+
+========================================
+              User Settings             
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.149 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.149 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/04/20 03:38 PM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/04/20 03:38 PM
+
+Logon:                               Ray
+01/04/20 03:39 PM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/04/20 03:41 PM
+
+Logon:                               Ray
+01/04/20 03:42 PM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/04/20 03:51 PM
+
+Logon:                               Ray
+01/04/20 03:52 PM
+
+
+   *** Entered Configuration Mode ***   
+01/04/20 03:52 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/04/20 03:55 PM
+ID:                                  Ray
+
+         *** Security Event! ***        
+            01/04/20 03:57 PM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/04/20 03:57 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/04/20 03:58 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            01/04/20 03:58 PM           
+      *** TCR Safe Door Closed ***      
+
+   *** Manual Note Removal Attempt ***  
+      *** No Notes Were Removed ***     
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/04/20 04:26 PM
+
+Logon:                               Ray
+01/04/20 04:27 PM
+
+Logoff:                              Ray
+01/04/20 04:37 PM

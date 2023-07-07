@@ -1,0 +1,334 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/11/20 10:11 AM
+
+
+   *** Entered Configuration Mode ***   
+01/11/20 10:11 AM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+01/11/20 01:03 PM
+
+
+   *** Entered Configuration Mode ***   
+01/11/20 01:03 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/11/20 01:03 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+01/11/20 01:06 PM
+
+Logoff:                              Ray
+01/11/20 01:07 PM
+
+Logon:                               Ray
+01/11/20 01:18 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/11/20 01:23 PM
+Ray
+
+
+
+
+Logoff:                              Ray
+01/11/20 01:23 PM
+
+Logon:                               Ray
+01/11/20 01:26 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/11/20 01:26 PM
+Ray
+
+
+
+
+Logoff:                              Ray
+01/11/20 01:26 PM
+
+Logon:                               Ray
+01/11/20 01:29 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/11/20 01:29 PM
+Ray
+
+
+
+
+Logoff:                              Ray
+01/11/20 01:29 PM
+
+Logon:                               Ray
+01/11/20 03:36 PM
+
+
+Logoff:                              Ray
+01/11/20 03:36 PM
+
+
+Logon:                               Ray
+01/11/20 03:40 PM
+
+
+Logoff:                              Ray
+01/11/20 03:40 PM
+
+
+Logon:                               Ray
+01/11/20 03:41 PM
+
+   *** Entered Configuration Mode ***   
+01/11/20 03:41 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/11/20 03:41 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+01/11/20 03:41 PM
+
+Logon:                               Ray
+01/11/20 03:48 PM
+
+
+   *** Entered Configuration Mode ***   
+01/11/20 03:48 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/11/20 03:48 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+01/11/20 03:48 PM
+
+Logon:                               Ray
+01/11/20 04:00 PM
+
+
+   *** Entered Configuration Mode ***   
+01/11/20 04:00 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/11/20 04:00 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+01/11/20 04:00 PM
+
+Logon:                               Ray
+01/11/20 04:26 PM
+
+
+   *** Entered Configuration Mode ***   
+01/11/20 04:26 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/11/20 04:26 PM
+ID:                                  Ray
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0b:82:7c
+LAN 1 IP Address           192.168.1.204
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0b:83:44
+LAN 2 IP Address           192.168.1.205
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address        192.168.62.128
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.152
+Release Date                    10/08/19
+Subscription Level                     3
+Subscription Start              10/04/19
+Subscription End                10/04/20
+
+Min. Console Version           1.1.0.085
+Min. DynaCash Version          4.3.0.065
+Min. DynaLog Server Version    2.0.0.005
+Min. DynaLog Viewer Version    2.0.0.000
+========================================
+
+
+Logon:                               Ray
+01/11/20 04:30 PM
+
+
+   *** Entered Configuration Mode ***   
+01/11/20 04:30 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+01/11/20 04:30 PM
+ID:                                  Ray
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0b:82:7c
+LAN 1 IP Address           192.168.1.204
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0b:83:44
+LAN 2 IP Address           192.168.1.205
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.152
+Release Date                    10/08/19
+Subscription Level                     3
+Subscription Start              10/04/19
+Subscription End                10/04/20
+
+Min. Console Version           1.1.0.085
+Min. DynaCash Version          4.3.0.065
+Min. DynaLog Server Version    2.0.0.005
+Min. DynaLog Viewer Version    2.0.0.000
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             

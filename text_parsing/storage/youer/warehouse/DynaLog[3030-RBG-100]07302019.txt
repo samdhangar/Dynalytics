@@ -1,0 +1,190 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.134 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.134 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/30/20 01:39 PM
+
+Logoff:                              Ray
+001/30/20 01:39 PM
+
+Logon:                               Ray
+001/30/20 03:09 PM
+
+Logoff:                              Ray
+001/30/20 03:09 PM
+
+Logon:                               Ray
+001/30/20 03:11 PM
+
+(Online Nominated Dispense)             
+Transaction #                          1
+001/30/20 03:11 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+Logoff:                              Ray
+001/30/20 03:12 PM
+
+Logon:                               Ray
+001/30/20 03:14 PM
+
+Logoff:                              Ray
+001/30/20 03:14 PM
+
+Logon:                               Ray
+001/30/20 03:18 PM
+
+Logoff:                              Ray
+001/30/20 03:18 PM
+
+Logon:                               Ray
+001/30/20 03:27 PM
+
+Logoff:                              Ray
+001/30/20 03:27 PM
+
+Logon:                               Ray
+001/30/20 03:28 PM
+
+Logoff:                              Ray
+001/30/20 03:28 PM
+
+Logon:                               Ray
+001/30/20 03:29 PM
+
+Logoff:                              Ray
+001/30/20 03:29 PM
+
+Logon:                               Ray
+001/30/20 03:30 PM
+
+Logoff:                              Ray
+001/30/20 03:30 PM
+
+Logon:                               Ray
+001/30/20 03:31 PM
+
+Logoff:                              Ray
+001/30/20 03:31 PM
+
+Logon:                               Ray
+001/30/20 03:42 PM
+
+(Online Nominated Dispense)             
+Transaction #                          2
+001/30/20 03:42 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Amount Tendered                   186.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          3
+001/30/20 03:42 PM
+Ray
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     286.00
+Deposit Total                     286.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                          4
+001/30/20 03:44 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Amount Tendered                   186.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          5
+001/30/20 03:44 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     186.00
+Deposit Total                     186.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/30/20 03:44 PM
+
+Logon:                               Ray
+001/30/20 04:54 PM
+
+Logoff:                              Ray
+001/30/20 04:54 PM
+
+Logon:                               Ray
+001/30/20 04:56 PM
+
+Logoff:                              Ray
+001/30/20 04:56 PM
+
+Logon:                               Ray
+001/30/20 04:58 PM
+
+Logoff:                              Ray
+001/30/20 04:58 PM

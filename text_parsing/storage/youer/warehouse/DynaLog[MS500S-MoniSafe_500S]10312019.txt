@@ -1,0 +1,415 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.159 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          MS500S
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/31/20 09:13 AM
+     *** Cassette CST-A Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                          1
+01/31/20 09:14 AM
+Ray
+
+Denom            Pieces            Value
+$1                  334           334.00
+
+Total Inventory Removed           334.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          2
+01/31/20 09:18 AM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   3            60.00
+$10                   7            70.00
+$5                    4            20.00
+$1                  198           198.00
+
+Machine Total                     498.00
+Deposit Total                     498.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          3
+01/31/20 09:20 AM
+Ray
+
+Denom            Pieces            Value
+$1                  334           334.00
+
+Machine Total                     334.00
+Deposit Total                     334.00
+----------------------------------------
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                          4
+01/31/20 09:20 AM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$1                    2             2.00
+Unknown Notes         2              .00
+
+Reject Notes Removed                2.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$1                    3             3.00
+
+Removed (Mutilated) Notes           3.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$1                    1            +1.00
+
+Differences                        +1.00
+----------------------------------------
+
+Logoff:                              Ray
+01/31/20 09:23 AM
+
+   *** Entered Configuration Mode ***   
+01/31/20 09:24 AM
+ID:                               Level2
+
+
+Logon:                             addon
+01/31/20 09:24 AM
+
+    *** Exited Configuration Mode ***   
+01/31/20 09:25 AM
+ID:                                addon
+
+
+========================================
+              User Settings             
+Station:                          MS500S
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.159 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          MS500S
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/31/20 09:26 AM
+
+Logoff:                              Ray
+01/31/20 09:26 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.159 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          MS500S
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/31/20 09:28 AM
+
+Logoff:                              Ray
+01/31/20 09:28 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.159 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          MS500S
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/31/20 09:32 AM
+
+CST-A ($1) Assumed Count:             53
+2CST-A ($1) Actual Count:              5
+32
+
+(Auto Audit Note Count)                 
+Transaction #                          5
+01/31/20 09:33 AM
+Ray
+
+Denom            Pieces            Value
+
+Audited Total                        .00
+----------------------------------------
+     *** Cassette CST-A Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                          6
+01/31/20 09:36 AM
+Ray
+
+Denom            Pieces            Value
+$1                  334           334.00
+
+Total Inventory Removed           334.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          7
+01/31/20 09:39 AM
+Ray
+
+Denom            Pieces            Value
+$1                  150           150.00
+
+Machine Total                     150.00
+Deposit Total                     150.00
+----------------------------------------
+     *** Cassette CST-B Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                          8
+01/31/20 09:40 AM
+Ray
+
+Denom            Pieces            Value
+$1                  198           198.00
+
+Total Inventory Removed           198.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          9
+01/31/20 09:42 AM
+Ray
+
+Denom            Pieces            Value
+$1                  150           150.00
+
+Machine Total                     150.00
+Deposit Total                     150.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.159 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          MS500S
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/31/20 09:45 AM
+
+Logoff:                              Ray
+01/31/20 09:45 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.159 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          MS500S
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/31/20 09:46 AM
+
+Logoff:                              Ray
+01/31/20 09:46 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.159 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          MS500S
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/31/20 09:50 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.159 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          MS500S
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/31/20 09:52 AM
+
+   *** Entered Configuration Mode ***   
+01/31/20 09:52 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/31/20 09:52 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+01/31/20 09:52 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.159 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          MS500S
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/31/20 09:54 AM
+
+Logoff:                              Ray
+01/31/20 09:54 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.159 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          MS500S
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/31/20 09:59 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.159 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          MS500S
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/31/20 10:02 AM
+
+Logoff:                              Ray
+01/31/20 10:02 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.159 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                          MS500S
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/31/20 10:03 AM
+
+             TCR Link Error             
+
+             TCR Link Error             
+
+             TCR Link Error             
+
+Logoff:                              Ray
+01/31/20 10:03 AM

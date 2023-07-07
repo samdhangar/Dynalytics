@@ -1,0 +1,429 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/30/20 09:43 AM
+
+   *** Entered Configuration Mode ***   
+001/30/20 09:43 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 09:52 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser         Track Drawer Coin
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          150
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+            Partial Dispense            
+
+(Online Mix Dispense)                   
+Transaction #                          3
+001/30/20 09:53 AM
+Ray
+
+Denom            Pieces            Value
+Coin From Drawer                     .35
+
+Amount Requested                    1.35
+Amount Tendered                      .35
+Balance Due                         1.00
+----------------------------------------
+
+Logoff:                              Ray
+001/30/20 09:55 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/30/20 10:29 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/30/20 10:34 AM
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:34 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:36 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          150
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/30/20 10:39 AM
+
+Coin Adjusted                    +100.00
+New Coin Total                    100.00
+
+(Inventory Adjustment)                  
+Transaction #                          4
+001/30/20 10:39 AM
+Ray
+
+Coin                             +100.00
+
+Total Net Added                  +100.00
+Total Net Removed                   -.00
+Total Net Adjusted               +100.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                          5
+001/30/20 10:39 AM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .25
+
+Amount Tendered                     1.25
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                          6
+001/30/20 10:40 AM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .25
+
+Amount Tendered                     1.25
+----------------------------------------
+
+Logoff:                              Ray
+001/30/20 10:42 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/30/20 10:46 AM
+
+             Coin Link Error            
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+001/30/20 10:46 AM
+Ray
+
+
+Amount Requested                    1.25
+Amount Tendered                      .00
+Balance Due                         1.25
+----------------------------------------
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/30/20 10:52 AM
+
+(Online Mix Dispense)                   
+Transaction #                          7
+001/30/20 10:52 AM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .25
+
+Amount Tendered                     1.25
+----------------------------------------
+
+Logoff:                              Ray
+001/30/20 10:52 AM
+
+Logon:                               Ray
+001/30/20 10:53 AM
+
+(Online Mix Dispense)                   
+Transaction #                          8
+001/30/20 10:53 AM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .25
+
+Amount Tendered                     1.25
+----------------------------------------
+
+Logoff:                              Ray
+001/30/20 10:53 AM
+
+Logon:                               Ray
+001/30/20 10:54 AM
+
+          Coin Dispenser Error          
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+001/30/20 10:54 AM
+Ray
+
+
+Amount Requested                    1.25
+Amount Tendered                      .00
+Balance Due                         1.25
+----------------------------------------
+
+
+Logoff:                              Ray
+001/30/20 10:54 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/30/20 10:56 AM
+
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:56 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 11:00 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          150
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+            Partial Dispense            
+
+(Online Mix Dispense)                   
+Transaction #                          9
+001/30/20 11:00 AM
+Ray
+
+Denom            Pieces            Value
+Coin                                 .25
+
+Amount Requested                    1.25
+Amount Tendered                      .25
+Balance Due                         1.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/30/20 11:01 AM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/30/20 11:12 AM
+
+   *** Entered Configuration Mode ***   
+001/30/20 11:12 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 11:12 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          150
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+            Partial Dispense            
+
+(Online Mix Dispense)                   
+Transaction #                         10
+001/30/20 11:13 AM
+Ray
+
+Denom            Pieces            Value
+Coin                                 .25
+
+Amount Requested                    1.25
+Amount Tendered                      .25
+Balance Due                         1.00
+----------------------------------------
+
+Logoff:                              Ray
+001/30/20 11:13 AM
+
+Logon:                               Ray
+001/30/20 11:14 AM
+
+            Partial Dispense            
+
+(Online Mix Dispense)                   
+Transaction #                         11
+001/30/20 11:14 AM
+Ray
+
+Denom            Pieces            Value
+Coin                                 .25
+
+Amount Requested                    1.25
+Amount Tendered                      .25
+Balance Due                         1.00
+----------------------------------------

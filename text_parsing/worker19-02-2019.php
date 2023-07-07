@@ -1,0 +1,549 @@
+<?php
+error_reporting(E_ALL);
+
+$do_not_use_client_logic = false;
+
+require_once(__DIR__ . "/config.php");
+require_once(__DIR__ . "/Hook.php");
+require_once(__DIR__ . "/models/DB.php");
+require_once(__DIR__ . "/models/Model.php");
+require_once(__DIR__ . "/models/Client.php");
+require_once(__DIR__ . "/models/CompanyBranch.php");
+require_once(__DIR__ . "/models/_ErrorLog.php");
+
+/* Other files */
+require_once(__DIR__ . "/models/Counter.php");
+require_once(__DIR__ . "/models/EntryCounter.php");
+require_once(__DIR__ . "/models/Container.php");
+require_once(__DIR__ . "/models/TransactionDetails/DepositCanceled.php");
+require_once(__DIR__ . "/models/TransactionDetails/InventoryLoadCancelled.php");
+require_once(__DIR__ . "/models/TransactionCategory.php");
+require_once(__DIR__ . "/models/ProcessingFile.php");  // OK
+require_once(__DIR__ . "/models/Station.php");  // OK
+require_once(__DIR__ . "/models/AvailableMessages.php");
+// require_once(__DIR__."/models/ManagerSetup.php");
+// require_once(__DIR__."/models/TellerSetup.php");
+require_once(__DIR__ . "/models/Msg.php");
+
+require_once(__DIR__ . "/models/TransactionType.php");  // OK
+require_once(__DIR__ . "/models/TransactionDetails.php");
+require_once(__DIR__ . "/models/BillType.php");  // OK
+require_once(__DIR__ . "/models/CurrentTellerTransaction.php");  // OK
+require_once(__DIR__ . "/models/Manager.php");  // OK
+require_once(__DIR__ . "/models/Side.php"); // OK
+
+require_once(__DIR__ . "/models/VaultBuy.php");
+require_once(__DIR__ . "/models/VBActivityReport.php");
+require_once(__DIR__ . "/models/HistoryReport.php");
+require_once(__DIR__ . "/models/SideActivityReport.php");
+require_once(__DIR__ . "/models/Message.php");
+require_once(__DIR__ . "/models/UserReport.php");
+require_once(__DIR__ . "/models/TellerActivity.php");
+require_once(__DIR__ . "/models/NetCasheUsage.php");
+require_once(__DIR__ . "/models/Inventory.php");
+require_once(__DIR__ . "/models/CoinInventory.php");
+require_once(__DIR__ . "/models/AutomixSettings.php");
+require_once(__DIR__ . "/models/VerificationRequired.php");
+
+require_once(__DIR__ . "/models/ActivityReport.php");  // OK
+require_once(__DIR__ . "/models/BillActivityReport.php");  // OK
+require_once(__DIR__ . "/models/BillHistory.php");  // OK
+
+require_once(__DIR__ . "/models/TransactionDetails/InventoryRemoval.php");
+require_once(__DIR__ . "/models/TransactionDetails/OnlineDeposit.php");
+require_once(__DIR__ . "/models/TransactionDetails/AutoAuditBillCount.php");
+require_once(__DIR__ . "/models/TransactionDetails/ReplenishedCassettes.php");
+require_once(__DIR__ . "/models/TransactionDetails/ReconciledRejects.php");
+require_once(__DIR__ . "/models/TransactionDetails/CassetteAdjustment.php");
+
+require_once(__DIR__ . "/models/Setup/Teller.php");
+require_once(__DIR__ . "/models/Setup/Manager.php");
+require_once(__DIR__ . "/models/Setup/NetworkCtrl.php");
+
+require_once(__DIR__ . "/models/Ticket.php");
+require_once(__DIR__ . "/models/MachineError.php");
+require_once(__DIR__ . "/models/SendEmail.php");
+require_once(__DIR__ . "/PHPMailer/PHPMailerAutoload.php");
+require_once(__DIR__ . "/models/ErrorDetail.php");
+require_once(__DIR__ . "/models/ErrorTicket.php");
+require_once(__DIR__ . "/models/TicketConfig.php");
+
+require_once(__DIR__ . "/models/DynAssign_Session_Status.php");
+
+class Worker
+{
+    protected $debug = false;
+    protected $branch_info = 0;
+    protected $path = "";
+    public $machineError = array();
+
+    public function __construct()
+    {
+     
+//        $this->debug = true;
+        $this->path = dirname(__DIR__) . DIRECTORY_SEPARATOR;
+    }
+
+    public function run(CompanyBranch $dir = null)
+    {
+        $this->dir = is_null($dir->ftp_path) ? "storage" : $dir->ftp_path;
+        $this->dir = str_replace('//', DIRECTORY_SEPARATOR, $this->path . $this->dir);
+        
+        //CHECK FOR COMPANY BRANCH AND IF FTP EXIST THEN PROCESS FILE
+        if (!is_dir($this->dir)) {
+            return false;
+        }
+        //SET COMPANY ID
+        $this->branch_info = $dir;
+        $this->loadLibrary();
+
+        $this->init();
+        
+        $this->out("\nTry do something ...", 1);
+        if ($this->checkQueue()) {
+            $this->processQueue();
+        }
+    }
+
+    protected function loadLibrary()
+    {
+        
+    }
+
+    protected function init()
+    {
+        MachineError::init();
+        SendEmail::init();
+        register_shutdown_function(array($this, 'fatalErrorShutdownHandler'));
+        //header("Content-Type: text/plain");
+    }
+
+    protected function checkQueue()
+    {
+     
+        $this->queueDir = "{$this->dir}/queue";
+        $this->errorDir = "{$this->dir}/error_occured";
+        $this->warehouseDir = "{$this->dir}/warehouse";
+        $this->processingDir = "{$this->dir}/processing";
+
+        if (!is_dir($this->queueDir)) {
+            mkdir($this->queueDir, 755);
+        }
+        if (!is_dir($this->errorDir)) {
+            mkdir($this->errorDir, 755);
+        }
+        if (!is_dir($this->warehouseDir)) {
+            mkdir($this->warehouseDir, 755);
+        }
+        if (!is_dir($this->processingDir)) {
+            mkdir($this->processingDir, 755);
+        }
+
+        $this->files = glob("{$this->queueDir}/*.txt");
+
+        if (empty($this->files))
+            return false;
+
+        $count = count($this->files);
+
+        $this->out("Found $count files in queue!", 1);
+        
+        return true;
+    }
+
+    protected function processQueue()
+    {
+        while (count($this->files)) {
+             
+            $this->processFile(array_shift($this->files));
+        }
+    }
+
+    protected function idle()
+    {
+     
+        die("\n\nDone!\n");
+        // sleep(3);
+    }
+
+    public function fatalErrorShutdownHandler()
+    {
+        $last_error = error_get_last();
+
+        if (!empty($this->fileObject))
+            $this->fileObject = null;
+
+        if (empty($this->file))
+            return;
+
+        if ($this->debug)
+            rename($this->file, str_replace("{$this->processingDir}/", "{$this->queueDir}/", $this->file));
+        else
+            rename($this->file, str_replace("{$this->processingDir}/", "{$this->errorDir}/", $this->file));
+
+        DB::rollBackTransaction();
+
+        $err = new _ErrorLog();
+        $err->error_message = implode(" ", array($last_error['message'], "in file",
+            $last_error['file'], "at line",
+            $last_error['line']));
+        $err->file = $this->file;
+        $err->created_date = date("Y-m-d H:i:s");
+        $err->save();
+
+        if ($last_error['type'] === E_ERROR)
+            $this->error(implode("\n", array("Error Message: " . $last_error['message'], "File: " . $last_error['file'], "Line: " . $last_error['line'])));
+    }
+
+    protected function out($msg, $lvl = 4)
+    {
+        echo "$msg\n";
+    }
+
+    protected function error($msg, $lvl = 4)
+    {
+        echo "Error: $msg\n";
+    }
+
+    protected function processFile($file)
+    {
+        if (!file_exists($file))
+            $this->error("File $file doesn't exist!");
+
+        $this->file = $file;
+
+        $this->out("####################");
+        $this->out("# Processing file {$this->file}");
+
+        $matches = array();
+	$regex = "/([A-Za-z0-9]+)[\(\_\[](([0-9]+)([\-\_][A-Za-z0-9-||A-Za-z0-9 ]+){1,2})[\)\_\]]([0-9]+).txt$/";
+	if (!preg_match_all($regex, $this->file, $matches)) {
+            $this->error("Wrong file name {$this->file}");
+            return;
+//            throw new Exception("{$this->file}", 1);
+        }
+        echo "<pre>";
+         print_r($matches);
+        echo $filename = array_shift($matches[0]);
+        echo $company = array_shift($matches[1]);
+        echo $station = array_shift($matches[3]);
+        //$num = array_shift($matches[4]);
+        echo $machine = array_shift($matches[4]);
+        echo $date = array_shift($matches[5]);
+
+        // is file ready
+        if (!is_file_ready($this->file))
+            return;
+
+        if (!DB::beginTransaction())
+            return $this->error("PDO error! can not begin transaction!");
+
+        // Try find this file in db by name
+        // $currentLine = ProcessingFile::getCountForFile($filename);
+        // Processing file move to processing folder
+        if (!rename($this->file, str_replace("{$this->queueDir}/", "{$this->processingDir}/", $this->file)))
+            $this->error("Unable to move file {$this->file}");
+
+        $this->file = str_replace("{$this->queueDir}/", "{$this->processingDir}/", $this->file);
+ 
+        // Open file
+        $this->fileObject = new SplFileObject($this->file);
+        echo "<pre>";
+         print_r($this->fileObject);
+        // File instance
+        $processing_file = ProcessingFile::init($filename,$this->branch_info->id,$this->branch_info->company_id);
+ echo "<pre>";
+         print_r($processing_file);
+        if (empty($processing_file->row_number)) {
+            $processing_file->filename = $filename;
+            $processing_file->company_id = $this->branch_info->company_id;
+            $processing_file->branch_id = $this->branch_info->id;
+            $processing_file->station = $station;
+            $processing_file->file_date = DateTime::createFromFormat("mdY", $date) ? DateTime::createFromFormat("mdY", $date)->format("Y-m-d") : "1999-01-01";
+            $processing_file->save();
+        } else {
+             $this->fileObject->seek($processing_file->row_number);
+        }
+        
+       $inventorybyhoursdate = DateTime::createFromFormat("mdY", $date) ? DateTime::createFromFormat("mdY", $date)->format("Y-m-d") : "1999-01-01";
+        $processing_file->processing_counter++;
+echo "<pre>";
+         print_r($inventorybyhoursdate);
+         echo "<pre>";
+         print_r($processing_file);
+          echo "<pre>";
+         print_r($this->fileObject);
+        // Reset counter
+        Counter::init();
+        Counter::set($processing_file->row_number);
+
+        EntryCounter::init($processing_file->id);
+
+        while (!$this->fileObject->eof()) {
+            $s = preg_replace("/[^A-Za-z0-9\.\,\(\)\-\n\=\*\#\/ \:]*/", '', $this->fileObject->current());
+            Hook::trigger("subscription", $s);
+            Counter::inc();
+            $this->fileObject->next();
+
+        }
+
+        //fclose($file_handler);
+        $this->fileObject = null;
+
+        echo $difference = Counter::get() - $processing_file->row_number;
+ 
+
+        $this->out("#");
+        $this->out("# Status: " . (( $difference > 0) ? $difference . " lines processed!" : "Not modified!"));
+        $this->out("#");
+        $this->out("####################\n");
+
+        if (Counter::get()) {
+            $processing_file->row_number = Counter::get();
+            $processing_file->processing_endtime = date("Y-m-d H:i:s");
+            $processing_file->save();
+        }
+
+
+        EntryCounter::reset();
+
+        DB::commitTransaction();
+        //functin to add inventory by hour
+        if($difference > 0){
+            $this->inventorybyhours($this->branch_info->company_id,$this->branch_info->id,$station,$inventorybyhoursdate);
+        }
+               
+        if ($this->debug) {
+            // Processed file move to warehouse folder
+            if (!rename($this->file, str_replace("{$this->processingDir}/", "{$this->queueDir}/", $this->file)))
+                $this->error("Unable to move file {$this->file}");
+        }
+        else {
+            // Processed file move to warehouse folder
+            if (!rename($this->file, str_replace("{$this->processingDir}/", "{$this->warehouseDir}/", $this->file)))
+                $this->error("Unable to move file {$this->file}");
+        }
+
+        $this->file = null;
+    }
+    //FUNCTION TO ADD DATA IN INVENTORY BY HOURS22/02/17
+    function inventorybyhours($company,$branch,$station,$invent_trans_date)
+    {
+       
+        $db = DB::getInstance();
+         $db->setAttribute( PDO::ATTR_ERRMODE, PDO::ERRMODE_WARNING );
+        //1. get data
+        $s = $db->prepare("select * from inventory where file_processing_detail_id =  (select id from file_processing_detail where company_id = '".$company."' and branch_id = '".$branch."' and station = '".$station."' order by id desc limit 1,1) and station = '".$station."' and activity_report_id is not null order by id desc limit 1");
+        
+        $s->execute();
+        $arr = $s->fetch();
+         echo "<pre>";
+         print_r($arr);
+        $company_id = $company;
+        $branch_id = $branch;
+        $station = $station;
+        $trans_date = date('Y-m-d',strtotime($invent_trans_date));
+        $trans_hr = '';
+        if(isset($arr['file_processing_detail_id'])){
+            $file_processing_detail_id = $arr['file_processing_detail_id'];
+            $company_id = $company;
+            $branch_id = $branch;
+            $station = $station;
+            $trans_date = date('Y-m-d',strtotime($invent_trans_date));
+            $trans_hr = '';
+            $start_hours = '07:00:00';
+            $end_hours = '08:00:00';
+            $denom_100 = $arr['denom_100'];
+            $denom_50 = $arr['denom_50'];
+            $denom_20 = $arr['denom_20'];
+            $denom_10 = $arr['denom_10'];
+            $denom_5 = $arr['denom_5'];
+            $denom_2 = $arr['denom_2'];
+            $denom_1 = $arr['denom_1'];
+            $coin = $arr['coin'];
+            $no_depsites = '';
+            $no_depsites = '';
+            $no_withdrawl = '';
+            $total_amount_calculated = $arr['total'];
+            $total_pieces_calculated = '';
+            $created_date = date('Y-m-d H:m:s');
+            $created_by = 'sys';
+            $updated_by = 'sys';
+            //echo $file_processing_detail_id;
+            //2.insert data for 8.am
+          
+            $i = $db->prepare("INSERT INTO `inventory_by_hours`(file_processing_detail_id, company_id, branch_id, station, trans_date, trans_hr, start_hours, end_hours, denom_100, denom_50, denom_20, denom_10, denom_5, denom_2, denom_1, coin, no_depsites, no_withdrawl, total_amount_calculated, total_pieces_calculated, created_date, created_by,  updated_by)
+                VALUES(:file_processing_detail_id,:company_id,:branch_id,:station,:trans_date,:trans_hr,:start_hours,:end_hours,:denom_100,:denom_50,:denom_20,:denom_10,:denom_5,:denom_2,:denom_1,:coin,:no_depsites,:no_withdrawl,:total_amount_calculated,:total_pieces_calculated,:created_date,:created_by,:updated_by)");
+                    
+            $i->bindParam(':file_processing_detail_id', $file_processing_detail_id);
+            $i->bindParam(':company_id', $company_id);
+            $i->bindParam(':branch_id', $branch_id);
+            $i->bindParam(':station', $station);
+            $i->bindParam(':trans_date', $trans_date);
+            $i->bindParam(':trans_hr', $trans_hr);
+            $i->bindParam(':start_hours', $start_hours);
+            $i->bindParam(':end_hours', $end_hours);
+            $i->bindParam(':denom_100', $denom_100);
+            $i->bindParam(':denom_50', $denom_50);
+            $i->bindParam(':denom_20', $denom_20);
+            $i->bindParam(':denom_10', $denom_10);
+            $i->bindParam(':denom_5', $denom_5);
+            $i->bindParam(':denom_2', $denom_2);
+            $i->bindParam(':denom_1', $denom_1);
+            $i->bindParam(':coin', $coin);
+            $i->bindParam(':no_depsites', $no_depsites);
+            $i->bindParam(':no_withdrawl', $no_withdrawl);
+            $i->bindParam(':total_amount_calculated', $total_amount_calculated);
+            $i->bindParam(':total_pieces_calculated', $total_pieces_calculated);
+            $i->bindParam(':created_date', $created_date);
+            $i->bindParam(':created_by', $created_by);
+            $i->bindParam(':updated_by', $updated_by);
+
+            $i->execute();
+       }
+        //3.get latest file for company, branch and station from transaction details
+
+        $trans = $db->prepare("select start, end, sum(NoOfTrans) as NoOfTrans, sum(denom1) as denom1, sum(denom2) as denom2, sum(denom5) as denom5, sum(denom10) as denom10, sum(denom20) as denom20, sum(denom50) as denom50, sum(Denom100) as denom100, sum(Coin) as coin, sum(TotalAmount) as totalAmount, sum(TotalPieces) as totalPieces,trans_datetime,file_processing_detail_id
+            from (
+            select a.Start, a.end, NoOfTrans , a.trans_datetime,a.file_processing_detail_id,
+            if (type = 'Withdrawl', Denom1 * -1, Denom1 ) Denom1,
+            if (type = 'Withdrawl', Denom2 * -1, Denom2 ) Denom2, 
+            if (type = 'Withdrawl', Denom5 * -1, Denom5 ) Denom5,
+            if (type = 'Withdrawl', Denom10 * -1, Denom10) Denom10,
+            if (type = 'Withdrawl', Denom20* -1, Denom20) Denom20,
+            if (type = 'Withdrawl', Denom50 * -1, Denom50) Denom50,
+            if (type = 'Withdrawl', Denom100 * -1, Denom100) Denom100,
+            if (type = 'Withdrawl', Coin * -1, Coin ) Coin,
+            if (type = 'Withdrawl', TotalAmount * -1, TotalAmount) TotalAmount,
+            if (type = 'Withdrawl', TotalPieces * -1, TotalPieces) TotalPieces
+
+            from 
+            (select HOUR(trans_datetime) as start, HOUR(trans_datetime)+1 as end, trans_datetime,
+
+            case trans_type_id when 1 then 'Withdrawl' when 11 then 'Withdrawl' when 2 then 'Deposite' else 'Unknown' END as type, 
+            count(1) as 'NoOfTrans', 
+            ifnull(sum(denom_1), 0) as 'Denom1', ifnull(sum(denom_2), 0) as 'Denom2', ifnull(sum(denom_5), 0)  as 'Denom5', ifnull(sum(denom_10), 0)  as 'Denom10', 
+            ifnull(sum(denom_20), 0) as 'Denom20', ifnull(sum(denom_50), 0) as 'Denom50', ifnull(sum(denom_100), 0) as 'Denom100', ifnull(sum(coin), 0) as 'Coin', ifnull(sum(total_amount), 0)  as 'TotalAmount', ifnull(sum(total_pieces_calculated), 0) as 'TotalPieces', file_processing_detail_id
+            from transaction_details
+            where file_processing_detail_id =  (select id from file_processing_detail where company_id = '".$company_id."' and branch_id = '".$branch_id."' and station = '".$station."' order by id desc limit 1)
+            group by 1,2,3) a 
+
+            ) b
+            group by 1, 2");
+        $trans->execute();
+         
+            while ($row = $trans->fetch(PDO::FETCH_ASSOC)) {
+                if(isset($row['file_processing_detail_id'])){    
+ echo "<pre>";
+         print_r($row);
+                $ins = $db->prepare("INSERT INTO `inventory_by_hours`(file_processing_detail_id, company_id, branch_id, station, trans_date, trans_hr,start_hours, end_hours, denom_100, denom_50, denom_20, denom_10, denom_5, denom_2, denom_1, coin, no_depsites, no_withdrawl, total_amount_calculated, total_pieces_calculated, created_date, created_by,  updated_by)
+                VALUES(:file_processing_detail_id,:company_id,:branch_id,:station,:trans_date,:trans_hr,:start_hours, :end_hours,:denom_100,:denom_50,:denom_20,:denom_10,:denom_5,:denom_2,:denom_1,:coin,:no_depsites,:no_withdrawl,:total_amount_calculated,:total_pieces_calculated,:created_date,:created_by,:updated_by)");
+                $ins_created_date = date('Y-m-d H:i:s');
+                $ins_start_hours = $row['start'].':00:00';
+                $ins_end_hours = $row['end'].':00:00';
+                $ins_no_depsites = $ins_no_withdrawl =0;
+                $ins_trans_hr ='';
+                $ins_trans_date = date('Y-m-d',strtotime($row['trans_datetime']));
+                
+                $ins->bindParam(':file_processing_detail_id', $row['file_processing_detail_id']);
+                $ins->bindParam(':company_id', $company_id);
+                $ins->bindParam(':branch_id', $branch_id);
+                $ins->bindParam(':station', $station);
+                $ins->bindParam(':trans_date',$ins_trans_date);
+                $ins->bindParam(':trans_hr',$ins_trans_hr);
+                $ins->bindParam(':start_hours',$ins_start_hours);
+                $ins->bindParam(':end_hours',$ins_end_hours);
+                $ins->bindParam(':denom_100', $row['denom100']);
+                $ins->bindParam(':denom_50', $row['denom50']);
+                $ins->bindParam(':denom_20', $row['denom20']);
+                $ins->bindParam(':denom_10', $row['denom10']);
+                $ins->bindParam(':denom_5', $row['denom5']);
+                $ins->bindParam(':denom_2', $row['denom2']);
+                $ins->bindParam(':denom_1', $row['denom1']);
+                $ins->bindParam(':coin', $row['coin']);
+                $ins->bindParam(':no_depsites', $ins_no_depsites);
+                $ins->bindParam(':no_withdrawl', $ins_no_withdrawl);
+                $ins->bindParam(':total_amount_calculated', $row['totalAmount']);
+                $ins->bindParam(':total_pieces_calculated', $row['totalPieces']);
+                $ins->bindParam(':created_date', $ins_created_date);
+                $ins->bindParam(':created_by', $created_by);
+                $ins->bindParam(':updated_by', $updated_by);
+
+                $ins->execute(); 
+                //$ins->debugDumpParams();
+               }
+            }
+            
+        //4. insert last record
+
+        $inv = $db->prepare("select * from inventory where file_processing_detail_id =  (select id from file_processing_detail where company_id = '".$company_id."' and branch_id = '".$branch_id."' and station = '".$station."' order by id desc limit 0,1) and station = '".$station."' and activity_report_id is not null order by id desc limit 1");
+       
+        $inv->execute();
+        $inv_arr = $inv->fetch();
+        echo "<pre>";
+         print_r($inv_arr);
+       if(isset($inv_arr['file_processing_detail_id'])){
+            $inv_ins = $db->prepare("INSERT INTO `inventory_by_hours`(file_processing_detail_id, company_id, branch_id, station, trans_date, trans_hr, start_hours, end_hours, denom_100, denom_50, denom_20, denom_10, denom_5, denom_2, denom_1, coin, no_depsites, no_withdrawl, total_amount_calculated, total_pieces_calculated, created_date, created_by,  updated_by)
+                VALUES(:file_processing_detail_id,:company_id,:branch_id,:station,:trans_date,:trans_hr,:start_hours, :end_hours,:denom_100,:denom_50,:denom_20,:denom_10,:denom_5,:denom_2,:denom_1,:coin,:no_depsites,:no_withdrawl,:total_amount_calculated,:total_pieces_calculated,:created_date,:created_by,:updated_by)");
+
+            $inv_trans_date = '';
+            $inv_trans_hr = '';
+            $inv_no_depsites = $inv_no_withdrawl='';
+            $inv_total_pieces_calculated ='';
+            $inv_created_date = date('Y-m-d H:i:s');
+            $inv_created_by = $inv_updated_by = 'sys';
+            $inv_start_hours = '17:00:00';
+            $inv_end_hours = '18:00:00';
+            $inv_trans_date = date('Y-m-d',strtotime($invent_trans_date));
+            $inv_ins->bindParam(':file_processing_detail_id', $inv_arr['file_processing_detail_id']);
+            $inv_ins->bindParam(':company_id', $company_id);
+            $inv_ins->bindParam(':branch_id', $branch_id);
+            $inv_ins->bindParam(':station', $station);
+            $inv_ins->bindParam(':trans_date', $inv_trans_date);
+            $inv_ins->bindParam(':trans_hr', $inv_trans_hr);
+            $inv_ins->bindParam(':start_hours', $inv_start_hours);
+            $inv_ins->bindParam(':end_hours', $inv_end_hours);
+            $inv_ins->bindParam(':denom_100', $inv_arr['denom_100']);
+            $inv_ins->bindParam(':denom_50', $inv_arr['denom_50']);
+            $inv_ins->bindParam(':denom_20', $inv_arr['denom_20']);
+            $inv_ins->bindParam(':denom_10',$inv_arr['denom_10']);
+            $inv_ins->bindParam(':denom_5', $inv_arr['denom_5']);
+            $inv_ins->bindParam(':denom_2', $inv_arr['denom_2']);
+            $inv_ins->bindParam(':denom_1', $inv_arr['denom_1']);
+            $inv_ins->bindParam(':coin', $inv_arr['coin']);
+            $inv_ins->bindParam(':no_depsites', $inv_no_depsites);
+            $inv_ins->bindParam(':no_withdrawl', $inv_no_withdrawl);
+            $inv_ins->bindParam(':total_amount_calculated', $inv_arr['total']);
+            $inv_ins->bindParam(':total_pieces_calculated', $inv_total_pieces_calculated);
+            $inv_ins->bindParam(':created_date', $inv_created_date);
+            $inv_ins->bindParam(':created_by', $inv_created_by);
+            $inv_ins->bindParam(':updated_by', $inv_updated_by);
+            $inv_ins->execute();
+        }
+       
+    }
+}
+
+function runApp($dont_use_client_logic = false)
+{
+    if ($dont_use_client_logic) {
+     
+        $worker = new Worker();
+        $worker->run();
+    } else {
+        $companyBranches = CompanyBranch::getAll();
+        foreach (CompanyBranch::getAll() AS $value) {
+            $worker = new Worker();
+            //print_r($value);
+            $worker->run($value);
+        }
+        if(empty($companyBranches)){
+            echo "\n\n#########################################\n\n\n";
+            echo "\tNo Any Active Branch Exists\n\n\n";
+            echo "#########################################\n\n\n";
+        }
+    }
+}
+
+
+runApp($do_not_use_client_logic);

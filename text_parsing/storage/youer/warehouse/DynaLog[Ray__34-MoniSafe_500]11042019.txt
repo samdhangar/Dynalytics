@@ -1,0 +1,1074 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.158 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+   *** Entered Configuration Mode ***   
+01/04/20 10:42 AM
+ID:                               Level2
+
+Logon:                             addon
+01/04/20 10:42 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.161 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+   *** Entered Configuration Mode ***   
+01/04/20 10:45 AM
+ID:                               Level2
+
+
+Logon:                             addon
+01/04/20 10:45 AM
+
+    *** Exited Configuration Mode ***   
+01/04/20 10:47 AM
+ID:                                addon
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0b:82:6f
+LAN 1 IP Address            192.168.1.34
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                    0.0.0.0
+LAN 1 DNS                        0.0.0.0
+
+LAN 2 MAC Address      00:03:f4:0b:83:37
+LAN 2 IP Address            192.168.1.35
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                    0.0.0.0
+LAN 2 DNS                        0.0.0.0
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.161
+Release Date                    01/04/20
+Subscription Level                     3
+Subscription Start              10/10/19
+Subscription End                10/10/20
+
+Min. Console Version           1.1.0.085
+Min. DynaCash Version          4.3.0.065
+Min. DynaLog Server Version    2.0.0.005
+Min. DynaLog Viewer Version    2.0.0.000
+========================================
+
+
+
+========================================
+              User Settings             
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.161 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/04/20 10:48 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.161 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+   *** Entered Configuration Mode ***   
+01/04/20 10:53 AM
+ID:                               Level2
+
+Logon:                             addon
+01/04/20 10:53 AM
+
+    *** Exited Configuration Mode ***   
+01/04/20 10:54 AM
+ID:                                addon
+
+
+========================================
+              User Settings             
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.161 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/04/20 10:58 AM
+
+(Online Deposit)                        
+Transaction #                          1
+01/04/20 10:59 AM
+Ray
+
+Denom            Pieces            Value
+$10                   3            30.00
+$5                   59           295.00
+$1                  305           305.00
+
+Machine Total                     630.00
+Deposit Total                     630.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          2
+01/04/20 11:00 AM
+Ray
+
+Denom            Pieces            Value
+$1                  488           488.00
+
+Machine Total                     488.00
+Deposit Total                     488.00
+----------------------------------------
+       *** Cassette 2 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                          3
+01/04/20 11:07 AM
+Ray
+
+Denom            Pieces            Value
+$1                  305           305.00
+
+Total Inventory Removed           305.00
+----------------------------------------
+
+Logoff:                              Ray
+01/04/20 11:07 AM
+
+Logon:                               Ray
+01/04/20 11:12 AM
+
+(Online Deposit)                        
+Transaction #                          4
+01/04/20 11:13 AM
+Ray
+
+Denom            Pieces            Value
+$1                  305           305.00
+
+Machine Total                     305.00
+Deposit Total                     305.00
+----------------------------------------
+
+Logoff:                              Ray
+01/04/20 11:15 AM
+
+Logon:                               Ray
+01/04/20 11:22 AM
+
+Logoff:                              Ray
+01/04/20 11:23 AM
+
+Logon:                               Ray
+01/04/20 11:23 AM
+
+      TCR Result Code 124 Occurred      
+      *** TCR Note Audit Failed ***     
+
+CST-A ($1) Assumed Count:             79
+3CST-A ($1) Actual Count:              
+791
+
+  *** Inventory Adjusted Per Audit ***  
+
+
+(Auto Audit Note Count)                 
+Transaction #                          5
+01/04/20 11:29 AM
+Ray
+
+Denom            Pieces            Value
+
+Audited Total                        .00
+----------------------------------------
+
+Logoff:                              Ray
+01/04/20 11:49 AM
+
+Logon:                               Ray
+01/04/20 12:01 PM
+
+CST-A ($1) Assumed Count:            109
+6CST-A ($1) Actual Count:              
+791
+       TCR Error #5X01A00 Occurred      
+    *** TCR Note Audit Incomplete ***   
+
+  *** Inventory Adjusted Per Audit ***  
+
+
+(Auto Audit Note Count)                 
+Transaction #                          6
+01/04/20 12:03 PM
+Ray
+
+Denom            Pieces            Value
+
+Audited Total                        .00
+----------------------------------------
+     *** Cassette CST-A Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                          7
+01/04/20 12:19 PM
+Ray
+
+Denom            Pieces            Value
+$1                  486           486.00
+
+Total Inventory Removed           486.00
+----------------------------------------
+     *** Cassette CST-B Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                          8
+01/04/20 12:20 PM
+Ray
+
+Denom            Pieces            Value
+$1                  238           238.00
+
+Total Inventory Removed           238.00
+----------------------------------------
+     *** Cassette CST-D Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                          9
+01/04/20 12:20 PM
+Ray
+
+Denom            Pieces            Value
+$10                   3            30.00
+
+Total Inventory Removed            30.00
+----------------------------------------
+     *** Cassette CST-E Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                         10
+01/04/20 12:21 PM
+Ray
+
+Denom            Pieces            Value
+$5                   59           295.00
+
+Total Inventory Removed           295.00
+----------------------------------------
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                         11
+01/04/20 12:21 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$1                    2             2.00
+
+Reject Notes Removed                2.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$1                    2             2.00
+
+Removed (Mutilated) Notes           2.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         12
+01/04/20 12:23 PM
+Ray
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Machine Total                     200.00
+Total Inventory Added             200.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         13
+01/04/20 12:24 PM
+Ray
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Machine Total                     200.00
+Total Inventory Added             200.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         14
+01/04/20 12:28 PM
+Ray
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Total Inventory Removed           200.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         15
+01/04/20 12:31 PM
+Ray
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Machine Total                     200.00
+Total Inventory Added             200.00
+----------------------------------------
+
+CST-A ($1) Assumed Count:             40
+0CST-A ($1) Actual Count:              4
+00
+CST-B ($1) Assumed Count:               
+0CST-B ($1) Actual Count:               
+ 0      TCR Result Code 103 Occurred   
+   
+      TCR Result Code 103 Occurred      
+  *** Inventory Adjustment Failed! ***  
+  *** TCR Needs Manual Adjustment! ***  
+
+
+(Auto Audit Note Count)                 
+Transaction #                         16
+01/04/20 12:33 PM
+Ray
+
+Denom            Pieces            Value
+
+Audited Total                        .00
+----------------------------------------
+
+CST-A ($1) Assumed Count:             40
+0CST-A ($1) Actual Count:              
+200
+CST-B ($1) Assumed Count:               
+0CST-B ($1) Actual Count:               
+ 0
+
+  *** Inventory Adjusted Per Audit ***  
+
+
+(Auto Audit Note Count)                 
+Transaction #                         17
+01/04/20 12:42 PM
+Ray
+
+Denom            Pieces            Value
+
+Audited Total                        .00
+----------------------------------------
+
+Logoff:                              Ray
+01/04/20 12:47 PM
+
+Logon:                               Ray
+01/04/20 12:51 PM
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                         18
+01/04/20 12:53 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$1                   74            74.00
+
+Reject Notes Removed               74.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$1                   74            74.00
+
+Removed (Mutilated) Notes          74.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         19
+01/04/20 12:55 PM
+Ray
+
+Denom            Pieces            Value
+$1                  194           194.00
+
+Machine Total                     194.00
+Total Inventory Added             194.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         20
+01/04/20 12:58 PM
+Ray
+
+Denom            Pieces            Value
+$1                  206           206.00
+
+Machine Total                     206.00
+Total Inventory Added             206.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/04/20 01:01 PM
+
+Logon:                               Ray
+01/04/20 01:03 PM
+
+(Online Deposit)                        
+Transaction #                         21
+01/04/20 01:04 PM
+Ray
+
+Denom            Pieces            Value
+$1                  233           233.00
+
+Machine Total                     233.00
+Deposit Total                     233.00
+----------------------------------------
+
+Logoff:                              Ray
+01/04/20 01:11 PM
+
+Logon:                               Ray
+01/04/20 01:16 PM
+
+(Inventory Removal)                     
+Transaction #                         22
+01/04/20 01:16 PM
+Ray
+
+Denom            Pieces            Value
+$1                   33            33.00
+
+Total Inventory Removed            33.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         23
+01/04/20 01:17 PM
+Ray
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Total Inventory Removed           200.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         24
+01/04/20 01:18 PM
+Ray
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Total Inventory Removed           200.00
+----------------------------------------
+
+Logoff:                              Ray
+01/04/20 01:18 PM
+
+Logon:                               Ray
+01/04/20 01:18 PM
+     *** Cassette CST-B Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                         25
+01/04/20 01:21 PM
+Ray
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Total Inventory Removed           200.00
+----------------------------------------
+
+Logoff:                              Ray
+01/04/20 01:22 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.161 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/04/20 01:32 PM
+
+(Online Deposit)                        
+Transaction #                         26
+01/04/20 01:35 PM
+Ray
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Machine Total                     200.00
+Deposit Total                     200.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         27
+01/04/20 01:36 PM
+Ray
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Machine Total                     200.00
+Deposit Total                     200.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         28
+01/04/20 01:37 PM
+Ray
+
+Denom            Pieces            Value
+$1                  133           133.00
+
+Machine Total                     133.00
+Deposit Total                     133.00
+----------------------------------------
+     *** Cassette CST-A Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                         29
+01/04/20 01:38 PM
+Ray
+
+Denom            Pieces            Value
+$1                  133           133.00
+
+Total Inventory Removed           133.00
+----------------------------------------
+     *** Cassette CST-B Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                         30
+01/04/20 01:39 PM
+Ray
+
+Denom            Pieces            Value
+$1                  400           400.00
+
+Total Inventory Removed           400.00
+----------------------------------------
+
+Logoff:                              Ray
+01/04/20 01:39 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.161 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/04/20 01:42 PM
+
+(Online Deposit)                        
+Transaction #                         31
+01/04/20 01:42 PM
+Ray
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Machine Total                     200.00
+Deposit Total                     200.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         32
+01/04/20 01:45 PM
+Ray
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Machine Total                     200.00
+Deposit Total                     200.00
+----------------------------------------
+
+Logoff:                              Ray
+01/04/20 01:45 PM
+
+Logon:                               Ray
+01/04/20 01:52 PM
+
+CST-A ($1) Assumed Count:             40
+0CST-A ($1) Actual Count:              4
+00
+CST-B ($1) Assumed Count:               
+0CST-B ($1) Actual Count:               
+ 0
+
+(Auto Audit Note Count)                 
+Transaction #                         33
+01/04/20 01:53 PM
+Ray
+
+Denom            Pieces            Value
+
+Audited Total                        .00
+----------------------------------------
+
+Logoff:                              Ray
+01/04/20 01:56 PM
+
+Logon:                               Ray
+01/04/20 02:10 PM
+
+CST-A ($1) Assumed Count:             40
+0CST-A ($1) Actual Count:              4
+00
+
+(Auto Audit Note Count)                 
+Transaction #                         34
+01/04/20 02:14 PM
+Ray
+
+Denom            Pieces            Value
+
+Audited Total                        .00
+----------------------------------------
+       *** $1 Notes Collected ***       
+
+
+(Inventory Removal)                     
+Transaction #                         35
+01/04/20 02:15 PM
+Ray
+
+Denom            Pieces            Value
+$1                    5             5.00
+
+Total Inventory Removed             5.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         36
+01/04/20 02:15 PM
+Ray
+
+Denom            Pieces            Value
+$1                    5             5.00
+
+Machine Total                       5.00
+Deposit Total                       5.00
+----------------------------------------
+
+Logoff:                              Ray
+01/04/20 02:16 PM
+
+Logon:                               Ray
+01/04/20 02:24 PM
+
+CST-A ($1) Assumed Count:             40
+0CST-A ($1) Actual Count:              
+399
+CST-B ($1) Assumed Count:               
+0CST-B ($1) Actual Count:               
+ 0
+
+  *** Inventory Adjusted Per Audit ***  
+
+
+(Auto Audit Note Count)                 
+Transaction #                         37
+01/04/20 02:29 PM
+Ray
+
+Denom            Pieces            Value
+
+Audited Total                        .00
+----------------------------------------
+
+Logoff:                              Ray
+01/04/20 02:35 PM
+
+Logon:                               Ray
+01/04/20 02:51 PM
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                         38
+01/04/20 02:51 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$1                    1             1.00
+
+Reject Notes Removed                1.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$1                    1             1.00
+
+Removed (Mutilated) Notes           1.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+     *** Cassette CST-A Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                         39
+01/04/20 02:53 PM
+Ray
+
+Denom            Pieces            Value
+$1                  199           199.00
+
+Total Inventory Removed           199.00
+----------------------------------------
+     *** Cassette CST-B Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                         40
+01/04/20 02:54 PM
+Ray
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Total Inventory Removed           200.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         41
+01/04/20 02:55 PM
+Ray
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Machine Total                     200.00
+Deposit Total                     200.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         42
+01/04/20 02:56 PM
+Ray
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Machine Total                     200.00
+Deposit Total                     200.00
+----------------------------------------
+
+Logoff:                              Ray
+01/04/20 02:57 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.161 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/04/20 03:00 PM
+
+Logoff:                              Ray
+01/04/20 03:00 PM
+
+Logon:                               Ray
+01/04/20 03:00 PM
+
+Logoff:                              Ray
+01/04/20 03:00 PM
+
+Logon:                               Ray
+01/04/20 03:01 PM
+
+
+Logoff:                              Ray
+01/04/20 03:01 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.161 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/04/20 03:10 PM
+
+CST-A ($1) Assumed Count:             40
+0CST-A ($1) Actual Count:              4
+00
+CST-B ($1) Assumed Count:               
+0CST-B ($1) Actual Count:               
+ 0
+
+(Auto Audit Note Count)                 
+Transaction #                         43
+01/04/20 03:11 PM
+Ray
+
+Denom            Pieces            Value
+
+Audited Total                        .00
+----------------------------------------
+     *** Cassette CST-A Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                         44
+01/04/20 03:40 PM
+Ray
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Total Inventory Removed           200.00
+----------------------------------------
+     *** Cassette CST-B Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                         45
+01/04/20 03:41 PM
+Ray
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Total Inventory Removed           200.00
+----------------------------------------
+
+Logoff:                              Ray
+01/04/20 03:41 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.161 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               ray
+01/04/20 04:52 PM
+
+   *** Entered Configuration Mode ***   
+01/04/20 04:52 PM
+ID:                                  ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.161 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               ray
+01/04/20 04:57 PM
+
+   *** Entered Configuration Mode ***   
+01/04/20 04:57 PM
+ID:                                  ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.161 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               ray
+01/04/20 04:59 PM
+
+   *** Entered Configuration Mode ***   
+01/04/20 04:59 PM
+ID:                                  ray

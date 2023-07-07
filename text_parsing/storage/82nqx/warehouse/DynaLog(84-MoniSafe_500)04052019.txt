@@ -1,0 +1,230 @@
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+    MoniSafe 500 Pgm. Ver. 5.5.80-DC    
+           DynaCash Mode: LAN           
+
+             Hyosung MS-500             
+                Test Unit               
+                TCR Hall                
+
+Station #                             84
+
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             9/05/17
+Time                         11:34:51 AM
+Cass. 4 Adjustment Pending      +2500.00
+New Cassette Total               2500.00
+
+
+
+
+(Cassette Adjustment)                   
+Transaction #                         39
+Date                             9/05/17
+Time                         11:35:46 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$5                  500         +2500.00
+
+Total Net Added                 +2500.00
+Total Net Removed                   -.00
+Total Net Adjusted              +2500.00
+----------------------------------------
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             84
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                  500          2500.00
+$2                    0              .00
+$1                    0              .00
+Starting Inventory                   .00
+Net Adjustments                   899.00
+Total Inventory                  2600.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                  500          2500.00
+$1                    0              .00
+Total Dispensable Bills          2500.00
+
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$100                  1           100.00
+Total Reject Bills                100.00
+
+Cass. 1 ($1)          0              .00
+Cass. 2 ($20)         0              .00
+Cass. 3 ($100)        0              .00
+Cass. 4 ($5)        500          2500.00
+Cass. 5 ($10)         0              .00
+Cass. 6 ($50)         0              .00
+               Ones Empty               
+               Tens Empty               
+             Twenties Empty             
+              Fifties Empty             
+             Hundreds Empty             
+========================================
+
+           Manager Logged Off           
+Manager #                              1
+Date                             9/05/17
+Time                         11:35:55 AM
+****************************************
+       TCR Error #570D100 Occurred      
+
+
+            Dispense Failure            
+
+
+(Vault Buy)                             
+Date                             9/05/17
+Time                         11:37:28 AM
+Teller #                               1
+
+Amount Requested                   50.00
+Amount Tendered                      .00
+Balance Due                        50.00
+----------------------------------------
+
+
+
+
+(Vault Sell)                            
+Transaction #                         40
+Date                             9/05/17
+Time                         11:38:28 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$5                   83           415.00
+
+Deposit Total                     415.00
+----------------------------------------
+
+
+(Vault Sell)                            
+Transaction #                         41
+Date                             9/05/17
+Time                         11:42:01 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$5                   34           170.00
+
+Deposit Total                     170.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         42
+Date                             9/05/17
+Time                         11:42:43 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$5                   20           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             9/05/17
+Time                         12:00:55 PM
+
+
+(Inventory Removal)                     
+Transaction #                         43
+Date                             9/05/17
+Time                         12:03:32 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$5                  804          4020.00
+
+Total Inventory Removed          4020.00
+----------------------------------------
+       *** Cassette 4 Emptied ***       
+
+
+
+(Inventory Removal)                     
+Transaction #                         44
+Date                             9/05/17
+Time                         12:03:57 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                  1           100.00
+$5                   80           400.00
+
+Total Inventory Removed           500.00
+----------------------------------------
+        *** Overflow Emptied ***        
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             84
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Starting Inventory                   .00
+Net Adjustments                 -3621.00
+Total Inventory                      .00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Bills              .00
+
+Cass. 1 ($1)          0              .00
+Cass. 2 ($20)         0              .00
+Cass. 3 ($100)        0              .00
+Cass. 4 ($5)          0              .00
+Cass. 5 ($10)         0              .00
+Cass. 6 ($50)         0              .00
+               Ones Empty               
+               Fives Empty              
+               Tens Empty               
+             Twenties Empty             
+              Fifties Empty             
+             Hundreds Empty             
+========================================
+
+           Manager Logged Off           
+Manager #                              1
+Date                             9/05/17
+Time                         12:04:17 PM
+****************************************

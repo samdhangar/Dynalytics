@@ -1,0 +1,163 @@
+<?php
+$sessData = getMySessionData();
+
+?>
+<aside class="sidebar">
+        <div class="left-aside-container">
+            <div class="user-profile-container">
+                <div class="user-profile clearfix">
+                    <div class="admin-user-thumb">
+                <?php
+                echo $this->Html->image(getUserPhoto($this->Session->read('Auth.User.id'), $this->Session->read('Auth.User.photo')), array('class' => 'img-circle user'));
+
+                ?>
+            </div>
+             <div class="admin-user-info">
+                        <ul class="user-info">
+                            <li><a href="#" class="text-semibold text-size-large"><?php echo $this->Session->read('Auth.User.first_name'); ?></a></li>
+                           <li><a href="#" class="text-semibold text-size-large"><?php echo getLoginRole(); ?></a></li>
+                        </ul>
+                        <div class="logout-icon"> 
+                            <?php echo $this->Html->link('', array('controller' => 'users', 'action' => 'logout'), array('icon' => 'icon-exit2')) ?>
+                        </div>
+                    </div>
+                    
+                </div>              
+             
+        </div>        
+         <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active fadeIn" id="menu">
+                    <ul class="sidebar-accordion">
+            <li class="<?php echo $this->Html->getActiveClass('users', 'dashboard') ?>" >
+                <?php echo $this->Html->link(__('Dashboard'), array('controller' => 'users', 'action' => 'dashboard'), array('icon' => 'icon-display4')) ?>
+            </li>
+            <li class="<?php echo $this->Html->getActiveOpenClass(array('stations')) ?>"><?php echo $this->Html->link(__('Station Info'), array('controller' => 'stations', 'action' => 'index'), array('icon' => 'icon-puzzle2')) ?></li>
+            <?php if ((isSuparCompany() || isCompanyAdmin()) && !$this->Session->check('Auth.User.BranchDetail')): ?>
+                <li class="<?php echo $this->Html->getActiveOpenClass(array('companies')) ?>">
+                    <?php echo $this->Html->link(__('User Management'), array('controller' => 'companies', 'action' => 'index'), array('span' => true, 'icon' => 'icon-user')); ?>
+                </li>
+                <li class="<?php echo $this->Html->getActiveOpenClass(array('company_branches')); ?>">
+                    <?php echo $this->Html->link(__('Branch Management'), array('controller' => 'company_branches', 'action' => 'index'), array('icon' => ' icon-office')) ?>
+                </li>
+                 <li class="<?php echo $this->Html->getActiveOpenClass(array('regions')); ?>">
+                    <?php echo $this->Html->link(__('Region Management'), array('controller' => 'regions', 'action' => 'index'), array('icon' => 'icon-tree7')) ?>
+                </li>
+            <?php endif; ?>
+
+            <li class="  <?php echo $this->Html->getActiveOpenClass(array('analytics')) ?>">
+                
+                <?php echo $this->Html->link('Analytics Management', 'javascript:void(0)', array('hasSubMenu' => true, 'class' =>$this->Html->getActiveOpenClass(array('analytics')), 'span' => true, 'icon' => 'icon-stats-growth')); ?>
+                <ul style="">  
+                    <!-- <li class="<?php echo $this->Html->getActiveClass('analytics', 'activity_report') ?>">
+                        <?php echo $this->Html->link(__('Activity Report'), array('controller' => 'analytics', 'action' => 'activity_report'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li> -->
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'automix') ?>">
+                        <?php echo $this->Html->link(__('Automix Settings'), array('controller' => 'analytics', 'action' => 'automix'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'bill_activity') ?>">
+                        <?php echo $this->Html->link(__('Bill Inventory Report'), array('controller' => 'analytics', 'action' => 'bill_activity'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'bill_adjustment') ?>">
+                        <?php echo $this->Html->link(__('Bill Adjustment Report'), array('controller' => 'analytics', 'action' => 'bill_adjustment'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'bill_count') ?>">
+                        <?php echo $this->Html->link(__('Audit trail Report'), array('controller' => 'analytics', 'action' => 'bill_count'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'bill_history') ?>">
+                        <?php echo $this->Html->link(__('Bill History Report'), array('controller' => 'analytics', 'action' => 'bill_history'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <!--<li class="<?php echo $this->Html->getActiveClass('analytics', 'coin_inventory') ?>">
+                        <?php echo $this->Html->link(__('Coin Inventory'), array('controller' => 'analytics', 'action' => 'coin_inventory'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li> -->
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'teller_transaction') ?>">
+                        <?php echo $this->Html->link(__('Current Teller Transaction'), array('controller' => 'analytics', 'action' => 'teller_transaction'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+
+                     <li class="<?php echo $this->Html->getActiveClass('analytics', 'denom_report') ?>">
+                        <?php echo $this->Html->link(__('Denom Report'), array('controller' => 'analytics', 'action' => 'denom_report'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>    
+
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'history') ?>">
+                        <?php echo $this->Html->link(__('History Report'), array('controller' => 'analytics', 'action' => 'history'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'manager_setup') ?>">
+                        <?php echo $this->Html->link(__('Manager Setup'), array('controller' => 'analytics', 'action' => 'manager_setup'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'net_cash_usage') ?>">
+                        <?php echo $this->Html->link(__('Net Cash Usage Report'), array('controller' => 'analytics', 'action' => 'net_cash_usage'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'file_processing') ?>">
+                        <?php echo $this->Html->link(__('File Processing View'), array('controller' => 'analytics', 'action' => 'file_processing'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <!-- <li class="<?php echo $this->Html->getActiveClass('analytics', 'side_activity') ?>">
+                        <?php echo $this->Html->link(__('Side Activity Report'), array('controller' => 'analytics', 'action' => 'side_activity'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li> -->
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'teller_activity') ?>">
+                        <?php echo $this->Html->link(__('Teller Activity Report'), array('controller' => 'analytics', 'action' => 'teller_activity'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <!-- <li class="<?php echo $this->Html->getActiveClass('analytics', 'teller_setup') ?>">
+                        <?php echo $this->Html->link(__('Teller Setup Report'), array('controller' => 'analytics', 'action' => 'teller_setup'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li> -->
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'transaction_details') ?>">
+                        <?php echo $this->Html->link(__('Transaction Details'), array('controller' => 'analytics', 'action' => 'transaction_details'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'valut_buy') ?>">
+                        <?php echo $this->Html->link(__('Vault Buy Report'), array('controller' => 'analytics', 'action' => 'valut_buy'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'side_log') ?>">
+                        <?php echo $this->Html->link(__('Side Log Report'), array('controller' => 'analytics', 'action' => 'side_log'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'inventory_management') ?>">
+                        <?php echo $this->Html->link(__('Inventory Management'), array('controller' => 'analytics', 'action' => 'inventory_management'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'total_vault_buy') ?>">
+                        <?php echo $this->Html->link(__('Total Vault Buys Report'), array('controller' => 'analytics', 'action' => 'total_vault_buy'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'transaction_vault_buys') ?>">
+                        <?php echo $this->Html->link(__('Transaction Vault Buys'), array('controller' => 'analytics', 'action' => 'transaction_vault_buys'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'teller_user') ?>">
+                        <?php echo $this->Html->link(__('Teller User Buys'), array('controller' => 'analytics', 'action' => 'teller_user'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <li class="<?php echo $this->Html->getActiveClass('analytics', 'teller_user_report') ?>">
+                        <?php echo $this->Html->link(__('Teller User Report'), array('controller' => 'analytics', 'action' => 'teller_user_report'), array('icon' => 'fa fa-angle-double-right')); ?>
+                    </li>
+                    <?php if (isSuparCompany() || isCompanyAdmin()): ?>
+                        <li class="<?php echo $this->Html->getActiveClass('analytics', 'error_warning') ?>">
+                            <?php echo $this->Html->link(__('Error/Warning'), array('controller' => 'analytics', 'action' => 'error_warning'), array('icon' => 'fa fa-angle-double-right')); ?>
+                        </li>
+                    <?php endif; ?>
+                </ul>
+            </li>
+            <?php if ((isSuparCompany() || isCompanyAdmin()) && !$this->Session->check('Auth.User.BranchDetail')): ?>                                                                                <!--                <li class="<?php echo $this->Html->getActiveOpenClass(array('monitoring')) ?>">
+                <?php echo $this->Html->link(__('Monitoring'), array('controller' => 'monitoring', 'action' => 'index'), array('icon' => 'fa-line-chart')) ?>                                                                                                </li>-->
+
+                <li class="treeview <?php echo $this->Html->getActiveOpenClass(array('Performance_Management')) ?>">
+                    <?php echo $this->Html->link('Performance Management', 'javascript:void(0)', array('hasSubMenu' => true,  'span' => true, 'icon' => 'icon-chart')); ?>
+                    <ul class="treeview-menu">                        
+                        <li class="<?php echo $this->Html->getActiveClass('Performance_Management', 'inventory_by_teller') ?>">
+                            <?php echo $this->Html->link(__('Inventory By Teller'), array('controller' => 'analytics', 'action' => 'inventory_by_teller'), array('icon' => 'fa fa-angle-double-right')); ?>
+                        </li>
+                         <!--<li class="<?php echo $this->Html->getActiveClass('Performance_Management', 'inventory_by_hours') ?>">
+                            <?php echo $this->Html->link(__('Inventory By Hours'), array('controller' => 'analytics', 'action' => 'inventory_by_hours'), array('icon' => 'fa fa-angle-double-right')); ?>
+                        </li>-->
+
+                    </ul>
+                </li>
+
+                <?php if (!empty($sessData['is_display_billing'])) { ?> 
+                    <li class="<?php echo $this->Html->getActiveOpenClass(array('billing')); ?>">
+                        <?php echo $this->Html->link(__('Billing'), array('controller' => 'invoices', 'action' => 'index'), array('icon' => ' icon-file-empty')) ?>
+                    </li>
+                <?php } ?>
+                <li class="<?php echo $this->Html->getActiveOpenClass(array('users')); ?>">
+                    <?php echo $this->Html->link(__('Configurations'), array('controller' => 'users', 'action' => 'configuration'), array('icon' => 'icon-cogs')); ?>
+                </li>
+            <?php endif; ?>
+            <li class="<?php echo $this->Html->getActiveOpenClass(array('faqs')); ?>">
+                <?php echo $this->Html->link(__('Help'), array('controller' => 'faqs', 'action' => 'lists'), array('icon' => 'icon-bubbles2')) ?>
+            </li>
+        </ul>
+    </section>
+</aside>

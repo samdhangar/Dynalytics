@@ -1,0 +1,124 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    LTA 350 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/13/20 10:39 AM
+
+Logoff:                             josh
+01/13/20 10:40 AM
+
+Logon:                              josh
+01/13/20 10:41 AM
+
+(Online Deposit)                        
+Transaction #                          9
+01/13/20 10:41 AM
+Josh
+
+Denom            Pieces            Value
+$20                   5           100.00
+$10                  10           100.00
+$1                    1             1.00
+
+Machine Total                     201.00
+Deposit Total                     201.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         10
+01/13/20 10:42 AM
+Josh
+
+Denom            Pieces            Value
+$20                   2            40.00
+$5                    1             5.00
+$1                    4             4.00
+
+Amount Tendered                    49.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/13/20 10:43 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/13/20 10:47 AM
+ID:                                 josh
+
+   *** Entered Configuration Mode ***   
+01/13/20 10:47 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/13/20 10:48 AM
+ID:                                 josh
+
+Logoff:                             josh
+01/13/20 10:48 AM
+
+Logon:                              josh
+01/13/20 10:49 AM
+
+   *** Entered Configuration Mode ***   
+01/13/20 10:49 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/13/20 10:49 AM
+ID:                                 josh
+
+
+Logoff:                             josh
+01/13/20 10:49 AM
+
+Logon:                              josh
+01/13/20 10:49 AM
+
+   *** Entered Configuration Mode ***   
+01/13/20 10:49 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/13/20 10:49 AM
+ID:                                 josh
+
+Logoff:                             josh
+01/13/20 10:49 AM
+
+Logon:                              josh
+01/13/20 10:50 AM
+
+   *** Entered Configuration Mode ***   
+01/13/20 10:50 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+01/13/20 10:50 AM
+ID:                                 josh
+
+
+Logoff:                             josh
+01/13/20 10:50 AM
+
+Logon:                              josh
+01/13/20 11:02 AM
+
+   *** Entered Configuration Mode ***   
+01/13/20 11:02 AM
+ID:                                 josh
+
+           *** Added User ***           
+01/13/20 11:02 AM
+ID:                              Patrick
+

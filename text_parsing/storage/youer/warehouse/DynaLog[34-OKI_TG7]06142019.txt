@@ -1,0 +1,751 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.121 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/14/20 08:11 AM
+
+   *** Entered Configuration Mode ***   
+001/14/20 08:11 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/14/20 08:11 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/14/20 08:11 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.121 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/14/20 10:29 AM
+
+   *** Entered Configuration Mode ***   
+001/14/20 10:29 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/14/20 10:29 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/14/20 10:29 AM
+
+Logon:                               Ray
+001/14/20 10:30 AM
+
+   *** Entered Configuration Mode ***   
+001/14/20 10:30 AM
+ID:                                  Ray
+
+========================================
+             Activity Report            
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+001/14/20 10:32 AM
+
+ID:                                  Ray
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                339         33900.00
+$50                   0              .00
+$20                 300          6000.00
+$10                   0              .00
+$5                    0              .00
+$2                    1             2.00
+$1                  149           149.00
+Starting Inventory              36921.00
+Net Adjustments                  2330.00
+Total Inventory                 40051.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                
+339         33900.00$50                 
+  0              .00$20                 
+300          6000.00$10                 
+  0              .00$5                  
+  0              .00$1                  
+149           149.00Total Dispensable No
+tes         40049.00
+
+Cass. 1 $20         300          6000.00
+Cass. 2 $10           0              .00
+Cass. 3 $5            0              .00
+Cass. 4 $50           0              .00
+Cass. 8 $1          149           149.00
+Cass. 9 $100        339         33900.00
+========================================
+
+      *** System Memory Cleared ***     
+001/14/20 10:32 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/14/20 10:33 AM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/14/20 10:34 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/14/20 10:34 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/14/20 10:34 AM
+
+Logon:                               Ray
+001/14/20 10:35 AM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 11:45 AM
+Ray
+
+
+
+(Inventory Load)                        
+Transaction #                          1
+001/14/20 11:45 AM
+Ray
+
+Denom            Pieces            Value
+$10                 241          2410.00
+
+Machine Total                    2410.00
+Total Inventory Added            2410.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            530.00
+Reversed Amount                   530.00
+
+(Inventory Load)                        
+Transaction #                          2
+001/14/20 11:48 AM
+Ray
+
+Denom            Pieces            Value
+$10                  53           530.00
+
+Machine Total                     530.00
+Total Inventory Added             530.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                          3
+001/14/20 11:52 AM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   5           100.00
+$10                  20           200.00
+$1                  100           100.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/14/20 11:53 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/14/20 11:54 AM
+ID:                                  Ray
+
+
+========================================
+           Inventory Settings           
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+         Low   Mid   High   Weight  Odds
+$100       0     0      0      3     Yes
+$50        0     0      0      2      No
+$20        5     5      5      1     Yes
+$10        3     3      3      4     Yes
+$5         5     5      5      5     Yes
+$1         5     5      5      6     Yes
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+$100      50    900         10        20
+$50       50    900         10        20
+$20       50    900         10        20
+$10       50    900         10        20
+$5        50    900         10        20
+$1        50    900         10        20
+========================================
+
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         500.00
+Reversed Amount                   500.00
+
+(Online Deposit)                        
+Transaction #                          4
+001/14/20 11:55 AM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   5           100.00
+$10                  20           200.00
+$1                  100           100.00
+
+Machine Total                     500.00
+Deposit Total                     500.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                          5
+001/14/20 11:56 AM
+Ray
+
+Denom            Pieces            Value
+$100                  8           800.00
+$20                   8           160.00
+$10                   3            30.00
+$1                   10            10.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          6
+001/14/20 11:59 AM
+Ray
+
+Denom            Pieces            Value
+$100                  8           800.00
+$20                   8           160.00
+$10                   3            30.00
+$1                   10            10.00
+
+Machine Total                    1000.00
+
+$100                  1           100.00
+$50                   2           100.00
+$20                   5           100.00
+$10                  10           100.00
+$5                   20           100.00
+$2                   50           100.00
+$1                  100           100.00
+
+Other Coin                        100.00
+Other Cash Deposited              800.00
+
+Deposit Total                    1800.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/14/20 12:00 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/14/20 12:00 PM
+ID:                                  Ray
+
+(Online Nominated Dispense)             
+Transaction #                          7
+001/14/20 12:01 PM
+Ray
+
+Denom            Pieces            Value
+$1                   30            30.00
+
+Amount Tendered                    30.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                          8
+001/14/20 12:02 PM
+Ray
+
+Denom            Pieces            Value
+$1                   30            30.00
+
+Amount Tendered                    30.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                          9
+001/14/20 12:02 PM
+Ray
+
+Denom            Pieces            Value
+$1                   30            30.00
+
+Amount Tendered                    30.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/14/20 12:03 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/14/20 12:04 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/14/20 12:04 PM
+
+(Vault Buy)                             
+Transaction #                         10
+001/14/20 12:05 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+Logon:                               Ray
+001/14/20 12:06 PM
+
+   *** Entered Configuration Mode ***   
+001/14/20 12:12 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/14/20 12:14 PM
+ID:                                  Ray
+  *** Cassette 1 May Not Be Empty! ***  
+       *** Cassette 2 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         11
+001/14/20 12:15 PM
+Ray
+
+Denom            Pieces            Value
+$20                 300          6000.00
+$10                 294          2940.00
+
+Total Inventory Removed          8940.00
+----------------------------------------
+       *** Cassette 8 Emptied ***       
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         12
+001/14/20 12:20 PM
+Ray
+
+Denom            Pieces            Value
+$1                   58            58.00
+
+Total Inventory Removed            58.00
+----------------------------------------
+  Removed Notes Subject To Fine Count!  
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/14/20 12:24 PM
+
+Logon:                               Ray
+001/14/20 12:25 PM
+
+(Online Deposit)                        
+Transaction #                         13
+001/14/20 12:25 PM
+Ray
+
+Denom            Pieces            Value
+$1                  149           149.00
+
+Machine Total                     149.00
+Deposit Total                     149.00
+----------------------------------------
+
+      This Transaction Went Offline     
+
+      This Transaction Went Offline     
+
+      This Transaction Went Offline     
+
+      This Transaction Went Offline     
+
+      This Transaction Went Offline     
+
+(Inventory Removal)                     
+Transaction #                         14
+001/14/20 12:27 PM
+Ray
+
+Denom            Pieces            Value
+$1                  100           100.00
+
+Total Inventory Removed           100.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         15
+001/14/20 12:30 PM
+Ray
+
+Denom            Pieces            Value
+$1                  100           100.00
+
+Machine Total                     100.00
+Total Inventory Added             100.00
+----------------------------------------
+
+Logoff:                              Ray
+001/14/20 01:39 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.121 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.121 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/14/20 01:44 PM
+
+   *** Entered Configuration Mode ***   
+001/14/20 01:44 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/14/20 01:44 PM
+ID:                                  Ray
+
+(Reconciled Rejects)                    
+Transaction #                         16
+001/14/20 01:48 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+Unknown Notes         1              .00
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         17
+001/14/20 01:49 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$1                    1             1.00
+
+Removed (Mutilated) Notes           1.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$1                    1            -1.00
+Differences                        +1.00
+----------------------------------------
+
+   *** Manual Note Removal Attempt ***  
+      *** No Notes Were Removed ***     
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/14/20 01:51 PM
+
+Logon:                               Ray
+001/14/20 01:52 PM
+
+             TCR Link Error             
+
+             TCR Link Error             
+
+             TCR Link Error             
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/14/20 01:53 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.121 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/14/20 02:02 PM
+
+Logoff:                              Ray
+001/14/20 02:02 PM
+
+Logon:                               Ray
+001/14/20 02:02 PM
+
+Logoff:                              Ray
+001/14/20 02:02 PM
+
+Logon:                               Ray
+001/14/20 02:05 PM
+
+   *** Manual Note Removal Attempt ***  
+      *** No Notes Were Removed ***     
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/14/20 02:10 PM
+
+Logon:                               Ray
+001/14/20 02:12 PM
+
+   *** Manual Note Removal Attempt ***  
+      *** No Notes Were Removed ***     
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/14/20 02:14 PM
+
+Logon:                               Ray
+001/14/20 02:32 PM
+
+   *** Manual Note Removal Attempt ***  
+      *** No Notes Were Removed ***     
+
+Logoff:                              Ray
+001/14/20 02:49 PM
+
+Logon:                               Ray
+001/14/20 03:25 PM
+
+(Inventory Load)                        
+Transaction #                         18
+001/14/20 03:25 PM
+Ray
+
+Denom            Pieces            Value
+$50                 297         14850.00
+$20                 300          6000.00
+$5                  148           740.00
+
+Machine Total                   21590.00
+Total Inventory Added           21590.00
+----------------------------------------
+
+Logoff:                              Ray
+001/14/20 03:28 PM
+
+Logon:                               Ray
+001/14/20 03:29 PM
+       *** Cassette 1 Emptied ***       
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         19
+001/14/20 03:30 PM
+Ray
+
+Denom            Pieces            Value
+$20                 300          6000.00
+
+Total Inventory Removed          6000.00
+----------------------------------------
+  Removed Notes Subject To Fine Count!  
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/14/20 03:31 PM
+
+Logon:                               Ray
+001/14/20 03:31 PM
+
+Logoff:                              Ray
+001/14/20 03:35 PM
+
+Logon:                               Ray
+001/14/20 03:36 PM
+       *** Cassette 4 Emptied ***       
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         20
+001/14/20 03:37 PM
+Ray
+
+Denom            Pieces            Value
+$50                 297         14850.00
+
+Total Inventory Removed         14850.00
+----------------------------------------
+  Removed Notes Subject To Fine Count!  
+       *** Cassette 3 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         21
+001/14/20 03:38 PM
+Ray
+
+Denom            Pieces            Value
+$5                  148           740.00
+
+Total Inventory Removed           740.00
+----------------------------------------
+
+Logoff:                              Ray
+001/14/20 04:16 PM

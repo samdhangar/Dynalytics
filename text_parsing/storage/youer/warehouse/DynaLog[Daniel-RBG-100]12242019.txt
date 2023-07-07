@@ -1,0 +1,222 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/24/20 09:09 AM
+ *** Cassette Cass. 5 Needs Long Verify 
+***                                     
+                                        
+                                        
+                                        
+                                        
+                                        
+                     *** Use Manual Cas
+sette Removal ***  
+
+         *** Security Event! ***        
+            01/24/20 09:09 AM           
+    *** TCR Main Safe Door Opened ***   
+
+         *** Security Event! ***        
+            01/24/20 09:09 AM           
+  *** TCR Main Storage Unit Opened ***  
+
+         *** Security Event! ***        
+            01/24/20 09:10 AM           
+  *** TCR Main Storage Unit Closed ***  
+
+         *** Security Event! ***        
+            01/24/20 09:10 AM           
+    *** TCR Main Safe Door Closed ***   
+       *** Cassette 5 Emptied ***       
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         37
+01/24/20 09:10 AM
+Josh
+
+Denom            Pieces            Value
+$100                132         13200.00
+
+Total Inventory Removed         13200.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         38
+01/24/20 09:11 AM
+Josh
+
+Denom            Pieces            Value
+$100                132         13200.00
+$5                  160           800.00
+
+Machine Total                   14000.00
+Total Inventory Added           14000.00
+----------------------------------------
+
+Logoff:                             josh
+01/24/20 09:11 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/24/20 09:19 AM
+
+Logoff:                             josh
+01/24/20 09:19 AM
+            Deposit Canceled            
+
+(Vault Sell)                            
+01/24/20 09:19 AM
+josh
+
+
+
+Logon:                              josh
+01/24/20 09:38 AM
+
+Logoff:                             josh
+01/24/20 09:38 AM
+
+   *** Entered Configuration Mode ***   
+01/24/20 10:35 AM
+ID:                                  OEM
+
+    *** Exited Configuration Mode ***   
+01/24/20 10:36 AM
+ID:                                  OEM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+01/24/20 10:36 AM
+ID:                               Level2
+
+Logon:                            Add-On
+01/24/20 10:36 AM
+
+    *** Exited Configuration Mode ***   
+01/24/20 10:36 AM
+ID:                               Add-On
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+01/24/20 10:38 AM
+ID:                               Level2
+
+
+Logon:                            Add-On
+01/24/20 10:38 AM
+
+    *** Exited Configuration Mode ***   
+01/24/20 10:38 AM
+ID:                               Add-On
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+01/24/20 10:39 AM
+ID:                               Level2
+
+
+Logon:                            Add-On
+01/24/20 10:39 AM
+
+    *** Exited Configuration Mode ***   
+01/24/20 10:39 AM
+ID:                               Add-On
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+01/24/20 10:40 AM
+ID:                               Level2
+
+
+Logon:                            Add-On
+01/24/20 10:40 AM
+
+    *** Exited Configuration Mode ***   
+01/24/20 10:40 AM
+ID:                               Add-On
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+                 test yo                
+
+Station:                          Daniel
+Branch:                      Test Branch
+Region:                      Test Region
+

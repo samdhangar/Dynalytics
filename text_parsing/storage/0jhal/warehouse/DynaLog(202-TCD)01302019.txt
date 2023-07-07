@@ -1,0 +1,301 @@
+            Side A Logged On            
+Date                             9/30/17
+Time                          8:16:00 AM
+Teller #                             255
+
+            Side A Logged Off           
+Teller #                             255
+Date                             9/30/17
+Time                          8:44:18 AM
+
+            Side A Logged On            
+Date                             9/30/17
+Time                          8:46:00 AM
+Teller #                             202
+
+            Side A Logged Off           
+Teller #                             202
+Date                             9/30/17
+Time                         10:59:26 AM
+
+
+
+(Vault Buy)                             
+Transaction #                          1
+Date                             9/30/17
+Time                         11:57:56 AM
+Teller #                             243
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$20                  65          1300.00
+$10                  20           200.00
+
+Amount Tendered                  2500.00
+----------------------------------------
+            Side A Logged On            
+Date                             9/30/17
+Time                         11:59:00 AM
+Teller #                             202
+
+
+(Vault Buy)                             
+Transaction #                          2
+Date                             9/30/17
+Time                         12:49:26 PM
+Teller #                             280
+
+Denom            Pieces            Value
+$100                 20          2000.00
+
+Amount Tendered                  2000.00
+----------------------------------------
+            Side B Logged On            
+Date                             9/30/17
+Time                          2:54:48 PM
+Teller #                             280
+
+            Side B Logged Off           
+Teller #                             280
+Date                             9/30/17
+Time                          2:54:57 PM
+
+            Side B Logged On            
+Date                             9/30/17
+Time                          2:55:43 PM
+Teller #                             280
+
+            Side B Logged Off           
+Teller #                             280
+Date                             9/30/17
+Time                          2:56:01 PM
+
+
+
+(Vault Buy)                             
+Transaction #                          3
+Date                             9/30/17
+Time                          3:51:08 PM
+Teller #                             193
+
+Denom            Pieces            Value
+$100                  8           800.00
+
+Amount Tendered                   800.00
+----------------------------------------
+
+            Side A Logged Off           
+Teller #                             202
+Date                             9/30/17
+Time                          3:51:32 PM
+
+            Side B Logged On            
+Date                             9/30/17
+Time                          3:52:22 PM
+Teller #                             243
+
+
+(Online Mix Dispense)                   
+Transaction #                          4
+Date                             9/30/17
+Time                          3:53:14 PM
+Teller #                             243
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Amount Tendered                    40.00
+----------------------------------------
+
+            Side B Logged Off           
+Teller #                             243
+Date                             9/30/17
+Time                          3:55:15 PM
+
+            Side A Logged On            
+Date                             9/30/17
+Time                          4:01:00 PM
+Teller #                             193
+
+
+(Online Mix Dispense)                   
+Transaction #                          5
+Date                             9/30/17
+Time                          4:14:26 PM
+Teller #                             193
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          6
+Date                             9/30/17
+Time                          4:19:43 PM
+Teller #                             193
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   2           100.00
+$20                  10           200.00
+
+Amount Tendered                   400.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                          7
+Date                             9/30/17
+Time                          4:27:16 PM
+Teller #                             193
+
+Denom            Pieces            Value
+$100                  7           700.00
+$20                   2            40.00
+$10                   1            10.00
+$5                   15            75.00
+
+Amount Tendered                   825.00
+----------------------------------------
+            Side B Logged On            
+Date                             9/30/17
+Time                          4:29:02 PM
+Teller #                             243
+
+            Side B Logged Off           
+Teller #                             243
+Date                             9/30/17
+Time                          4:29:14 PM
+
+            Side B Logged On            
+Date                             9/30/17
+Time                          4:59:53 PM
+Teller #                             280
+
+
+(Online Mix Dispense)                   
+Transaction #                          8
+Date                             9/30/17
+Time                          5:00:08 PM
+Teller #                             193
+
+Denom            Pieces            Value
+$100                  4           400.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   1            10.00
+
+Amount Tendered                   650.00
+----------------------------------------
+            Side B Logged Off           
+Teller #                             280
+Date                             9/30/17
+Time                          5:00:09 PM
+
+
+            Side A Logged Off           
+Teller #                             193
+Date                             9/30/17
+Time                          5:01:11 PM
+
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/30/17
+Time                          5:12:27 PM
+
+
+========================================
+             Activity Report            
+Station #                            202
+Date                             9/30/17
+Time                          5:12:30 PM
+Manager #                            243
+========================================
+             Teller Activity            
+----------------------------------------
+Teller #                             193
+# of Withdrawals                       5
+
+Vault Buy Total                   800.00
+Withdrawals                      2775.00
+----------------------------------------
+Teller #                             243
+# of Withdrawals                       2
+
+Vault Buy Total                  2500.00
+Withdrawals                      2540.00
+----------------------------------------
+Teller #                             280
+# of Withdrawals                       1
+
+Vault Buy Total                  2000.00
+Withdrawals                      2000.00
+========================================
+----------------------------------------
+               Vault Buys               
+----------------------------------------
+Denom            Pieces            Value
+$100                 38          3800.00
+$50                   0              .00
+$20                  65          1300.00
+$10                  20           200.00
+$5                    0              .00
+$1                    0              .00
+Vault Buy Total                  5300.00
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                 50          5000.00
+$50                   4           200.00
+$20                  91          1820.00
+$10                  22           220.00
+$5                   15            75.00
+$1                    0              .00
+Total Dispensed                  7315.00
+# of Withdrawals                       8
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100               1136        113600.00
+$50                1659         82950.00
+$20                1479         29580.00
+$10                1051         10510.00
+$5                 1071          5355.00
+$1                 1295          1295.00
+Starting Inventory             250605.00
+Net Adjustments                      .00
+Total Inventory                243290.00
+
+Cassette 1         1295          1295.00
+Cassette 2         1071          5355.00
+Cassette 3         1051         10510.00
+Cassette 4         1479         29580.00
+Cassette 5         1659         82950.00
+Cassette 6         1136        113600.00
+========================================
+
+
+       Teller Grand Totals Cleared      
+            Activity Cleared            
+
+
+
+
+
+
+
+
+
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/30/17
+Time                          5:12:46 PM
+****************************************

@@ -1,0 +1,255 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.104 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+001/02/20 09:01 AM
+
+(Online Nominated Dispense)             
+Transaction #                          7
+001/02/20 09:01 AM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$1                    1             1.00
+
+Amount Tendered                   181.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          8
+001/02/20 09:02 AM
+Josh
+
+Denom            Pieces            Value
+$20                 200          4000.00
+
+Total Inventory Removed          4000.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          9
+001/02/20 09:05 AM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                 201          4020.00
+$10                   1            10.00
+$1                    1             1.00
+
+Machine Total                    4181.00
+Total Inventory Added            4181.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         10
+001/02/20 09:07 AM
+Josh
+
+Denom            Pieces            Value
+$20                 201          4020.00
+
+Total Inventory Removed          4020.00
+----------------------------------------
+
+Logoff:                             josh
+001/02/20 09:12 AM
+
+Logon:                              josh
+001/02/20 09:16 AM
+
+(Online Nominated Dispense)             
+Transaction #                         11
+001/02/20 09:16 AM
+Josh
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         12
+001/02/20 09:16 AM
+Josh
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         13
+001/02/20 09:17 AM
+Josh
+
+Denom            Pieces            Value
+$50                   1            50.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         14
+001/02/20 09:18 AM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$1                    1             1.00
+
+Amount Tendered                   101.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         15
+001/02/20 09:19 AM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                 201          4020.00
+$10                   1            10.00
+$1                    2             2.00
+
+Machine Total                    4182.00
+Total Inventory Added            4182.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/02/20 09:25 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/02/20 09:25 AM
+ID:                                 josh
+
+
+========================================
+            Security Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         8:00    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                    No
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        0
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  5           500.00
+$50                   5           250.00
+$20                   5           100.00
+$10                   5            50.00
+$5                    5            25.00
+$1                    5             5.00
+========================================
+
+
+
+========================================
+            Hardware Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address            192.168.1.115
+TCD/TCR Port                       60000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser             No Coin Usage
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0c:27:5d
+LAN 1 IP Address           192.168.1.237
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0c:29:1f
+LAN 2 IP Address           192.168.1.238
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.104
+Release Date                    04/26/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           00.00.001
+Min. DynaCash Version          00.00.002
+Min. DynaLog Server Version    00.00.003
+Min. DynaLog Viewer Version    00.00.004
+========================================
+
+
+Logoff:                             josh
+001/02/20 09:26 AM At 001/02/20 09:25 AM

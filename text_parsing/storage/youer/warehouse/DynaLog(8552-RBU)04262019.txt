@@ -1,0 +1,1331 @@
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+     Recycler Inventory NOT Cleared     
+         Coin Inventory Cleared         
+           Defaults Installed           
+   Side A Coin On - Machine Dispensing  
+   Side B Coin On - Machine Dispensing  
+
+
+========================================
+              Manager Setup             
+Date                             1/01/00
+Time                         12:00:02 AM
+Added Manager                          1
+           Exit Manager Setup           
+========================================
+
+========================================
+              Teller Setup              
+Date                             1/01/00
+Time                         12:10:18 AM
+
+Added Teller                           1
+Transaction Limit               No Limit
+Daily Limit                     No Limit
+Deposit Limit                   No Limit
+            Exit Teller Setup           
+========================================
+
+
+            Side A Logged On            
+Date                             01/26/20
+Time                          9:40:00 AM
+Teller #                               1
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/26/20
+Time                          9:40:01 AM
+Coin  Adjusted                   +100.00
+New Coin Total                    100.00
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                           8552
+Denom            Pieces            Value
+$100                750         75000.00
+$50                 750         37500.00
+$20                 750         15000.00
+$10                 848          8480.00
+$5                  800          4000.00
+$2                    0              .00
+$1                  582           582.00
+Coin                              100.00
+Starting Inventory             140562.00
+Net Adjustments                   100.00
+Total Inventory                140662.00
+========================================
+
+           Manager Logged Off           
+Manager #                              1
+Date                             01/26/20
+Time                          9:40:11 AM
+****************************************
+
+
+(Online Mix Dispense)                   
+Transaction #                          1
+Date                             01/26/20
+Time                          9:40:25 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+            Side B Logged On            
+Date                             01/26/20
+Time                          9:42:28 AM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          2
+Date                             01/26/20
+Time                          9:42:32 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+            Side B Logged On            
+Date                             01/26/20
+Time                          9:44:53 AM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          3
+Date                             01/26/20
+Time                          9:44:58 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          4
+Date                             01/26/20
+Time                          9:46:34 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+           Defaults Installed           
+   Side A Coin On - Machine Dispensing  
+   Side B Coin On - Machine Dispensing  
+
+
+========================================
+              Manager Setup             
+Date                             1/01/00
+Time                         12:00:02 AM
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+           Defaults Installed           
+   Side A Coin On - Machine Dispensing  
+   Side B Coin On - Machine Dispensing  
+
+
+========================================
+              Manager Setup             
+Date                             1/01/00
+Time                         12:00:02 AM
+Added Manager                          1
+           Exit Manager Setup           
+========================================
+
+========================================
+              Teller Setup              
+Date                             1/01/00
+Time                         12:00:39 AM
+
+Added Teller                           1
+Transaction Limit               No Limit
+Daily Limit                     No Limit
+Deposit Limit                   No Limit
+            Exit Teller Setup           
+========================================
+
+
+
+
+            RBU-11 Link Error           
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             1/01/00
+Time                         12:02:32 AM
+Coin  Adjusted                   +100.00
+New Coin Total                    100.00
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                           8552
+Denom            Pieces            Value
+$100                750         75000.00
+$50                 750         37500.00
+$20                 750         15000.00
+$10                 848          8480.00
+$5                  800          4000.00
+$2                    0              .00
+$1                  578           578.00
+Coin                              100.00
+Starting Inventory             140558.00
+Net Adjustments                   100.00
+Total Inventory                140658.00
+========================================
+
+           Manager Logged Off           
+Manager #                              1
+Date                             1/01/00
+Time                         12:02:42 AM
+****************************************
+            Side A Logged On            
+Date                             01/26/20
+Time                         11:13:00 AM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          1
+Date                             01/26/20
+Time                         11:13:04 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          2
+Date                             01/26/20
+Time                         11:14:34 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+            Side B Logged On            
+Date                             01/26/20
+Time                         11:16:15 AM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          3
+Date                             01/26/20
+Time                         11:16:19 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          4
+Date                             01/26/20
+Time                         11:17:37 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+            Side B Logged On            
+Date                             01/26/20
+Time                         11:19:23 AM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          5
+Date                             01/26/20
+Time                         11:19:28 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+            Side B Logged On            
+Date                             01/26/20
+Time                         11:21:08 AM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          6
+Date                             01/26/20
+Time                         11:21:12 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+           Defaults Installed           
+   Side A Coin On - Machine Dispensing  
+   Side B Coin On - Machine Dispensing  
+
+
+========================================
+              Manager Setup             
+Date                             1/01/00
+Time                         12:00:02 AM
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+     Recycler Inventory NOT Cleared     
+         Coin Inventory Cleared         
+           Defaults Installed           
+   Side A Coin On - Machine Dispensing  
+   Side B Coin On - Machine Dispensing  
+
+
+========================================
+              Manager Setup             
+Date                             1/01/00
+Time                         12:00:02 AM
+Added Manager                          1
+           Exit Manager Setup           
+========================================
+
+========================================
+              Teller Setup              
+Date                             1/01/00
+Time                         12:00:32 AM
+
+Added Teller                           1
+Transaction Limit               No Limit
+Daily Limit                     No Limit
+Deposit Limit                   No Limit
+            Exit Teller Setup           
+========================================
+
+
+
+
+            RBU-11 Link Error           
+
+
+            RBU-11 Link Error           
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             1/01/00
+Time                         12:04:32 AM
+Coin  Adjusted                   +100.00
+New Coin Total                    100.00
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                           8552
+Denom            Pieces            Value
+$100                750         75000.00
+$50                 750         37500.00
+$20                 750         15000.00
+$10                 848          8480.00
+$5                  800          4000.00
+$2                    0              .00
+$1                  578           578.00
+Coin                              100.00
+Starting Inventory             140558.00
+Net Adjustments                   100.00
+Total Inventory                140658.00
+========================================
+
+           Manager Logged Off           
+Manager #                              1
+Date                             1/01/00
+Time                         12:04:41 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             1/01/00
+Time                         12:05:26 AM
+Coin  Adjusted                   +100.00
+New Coin Total                    200.00
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                           8552
+Denom            Pieces            Value
+$100                750         75000.00
+$50                 750         37500.00
+$20                 750         15000.00
+$10                 848          8480.00
+$5                  800          4000.00
+$2                    0              .00
+$1                  578           578.00
+Coin                              200.00
+Starting Inventory             140558.00
+Net Adjustments                   200.00
+Total Inventory                140758.00
+========================================
+
+           Manager Logged Off           
+Manager #                              1
+Date                             1/01/00
+Time                         12:05:35 AM
+****************************************
+            Side A Logged On            
+Date                             01/26/20
+Time                         11:36:00 AM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          1
+Date                             01/26/20
+Time                         11:36:05 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          2
+Date                             01/26/20
+Time                         11:36:36 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+            Side B Logged On            
+Date                             01/26/20
+Time                         11:37:04 AM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          3
+Date                             01/26/20
+Time                         11:37:08 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          4
+Date                             01/26/20
+Time                         11:42:40 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+            Side B Logged On            
+Date                             01/26/20
+Time                         11:44:28 AM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          5
+Date                             01/26/20
+Time                         11:44:32 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+            Side A Logged On            
+Date                             01/26/20
+Time                         11:45:00 AM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          6
+Date                             01/26/20
+Time                         11:45:04 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+            Side A Logged On            
+Date                             01/26/20
+Time                         11:47:00 AM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          7
+Date                             01/26/20
+Time                         11:47:04 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+     Recycler Inventory NOT Cleared     
+         Coin Inventory Cleared         
+           Defaults Installed           
+   Side A Coin On - Machine Dispensing  
+   Side B Coin On - Machine Dispensing  
+
+
+========================================
+              Manager Setup             
+Date                             1/01/00
+Time                         12:00:02 AM
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+           Defaults Installed           
+   Side A Coin On - Machine Dispensing  
+   Side B Coin On - Machine Dispensing  
+
+
+========================================
+              Manager Setup             
+Date                             1/01/00
+Time                         12:00:02 AM
+Added Manager                          1
+           Exit Manager Setup           
+========================================
+
+========================================
+              Teller Setup              
+Date                             1/01/00
+Time                         12:00:11 AM
+
+Added Teller                           1
+Transaction Limit               No Limit
+Daily Limit                     No Limit
+Deposit Limit                   No Limit
+            Exit Teller Setup           
+========================================
+
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             1/01/00
+Time                         12:01:36 AM
+Coin  Adjusted                   +100.00
+New Coin Total                    100.00
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                           8552
+Denom            Pieces            Value
+$100                750         75000.00
+$50                 750         37500.00
+$20                 750         15000.00
+$10                 848          8480.00
+$5                  800          4000.00
+$2                    0              .00
+$1                  571           571.00
+Coin                              100.00
+Starting Inventory             140551.00
+Net Adjustments                   100.00
+Total Inventory                140651.00
+========================================
+
+           Manager Logged Off           
+Manager #                              1
+Date                             1/01/00
+Time                         12:01:45 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             1/01/00
+Time                         12:01:58 AM
+Coin  Adjusted                   +100.00
+New Coin Total                    200.00
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                           8552
+Denom            Pieces            Value
+$100                750         75000.00
+$50                 750         37500.00
+$20                 750         15000.00
+$10                 848          8480.00
+$5                  800          4000.00
+$2                    0              .00
+$1                  571           571.00
+Coin                              200.00
+Starting Inventory             140551.00
+Net Adjustments                   200.00
+Total Inventory                140751.00
+========================================
+
+           Manager Logged Off           
+Manager #                              1
+Date                             1/01/00
+Time                         12:02:08 AM
+****************************************
+            Side A Logged On            
+Date                             01/26/20
+Time                         11:57:00 AM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          1
+Date                             01/26/20
+Time                         11:57:03 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+            Side B Logged On            
+Date                             01/26/20
+Time                         11:59:52 AM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          2
+Date                             01/26/20
+Time                         11:59:56 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          3
+Date                             01/26/20
+Time                         12:00:28 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+            Side A Logged On            
+Date                             01/26/20
+Time                         12:03:00 PM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          4
+Date                             01/26/20
+Time                         12:03:04 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          5
+Date                             01/26/20
+Time                         12:04:10 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+            Side B Logged On            
+Date                             01/26/20
+Time                         12:05:22 PM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          6
+Date                             01/26/20
+Time                         12:05:26 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+            Side B Logged On            
+Date                             01/26/20
+Time                         12:07:01 PM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          7
+Date                             01/26/20
+Time                         12:07:05 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+           Defaults Installed           
+   Side A Coin On - Machine Dispensing  
+   Side B Coin On - Machine Dispensing  
+
+
+========================================
+              Manager Setup             
+Date                             1/01/00
+Time                         12:00:02 AM
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+           Defaults Installed           
+   Side A Coin On - Machine Dispensing  
+   Side B Coin On - Machine Dispensing  
+
+
+========================================
+              Manager Setup             
+Date                             1/01/00
+Time                         12:00:02 AM
+Added Manager                          1
+           Exit Manager Setup           
+========================================
+
+========================================
+              Teller Setup              
+Date                             1/01/00
+Time                         12:00:55 AM
+
+Added Teller                           1
+Transaction Limit               No Limit
+Daily Limit                     No Limit
+Deposit Limit                   No Limit
+            Exit Teller Setup           
+========================================
+
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             1/01/00
+Time                         12:01:26 AM
+           Manager Logged Off           
+Manager #                              1
+Date                             1/01/00
+Time                         12:01:27 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             1/01/00
+Time                         12:01:29 AM
+Coin  Adjusted                   +100.00
+New Coin Total                    100.00
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                           8552
+Denom            Pieces            Value
+$100                750         75000.00
+$50                 750         37500.00
+$20                 750         15000.00
+$10                 848          8480.00
+$5                  800          4000.00
+$2                    0              .00
+$1                  564           564.00
+Coin                              100.00
+Starting Inventory             140544.00
+Net Adjustments                   100.00
+Total Inventory                140644.00
+========================================
+
+           Manager Logged Off           
+Manager #                              1
+Date                             1/01/00
+Time                         12:02:19 AM
+****************************************
+            Side A Logged On            
+Date                             01/26/20
+Time                         12:56:00 PM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          1
+Date                             01/26/20
+Time                         12:56:04 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          2
+Date                             01/26/20
+Time                         12:57:15 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+            Side B Logged On            
+Date                             01/26/20
+Time                         12:58:20 PM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          3
+Date                             01/26/20
+Time                         12:58:24 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+            Side B Logged On            
+Date                             01/26/20
+Time                          1:00:00 PM
+Teller #                               1
+
+
+            RBU-11 Link Error           
+
+
+            Partial Dispense            
+
+(Online Mix Dispense)                   
+Transaction #                          4
+Date                             01/26/20
+Time                          1:00:04 PM
+Teller #                               1
+
+Denom            Pieces            Value
+Coin                                 .10
+
+Amount Requested                    1.10
+Amount Tendered                      .10
+Balance Due                         1.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          5
+Date                             01/26/20
+Time                          1:01:44 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+           Defaults Installed           
+   Side A Coin On - Machine Dispensing  
+   Side B Coin On - Machine Dispensing  
+
+
+========================================
+              Manager Setup             
+Date                             1/01/00
+Time                         12:00:02 AM
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+           Defaults Installed           
+   Side A Coin On - Machine Dispensing  
+   Side B Coin On - Machine Dispensing  
+
+
+========================================
+              Manager Setup             
+Date                             1/01/00
+Time                         12:00:02 AM
+Added Manager                          1
+           Exit Manager Setup           
+========================================
+
+========================================
+              Teller Setup              
+Date                             1/01/00
+Time                         12:00:10 AM
+
+Added Teller                           1
+Transaction Limit               No Limit
+Daily Limit                     No Limit
+Deposit Limit                   No Limit
+            Exit Teller Setup           
+========================================
+
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             1/01/00
+Time                         12:01:24 AM
+Coin  Adjusted                   +100.00
+New Coin Total                    100.00
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                           8552
+Denom            Pieces            Value
+$100                750         75000.00
+$50                 750         37500.00
+$20                 750         15000.00
+$10                 848          8480.00
+$5                  800          4000.00
+$2                    0              .00
+$1                  577           577.00
+Coin                              100.00
+Starting Inventory             140557.00
+Net Adjustments                   100.00
+Total Inventory                140657.00
+========================================
+
+           Manager Logged Off           
+Manager #                              1
+Date                             1/01/00
+Time                         12:01:34 AM
+****************************************
+            Side A Logged On            
+Date                             01/26/20
+Time                          3:08:00 PM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          1
+Date                             01/26/20
+Time                          3:08:03 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          2
+Date                             01/26/20
+Time                          3:08:28 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+            Side B Logged On            
+Date                             01/26/20
+Time                          3:08:53 PM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          3
+Date                             01/26/20
+Time                          3:08:57 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+            Side B Logged On            
+Date                             01/26/20
+Time                          3:12:01 PM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          4
+Date                             01/26/20
+Time                          3:12:05 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.80-DC       
+           DynaCash Mode: USB           
+
+                Mitchell                
+             Testing Station            
+
+Station #                           8552
+
+
+           Defaults Installed           
+   Side A Coin On - Machine Dispensing  
+   Side B Coin On - Machine Dispensing  
+
+
+========================================
+              Manager Setup             
+Date                             1/01/00
+Time                         12:00:02 AM

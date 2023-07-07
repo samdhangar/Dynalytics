@@ -1,0 +1,1670 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.140 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           Stephen
+001/13/20 09:01 AM
+ *** Cassette Cass. 1 Needs Long Verify 
+***                                     
+                                        
+                                        
+                                        
+                                        
+                                        
+                     *** Use Manual Cas
+sette Removal ***  
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.140 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           Stephen
+001/13/20 09:11 AM
+
+(Inventory Load)                        
+Transaction #                          2
+001/13/20 09:12 AM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 192          9600.00
+$20                 140          2800.00
+$10                 267          2670.00
+$5                  164           820.00
+$1                  189           189.00
+
+Machine Total                   30079.00
+Total Inventory Added           30079.00
+----------------------------------------
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/13/20 09:14 AM
+
+Logon:                           Stephen
+001/13/20 09:16 AM
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/13/20 09:16 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.140 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           Stephen
+001/13/20 09:20 AM
+
+========================================
+          Exposed Notes History         
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/13/20 09:20 AM
+ID:                              Stephen
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                 Incomplete
+001/13/20 08:42 AM
+Stephen
+
+Denom            Pieces            Value
+$1                  189           189.00
+
+Total Exposed Notes               189.00
+========================================
+
+
+
+
+
+
+
+
+
+(Reconciled Exposed Notes)              
+Transaction #                          3
+001/13/20 09:20 AM
+Stephen
+
+Denom            Pieces            Value
+$1                  189           189.00
+
+Exposed Notes Reconciled          189.00
+----------------------------------------
+  *** Exposed Notes History Cleared *** 
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                          4
+001/13/20 09:22 AM
+Stephen
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$50                   1            50.00
+$10                   1            10.00
+$1                    1             1.00
+
+Collection Notes Removed           61.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$50                   1            50.00
+$10                   1            10.00
+$1                    1             1.00
+
+Reloaded Notes                     61.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/13/20 09:23 AM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/13/20 09:25 AM
+ID:                              Stephen
+       *** Cassette 1 Emptied ***       
+       *** Cassette 2 Emptied ***       
+       *** Cassette 3 Emptied ***       
+       *** Cassette 4U Emptied ***      
+       *** Cassette 4L Emptied ***      
+       *** Cassette 5 Emptied ***       
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                          5
+001/13/20 09:30 AM
+Stephen
+
+Denom            Pieces            Value
+$100                280         28000.00
+$50                 384         19200.00
+$20                 280          5600.00
+$10                 534          5340.00
+$5                  328          1640.00
+$1                  378           378.00
+
+Total Inventory Removed         60158.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/13/20 09:32 AM
+ID:                              Stephen
+
+
+    *** Exited Configuration Mode ***   
+001/13/20 09:32 AM
+ID:                              Stephen
+
+(Inventory Load)                        
+Transaction #                          6
+001/13/20 09:34 AM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 192          9600.00
+$20                 140          2800.00
+$10                 267          2670.00
+$5                  164           820.00
+$1                  189           189.00
+
+Machine Total                   30079.00
+Total Inventory Added           30079.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/13/20 09:39 AM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/13/20 09:39 AM
+ID:                              Stephen
+
+Logoff:                          Stephen
+001/13/20 09:39 AM
+
+Logon:                           Stephen
+001/13/20 10:00 AM
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/13/20 10:02 AM
+
+Logon:                           Stephen
+001/13/20 10:13 AM
+
+(Inventory Removal)                     
+Transaction #                          7
+001/13/20 10:15 AM
+Stephen
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Total Inventory Removed            10.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                          8
+001/13/20 10:18 AM
+Stephen
+
+Denom            Pieces            Value
+$5                    9            45.00
+
+Total Inventory Removed            45.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                          9
+001/13/20 10:18 AM
+Stephen
+
+Denom            Pieces            Value
+$10                   8            80.00
+
+Total Inventory Removed            80.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         10
+001/13/20 10:19 AM
+Stephen
+
+Denom            Pieces            Value
+$20                   7           140.00
+
+Total Inventory Removed           140.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         11
+001/13/20 10:19 AM
+Stephen
+
+Denom            Pieces            Value
+$50                   6           300.00
+
+Total Inventory Removed           300.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         12
+001/13/20 10:19 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  5           500.00
+
+Total Inventory Removed           500.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         13
+001/13/20 10:20 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  5           500.00
+$50                   6           300.00
+$20                   7           140.00
+$10                   8            80.00
+$5                    9            45.00
+$1                   10            10.00
+
+Machine Total                    1075.00
+Total Inventory Added            1075.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/13/20 10:21 AM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/13/20 10:22 AM
+ID:                              Stephen
+
+
+========================================
+           Inventory Settings           
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                        450
+Mix 2 Below $                        772
+
+         Low   Mid   High   Weight  Odds
+$100       1     4      3      4     Yes
+$50        2     1      5      3      No
+$20        6     6      6      2     Yes
+$10        0     0      0      6     Yes
+$5         0     0      0      6     Yes
+$1         5     5      5      1     Yes
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+$100      50    900         10         5
+$50       50    900         10         5
+$20       50    900         10         5
+$10        0      0         10         5
+$5         0      0         10         5
+$1        50    900         10         5
+========================================
+
+
+(Inventory Removal)                     
+Transaction #                         14
+001/13/20 10:22 AM
+Stephen
+
+Denom            Pieces            Value
+$1                   20            20.00
+
+Total Inventory Removed            20.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         15
+001/13/20 10:23 AM
+Stephen
+
+Denom            Pieces            Value
+$5                   10            50.00
+
+Total Inventory Removed            50.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         16
+001/13/20 10:24 AM
+Stephen
+
+Denom            Pieces            Value
+$10                  10           100.00
+
+Total Inventory Removed           100.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         17
+001/13/20 10:24 AM
+Stephen
+
+Denom            Pieces            Value
+$20                  10           200.00
+
+Total Inventory Removed           200.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         18
+001/13/20 10:25 AM
+Stephen
+
+Denom            Pieces            Value
+$50                  10           500.00
+
+Total Inventory Removed           500.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         19
+001/13/20 10:25 AM
+Stephen
+
+Denom            Pieces            Value
+$100                 10          1000.00
+
+Total Inventory Removed          1000.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         20
+001/13/20 10:26 AM
+Stephen
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   20            20.00
+
+Machine Total                    1870.00
+Total Inventory Added            1870.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         21
+001/13/20 10:29 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                   4            80.00
+$10                   3            30.00
+$5                    2            10.00
+$1                    1             1.00
+
+Total Inventory Removed           971.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         22
+001/13/20 10:30 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   5           250.00
+$20                   4            80.00
+$10                   3            30.00
+$5                    2            10.00
+$1                    1             1.00
+
+Machine Total                     971.00
+Total Inventory Added             971.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         23
+001/13/20 10:31 AM
+Stephen
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Total Inventory Removed          1860.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         24
+001/13/20 10:34 AM
+Stephen
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                   9            90.00
+$5                   10            50.00
+$1                   10            10.00
+
+Machine Total                    1850.00
+Total Inventory Added            1850.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         25
+001/13/20 10:36 AM
+Stephen
+
+Denom            Pieces            Value
+$1                  100           100.00
+
+Total Inventory Removed           100.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         26
+001/13/20 10:38 AM
+Stephen
+
+Denom            Pieces            Value
+$10                   1            10.00
+$1                  100           100.00
+
+Machine Total                     110.00
+Total Inventory Added             110.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/13/20 11:07 AM
+
+Logon:                              josh
+001/13/20 11:14 AM
+
+Logon:                           Stephen
+001/13/20 11:14 AM
+
+(Vault Buy)                             
+Transaction #                         27
+001/13/20 11:20 AM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         28
+001/13/20 11:21 AM
+Ray
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Amount Tendered                     5.00
+----------------------------------------
+       *** $1 Notes Collected ***       
+
+
+(Inventory Collected)                   
+Transaction #                         29
+001/13/20 11:25 AM
+Stephen
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Total Inventory Collected           1.00
+----------------------------------------
+       *** $5 Notes Collected ***       
+
+
+(Inventory Collected)                   
+Transaction #                         30
+001/13/20 11:26 AM
+Stephen
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Total Inventory Collected           5.00
+----------------------------------------
+       *** $10 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         31
+001/13/20 11:27 AM
+Stephen
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Total Inventory Collected          10.00
+----------------------------------------
+       *** $20 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         32
+001/13/20 11:27 AM
+Stephen
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Total Inventory Collected          20.00
+----------------------------------------
+      *** $100 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         33
+001/13/20 11:28 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Total Inventory Collected         100.00
+----------------------------------------
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         34
+001/13/20 11:29 AM
+Stephen
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Collection Notes Removed          136.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Reloaded Notes                    136.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+       *** $1 Notes Collected ***       
+       *** $5 Notes Collected ***       
+       *** $10 Notes Collected ***      
+       *** $20 Notes Collected ***      
+      *** $100 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         35
+001/13/20 11:34 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Total Inventory Collected         136.00
+----------------------------------------
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         36
+001/13/20 11:37 AM
+Stephen
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Collection Notes Removed          136.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Removed (Mutilated) Notes         136.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         37
+001/13/20 11:39 AM
+Stephen
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Total Inventory Removed             1.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                             josh
+001/13/20 11:47 AM At 001/13/20 11:37 AM
+
+(Vault Buy)                             
+Transaction #                         38
+001/13/20 11:48 AM
+Josh
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+    *** Cassette Cass. 1 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         39
+001/13/20 11:51 AM
+Stephen
+
+Denom            Pieces            Value
+$1                  192           192.00
+
+Total Inventory Removed           192.00
+----------------------------------------
+    *** Cassette Cass. 2 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         40
+001/13/20 11:53 AM
+Stephen
+
+Denom            Pieces            Value
+$5                  162           810.00
+
+Total Inventory Removed           810.00
+----------------------------------------
+    *** Cassette Cass. 3 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         41
+001/13/20 11:58 AM
+Stephen
+
+Denom            Pieces            Value
+$10                 265          2650.00
+
+Total Inventory Removed          2650.00
+----------------------------------------
+    *** Cassette Cass. 4U Emptied ***   
+
+(Inventory Removal)                     
+Transaction #                         42
+001/13/20 11:58 AM
+Stephen
+
+Denom            Pieces            Value
+$20                 139          2780.00
+
+Total Inventory Removed          2780.00
+----------------------------------------
+    *** Cassette Cass. 4L Emptied ***   
+
+(Inventory Removal)                     
+Transaction #                         43
+001/13/20 11:59 AM
+Stephen
+
+Denom            Pieces            Value
+$50                 195          9750.00
+
+Total Inventory Removed          9750.00
+----------------------------------------
+    *** Cassette Cass. 5 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         44
+001/13/20 12:00 PM
+Stephen
+
+Denom            Pieces            Value
+$100                139         13900.00
+
+Total Inventory Removed         13900.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         45
+001/13/20 12:03 PM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 192          9600.00
+$20                 140          2800.00
+$10                 267          2670.00
+$5                  164           820.00
+$1                  189           189.00
+
+Machine Total                   30079.00
+Total Inventory Added           30079.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/13/20 12:03 PM
+ID:                              Stephen
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.140 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                           Stephen
+001/13/20 12:11 PM
+
+Logoff:                          Stephen
+001/13/20 12:11 PM
+
+   *** Entered Configuration Mode ***   
+001/13/20 12:11 PM
+ID:                                addon
+
+    *** Exited Configuration Mode ***   
+001/13/20 12:17 PM
+ID:                Addon date: 6-10-2019
+
+
+========================================
+              User Settings             
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           Stephen
+001/13/20 02:09 PM
+
+Logoff:                          Stephen
+001/13/20 02:19 PM
+
+Logon:                           Stephen
+001/13/20 02:26 PM
+    *** Cassette Cass. 1 Emptied ***    
+    *** Cassette Cass. 2 Emptied ***    
+    *** Cassette Cass. 3 Emptied ***    
+    *** Cassette Cass. 4U Emptied ***   
+    *** Cassette Cass. 4L Emptied ***   
+    *** Cassette Cass. 5 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                          1
+001/13/20 02:26 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  189           189.00
+
+Total Inventory Removed           189.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          2
+001/13/20 02:34 PM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 192          9600.00
+$20                 140          2800.00
+$10                 266          2660.00
+$5                  164           820.00
+$1                  189           189.00
+
+Machine Total                   30069.00
+Total Inventory Added           30069.00
+----------------------------------------
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/13/20 02:35 PM
+
+Logon:                           Stephen
+001/13/20 02:36 PM
+
+Logoff:                          Stephen
+001/13/20 02:36 PM
+
+   *** Entered Configuration Mode ***   
+001/13/20 02:37 PM
+ID:                                addon
+
+    *** Exited Configuration Mode ***   
+001/13/20 02:37 PM
+ID:                Addon date: 6-10-2019
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           Stephen
+001/13/20 02:39 PM
+    *** Cassette Cass. 1 Emptied ***    
+    *** Cassette Cass. 2 Emptied ***    
+    *** Cassette Cass. 3 Emptied ***    
+    *** Cassette Cass. 4U Emptied ***   
+    *** Cassette Cass. 4L Emptied ***   
+    *** Cassette Cass. 5 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                          3
+001/13/20 02:40 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  189           189.00
+
+Total Inventory Removed           189.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/13/20 02:43 PM
+
+Logon:                           Stephen
+001/13/20 03:02 PM
+
+(Inventory Load)                        
+Transaction #                          4
+001/13/20 03:04 PM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 192          9600.00
+$20                 139          2780.00
+$10                 266          2660.00
+$5                  164           820.00
+$1                  189           189.00
+
+Machine Total                   30049.00
+Total Inventory Added           30049.00
+----------------------------------------
+    *** Cassette Cass. 1 Emptied ***    
+     *** Possible Exposed Notes ***     
+
+
+(Inventory Removal)                     
+Transaction #                          5
+001/13/20 03:07 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  189           189.00
+
+Total Inventory Removed           189.00
+----------------------------------------
+     *** Possible Exposed Notes ***     
+
+========================================
+          Exposed Notes History         
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/13/20 03:12 PM
+ID:                              Stephen
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+001/13/20 02:29 PM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 192          9600.00
+$20                 140          2800.00
+$10                 266          2660.00
+$5                  164           820.00
+
+Total Exposed Notes             29880.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+001/13/20 02:42 PM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 192          9600.00
+$20                 139          2780.00
+$10                 266          2660.00
+$5                  164           820.00
+
+Total Exposed Notes             29860.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+001/13/20 03:07 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  189           189.00
+
+Total Exposed Notes               189.00
+========================================
+
+
+
+
+
+
+
+
+(Reconciled Exposed Notes)              
+Transaction #                          6
+001/13/20 03:12 PM
+Stephen
+
+Denom            Pieces            Value
+$100                280         28000.00
+$50                 384         19200.00
+$20                 279          5580.00
+$10                 532          5320.00
+$5                  328          1640.00
+$1                  189           189.00
+
+Exposed Notes Reconciled        59929.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/13/20 03:14 PM
+
+Logon:                           Stephen
+001/13/20 03:15 PM
+    *** Cassette Cass. 2 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                          7
+001/13/20 03:16 PM
+Stephen
+
+Denom            Pieces            Value
+$5                  164           820.00
+
+Total Inventory Removed           820.00
+----------------------------------------
+    *** Cassette Cass. 3 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                          8
+001/13/20 03:18 PM
+Stephen
+
+Denom            Pieces            Value
+$10                 266          2660.00
+
+Total Inventory Removed          2660.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/13/20 03:22 PM
+
+Logon:                           Stephen
+001/13/20 03:23 PM
+
+(Inventory Load)                        
+Transaction #                          9
+001/13/20 03:27 PM
+Stephen
+
+Denom            Pieces            Value
+$10                 266          2660.00
+$5                  164           820.00
+$1                  189           189.00
+
+Machine Total                    3669.00
+Total Inventory Added            3669.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+       *** Cassette 2 Emptied ***       
+       *** Cassette 3 Emptied ***       
+       *** Cassette 4U Emptied ***      
+       *** Cassette 4L Emptied ***      
+       *** Cassette 5 Emptied ***       
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         10
+001/13/20 03:34 PM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 192          9600.00
+$20                 139          2780.00
+$10                 266          2660.00
+$5                  163           815.00
+$1                  188           188.00
+
+Total Inventory Removed         30043.00
+----------------------------------------
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         11
+001/13/20 03:36 PM
+Stephen
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Collection Notes Removed           36.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Removed (Mutilated) Notes          36.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/13/20 03:37 PM
+
+Logon:                           Stephen
+001/13/20 03:37 PM
+
+(Inventory Load)                        
+Transaction #                         12
+001/13/20 03:40 PM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 192          9600.00
+$20                 140          2800.00
+$10                 267          2670.00
+$5                  164           820.00
+$1                  189           189.00
+
+Machine Total                   30079.00
+Total Inventory Added           30079.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         13
+001/13/20 03:47 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  188           188.00
+
+Total Inventory Removed           188.00
+----------------------------------------
+       *** Cassette 2 Emptied ***       
+ Prior Undocumented Cassette(s) Emptied!
+ 
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         14
+001/13/20 03:50 PM
+Stephen
+
+Denom            Pieces            Value
+$5                  164           820.00
+
+Total Inventory Removed           820.00
+----------------------------------------
+       *** Cassette 3 Emptied ***       
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         15
+001/13/20 03:52 PM
+Stephen
+
+Denom            Pieces            Value
+$10                 265          2650.00
+
+Total Inventory Removed          2650.00
+----------------------------------------
+       *** Cassette 5 Emptied ***       
+ Prior Undocumented Cassette(s) Emptied!
+ 
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         16
+001/13/20 03:55 PM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+
+Total Inventory Removed         14000.00
+----------------------------------------
+       *** Cassette 4L Emptied ***      
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         17
+001/13/20 03:56 PM
+Stephen
+
+Denom            Pieces            Value
+$50                 192          9600.00
+
+Total Inventory Removed          9600.00
+----------------------------------------
+       *** Cassette 4U Emptied ***      
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         18
+001/13/20 04:00 PM
+Stephen
+
+Denom            Pieces            Value
+$20                 140          2800.00
+
+Total Inventory Removed          2800.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         19
+001/13/20 04:08 PM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 192          9600.00
+$20                 140          2800.00
+$10                 261          2610.00
+$5                  164           820.00
+$1                  188           188.00
+
+Machine Total                   30018.00
+Total Inventory Added           30018.00
+----------------------------------------
+    *** Cassette Cass. 2 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         20
+001/13/20 04:09 PM
+Stephen
+
+Denom            Pieces            Value
+$5                  163           815.00
+
+Total Inventory Removed           815.00
+----------------------------------------
+    *** Cassette Cass. 1 Emptied ***    
+    *** Cassette Cass. 3 Emptied ***    
+    *** Cassette Cass. 4U Emptied ***   
+    *** Cassette Cass. 4L Emptied ***   
+    *** Cassette Cass. 5 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         21
+001/13/20 04:13 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  188           188.00
+
+Total Inventory Removed           188.00
+----------------------------------------
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         22
+001/13/20 04:17 PM
+Stephen
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$50                   1            50.00
+$10                   3            30.00
+$5                    1             5.00
+$1                    1             1.00
+
+Collection Notes Removed           86.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$50                   1           +50.00
+$10                   3           +30.00
+$5                    1            +5.00
+$1                    1            +1.00
+Differences                       +86.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/13/20 04:18 PM
+
+Logon:                           Stephen
+001/13/20 04:19 PM
+
+           RBG-100 Link Error           
+
+   *** Manual Note Removal Attempt ***  
+     *** Possible Exposed Notes ***     
+
+   *** Manual Note Removal Attempt ***  
+      *** No Notes Were Removed ***     
+
+========================================
+          Exposed Notes History         
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/13/20 04:29 PM
+ID:                              Stephen
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+001/13/20 02:29 PM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 192          9600.00
+$20                 140          2800.00
+$10                 266          2660.00
+$5                  164           820.00
+
+Total Exposed Notes             29880.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+001/13/20 02:42 PM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 192          9600.00
+$20                 139          2780.00
+$10                 266          2660.00
+$5                  164           820.00
+
+Total Exposed Notes             29860.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+001/13/20 03:07 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  189           189.00
+
+Total Exposed Notes               189.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+001/13/20 04:15 PM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 191          9550.00
+$20                 140          2800.00
+$10                 260          2600.00
+
+Total Exposed Notes             28950.00
+========================================
+
+
+
+
+
+
+
+
+
+(Reconciled Exposed Notes)              
+Transaction #                         23
+001/13/20 04:29 PM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 191          9550.00
+$20                 140          2800.00
+$10                 260          2600.00
+
+Exposed Notes Reconciled        28950.00
+----------------------------------------
+  *** Exposed Notes History Cleared *** 
+
+           RBG-100 Link Error           
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/13/20 04:35 PM
+Stephen
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/13/20 04:35 PM
+
+Logon:                           Stephen
+001/13/20 04:36 PM
+
+(Inventory Load)                        
+Transaction #                         24
+001/13/20 04:36 PM
+Stephen
+
+Denom            Pieces            Value
+$10                  21           210.00
+$1                  188           188.00
+
+Machine Total                     398.00
+Total Inventory Added             398.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         25
+001/13/20 04:37 PM
+Stephen
+
+Denom            Pieces            Value
+$100                 48          4800.00
+$50                   1            50.00
+$10                   7            70.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                    4926.00
+Total Inventory Added            4926.00
+----------------------------------------
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/13/20 04:38 PM
+
+Logon:                           Stephen
+001/13/20 04:39 PM
+
+Logoff:                          Stephen
+001/13/20 04:45 PM
+
+Logon:                           Stephen
+001/13/20 04:47 PM
+
+(Inventory Load)                        
+Transaction #                         26
+001/13/20 04:47 PM
+Stephen
+
+Denom            Pieces            Value
+$100                 54          5400.00
+
+Machine Total                    5400.00
+Total Inventory Added            5400.00
+----------------------------------------
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/13/20 04:50 PM
+
+Logon:                           Stephen
+001/13/20 04:51 PM
+    *** Cassette Cass. 1 Emptied ***    
+     *** Possible Exposed Notes ***     
+
+
+(Inventory Removal)                     
+Transaction #                         27
+001/13/20 04:54 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  189           189.00
+
+Total Inventory Removed           189.00
+----------------------------------------

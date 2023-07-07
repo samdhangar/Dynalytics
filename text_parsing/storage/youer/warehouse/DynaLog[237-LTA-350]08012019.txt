@@ -1,0 +1,606 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                              Chad
+001/01/20 10:40 AM
+
+Logoff:                             Chad
+001/01/20 10:40 AM
+
+Logon:                              Chad
+001/01/20 10:45 AM
+
+(Online Mix Dispense)                   
+Transaction #                          1
+001/01/20 10:46 AM
+Chad
+       *** Dual Control Logon ***       
+Ray
+Denom            Pieces            Value
+$5                    1             5.00
+
+Amount Tendered                     5.00
+----------------------------------------
+
+========================================
+            User Batch Report           
+----------------------------------------
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+001/01/20 10:47 AM
+
+
+Chad
+# of Deposits                          0
+# of Withdrawals                       1
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Withdrawal Total                    5.00
+----------------------------------------
+Buy                                 5.00
+========================================
+
+           User Batch Cleared           
+
+
+
+
+
+
+
+
+(Online Deposit)                        
+Transaction #                          2
+001/01/20 10:48 AM
+Chad
+
+Denom            Pieces            Value
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                       6.00
+Deposit Total                       6.00
+----------------------------------------
+
+Logoff:                             Chad
+001/01/20 10:48 AM
+
+Logon:                               Ray
+001/01/20 10:49 AM
+
+========================================
+            User Batch Report           
+----------------------------------------
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+001/01/20 10:49 AM
+
+
+Chad
+# of Deposits                          1
+# of Withdrawals                       0
+Denom            Pieces            Value
+$5                    1             5.00
+$1                    1             1.00
+
+Deposit Total                       6.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Sell                                6.00
+========================================
+
+           User Batch Cleared           
+
+
+
+
+
+
+
+
+Logoff:                              Ray
+001/01/20 10:51 AM
+
+   *** Entered Configuration Mode ***   
+001/01/20 10:52 AM
+ID:                                Addon
+
+    *** Exited Configuration Mode ***   
+001/01/20 10:52 AM
+ID:                                Addon
+
+
+========================================
+              User Settings             
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                 Yes
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                              Josh
+001/01/20 10:54 AM
+
+      *** Client Disconnection ***      
+Logoff:                             Josh
+001/01/20 10:54 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              Josh
+001/01/20 10:55 AM
+
+   *** Entered Configuration Mode ***   
+001/01/20 10:55 AM
+ID:                                 Josh
+
+
+    *** Exited Configuration Mode ***   
+001/01/20 10:55 AM
+ID:                                 Josh
+
+Logoff:                             Josh
+001/01/20 10:55 AM
+
+Logon:                               Ray
+001/01/20 10:55 AM
+
+   *** Entered Configuration Mode ***   
+001/01/20 10:55 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 10:55 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/01/20 10:55 AM
+
+Logon:                               Ray
+001/01/20 10:56 AM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/01/20 10:56 AM
+
+   *** Entered Configuration Mode ***   
+001/01/20 10:57 AM
+ID:                                Addon
+
+    *** Exited Configuration Mode ***   
+001/01/20 10:57 AM
+ID:                                Addon
+
+
+========================================
+              User Settings             
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+001/01/20 10:58 AM
+
+   *** Entered Configuration Mode ***   
+001/01/20 10:58 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 10:58 AM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/01/20 10:58 AM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              Josh
+001/01/20 02:18 PM
+
+   *** Entered Configuration Mode ***   
+001/01/20 02:18 PM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/01/20 02:18 PM
+ID:                                 Josh
+
+
+========================================
+             DynaCore Groups            
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+001/01/20 02:18 PM
+
+Dual Control Options
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     Load Notes & Adjust Coin
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Transactions HL
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Inventory Control
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     Reset TCD/TCR Machine
+     Limit Overrides
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Close Day
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+User Control
+     User Management
+     Group Management
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Settings (Setup)
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Default System
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Transactions LL
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit           2000.00
+     Daily Limit                10000.00
+
+Manual Transactions
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Online Only
+     Online Withdrawals
+     Online Deposits
+     View Reports (Self Only)
+     Inventory Control Setup
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Report Only
+     View Reports (All)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+IT Only
+     Hardware Setup
+     Network Setup
+     Firmware Updates
+     Reboot System
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master Users
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+($1) Assumed Count:                   38
+($1) Actual Count:                    38
+($20) Assumed Count:                  55
+($20) Actual Count:                   55
+($5) Assumed Count:                   31
+($5) Actual Count:                    31
+($100) Assumed Count:                 11
+($100) Actual Count:                  11
+($10) Assumed Count:                  48
+($10) Actual Count:                   48
+($50) Assumed Count:                  66
+($50) Actual Count:                   66
+
+(Auto Audit Note Count)                 
+Transaction #                          3
+001/01/20 02:19 PM
+Josh
+       *** Dual Control Logon ***       
+Chad
+Denom            Pieces            Value
+$100                 11          1100.00
+$50                  66          3300.00
+$20                  55          1100.00
+$10                  48           480.00
+$5                   31           155.00
+$1                   38            38.00
+
+Audited Total                    6173.00
+----------------------------------------
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/01/20 02:38 PM
+Josh
+       *** Dual Control Logon ***       
+Chad
+
+
+(Online Mix Dispense)                   
+Transaction #                          4
+001/01/20 02:39 PM
+Josh
+       *** Dual Control Logon ***       
+Chad
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          5
+001/01/20 02:56 PM
+Josh
+       *** Dual Control Logon ***       
+Chad
+Denom            Pieces            Value
+$20                   5           100.00
+
+Machine Total                     100.00
+Deposit Total                     100.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/01/20 04:28 PM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/01/20 04:29 PM
+ID:                                 Josh
+
+(Online Nominated Dispense)             
+Transaction #                          6
+001/01/20 04:29 PM
+Josh
+       *** Dual Control Logon ***       
+chad
+Denom            Pieces            Value
+$5                   20           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                          7
+001/01/20 04:34 PM
+Josh
+       *** Dual Control Logon ***       
+Peter
+Denom            Pieces            Value
+$10                  20           200.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                          8
+001/01/20 04:35 PM
+Josh
+       *** Dual Control Logon ***       
+Peter
+Denom            Pieces            Value
+$10                  20           200.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                          9
+001/01/20 04:38 PM
+Josh
+       *** Dual Control Logon ***       
+patrick
+Denom            Pieces            Value
+$100                 11          1100.00
+$50                  66          3300.00
+$20                  29           580.00
+$1                   20            20.00
+
+Amount Tendered                  5000.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         10
+001/01/20 04:40 PM
+Josh
+       *** Dual Control Logon ***       
+Charo
+Denom            Pieces            Value
+$100                 34          3400.00
+$50                  64          3200.00
+$20                 177          3540.00
+$10                  40           400.00
+$5                  112           560.00
+$1                   20            20.00
+
+Machine Total                   11120.00
+Deposit Total                   11120.00
+----------------------------------------
+        TCR Error #1231 Occurred        
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/01/20 04:42 PM
+Josh
+       *** Dual Control Logon ***       
+charo
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/01/20 04:45 PM
+Josh
+       *** Dual Control Logon ***       
+charo
+

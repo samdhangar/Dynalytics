@@ -1,0 +1,574 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/16/20 10:11 AM
+
+Console Disconnected During Transaction!
+
+             TCR Link Error             
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+01/16/20 10:38 AM
+Ray
+
+
+Amount Requested                   1200k
+Amount Tendered                       0k
+Balance Due                        1200k
+----------------------------------------
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/16/20 10:38 AM At 01/16/20 10:11 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/16/20 10:41 AM
+
+
+   *** Entered Configuration Mode ***   
+01/16/20 10:41 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/16/20 10:54 AM
+ID:                                  Ray
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/16/20 10:54 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/16/20 11:10 AM
+
+   *** Entered Configuration Mode ***   
+01/16/20 11:10 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/16/20 11:18 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+01/16/20 11:18 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/16/20 12:12 PM
+
+   *** Entered Configuration Mode ***   
+01/16/20 12:12 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/16/20 12:19 PM
+ID:                                  Ray
+
+
+========================================
+           Inventory Settings           
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                     500000
+Mix 2 Below $                    2500000
+
+         Low   Mid   High   Weight  Odds
+500k       0     5     15      2     Yes
+200k       5     5     15      1     Yes
+100k       3     5      5      3     Yes
+50k        5     5      5      4     Yes
+20k        0     4      0      6     Yes
+10k        5     0      0      5     Yes
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+500k      50    900         25       100
+200k      50    900        100       100
+100k      50    900        100       100
+50k       50    900        100       100
+20k       50    900        100       100
+10k       50    900        100       100
+========================================
+
+
+Logoff:                              Ray
+01/16/20 12:19 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/16/20 12:38 PM
+
+(Online Mix Dispense)                   
+Transaction #                          1
+01/16/20 12:39 PM
+Ray
+
+Denom            Pieces            Value
+500k                  2            1000k
+200k                  1             200k
+
+Amount Tendered                    1200k
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          2
+01/16/20 12:39 PM
+Ray
+
+Denom            Pieces            Value
+500k                  2            1000k
+200k                  1             200k
+
+Machine Total                      1200k
+Deposit Total                      1200k
+----------------------------------------
+
+Logoff:                              Ray
+01/16/20 01:18 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/16/20 01:20 PM
+
+(Online Mix Dispense)                   
+Transaction #                          3
+01/16/20 01:20 PM
+Ray
+
+Denom            Pieces            Value
+500k                  2            1000k
+200k                  1             200k
+
+Amount Tendered                    1200k
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          4
+01/16/20 01:22 PM
+Ray
+
+Denom            Pieces            Value
+500k                  2            1000k
+200k                  1             200k
+
+Machine Total                      1200k
+Deposit Total                      1200k
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/16/20 01:34 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/16/20 01:46 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+01/16/20 01:46 PM
+
+Logon:                               Ray
+01/16/20 01:52 PM
+Cass. 1 Adjustment Pending        -2000k
+New Cassette Total                    0k
+
+
+
+(Inventory Adjustment)                  
+Transaction #                          5
+01/16/20 01:54 PM
+Ray
+
+Denom            Pieces            Value
+500k                  4           -2000k
+
+Total Net Added                      +0k
+Total Net Removed                 -2000k
+Total Net Adjusted                -2000k
+----------------------------------------
+Cass. 1 Adjustment Pending        +2000k
+New Cassette Total                 2000k
+
+
+
+(Inventory Adjustment)                  
+Transaction #                          6
+01/16/20 01:55 PM
+Ray
+
+Denom            Pieces            Value
+500k                  4           +2000k
+
+Total Net Added                   +2000k
+Total Net Removed                    -0k
+Total Net Adjusted                +2000k
+----------------------------------------
+Cass. 1 Adjustment Pending        -2000k
+New Cassette Total                    0k
+
+
+
+(Inventory Adjustment)                  
+Transaction #                          7
+01/16/20 01:57 PM
+Ray
+
+Denom            Pieces            Value
+500k                  4           -2000k
+
+Total Net Added                      +0k
+Total Net Removed                 -2000k
+Total Net Adjusted                -2000k
+----------------------------------------
+Cass. 1 Adjustment Pending        +5000k
+New Cassette Total                 5000k
+
+
+
+(Inventory Adjustment)                  
+Transaction #                          8
+01/16/20 01:58 PM
+Ray
+
+Denom            Pieces            Value
+500k                 10           +5000k
+
+Total Net Added                   +5000k
+Total Net Removed                    -0k
+Total Net Adjusted                +5000k
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          9
+01/16/20 02:00 PM
+Ray
+
+Denom            Pieces            Value
+500k                  4            2000k
+
+Total Inventory Removed            2000k
+----------------------------------------
+Cass. 1 Adjustment Pending        -3000k
+New Cassette Total                    0k
+
+
+
+(Inventory Adjustment)                  
+Transaction #                         10
+01/16/20 02:05 PM
+Ray
+
+Denom            Pieces            Value
+500k                  6           -3000k
+
+Total Net Added                      +0k
+Total Net Removed                 -3000k
+Total Net Adjusted                -3000k
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/16/20 02:38 PM
+
+   *** Entered Configuration Mode ***   
+01/16/20 02:38 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/16/20 02:40 PM
+ID:                                  Ray
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/16/20 02:40 PM
+
+Logon:                               Ray
+01/16/20 02:41 PM
+
+   *** Entered Configuration Mode ***   
+01/16/20 02:41 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/16/20 02:43 PM
+ID:                                  Ray
+
+
+========================================
+           Inventory Settings           
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                     500000
+Mix 2 Below $                    2500000
+
+         Low   Mid   High   Weight  Odds
+500k       0     5     15      2      No
+200k       5     5     15      1      No
+100k       3     5      5      3      No
+50k        5     5      5      4      No
+20k        0     4      0      6      No
+10k        5     0      0      5      No
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+500k      50    900         25       100
+200k      50    900        100       100
+100k      50    900        100       100
+50k       50    900        100       100
+20k       50    900        100       100
+10k       50    900        100       100
+========================================
+
+
+Logoff:                              Ray
+01/16/20 02:43 PM
+
+Logon:                               Ray
+01/16/20 02:43 PM
+
+(Online Deposit)                        
+Transaction #                         11
+01/16/20 02:44 PM
+Ray
+
+Denom            Pieces            Value
+500k                 16            8000k
+200k                 14            2800k
+100k                 45            4500k
+20k                  42             840k
+10k                   9              90k
+
+Machine Total                     16230k
+Deposit Total                     16230k
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         12
+01/16/20 02:45 PM
+Ray
+
+Denom            Pieces            Value
+500k                  3            1500k
+200k                 15            3000k
+
+Amount Tendered                    4500k
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/16/20 02:46 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/16/20 02:48 PM
+ID:                                  Ray
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited          4500k
+Reversed Amount                    4500k
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/16/20 02:49 PM
+Ray
+
+
+
+   *** Entered Configuration Mode ***   
+01/16/20 02:49 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/16/20 02:52 PM
+ID:                                  Ray
+
+
+========================================
+           Inventory Settings           
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                    2500000
+Mix 2 Below $                  250000000
+
+         Low   Mid   High   Weight  Odds
+500k       0     5     15      2      No
+200k       5     5     15      1      No
+100k       3     5      5      3      No
+50k        5     5      5      4      No
+20k        0     4      0      6      No
+10k        5     0      0      5      No
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+500k      50    900         25       100
+200k      50    900        100       100
+100k      50    900        100       100
+50k       50    900        100       100
+20k       50    900        100       100
+10k       50    900        100       100
+========================================
+
+
+(Online Deposit)                        
+Transaction #                         13
+01/16/20 02:52 PM
+Ray
+
+Denom            Pieces            Value
+500k                  3            1500k
+200k                 15            3000k
+
+Machine Total                      4500k
+Deposit Total                      4500k
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/16/20 02:55 PM
+ID:                                  Ray

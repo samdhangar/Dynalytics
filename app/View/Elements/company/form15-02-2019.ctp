@@ -1,0 +1,300 @@
+<?php
+$label_first = __("Company Name");
+$place_holder_first = __("Enter company name");
+$label_second = __("Contact Name");
+$place_holder_second = __("Enter contact name");
+$lbl_email = __('Company Super Admin Email');
+$place_email = __('Enter company super admin email');
+if ((!empty($parentId)) || isCompany()):
+    $label_first = __("User Name");
+    $place_holder_first = __("Enter user name");
+    if (isCompany()) {
+        $label_first = __("Name");
+        $place_holder_first = __("Enter name");
+    }
+    $label_second = __("Name");
+    $place_holder_second = __("Enter name");
+    $lbl_email = __('Email');
+    $place_email = __('Enter email address');
+endif;
+$id = '';
+$photo = '';
+if (isset($this->request->data['User']['id'])) {
+    $id = $this->request->data['User']['id'];
+    $photo = isset($this->request->data['User']['photo']) ? $this->request->data['User']['photo'] : '';
+}
+
+?>
+
+
+<div class="row">
+
+    <div class="col-md-12 col-sm-12">
+        <div class="panel panel-flat">
+
+            <div class="panel-body">
+
+                 <?php echo $this->Form->create('User', array('id' => 'UserEditProfileForm', 'type' => 'file', 'inputDefaults' => array('dir' => 'ltl', 'class' => 'form-control', 'div' => array('class' => 'required form-group')))); ?>
+
+<div class="box-body box-content">
+<?php
+echo $this->Form->input('id', array('type' => 'hidden')); ?>
+
+<div class="row no-margin">
+    <div class="col-md-6">
+        <?php
+        if ((empty($parentId) || isAdmin()) && !isCompany()) {
+            echo $this->Form->input('dealer_id', array('onchange' => (($pageDetailWithRole['role'] == 'Company' && !empty($parentId)) ? 'getCompanyFromDealer(this.value)' : ''), 'id' => 'UserDealerId', 'label' => __('Dealer'), 'type' => 'select', 'empty' => __('Select Dealer'), 'div' => array('class' => 'form-group')));
+        }
+        if (!empty($parentId) && !isCompany()) {
+            echo $this->Form->input('parent_id', array('label' => __('Company Name'), 'type' => 'select', 'empty' => __('Select Company'), 'div' => array('class' => 'form-group required')));
+        }
+        echo $this->Form->input('first_name', array('placeholder' => $place_holder_first, 'label' => $label_first));
+        if (empty($parentId) && !isCompany()) {
+            echo $this->Form->input('last_name', array('required' => false, 'placeholder' => $place_holder_second, 'label' => $label_second));
+        }
+        echo $this->Form->input('email', array('placeholder' => $place_email, 'label' => $lbl_email));
+        if (empty($parentId) && !isCompany()) {
+            echo $this->Form->input('file_send_email', array('label' => __('File Send Email'), 'placeholder' => __('File Send Email')));
+            echo $this->Form->input('phone_no', array('placeholder' => 'Phone No', 'class' => 'form-control phoneNumber'));
+        }
+        if ($from == 'Edit') {
+            echo $this->Form->input('is_pwd_change', array('hiddenField' => false, 'type' => 'checkbox', 'label' => __('Want to reset password?'), 'class' => 'chkbox', 'title' => __('Click here to make reset password'), 'div' => array('class' => 'form-group checkboxDiv')));
+        }
+
+        ?>
+    </div>
+    <div class="col-md-6">
+        <?php
+        if (empty($parentId) && !isCompany()) {
+            echo $this->element('address');
+            echo $this->Form->input('subscription_id', array('label' => __('Membership'), 'type' => 'select', 'div' => array('class' => 'form-group required no-padding clearBoth'), 'id' => 'UserSubscriptionId', 'empty' => __('Select membership')));
+            echo $this->element('user/logoDiv', array('id' => $id, 'photo' => $photo, 'logoTitle' => __('Company Logo')));
+        } else {
+            if ($pageDetailWithRole['role'] == COMPANY) {
+                $label_type = (!empty($parentId)) ? 'User Type' : $pageDetailWithRole['singularTitle'] . ' Type';
+                $place_holder_type = (!empty($parentId)) ? 'Select user type' : 'Select ' . $pageDetailWithRole['singularTitle'] . ' Type';
+            } else {
+                $label_type = $pageDetailWithRole['singularTitle'] . ' Type';
+                $place_holder_type = 'Select ' . $pageDetailWithRole['singularTitle'] . ' Type';
+            }
+            if (isset($this->request->data['User']['user_type']) && isset($branchAdmins) && (count($branchAdmins) > 1)) {
+                $this->request->data['User']['user_type'] = REGIONAL;
+            }
+            if (isset($this->request->data['User']['user_type']) && isset($branchAdmins) && (count($branchAdmins) == 1)) {
+                $this->request->data['User']['user_type'] = BRANCH;
+            }
+            print_r($this->request->user_type);
+            if (!empty($isDisplayUserType)):
+                echo $this->Form->input('user_type', array('div' => array('class' => 'form-group clearBoth col-md-12 no-padding'), 'label' => __($label_type), 'empty' => __($place_holder_type)));
+            else:
+                echo $this->Form->input('user_type', array('type' => 'hidden', 'value' => SUPAR_ADM));
+            endif;
+            echo $this->Form->input('phone_no', array('placeholder' => 'Phone No', 'class' => 'form-control phoneNumber'));
+        }
+
+        ?>
+    </div>
+    <div class="col-md-12 col-sm-12 branchSelectDiv" style="display: none;">
+        <label class="assignBranchLbl">Assign Branch </label>
+        <?php
+        $totalDi = 0;
+
+        foreach ($branches as $bId => $bName):
+            $checked = (isset($branchAdmins[$bId]) ? $branchAdmins[$bId] : 0);
+            $disabled = (isset($branchAdmins[$bId]) && empty($checked)) ? 'disabled' : '';
+            $checked = (empty($disabled) ? $checked : 0);
+            if (empty($disabled)) {
+                $totalDi++;
+                echo $this->Form->input('User.admins.' . $bId, array($disabled, 'value' => $checked, !empty($checked) ? 'checked' : '', 'hiddenField' => false, 'type' => 'checkbox', 'label' => $bName, 'class' => 'chkbox', 'title' => __('Click here to assign this branch to company'), 'div' => array('class' => 'checkbox')));
+            }
+        endforeach;
+        if (empty($totalDi)):
+            echo '<br>' . __('No any branched yet.');
+        endif;
+
+        ?>
+    </div>
+     <div class="col-md-12 col-sm-6 branchSelectDiv2" style="">
+        
+         <?php
+       if(isCompany() && ($pageDetailWithRole['role'] == COMPANY)){
+     echo $this->Form->input('regions', array('type' => 'select', 'div' => array('class' => 'form-group required col-md-6 no-leftpadding'),  'empty' => __('Select Region')));
+
+}
+?>
+    </div>
+</div>
+
+
+
+<div class="form-action">
+<?php echo $this->Form->submit(__('Save %s', $pageDetailWithRole['singularTitle']), array('class' => 'btn btn-primary margin-right10', 'div' => false)); ?>
+&nbsp;&nbsp;
+<?php echo $this->Html->link(__('Cancel'), array('action' => 'index'), array('class' => 'btn btn-default marginleft')); ?>
+</div>
+</div>
+<?php
+$arrValidation = array(
+    'Rules' => array(
+        'first_name' => array(
+            'minlength' => 2,
+            'maxlength' => 50,
+            'required' => 1,
+            'alphabates' => 1
+        ),
+        'email' => array(
+            'required' => 1,
+            'email' => 1
+        ),
+        'phone_no' => array(
+            'required' => 1,
+            'matchNumber' => 10
+        )
+    ),
+    'Messages' => array(
+        'first_name' => array(
+            'minlength' => __('Please enter ' . strtolower($label_first) . ' with minimum 2 character.'),
+            'maxlength' => __('Please enter ' . strtolower($label_first) . ' between 2 to 50 character.'),
+            'required' => __('Please enter ' . strtolower($label_first)),
+            'alphabates' => __('Please enter alphabates only')
+        ),
+        'email' => array(
+            'required' => __('Please enter email address'),
+            'email' => __('Please enter valid email address')
+        ),
+        'phone_no' => array(
+            'required' => __('Please enter phone no'),
+            'matchNumber' => __('Please enter valid phone no')
+        )
+    )
+);
+/**
+ * Add Super Dealer Condition
+ */
+if (empty($parentId) && isAdmin()) :
+    $arrValidation['Rules']['last_name'] = array(
+        'minlength' => 2,
+        'maxlength' => 50,
+        'required' => 1,
+        'alphabates' => 1
+    );
+    $arrValidation['Messages']['last_name'] = array(
+        'minlength' => __('Please enter ' . strtolower($label_second) . ' with minimum 2 character.'),
+        'maxlength' => __('Please enter ' . strtolower($label_second) . ' between 2 to 50 character.'),
+        'required' => __('Please enter ' . strtolower($label_second)),
+        'alphabates' => __('Please enter alphabates only')
+    );
+    $arrValidation['Rules']['subscription_id'] = array(
+        'required' => 1
+    );
+    $arrValidation['Messages']['subscription_id'] = array(
+        'required' => __('Please select membership')
+    );
+    $arrValidation['Rules']['photo'] = array(
+        'accept' => 'jpg|jpeg|png|bmp|gif'
+    );
+    $arrValidation['Messages']['photo'] = array(
+        'accept' => __('Please choose files having jpg, jpeg, png, bmp, gif extension.')
+    );
+elseif (isDealer() || !empty($parentId)):
+    $arrValidation['Rules']['user_type'] = array(
+        'required' => 1
+    );
+    $arrValidation['Messages']['user_type'] = array(
+        'required' => __('Please select type')
+    );
+endif;
+echo $this->Form->setValidation($arrValidation);
+echo $this->Form->end();
+
+?>
+
+
+
+            </div>
+        </div>
+
+
+
+    </div>
+
+</div>
+
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+<?php if ($pageDetailWithRole['role'] != ADMIN): ?>
+            jQuery('#UserEditProfileForm').submit(function (e) {
+                if (jQuery("#UserUserType").val() == '<?php echo BRANCH ?>' || jQuery("#UserUserType").val() == '<?php echo REGIONAL ?>') {
+                    if (jQuery(".branchSelectDiv").length != 0 && jQuery(".branchSelectDiv input.chkbox[type='checkbox']:checked").length == 0) {
+                        e.preventDefault();
+                        if (jQuery('.branchSelectDiv .errorDV').length < 1) {
+                            if (jQuery("#UserUserType").val() == 'Branch') {
+                                jQuery('.branchSelectDiv ').append('<div class="col-md-12 no-padding"><span class="errorDV">Please assign branch</span></div>');
+                            }
+                        }
+                    } else {
+                        jQuery('.branchSelectDiv .errorDV').html('&nbsp;');
+                    }
+                }
+            });
+<?php endif; ?>
+
+        var userType = [{title: '<?php echo REGIONAL . ' ' . ADMIN ?>', key: '<?php echo REGIONAL ?>'}, {title: '<?php echo BRANCH . ' ' . ADMIN ?>', key: '<?php echo BRANCH ?>'}];
+        eventBind();
+
+        jQuery('#UserUserType').on('change', function () {
+            if (jQuery("#UserUserType").val() == '' || jQuery("#UserUserType").val() == '<?php echo ADMIN ?>') {
+                jQuery('.branchSelectDiv2').slideUp();
+                jQuery('.branchSelectDiv').slideUp();
+            } else if(jQuery("#UserUserType").val() == '' || jQuery("#UserUserType").val() == '<?php echo BRANCH ?>'){
+                jQuery('.branchSelectDiv2').slideUp();
+                 jQuery('.branchSelectDiv').slideDown();
+            } else  {
+                jQuery('.branchSelectDiv').slideUp();
+                 jQuery('.branchSelectDiv2').slideDown();
+            }
+            if (jQuery('#UserParentId').length) {
+                jQuery('#UserParentId').trigger('change');
+            }
+        }).trigger('change');
+
+        jQuery('#UserParentId').on('change', function () {
+            if (jQuery('#UserUserType').val() != '' && jQuery('#UserUserType').val() != '<?php echo ADMIN ?>') {
+                companyId = jQuery(this).val();
+                if (companyId == undefined || companyId == '' || companyId == ' ') {
+                    companyId = '<?php echo $parentId ?>';
+                }
+                if (companyId != undefined || companyId != '' || companyId != ' ') {
+                     loader('show');
+
+                    jQuery.ajax({
+                        url: BaseUrl + "company_branches/get_assign_branches/" + companyId,
+                        success: function (response) {
+                            jQuery('.branchSelectDiv').html(response);
+                            eventBind();
+                            loader('hide');
+                        }
+                    });
+                }
+            }
+        }).trigger('change');
+
+        function eventBind()
+        {
+
+            jQuery('.branchSelectDiv input.chkbox').on('change', function () {
+                var flag = 1;
+                var flagKey = 0;
+                if (jQuery(".branchSelectDiv input.chkbox[type='checkbox']:checked").length > 1) {
+                    flagKey = 1;
+                    flag = 0;
+                }
+                jQuery('#UserUserType option[value="' + userType[flagKey].key + '"]').html(userType[flag].title);
+                jQuery('#UserUserType option[value="' + userType[flagKey].key + '"]').val(userType[flag].key);
+
+            }).trigger('change');
+        }
+    });
+
+</script>

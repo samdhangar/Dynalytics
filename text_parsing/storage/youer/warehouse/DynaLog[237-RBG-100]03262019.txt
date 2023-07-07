@@ -1,0 +1,1358 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/26/20 09:14 AM
+
+   *** Entered Configuration Mode ***   
+001/26/20 09:14 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 09:14 AM
+ID:                                  Ray
+
+(Online Nominated Dispense)             
+Transaction #                         14
+001/26/20 09:20 AM
+Ray
+
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   2            40.00
+$10                   2            20.00
+$5                    2            10.00
+$1                    2             2.00
+
+Amount Tendered                   372.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/26/20 09:23 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 09:23 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+   *** Entered Configuration Mode ***   
+001/26/20 09:24 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 09:24 AM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/26/20 09:25 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 09:25 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+   *** Entered Configuration Mode ***   
+001/26/20 09:25 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 09:25 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+(Online Mix Dispense)                   
+Transaction #                         15
+001/26/20 09:25 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .48
+
+Amount Tendered                     1.48
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/26/20 09:26 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 09:26 AM
+ID:                                  Ray
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/26/20 09:28 AM
+Ray
+
+
+
+   *** Entered Configuration Mode ***   
+001/26/20 09:29 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 09:30 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser             No Coin Usage
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/26/20 09:30 AM
+Ray
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/26/20 09:41 AM
+
+   *** Entered Configuration Mode ***   
+001/26/20 09:41 AM
+ID:                                  Ray
+
+========================================
+             Activity Report            
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+001/26/20 09:41 AM
+ID:                                  Ray
+========================================
+              User Activity             
+----------------------------------------
+Ray
+# of Deposits                          0
+# of Withdrawals                       2
+
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   2            40.00
+$10                   2            20.00
+$5                    2            10.00
+$1                    3             3.00
+Coin                                 .48
+
+Withdrawal Total                  373.48
+----------------------------------------
+Net Total                        -373.48
+----------------------------------------
+Charo
+# of Deposits                          4
+# of Withdrawals                       8
+
+Denom            Pieces            Value
+$100                  4           400.00
+$20                  31           620.00
+$10                  11           110.00
+$5                   15            75.00
+$1                   28            28.00
+
+$100                  3           300.00
+$50                   6           300.00
+$20                  15           300.00
+$10                  30           300.00
+
+Other Coin                        300.33
+
+Other Cash Deposited             1500.33
+Machine Total                    1233.00
+Deposit Total                    2733.33
+
+Denom            Pieces            Value
+$100                  4           400.00
+$20                  31           620.00
+$10                  11           110.00
+$5                   15            75.00
+$1                   28            28.00
+Coin                                 .91
+
+Withdrawal Total                 1233.91
+----------------------------------------
+Net Total                           -.91
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  4           400.00
+$50                   0              .00
+$20                  31           620.00
+$10                  11           110.00
+$5                   15            75.00
+$2                    0              .00
+$1                   28            28.00
+
+           Other Cash Deposits          
+
+$100                  3           300.00
+$50                   6           300.00
+$20                  15           300.00
+$10                  30           300.00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                        300.33
+
+Other Cash Deposited              354.33
+Machine Total                    1233.00
+Total Deposited                  1587.33
+# of Deposits                          4
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   2           100.00
+$20                  33           660.00
+$10                  13           130.00
+$5                   17            85.00
+$1                   31            31.00
+Coin                                1.39
+Total Dispensed                  1607.39
+# of Withdrawals                      10
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  2          -200.00
+$50                   2          -100.00
+$20                   2           -40.00
+$10                   2           -20.00
+$5                    2           -10.00
+$2                    0              .00
+$1                    3            -3.00
+Coin                               -1.39
+Net Total                        -374.39
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                278         27800.00
+$50                 379         18950.00
+$20                 138          2760.00
+$10                 532          5320.00
+$5                  327          1635.00
+$2                    0              .00
+$1                  183           183.00
+Starting Inventory            2991900.00
+Net Adjustments                   100.00
+Total Inventory                 56648.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                138         13800.00
+$50                 185          9250.00
+$20                 138          2760.00
+$10                 259          2590.00
+$5                  162           810.00
+$1                  177           177.00
+Total Dispensable Notes         29387.00
+
+----------------------------------------
+          Collection Box Notes          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   1            10.00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Notes              10.00
+
+----------------------------------------
+              Escrow Notes              
+----------------------------------------
+$50                   3           150.00
+Total Escrow Notes                150.00
+
+----------------------------------------
+              Exposed Notes             
+----------------------------------------
+$100                140         14000.00
+$50                 191          9550.00
+$10                 272          2720.00
+$5                  165           825.00
+$1                    6             6.00
+Total Exposed Notes             27101.00
+
+Cass. 1 $1          177           177.00
+Cass. 2 $5          162           810.00
+Cass. 3 $10         259          2590.00
+Cass. 4U $20        138          2760.00
+Cass. 4L $50        185          9250.00
+Cass. 5 $100        138         13800.00
+----------------------------------------
+          Verification Required         
+----------------------------------------
+Collection Box               Long Verify
+
+========================================
+
+      *** System Memory Cleared ***     
+001/26/20 09:41 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/26/20 09:41 AM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/26/20 09:41 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 09:41 AM
+ID:                                  Ray
+
+(Online Mix Dispense)                   
+Transaction #                          1
+001/26/20 09:41 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/26/20 09:42 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 09:42 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/26/20 09:42 AM
+Ray
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/26/20 09:49 AM
+
+   *** Entered Configuration Mode ***   
+001/26/20 09:49 AM
+ID:                                  Ray
+
+========================================
+             Activity Report            
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+001/26/20 09:49 AM
+ID:                                  Ray
+========================================
+              User Activity             
+----------------------------------------
+Ray
+# of Deposits                          0
+# of Withdrawals                       1
+
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Withdrawal Total                    1.00
+----------------------------------------
+Net Total                          -1.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    1             1.00
+Coin                                 .00
+Total Dispensed                     1.00
+# of Withdrawals                       1
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    1            -1.00
+Coin                                 .00
+Net Total                          -1.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                278         27800.00
+$50                 384         19200.00
+$20                 138          2760.00
+$10                 532          5320.00
+$5                  327          1635.00
+$2                    0              .00
+$1                  183           183.00
+Coin                                 .00
+Starting Inventory            2939700.00
+Net Adjustments                      .00
+Total Inventory                 56898.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                138         13800.00
+$50                 193          9650.00
+$20                 138          2760.00
+$10                 259          2590.00
+$5                  162           810.00
+$1                  177           177.00
+Total Dispensable Notes         29787.00
+
+----------------------------------------
+          Collection Box Notes          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   1            10.00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Notes              10.00
+
+----------------------------------------
+              Exposed Notes             
+----------------------------------------
+$100                140         14000.00
+$50                 191          9550.00
+$10                 272          2720.00
+$5                  165           825.00
+$1                    6             6.00
+Total Exposed Notes             27101.00
+
+Cass. 1 $1          177           177.00
+Cass. 2 $5          162           810.00
+Cass. 3 $10         259          2590.00
+Cass. 4U $20        138          2760.00
+Cass. 4L $50        193          9650.00
+Cass. 5 $100        138         13800.00
+----------------------------------------
+          Verification Required         
+----------------------------------------
+Collection Box               Long Verify
+
+========================================
+
+      *** System Memory Cleared ***     
+001/26/20 09:49 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/26/20 09:49 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/26/20 09:49 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/26/20 10:11 AM
+
+Logoff:                              Ray
+001/26/20 10:11 AM
+
+Logon:                               Ray
+001/26/20 10:13 AM
+
+Logon:                              Paul
+001/26/20 10:38 AM
+
+Logoff:                             Paul
+001/26/20 10:38 AM
+
+Logon:                              Paul
+001/26/20 10:42 AM
+*** Forced Logoff of Non-Admin Users ***
+
+
+   *** Entered Configuration Mode ***   
+001/26/20 10:46 AM
+ID:                                 Paul
+
+
+    *** Exited Configuration Mode ***   
+001/26/20 10:46 AM
+ID:                                 Paul
+
+
+Logoff:                             Paul
+001/26/20 10:46 AM
+
+
+Logon:                              Paul
+001/26/20 10:46 AM
+
+
+Logoff:                             Paul
+001/26/20 10:46 AM
+
+
+Logon:                               Ray
+001/26/20 10:47 AM
+
+Logoff:                              Ray
+001/26/20 10:50 AM
+
+Logon:                              Paul
+001/26/20 10:50 AM
+
+Logoff:                             Paul
+001/26/20 11:12 AM
+
+Logon:                               Ray
+001/26/20 12:42 PM
+
+Logoff:                              Ray
+001/26/20 12:42 PM
+
+Logon:                               Ray
+001/26/20 12:44 PM
+
+Logoff:                              Ray
+001/26/20 12:44 PM
+
+Logon:                               Ray
+001/26/20 12:45 PM
+
+Logoff:                              Ray
+001/26/20 12:46 PM
+
+Logon:                               Ray
+001/26/20 12:50 PM
+
+Logoff:                              Ray
+001/26/20 12:53 PM
+
+Logon:                               Ray
+001/26/20 12:57 PM
+
+
+   *** Entered Configuration Mode ***   
+001/26/20 12:57 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 12:57 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/26/20 12:57 PM
+
+Logon:                               Ray
+001/26/20 12:57 PM
+
+Logoff:                              Ray
+001/26/20 12:57 PM
+
+Logon:                               Ray
+001/26/20 12:57 PM
+
+   *** Entered Configuration Mode ***   
+001/26/20 01:01 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 01:02 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/26/20 01:03 PM
+
+Logon:                               Ray
+001/26/20 01:04 PM
+
+Logoff:                              Ray
+001/26/20 01:04 PM
+
+Logon:                               Ray
+001/26/20 01:05 PM
+
+   *** Entered Configuration Mode ***   
+001/26/20 01:06 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 01:07 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/26/20 01:07 PM
+
+Logon:                               Ray
+001/26/20 01:07 PM
+
+
+   *** Entered Configuration Mode ***   
+001/26/20 01:07 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 01:07 PM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/26/20 01:07 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 01:08 PM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/26/20 02:24 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 02:24 PM
+ID:                                  Ray
+
+Logon:                              Paul
+001/26/20 02:33 PM
+*** Forced Logoff of Non-Admin Users ***
+
+
+   *** Entered Configuration Mode ***   
+001/26/20 02:33 PM
+ID:                                 Paul
+
+    *** Exited Configuration Mode ***   
+001/26/20 02:33 PM
+ID:                                 Paul
+
+Logoff:                             Paul
+001/26/20 02:43 PM
+
+Logon:                               Ray
+001/26/20 02:45 PM
+
+   *** Entered Configuration Mode ***   
+001/26/20 02:45 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 02:45 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/26/20 02:45 PM
+
+Logon:                               Ray
+001/26/20 02:46 PM
+
+           RBG-100 Link Error           
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/26/20 02:46 PM
+Paul
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/26/20 02:47 PM
+Ray
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/26/20 02:50 PM
+
+Logoff:                              Ray
+001/26/20 02:53 PM
+
+Logon:                               Ray
+001/26/20 02:53 PM
+
+   *** Entered Configuration Mode ***   
+001/26/20 02:53 PM
+ID:                                  Ray
+
+           *** Added User ***           
+001/26/20 02:53 PM
+ID:                                 Adam
+
+
+    *** Exited Configuration Mode ***   
+001/26/20 02:53 PM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Users             
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+001/26/20 02:53 PM
+
+Adam
+     Master
+
+Addon
+     Master
+
+joshu
+     Group 2
+     Group 3
+
+Paul
+     Master
+
+Ray
+     Master
+
+User 1
+     Group 3
+
+========================================
+
+
+Logoff:                              Ray
+001/26/20 02:53 PM
+
+Logon:                               Ray
+001/26/20 02:58 PM
+
+   *** Entered Configuration Mode ***   
+001/26/20 02:58 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 02:58 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/26/20 03:01 PM
+
+Logon:                               Ray
+001/26/20 03:56 PM
+
+
+   *** Entered Configuration Mode ***   
+001/26/20 03:56 PM
+ID:                                  Ray
+
+          *** Deleted User ***          
+001/26/20 03:56 PM
+ID:                                joshu
+
+          *** Deleted User ***          
+001/26/20 03:56 PM
+ID:                               User 1
+
+           *** Added User ***           
+001/26/20 03:57 PM
+ID:                                 Josh
+
+
+           *** Added User ***           
+001/26/20 03:57 PM
+ID:                                Peter
+
+
+           *** Added User ***           
+001/26/20 03:57 PM
+ID:                                Charo
+
+
+           *** Added User ***           
+001/26/20 03:57 PM
+ID:                              Patrick
+
+
+           *** Added User ***           
+001/26/20 03:57 PM
+ID:                              Stephen
+
+
+    *** Exited Configuration Mode ***   
+001/26/20 03:58 PM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Users             
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+001/26/20 03:58 PM
+
+Adam
+     Master
+
+Addon
+     Master
+
+Charo
+     Master
+
+Josh
+     Master
+
+Patrick
+     Master
+
+Paul
+     Master
+
+Peter
+     Master
+
+Ray
+     Master
+
+Stephen
+     Master
+
+========================================
+
+
+Logoff:                              Ray
+001/26/20 03:58 PM
+
+Logon:                              Adam
+001/26/20 04:00 PM
+
+
+   *** Entered Configuration Mode ***   
+001/26/20 04:00 PM
+ID:                                 Adam
+
+    *** Exited Configuration Mode ***   
+001/26/20 04:00 PM
+ID:                                 Adam
+
+Logoff:                             Adam
+001/26/20 04:00 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                              josh
+001/26/20 03:03 PM
+
+Logon:                             Peter
+001/26/20 03:03 PM
+
+Logon:                              Paul
+001/26/20 03:03 PM
+
+Logon:                              Adam
+001/26/20 03:03 PM
+
+
+Logon:                               Ray
+001/26/20 03:03 PM
+
+Logon:                           Patrick
+001/26/20 03:03 PM
+
+(Online Deposit)                        
+Transaction #                          1
+001/26/20 03:05 PM
+Patrick
+
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Deposit Total                      10.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          2
+001/26/20 03:05 PM
+Josh
+
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Deposit Total                      10.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          3
+001/26/20 03:06 PM
+Adam
+
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Deposit Total                      10.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          4
+001/26/20 03:06 PM
+Peter
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          5
+001/26/20 03:06 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                              josh
+001/26/20 03:11 PM
+
+
+Logon:                              Paul
+001/26/20 03:11 PM
+
+Logon:                             Peter
+001/26/20 03:11 PM
+
+
+Logon:                              Adam
+001/26/20 03:11 PM
+
+Logon:                           Patrick
+001/26/20 03:11 PM
+
+Logon:                               Ray
+001/26/20 03:11 PM
+
+(Online Deposit)                        
+Transaction #                          6
+001/26/20 03:12 PM
+Ray
+
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Deposit Total                      10.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/26/20 04:15 PM
+
+Logon:                              josh
+001/26/20 04:15 PM
+
+Logon:                              Paul
+001/26/20 04:15 PM
+
+Logon:                             Peter
+001/26/20 04:15 PM
+
+
+Logon:                              Adam
+001/26/20 04:15 PM
+
+Logon:                           Patrick
+001/26/20 04:15 PM
+
+(Online Deposit)                        
+Transaction #                          7
+001/26/20 04:15 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/26/20 05:43 PM
+
+Logon:                             Peter
+03/27/19 08:33 AM
+
+           RBG-100 Link Error           
+             Deposit Failure            
+
+(Online Deposit)                        
+03/27/19 08:35 AM
+Peter
+
+
+
+Logoff:                            Peter
+03/27/19 08:41 AM
+
+   *** Entered Configuration Mode ***   
+03/27/19 09:05 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+03/27/19 09:05 AM
+ID:                                  Ray
+
+Logon:                              Paul
+03/27/19 09:22 AM
+
+Logon:                             Peter
+03/27/19 09:22 AM
+
+           RBG-100 Link Error           
+      RBG-100 Error #6900 Occurred      
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+03/27/19 09:30 AM
+Paul
+
+
+Amount Requested                  100.00
+Amount Tendered                      .00
+Balance Due                       100.00
+----------------------------------------
+
+
+
+      *** Client Disconnection ***      
+Logoff:                            Peter
+03/27/19 09:30 AM At 03/27/19 09:29 AM
+
+(Online Deposit)                        
+Transaction #                          8
+03/27/19 09:30 AM
+Paul
+
+
+Denom            Pieces            Value
+$20                  26           520.00
+
+Deposit Total                     520.00
+----------------------------------------
+
+Logoff:                             Paul
+03/27/19 09:30 AM

@@ -1,0 +1,184 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.134 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/31/20 10:50 AM
+
+Logoff:                              Ray
+001/31/20 10:50 AM
+
+Logon:                               Ray
+001/31/20 01:56 PM
+
+Logoff:                              Ray
+001/31/20 01:56 PM
+
+Logon:                               Ray
+001/31/20 02:02 PM
+
+Logoff:                              Ray
+001/31/20 02:02 PM
+
+Logon:                               Ray
+001/31/20 02:32 PM
+       *** $1 Notes Collected ***       
+       *** $5 Notes Collected ***       
+       *** $10 Notes Collected ***      
+       *** $20 Notes Collected ***      
+      *** $100 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                          6
+001/31/20 02:32 PM
+Ray
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Total Inventory Collected        1360.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/31/20 02:38 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.134 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.134 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.134 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/31/20 03:13 PM
+
+Logoff:                              Ray
+001/31/20 03:13 PM
+
+Logon:                               Ray
+001/31/20 03:42 PM
+
+Logoff:                              Ray
+001/31/20 03:42 PM
+
+Logon:                               Ray
+001/31/20 03:45 PM
+
+Logoff:                              Ray
+001/31/20 03:45 PM
+
+Logon:                               Ray
+001/31/20 03:47 PM
+
+Logoff:                              Ray
+001/31/20 03:47 PM
+
+Logon:                               Ray
+001/31/20 03:48 PM
+
+Logoff:                              Ray
+001/31/20 03:48 PM
+
+Logon:                               Ray
+001/31/20 03:51 PM
+
+Logoff:                              Ray
+001/31/20 03:52 PM
+
+Logon:                               Ray
+001/31/20 04:44 PM
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                          7
+001/31/20 04:48 PM
+Ray
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$100                 10          1000.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Collection Notes Removed         1360.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$100                 10         +1000.00
+$20                  10          +200.00
+$10                  10          +100.00
+$5                   10           +50.00
+$1                   10           +10.00
+Differences                     +1360.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/31/20 04:52 PM

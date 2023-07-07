@@ -1,0 +1,276 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.143 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+         *** Security Event! ***        
+            001/10/20 08:55 AM           
+   *** TCR Lower Safe Door Opened ***   
+
+         *** Security Event! ***        
+            001/10/20 08:55 AM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            001/10/20 08:55 AM           
+    *** TCR Collection Box Opened ***   
+
+         *** Security Event! ***        
+            001/10/20 08:55 AM           
+    *** TCR Collection Box Closed ***   
+
+         *** Security Event! ***        
+            001/10/20 08:55 AM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            001/10/20 08:55 AM           
+    *** TCR Main Safe Door Opened ***   
+
+         *** Security Event! ***        
+            001/10/20 08:56 AM           
+  *** TCR Main Storage Unit Opened ***  
+
+         *** Security Event! ***        
+            001/10/20 08:56 AM           
+  *** TCR Main Storage Unit Closed ***  
+
+         *** Security Event! ***        
+            001/10/20 08:56 AM           
+    *** TCR Main Safe Door Closed ***   
+
+         *** Security Event! ***        
+            001/10/20 08:56 AM           
+   *** TCR Lower Safe Door Closed ***   
+
+Logon:                              Josh
+001/10/20 08:57 AM
+
+         *** Security Event! ***        
+            001/10/20 08:58 AM           
+      *** TCR Upper Unit Opened ***     
+
+         *** Security Event! ***        
+            001/10/20 08:58 AM           
+      *** TCR Upper Unit Closed ***     
+
+(Online Mix Dispense)                   
+Transaction #                          3
+001/10/20 08:58 AM
+Josh
+
+Denom            Pieces            Value
+$20                   3            60.00
+$10                   3            30.00
+$5                    2            10.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          4
+001/10/20 08:59 AM
+Josh
+
+Denom            Pieces            Value
+$20                   3            60.00
+$10                   3            30.00
+$5                    2            10.00
+
+Machine Total                     100.00
+Deposit Total                     100.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/10/20 08:59 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/10/20 09:00 AM
+ID:                                 Josh
+
+Logoff:                             Josh
+001/10/20 09:00 AM
+
+Logon:                              Josh
+001/10/20 09:07 AM
+
+
+Logoff:                             Josh
+001/10/20 09:07 AM
+
+Logon:                              Josh
+001/10/20 09:08 AM
+
+Logoff:                             Josh
+001/10/20 09:08 AM
+
+Logon:                              Josh
+001/10/20 09:11 AM
+
+(Online Deposit)                        
+Transaction #                          5
+001/10/20 09:11 AM
+Josh
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/10/20 09:12 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/10/20 09:13 AM
+ID:                                 Josh
+
+Logoff:                             Josh
+001/10/20 09:13 AM
+
+Logon:                              Josh
+001/10/20 09:13 AM
+
+(Online Deposit)                        
+Transaction #                          6
+001/10/20 09:13 AM
+Josh
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+Logoff:                             Josh
+001/10/20 09:20 AM
+
+Logon:                              Josh
+001/10/20 09:21 AM
+
+(Online Deposit)                        
+Transaction #                          7
+001/10/20 09:21 AM
+Josh
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                          8
+001/10/20 09:22 AM
+Josh
+
+Denom            Pieces            Value
+$20                   3            60.00
+$10                   3            30.00
+$5                    2            10.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+Logoff:                             Josh
+001/10/20 09:23 AM
+
+   *** Entered Configuration Mode ***   
+001/10/20 09:24 AM
+ID:                                addon
+
+    *** Exited Configuration Mode ***   
+001/10/20 09:34 AM
+ID:                Addon date: 6-10-2019
+
+
+========================================
+            Security Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         8:00    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday        20:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                    No
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        0
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.143 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              Josh
+001/10/20 10:20 AM
+
+   *** Entered Configuration Mode ***   
+001/10/20 10:27 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/10/20 10:35 AM
+ID:                                 Josh
+
+(Online Mix Dispense)                   
+Transaction #                          9
+001/10/20 10:37 AM
+Josh
+
+Denom            Pieces            Value
+$20                   3            60.00
+$10                   3            30.00
+$5                    2            10.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+Logoff:                             Josh
+001/10/20 10:45 AM

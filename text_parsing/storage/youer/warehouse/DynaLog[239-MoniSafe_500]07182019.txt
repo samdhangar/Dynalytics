@@ -1,0 +1,40 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.129 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/18/20 09:55 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/18/20 09:55 AM
+Ray
+
+
+       *** Cassette 1 Emptied ***       
+       *** Cassette 5 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          9
+001/18/20 09:57 AM
+Ray
+
+Denom            Pieces            Value
+$5                    1             5.00
+$1                  133           133.00
+
+Total Inventory Removed           138.00
+----------------------------------------
+
+Logoff:                              Ray
+001/18/20 09:58 AM

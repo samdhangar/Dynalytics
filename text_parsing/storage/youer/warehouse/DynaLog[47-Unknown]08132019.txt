@@ -1,0 +1,160 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.140 (MoniSafe 500S)   
+
+              DynaCore Test             
+        9000 Stinson Hartis Road        
+         Indian Trail, NC 28079         
+          Drive Through Window          
+
+Station:                              47
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                              josh
+001/13/20 08:30 AM
+
+(Inventory Load)                        
+Transaction #                          4
+001/13/20 08:30 AM
+Josh
+
+Denom            Pieces            Value
+$10                   9            90.00
+$5                    1             5.00
+$1                    5             5.00
+
+Machine Total                     100.00
+Total Inventory Added             100.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/13/20 08:30 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/13/20 08:31 AM
+ID:                                 josh
+
+       TCR Error #5xAS700 Occurred      
+      *** TCR Note Audit Failed ***     
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                          5
+001/13/20 08:40 AM
+Josh
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$1                    5             5.00
+
+Reject Notes Removed                5.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$1                    5             5.00
+
+Removed (Mutilated) Notes           5.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+       *** Cassette 3 Emptied ***       
+       *** Cassette 4 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          6
+001/13/20 08:41 AM
+Josh
+
+Denom            Pieces            Value
+$10                   9            90.00
+$5                    1             5.00
+
+Total Inventory Removed            95.00
+----------------------------------------
+
+Logoff:                             josh
+001/13/20 08:42 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.140 (MoniSafe 500S)   
+
+              DynaCore Test             
+        9000 Stinson Hartis Road        
+         Indian Trail, NC 28079         
+          Drive Through Window          
+
+Station:                              47
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                              Josh
+001/13/20 09:31 AM
+
+(Inventory Load)                        
+Transaction #                          7
+001/13/20 09:32 AM
+Josh
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   2           100.00
+$20                  33           660.00
+$10                  48           480.00
+$5                   51           255.00
+$2                    2             4.00
+$1                  404           404.00
+
+Machine Total                    2503.00
+Total Inventory Added            2503.00
+----------------------------------------
+
+Logoff:                             Josh
+001/13/20 09:33 AM
+
+Logon:                              Josh
+001/13/20 09:36 AM
+
+(Inventory Removal)                     
+Transaction #                          8
+001/13/20 09:37 AM
+Josh
+
+Denom            Pieces            Value
+$20                  15           300.00
+$1                  200           200.00
+
+Total Inventory Removed           500.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          9
+001/13/20 09:37 AM
+Josh
+
+Denom            Pieces            Value
+$20                  15           300.00
+$1                  200           200.00
+
+Machine Total                     500.00
+Total Inventory Added             500.00
+----------------------------------------
+
+Logoff:                             Josh
+001/13/20 09:38 AM

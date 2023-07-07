@@ -1,0 +1,368 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.111 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/24/20 10:16 AM
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/24/20 10:16 AM
+Ray
+
+
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/24/20 10:16 AM
+Ray
+
+
+
+Logoff:                              Ray
+001/24/20 10:16 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.111 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/24/20 10:18 AM
+
+(Inventory Load)                        
+Transaction #                         29
+001/24/20 10:18 AM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Machine Total                     100.00
+Total Inventory Added             100.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.111 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/24/20 10:29 AM
+
+Logoff:                              Ray
+001/24/20 10:29 AM
+
+Logon:                               Ray
+001/24/20 10:29 AM
+
+Logoff:                              Ray
+001/24/20 10:29 AM
+
+Logon:                               Ray
+001/24/20 10:31 AM
+
+Logoff:                              Ray
+001/24/20 10:31 AM
+
+Logon:                               Ray
+001/24/20 10:33 AM
+
+Logoff:                              Ray
+001/24/20 10:33 AM
+
+Logon:                               Ray
+001/24/20 10:35 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.111 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/24/20 01:40 PM
+
+Logoff:                              Ray
+001/24/20 01:40 PM
+
+Logon:                               Ray
+001/24/20 01:42 PM
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/24/20 01:42 PM
+Ray
+
+
+
+Logoff:                              Ray
+001/24/20 01:42 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.111 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/24/20 01:45 PM
+
+(Inventory Load)                        
+Transaction #                         30
+001/24/20 01:45 PM
+Ray
+
+Denom            Pieces            Value
+$100                  2           200.00
+
+Machine Total                     200.00
+Total Inventory Added             200.00
+----------------------------------------
+
+Logoff:                              Ray
+001/24/20 01:47 PM
+
+Logon:                               Ray
+001/24/20 01:51 PM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            100.00
+Reversed Amount                   100.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/24/20 01:52 PM
+Ray
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/24/20 01:52 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.111 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/24/20 01:53 PM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            100.00
+Reversed Amount                   100.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/24/20 01:54 PM
+Ray
+
+
+
+Logoff:                              Ray
+001/24/20 01:55 PM
+
+Logon:                               Ray
+001/24/20 02:02 PM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/24/20 02:02 PM
+Ray
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/24/20 02:02 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.111 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/24/20 02:05 PM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/24/20 02:05 PM
+Ray
+
+
+
+Logoff:                              Ray
+001/24/20 02:05 PM
+
+Logon:                               Ray
+001/24/20 02:07 PM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/24/20 02:07 PM
+Ray
+
+
+
+Logoff:                              Ray
+001/24/20 02:07 PM
+
+Logon:                               Ray
+001/24/20 02:12 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.111 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/24/20 02:13 PM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/24/20 02:13 PM
+Ray
+
+
+
+(Inventory Load)                        
+Transaction #                         31
+001/24/20 02:13 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Machine Total                     100.00
+Total Inventory Added             100.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.111 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+          *** Power Failed ***          
+ *** Possible Partial Inventory Load ***
+ 
+
+
+(Inventory Load)                        
+Transaction #                         32
+001/24/20 02:14 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Machine Total                     100.00
+Total Inventory Added             100.00
+----------------------------------------
+
+Logon:                               Ray
+001/24/20 02:18 PM
+
+   *** Entered Configuration Mode ***   
+001/24/20 02:18 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/24/20 02:18 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/24/20 02:18 PM
+
+Logon:                               Ray
+001/24/20 02:19 PM
+
+Logoff:                              Ray
+001/24/20 02:19 PM
+
+Logon:                               Ray
+001/24/20 02:20 PM
+
+Logoff:                              Ray
+001/24/20 02:20 PM
+
+Logon:                               Ray
+001/24/20 02:20 PM
+
+Logoff:                              Ray
+001/24/20 02:29 PM

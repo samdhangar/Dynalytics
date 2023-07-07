@@ -1,0 +1,518 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.127 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/27/20 02:43 PM
+
+(Online Nominated Dispense)             
+Transaction #                         31
+001/27/20 02:43 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                   11            55.00
+$1                   11            11.00
+
+Non-Cash Total                     80.00
+Amount Tendered                   246.00
+----------------------------------------
+
+Logoff:                              Ray
+001/27/20 02:43 PM
+
+Logon:                               Ray
+001/27/20 02:46 PM
+
+
+   *** Entered Configuration Mode ***   
+001/27/20 02:46 PM
+ID:                                  Ray
+
+========================================
+             Activity Report            
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/27/20 02:46 PM
+
+ID:                                  Ray
+========================================
+              User Activity             
+----------------------------------------
+Ray
+# of Deposits                         27
+# of Withdrawals                       4
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                  14           700.00
+$20                  13           260.00
+$10                   5            50.00
+$5                    4            20.00
+$1                    4             4.00
+
+$100                 15          1500.00
+$50                   9           450.00
+$20                   9           180.00
+$10                   9            90.00
+$5                    9            45.00
+$2                    8            16.00
+$1                   18            18.00
+
+Other Coin                         35.41
+
+Other Cash Deposited             2334.41
+Machine Total                    1634.00
+Deposit Total                    3968.41
+
+Denom            Pieces            Value
+$100                 14          1400.00
+$50                   4           200.00
+$20                   4            80.00
+$10                   4            40.00
+$5                   34           170.00
+$1                   34            34.00
+
+Non-Cash Total                    240.00
+Withdrawal Total                 1924.00
+----------------------------------------
+Net Total                        -290.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                  14           700.00
+$20                  13           260.00
+$10                   5            50.00
+$5                    4            20.00
+$2                    0              .00
+$1                    4             4.00
+
+           Other Cash Deposits          
+
+$100                 15          1500.00
+$50                   9           450.00
+$20                   9           180.00
+$10                   9            90.00
+$5                    9            45.00
+$2                    8            16.00
+$1                   18            18.00
+
+Other Coin                         35.41
+
+Other Cash Deposited              112.41
+Machine Total                    1634.00
+Total Deposited                  1746.41
+# of Deposits                         27
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                 14          1400.00
+$50                   4           200.00
+$20                   4            80.00
+$10                   4            40.00
+$5                   34           
+170.00$1                   34           
+ 34.00Coin                              
+   .00
+Non-Cash Total                    240.00
+Total Dispensed                  1924.00
+# of Withdrawals                       4
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  8          -800.00
+$50                  10          +500.00
+$20                   9          +180.00
+$10                   1           +10.00
+$5                   30          -150.00
+$2                    0              .00
+$1                   30           -30.00
+Coin                                 .00
+Net Total                        -290.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                807         80700.00
+$50                 816         40800.00
+$20                 802         16040.00
+$10                 803          8030.00
+$5                  799          3995.00
+$2                    0              .00
+$1                  696           696.00
+Coin                                 .00
+Starting Inventory             148745.00
+Net Adjustments                      .00
+Total Inventory                150261.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                806         80600.00
+$50                 795         39750.00
+$20                 801         16020.00
+$10                 802          8020.00
+$5                  798          3990.00
+$1                  695           695.00
+Total Dispensable Notes        149075.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  1           100.00
+$50                  21          1050.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$2                    0              .00
+$1                    1             1.00
+Unknown Notes        21              .00
+Total Op Cassette Notes          1186.00
+
+Cass. 1 $5          798          3990.00
+Cass. 2 $100        806         80600.00
+Cass. 3 $20         801         16020.00
+Cass. 4 $10         802          8020.00
+Cass. 5 $1          695           695.00
+Cass. 6 $50         795         39750.00
+             $50 Notes Full             
+            CST-A Manipulated           
+            CST-B Manipulated           
+            CST-C Manipulated           
+            CST-D Manipulated           
+            CST-E Manipulated           
+            CST-F Manipulated           
+========================================
+
+      *** System Memory Cleared ***     
+001/27/20 02:46 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/27/20 02:46 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/27/20 02:46 PM
+
+Logon:                               Ray
+001/27/20 02:46 PM
+
+(Online Nominated Dispense)             
+Transaction #                          1
+001/27/20 02:46 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                   11            55.00
+$1                   11            11.00
+
+Non-Cash Total                     80.00
+Amount Tendered                   246.00
+----------------------------------------
+
+Logoff:                              Ray
+001/27/20 02:46 PM
+
+Logon:                               Ray
+001/27/20 02:49 PM
+
+(Online Nominated Dispense)             
+Transaction #                          2
+001/27/20 02:49 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                   11            11.00
+
+Non-Cash Total                      5.00
+Amount Tendered                   196.00
+----------------------------------------
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/27/20 02:55 PM
+Ray
+
+
+
+
+Logoff:                              Ray
+001/27/20 02:55 PM
+
+Logon:                               Ray
+001/27/20 03:05 PM
+
+(Online Nominated Dispense)             
+Transaction #                          3
+001/27/20 03:05 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                  11           550.00
+$20                  11           220.00
+$10                  11           110.00
+$5                    1             5.00
+$1                    1             1.00
+
+Amount Tendered                   986.00
+----------------------------------------
+
+Logoff:                              Ray
+001/27/20 03:05 PM
+
+Logon:                               Ray
+001/27/20 03:07 PM
+
+Logoff:                              Ray
+001/27/20 03:07 PM
+
+Logon:                               Ray
+001/27/20 03:10 PM
+
+(Online Mix Dispense)                   
+Transaction #                          4
+001/27/20 03:10 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                   11            11.00
+
+Amount Tendered                   196.00
+----------------------------------------
+
+Logoff:                              Ray
+001/27/20 03:11 PM
+
+(Vault Buy)                             
+Transaction #                          5
+001/27/20 03:17 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                   11            11.00
+
+Amount Tendered                   196.00
+----------------------------------------
+
+Logon:                               Ray
+001/27/20 03:17 PM
+
+Logoff:                              Ray
+001/27/20 03:17 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.127 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/27/20 04:00 PM
+
+(Online Mix Dispense)                   
+Transaction #                          6
+001/27/20 04:00 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                   11            11.00
+
+Amount Tendered                   196.00
+----------------------------------------
+
+Logoff:                              Ray
+001/27/20 04:00 PM
+
+Logon:                               Ray
+001/27/20 04:04 PM
+
+(Online Mix Dispense)                   
+Transaction #                          7
+001/27/20 04:04 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                   11            11.00
+
+Amount Tendered                   196.00
+----------------------------------------
+
+Logoff:                              Ray
+001/27/20 04:04 PM
+
+Logon:                               Ray
+001/27/20 04:07 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.127 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/27/20 04:09 PM
+
+
+   *** Entered Configuration Mode ***   
+001/27/20 04:09 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                               Ray
+001/27/20 04:11 PM
+
+(Online Nominated Dispense)             
+Transaction #                          1
+001/27/20 04:11 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+Logoff:                              Ray
+001/27/20 04:11 PM
+
+Logon:                               Ray
+001/27/20 04:11 PM
+
+Logoff:                              Ray
+001/27/20 04:11 PM
+
+Logon:                               Ray
+001/27/20 04:21 PM
+
+Logoff:                              Ray
+001/27/20 04:21 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/27/20 04:58 PM
+
+
+   *** Entered Configuration Mode ***   
+001/27/20 04:58 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/27/20 04:58 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/27/20 04:58 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+

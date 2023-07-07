@@ -1,0 +1,286 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+01/24/20 02:18 PM
+
+Logoff:                              Ray
+01/24/20 02:26 PM
+
+Logon:                               Ray
+01/24/20 02:48 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/24/20 02:49 PM
+Ray
+
+
+
+
+Logoff:                              Ray
+01/24/20 02:49 PM
+
+Logon:                               Ray
+01/24/20 02:51 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/24/20 02:51 PM
+Ray
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/24/20 02:51 PM
+Ray
+
+
+
+Logoff:                              Ray
+01/24/20 02:51 PM
+
+Logon:                               Ray
+01/24/20 02:53 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/24/20 02:53 PM
+Ray
+
+
+
+
+Logoff:                              Ray
+01/24/20 02:53 PM
+
+Logon:                               Ray
+01/24/20 03:10 PM
+
+   *** Entered Configuration Mode ***   
+01/24/20 03:10 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/24/20 03:10 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+01/24/20 03:11 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+01/24/20 03:15 PM
+($5) Assumed Count:                  800
+($5) Actual Count:                   800
+
+(Auto Audit Note Count)                 
+Transaction #                          7
+01/24/20 03:17 PM
+Ray
+
+Denom            Pieces            Value
+$5                  800          4000.00
+
+Audited Total                    4000.00
+----------------------------------------
+
+Logoff:                              Ray
+01/24/20 03:20 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.157 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+01/24/20 03:25 PM
+
+Logoff:                              Ray
+01/24/20 03:25 PM
+
+Logon:                               Ray
+01/24/20 03:29 PM
+($5) Assumed Count:                  100
+($5) Actual Count:                   100
+
+    *** TCR Note Audit Incomplete ***   
+
+
+(Auto Audit Note Count)                 
+Transaction #                          8
+01/24/20 03:35 PM
+Ray
+
+Denom            Pieces            Value
+$5                  100           500.00
+
+Audited Total                     500.00
+----------------------------------------
+
+Logoff:                              Ray
+01/24/20 03:35 PM
+
+Logon:                               Ray
+01/24/20 03:39 PM
+($5) Assumed Count:                  100
+($5) Actual Count:                   100
+($100) Assumed Count:                100
+($100) Actual Count:                 100
+
+(Auto Audit Note Count)                 
+Transaction #                          9
+01/24/20 03:39 PM
+Ray
+
+Denom            Pieces            Value
+$100                100         10000.00
+$5                  100           500.00
+
+Audited Total                   10500.00
+----------------------------------------
+($5) Assumed Count:                  100
+($5) Actual Count:                   100
+
+    *** TCR Note Audit Incomplete ***   
+
+
+(Auto Audit Note Count)                 
+Transaction #                         10
+01/24/20 03:41 PM
+Ray
+
+Denom            Pieces            Value
+$5                  100           500.00
+
+Audited Total                     500.00
+----------------------------------------
+
+Logoff:                              Ray
+01/24/20 03:41 PM
+
+Logon:                               Ray
+01/24/20 03:43 PM
+($5) Assumed Count:                  100
+($5) Actual Count:                   100
+
+    *** TCR Note Audit Incomplete ***   
+
+
+(Auto Audit Note Count)                 
+Transaction #                         11
+01/24/20 03:43 PM
+Ray
+
+Denom            Pieces            Value
+$5                  100           500.00
+
+Audited Total                     500.00
+----------------------------------------
+
+Logoff:                              Ray
+01/24/20 03:43 PM
+
+Logon:                               Ray
+01/24/20 03:48 PM
+($5) Assumed Count:                  100
+($5) Actual Count:                   100
+
+    *** TCR Note Audit Incomplete ***   
+
+
+(Auto Audit Note Count)                 
+Transaction #                         12
+01/24/20 03:48 PM
+Ray
+
+Denom            Pieces            Value
+$5                  100           500.00
+
+Audited Total                     500.00
+----------------------------------------
+
+Logoff:                              Ray
+01/24/20 04:00 PM
+
+Logon:                               Ray
+01/24/20 04:02 PM
+($5) Assumed Count:                  100
+($5) Actual Count:                   100
+($100) Assumed Count:                100
+($100) Actual Count:                 100
+($20) Assumed Count:                 100
+($20) Actual Count:                  100
+($10) Assumed Count:                 100
+($10) Actual Count:                  100
+($1) Assumed Count:                  100
+($1) Actual Count:                   100
+($50) Assumed Count:                 100
+($50) Actual Count:                  100
+
+(Auto Audit Note Count)                 
+Transaction #                         13
+01/24/20 04:02 PM
+Ray
+
+Denom            Pieces            Value
+$100                100         10000.00
+$50                 100          5000.00
+$20                 100          2000.00
+$10                 100          1000.00
+$5                  100           500.00
+$1                  100           100.00
+
+Audited Total                   18600.00
+----------------------------------------
+($5) Assumed Count:                  100
+($5) Actual Count:                   100
+
+    *** TCR Note Audit Incomplete ***   
+
+
+(Auto Audit Note Count)                 
+Transaction #                         14
+01/24/20 04:06 PM
+Ray
+
+Denom            Pieces            Value
+$5                  100           500.00
+
+Audited Total                     500.00
+----------------------------------------
+
+Logoff:                              Ray
+01/24/20 04:06 PM

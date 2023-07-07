@@ -1,0 +1,192 @@
+
+Logon:                              josh
+001/02/20 01:48 PM
+
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited          44.00
+Reversed Amount                    44.00
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/02/20 01:49 PM
+josh
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.091 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                              josh
+001/02/20 01:52 PM
+
+
+   *** Entered Configuration Mode ***   
+001/02/20 01:52 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/02/20 01:52 PM
+ID:                                 josh
+
+
+========================================
+            Hardware Settings           
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator      Cassida Pro Zeus
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+Logoff:                             josh
+001/02/20 01:52 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.091 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                              josh
+001/02/20 01:52 PM
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited          44.00
+Reversed Amount                    44.00
+
+(Online Deposit)                        
+Transaction #                          1
+001/02/20 01:52 PM
+Josh
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   9           180.00
+$10                  54           540.00
+$1                   17            17.00
+
+Other Cash Deposited             1037.00
+
+Deposit Total                    1037.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                             josh
+001/02/20 01:53 PM
+
+Logon:                              josh
+001/02/20 02:06 PM
+
+
+   *** Entered Configuration Mode ***   
+001/02/20 02:06 PM
+ID:                                 josh
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.091 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                              josh
+001/02/20 02:08 PM
+
+
+   *** Entered Configuration Mode ***   
+001/02/20 02:08 PM
+ID:                                 josh
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.091 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                              josh
+001/02/20 02:10 PM
+
+(Online Nominated Dispense)             
+Transaction #                          2
+001/02/20 02:10 PM
+Josh
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+
+Logoff:                             josh
+001/02/20 02:10 PM
+
+(Vault Sell)                            
+Transaction #                          3
+001/02/20 02:10 PM
+Josh
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Machine Total                      10.00
+Deposit Total                      10.00
+----------------------------------------
+
+Logon:                              josh
+001/02/20 02:11 PM
+
+
+
+
+
+
+
+
+
+
+Logoff:                             jos
+h

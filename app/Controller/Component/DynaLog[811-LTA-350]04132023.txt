@@ -1,0 +1,1066 @@
+
+Logon:                            dianev
+04/13/23 08:16 AM
+
+Logon:                            karenb
+04/13/23 08:35 AM
+
+ *** Reject Box Was Emptied To Exit ***
+
+
+(Reconciled Rejects)                    
+Transaction #                          1
+04/13/23 08:49 AM
+dianev
+Inventory Snapshot              34248.00
+
+----------------------------------------
+          Reject Notes Removed
+----------------------------------------
+Denom            Pieces            Value
+$100                  2           200.00
+
+Reject Notes Removed              200.00
+
+----------------------------------------
+             Reloaded Notes
+----------------------------------------
+Denom            Pieces            Value
+$100                  2           200.00
+
+Reloaded Notes                    200.00
+
+----------------------------------------
+        Removed (Mutilated) Notes
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences
+----------------------------------------
+Differences                          .00
+----------------------------------------
+($1) Assumed Count:                  483
+($1) Actual Count:                   483
+($5) Assumed Count:                  517
+($5) Actual Count:                   517
+($20) Assumed Count:                 521
+($20) Actual Count:                  519
+($100) Assumed Count:                 57
+($100) Actual Count:                  57
+($10) Assumed Count:                 361
+($10) Actual Count:                  361
+($50) Assumed Count:                 229
+($50) Actual Count:                  229
+
+(Auto Audit Note Count)                 
+Transaction #                          2
+04/13/23 08:52 AM
+dianev
+Inventory Snapshot              34248.00
+
+Denom            Pieces            Value
+$100                 57          5700.00
+$50                 229         11450.00
+$20                 519         10380.00
+$10                 361          3610.00
+$5                  517          2585.00
+$1                  483           483.00
+
+Audited Total                   34208.00
+----------------------------------------
+
+  *** Inventory Adjusted Per Audit ***
+
+
+ *** Reject Box Was Emptied To Exit ***
+
+
+(Reconciled Rejects)                    
+Transaction #                          3
+04/13/23 09:03 AM
+dianev
+Inventory Snapshot              34248.00
+
+----------------------------------------
+          Reject Notes Removed
+----------------------------------------
+Denom            Pieces            Value
+$20                   2            40.00
+
+Reject Notes Removed               40.00
+
+----------------------------------------
+             Reloaded Notes
+----------------------------------------
+Denom            Pieces            Value
+$20                   2            40.00
+
+Reloaded Notes                     40.00
+
+----------------------------------------
+        Removed (Mutilated) Notes
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+========================================
+                Inventory
+----------------------------------------
+Station:                             811
+Branch:                                8
+Region:                        Region ID
+04/13/23 09:04 AM
+
+Denom            Pieces            Value
+$100                 57          5700.00
+$50                 229         11450.00
+$20                 521         10420.00
+$10                 361          3610.00
+$5                  517          2585.00
+$2                    0              .00
+$1                  483           483.00
+Starting Inventory              34248.00
+Net Adjustments                      .00
+Total Inventory                 34248.00
+
+----------------------------------------
+            Dispensable Notes
+----------------------------------------
+$100                 57          5700.00
+$50                 229         11450.00
+$20                 521         10420.00
+$10                 361          3610.00
+$5                  517          2585.00
+$1                  483           483.00
+Total Dispensable Notes         34248.00
+
+----------------------------------------
+           Ops Cassette Notes
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Ops Cassette Notes             .00
+
+CST-A   $1          483           483.00
+CST-B   $5          517          2585.00
+CST-C   $20         521         10420.00
+CST-D   $100         57          5700.00
+CST-E   $10         361          3610.00
+CST-F   $50         229         11450.00
+                CST-D Low
+========================================
+
+
+
+
+
+
+
+($1) Assumed Count:                  483
+($1) Actual Count:                   483
+($5) Assumed Count:                  517
+($5) Actual Count:                   517
+($20) Assumed Count:                 521
+($20) Actual Count:                  521
+($100) Assumed Count:                 57
+($100) Actual Count:                  57
+($10) Assumed Count:                 361
+($10) Actual Count:                  361
+($50) Assumed Count:                 229
+($50) Actual Count:                  229
+
+(Auto Audit Note Count)                 
+Transaction #                          4
+04/13/23 09:07 AM
+dianev
+Inventory Snapshot              34248.00
+
+Denom            Pieces            Value
+$100                 57          5700.00
+$50                 229         11450.00
+$20                 521         10420.00
+$10                 361          3610.00
+$5                  517          2585.00
+$1                  483           483.00
+
+Audited Total                   34248.00
+----------------------------------------
+
+========================================
+                Inventory
+----------------------------------------
+Station:                             811
+Branch:                                8
+Region:                        Region ID
+04/13/23 09:20 AM
+
+Denom            Pieces            Value
+$100                 57          5700.00
+$50                 229         11450.00
+$20                 521         10420.00
+$10                 361          3610.00
+$5                  517          2585.00
+$2                    0              .00
+$1                  483           483.00
+Starting Inventory              34248.00
+Net Adjustments                      .00
+Total Inventory                 34248.00
+
+----------------------------------------
+            Dispensable Notes
+----------------------------------------
+$100                 57          5700.00
+$50                 229         11450.00
+$20                 521         10420.00
+$10                 361          3610.00
+$5                  517          2585.00
+$1                  483           483.00
+Total Dispensable Notes         34248.00
+
+----------------------------------------
+           Ops Cassette Notes
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Ops Cassette Notes             .00
+
+CST-A   $1          483           483.00
+CST-B   $5          517          2585.00
+CST-C   $20         521         10420.00
+CST-D   $100         57          5700.00
+CST-E   $10         361          3610.00
+CST-F   $50         229         11450.00
+                CST-D Low
+========================================
+
+
+
+
+
+
+
+
+(Online Deposit)                        
+Transaction #                          5
+04/13/23 09:21 AM
+karenb
+Inventory Snapshot              34248.00
+
+Denom            Pieces            Value
+$100                  9           900.00
+$20                   2            40.00
+
+Machine Total                     940.00
+Deposit Total                     940.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          6
+04/13/23 10:26 AM
+karenb
+Inventory Snapshot              35188.00
+
+Denom            Pieces            Value
+$100                  7           700.00
+$50                   2           100.00
+$20                 105          2100.00
+$10                   1            10.00
+
+Machine Total                    2910.00
+Deposit Total                    2910.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                          7
+04/13/23 10:28 AM
+dianev
+Inventory Snapshot              38098.00
+
+Denom            Pieces            Value
+$20                 300          6000.00
+
+Total Inventory Removed          6000.00
+----------------------------------------
+
+ *** Reject Box Was Emptied To Exit ***
+
+
+(Reconciled Rejects)                    
+Transaction #                          8
+04/13/23 10:28 AM
+dianev
+Inventory Snapshot              32098.00
+
+----------------------------------------
+          Reject Notes Removed
+----------------------------------------
+Denom            Pieces            Value
+$20                   2            40.00
+
+Reject Notes Removed               40.00
+
+----------------------------------------
+             Reloaded Notes
+----------------------------------------
+Denom            Pieces            Value
+$20                   2            40.00
+
+Reloaded Notes                     40.00
+
+----------------------------------------
+        Removed (Mutilated) Notes
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+========================================
+                Inventory
+----------------------------------------
+Station:                             811
+Branch:                                8
+Region:                        Region ID
+04/13/23 10:29 AM
+
+Denom            Pieces            Value
+$100                 73          7300.00
+$50                 231         11550.00
+$20                 328          6560.00
+$10                 362          3620.00
+$5                  517          2585.00
+$2                    0              .00
+$1                  483           483.00
+Starting Inventory              34248.00
+Net Adjustments                 -6000.00
+Total Inventory                 32098.00
+
+----------------------------------------
+            Dispensable Notes
+----------------------------------------
+$100                 73          7300.00
+$50                 231         11550.00
+$20                 328          6560.00
+$10                 362          3620.00
+$5                  517          2585.00
+$1                  483           483.00
+Total Dispensable Notes         32098.00
+
+----------------------------------------
+           Ops Cassette Notes
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Ops Cassette Notes             .00
+
+CST-A   $1          483           483.00
+CST-B   $5          517          2585.00
+CST-C   $20         328          6560.00
+CST-D   $100         73          7300.00
+CST-E   $10         362          3620.00
+CST-F   $50         231         11550.00
+                CST-D Low
+========================================
+
+
+
+
+
+
+
+
+(Inventory Load)                        
+Transaction #                          9
+04/13/23 11:23 AM
+dianev
+Inventory Snapshot              32098.00
+
+Denom            Pieces            Value
+$100                100         10000.00
+$1                  500           500.00
+
+Machine Total                   10500.00
+Total Inventory Added           10500.00
+----------------------------------------
+
+========================================
+                Inventory
+----------------------------------------
+Station:                             811
+Branch:                                8
+Region:                        Region ID
+04/13/23 11:24 AM
+
+Denom            Pieces            Value
+$100                173         17300.00
+$50                 231         11550.00
+$20                 328          6560.00
+$10                 362          3620.00
+$5                  517          2585.00
+$2                    0              .00
+$1                  983           983.00
+Starting Inventory              34248.00
+Net Adjustments                  4500.00
+Total Inventory                 42598.00
+
+----------------------------------------
+            Dispensable Notes
+----------------------------------------
+$100                173         17300.00
+$50                 231         11550.00
+$20                 328          6560.00
+$10                 362          3620.00
+$5                  517          2585.00
+$1                  983           983.00
+Total Dispensable Notes         42598.00
+
+----------------------------------------
+           Ops Cassette Notes
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Ops Cassette Notes             .00
+
+CST-A   $1          983           983.00
+CST-B   $5          517          2585.00
+CST-C   $20         328          6560.00
+CST-D   $100        173         17300.00
+CST-E   $10         362          3620.00
+CST-F   $50         231         11550.00
+========================================
+
+
+
+
+
+
+
+
+      *** Client Disconnection ***
+Logoff:                           dianev
+04/13/23 12:58 PM At 04/13/23 11:59 AM
+
+
+      *** Client Disconnection ***
+Logoff:                           karenb
+04/13/23 12:58 PM At 04/13/23 12:46 PM
+
+Logon:                            karenb
+04/13/23 01:00 PM
+
+(Online Nominated Dispense)             
+Transaction #                         10
+04/13/23 01:02 PM
+karenb
+Inventory Snapshot              42598.00
+
+Denom            Pieces            Value
+$100                  6           600.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   20           100.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         11
+04/13/23 01:38 PM
+karenb
+Inventory Snapshot              41598.00
+
+Denom            Pieces            Value
+$100                  2           200.00
+
+Machine Total                     200.00
+Deposit Total                     200.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         12
+04/13/23 01:46 PM
+karenb
+Inventory Snapshot              41798.00
+
+Denom            Pieces            Value
+$20                   8           160.00
+$1                    4             4.00
+
+Machine Total                     164.00
+Deposit Total                     164.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         13
+04/13/23 01:47 PM
+karenb
+Inventory Snapshot              41962.00
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Machine Total                     100.00
+Deposit Total                     100.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         14
+04/13/23 01:48 PM
+karenb
+Inventory Snapshot              42062.00
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         15
+04/13/23 01:50 PM
+karenb
+Inventory Snapshot              41962.00
+
+Denom            Pieces            Value
+$50                   1            50.00
+$10                   3            30.00
+
+Machine Total                      80.00
+Deposit Total                      80.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         16
+04/13/23 01:51 PM
+karenb
+Inventory Snapshot              42042.00
+
+Denom            Pieces            Value
+$20                   3            60.00
+$1                   20            20.00
+
+Amount Tendered                    80.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         17
+04/13/23 01:52 PM
+karenb
+Inventory Snapshot              41962.00
+
+Denom            Pieces            Value
+$20                   3            60.00
+
+Machine Total                      60.00
+Deposit Total                      60.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         18
+04/13/23 02:53 PM
+karenb
+Inventory Snapshot              42022.00
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+
+Amount Tendered                   300.00
+----------------------------------------
+
+Logon:                            jacobs
+04/13/23 03:31 PM
+
+(Online Nominated Dispense)             
+Transaction #                         19
+04/13/23 03:33 PM
+karenb
+Inventory Snapshot              41722.00
+
+Denom            Pieces            Value
+$50                   4           200.00
+$20                  26           520.00
+$10                  14           140.00
+
+Amount Tendered                   860.00
+----------------------------------------
+
+========================================
+           User Totals Report
+----------------------------------------
+Station:                             811
+Branch:                                8
+Region:                        Region ID
+04/13/23 03:51 PM
+
+
+karenb
+# of Deposits                          7
+# of Withdrawals                       5
+Denom            Pieces            Value
+$100                 19          1900.00
+$50                   3           150.00
+$20                 118          2360.00
+$10                   4            40.00
+$1                    4             4.00
+
+Deposit Total                    4454.00
+
+Denom            Pieces            Value
+$100                  8           800.00
+$50                   6           300.00
+$20                  44           880.00
+$10                  24           240.00
+$5                   20           100.00
+$1                   20            20.00
+
+Withdrawal Total                 2340.00
+----------------------------------------
+Sell                             2114.00
+========================================
+
+
+
+
+
+
+
+
+========================================
+                Inventory
+----------------------------------------
+Station:                             811
+Branch:                                8
+Region:                        Region ID
+04/13/23 03:59 PM
+
+Denom            Pieces            Value
+$100                168         16800.00
+$50                 226         11300.00
+$20                 295          5900.00
+$10                 341          3410.00
+$5                  497          2485.00
+$2                    0              .00
+$1                  967           967.00
+Starting Inventory              34248.00
+Net Adjustments                  4500.00
+Total Inventory                 40862.00
+
+----------------------------------------
+            Dispensable Notes
+----------------------------------------
+$100                168         16800.00
+$50                 226         11300.00
+$20                 295          5900.00
+$10                 341          3410.00
+$5                  497          2485.00
+$1                  967           967.00
+Total Dispensable Notes         40862.00
+
+----------------------------------------
+           Ops Cassette Notes
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Ops Cassette Notes             .00
+
+CST-A   $1          967           967.00
+CST-B   $5          497          2485.00
+CST-C   $20         295          5900.00
+CST-D   $100        168         16800.00
+CST-E   $10         341          3410.00
+CST-F   $50         226         11300.00
+========================================
+
+
+
+
+
+
+
+
+========================================
+             Activity Report
+
+
+Station:                             811
+Branch:                                8
+Region:                        Region ID
+04/13/23 04:04 PM
+
+ID:                               karenb
+========================================
+              User Activity
+----------------------------------------
+karenb
+# of Deposits                          7
+# of Withdrawals                       5
+
+Denom            Pieces            Value
+$100                 19          1900.00
+$50                   3           150.00
+$20                 118          2360.00
+$10                   4            40.00
+$1                    4             4.00
+
+Deposit Total                    4454.00
+
+Denom            Pieces            Value
+$100                  8           800.00
+$50                   6           300.00
+$20                  44           880.00
+$10                  24           240.00
+$5                   20           100.00
+$1                   20            20.00
+
+Withdrawal Total                 2340.00
+----------------------------------------
+Net Total                       +2114.00
+========================================
+----------------------------------------
+          Grand Total Deposited
+----------------------------------------
+
+            Machine Deposits
+
+
+Denom            Pieces            Value
+$100                 19          1900.00
+$50                   3           150.00
+$20                 118          2360.00
+$10                   4            40.00
+$5                    0              .00
+$2                    0              .00
+$1                    4             4.00
+
+           Other Cash Deposits
+
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                    4454.00
+Total Deposited                  4454.00
+# of Deposits                          7
+========================================
+----------------------------------------
+          Grand Total Dispensed
+----------------------------------------
+Denom            Pieces            Value
+$100                  8           800.00
+$50                   6           300.00
+$20                  44           880.00
+$10                  24           240.00
+$5                   20           100.00
+$1                   20            20.00
+Total Dispensed                  2340.00
+# of Withdrawals                       5
+========================================
+----------------------------------------
+             Net Cash Usage
+----------------------------------------
+Denom            Pieces            Value
+$100                 11         +1100.00
+$50                   3          -150.00
+$20                  74         +1480.00
+$10                  20          -200.00
+$5                   20          -100.00
+$2                    0              .00
+$1                   16           -16.00
+Net Total                       +2114.00
+========================================
+----------------------------------------
+                Inventory
+----------------------------------------
+Denom            Pieces            Value
+$100                168         16800.00
+$50                 226         11300.00
+$20                 295          5900.00
+$10                 341          3410.00
+$5                  497          2485.00
+$2                    0              .00
+$1                  967           967.00
+Starting Inventory              34248.00
+Net Adjustments                  4500.00
+Total Inventory                 40862.00
+
+----------------------------------------
+            Dispensable Notes
+----------------------------------------
+$100                168         16800.00
+$50                 226         11300.00
+$20                 295          5900.00
+$10                 341          3410.00
+$5                  497          2485.00
+$1                  967           967.00
+Total Dispensable Notes         40862.00
+
+----------------------------------------
+           Ops Cassette Notes
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Ops Cassette Notes             .00
+
+CST-A   $1          967           967.00
+CST-B   $5          497          2485.00
+CST-C   $20         295          5900.00
+CST-D   $100        168         16800.00
+CST-E   $10         341          3410.00
+CST-F   $50         226         11300.00
+========================================
+
+        User Grand Totals Cleared
+
+            Activity Cleared
+
+
+
+
+
+
+
+
+
+(Online Deposit)                        
+Transaction #                          1
+04/13/23 04:18 PM
+karenb
+Inventory Snapshot              40862.00
+
+Denom            Pieces            Value
+$100                 10          1000.00
+
+Machine Total                    1000.00
+Deposit Total                    1000.00
+----------------------------------------
+
+========================================
+           User Totals Report
+----------------------------------------
+Station:                             811
+Branch:                                8
+Region:                        Region ID
+04/13/23 04:47 PM
+
+
+karenb
+# of Deposits                          1
+# of Withdrawals                       0
+Denom            Pieces            Value
+$100                 10          1000.00
+
+Deposit Total                    1000.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Sell                             1000.00
+========================================
+
+
+
+
+
+
+
+
+      *** Client Disconnection ***
+Logoff:                           jacobs
+04/13/23 04:49 PM At 04/13/23 04:48 PM
+
+========================================
+             Activity Report
+
+
+Station:                             811
+Branch:                                8
+Region:                        Region ID
+04/13/23 04:49 PM
+
+ID:                               karenb
+========================================
+              User Activity
+----------------------------------------
+karenb
+# of Deposits                          1
+# of Withdrawals                       0
+
+Denom            Pieces            Value
+$100                 10          1000.00
+
+Deposit Total                    1000.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Net Total                       +1000.00
+========================================
+----------------------------------------
+          Grand Total Deposited
+----------------------------------------
+
+            Machine Deposits
+
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits
+
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                    1000.00
+Total Deposited                  1000.00
+# of Deposits                          1
+========================================
+----------------------------------------
+          Grand Total Dispensed
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage
+----------------------------------------
+Denom            Pieces            Value
+$100                 10         +1000.00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Net Total                       +1000.00
+========================================
+----------------------------------------
+                Inventory
+----------------------------------------
+Denom            Pieces            Value
+$100                178         17800.00
+$50                 226         11300.00
+$20                 295          5900.00
+$10                 341          3410.00
+$5                  497          2485.00
+$2                    0              .00
+$1                  967           967.00
+Starting Inventory              40862.00
+Net Adjustments                      .00
+Total Inventory                 41862.00
+
+----------------------------------------
+            Dispensable Notes
+----------------------------------------
+$100                178         17800.00
+$50                 226         11300.00
+$20                 295          5900.00
+$10                 341          3410.00
+$5                  497          2485.00
+$1                  967           967.00
+Total Dispensable Notes         41862.00
+
+----------------------------------------
+           Ops Cassette Notes
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Ops Cassette Notes             .00
+
+CST-A   $1          967           967.00
+CST-B   $5          497          2485.00
+CST-C   $20         295          5900.00
+CST-D   $100        178         17800.00
+CST-E   $10         341          3410.00
+CST-F   $50         226         11300.00
+========================================
+
+        User Grand Totals Cleared
+
+            Activity Cleared
+
+
+
+
+
+
+
+
+
+Logoff:                           karenb
+04/13/23 04:50 PM

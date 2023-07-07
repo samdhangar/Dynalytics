@@ -1,0 +1,302 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+001/30/20 01:12 PM
+
+   *** Entered Configuration Mode ***   
+001/30/20 01:12 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/30/20 01:22 PM
+ID:                                 josh
+
+========================================
+           User Totals Report           
+----------------------------------------
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/30/20 01:24 PM
+
+
+Josh
+# of Deposits                          5
+# of Withdrawals                       3
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   6           120.00
+$10                   2            20.00
+$5                    2            10.00
+$1                    7             7.00
+
+$100                  2           200.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$2                    1             2.00
+$1                    1             1.00
+
+Other Cash Deposited              288.00
+Machine Total                     457.00
+Deposit Total                     745.00
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   5           100.00
+$10                   2            20.00
+$5                    2            10.00
+$1                   13            13.00
+
+Withdrawal Total                  293.00
+----------------------------------------
+Sell                              164.00
+========================================
+
+
+
+
+
+
+
+
+========================================
+             Activity Report            
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/30/20 01:24 PM
+
+ID:                                 josh
+========================================
+              User Activity             
+----------------------------------------
+Josh
+# of Deposits                          5
+# of Withdrawals                       3
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   6           120.00
+$10                   2            20.00
+$5                    2            10.00
+$1                    7             7.00
+
+$100                  2           200.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$2                    1             2.00
+$1                    1             1.00
+
+Other Cash Deposited              288.00
+Machine Total                     457.00
+Deposit Total                     745.00
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   5           100.00
+$10                   2            20.00
+$5                    2            10.00
+$1                   13            13.00
+
+Withdrawal Total                  293.00
+----------------------------------------
+Net Total                        +164.00
+----------------------------------------
+Ray
+# of Deposits                          1
+# of Withdrawals                       1
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Deposit Total                      10.00
+
+Denom            Pieces            Value
+$1                    5             5.00
+
+Withdrawal Total                    5.00
+----------------------------------------
+Net Total                          +5.00
+----------------------------------------
+Stephen
+# of Deposits                      65483
+# of Withdrawals                       2
+
+Denom            Pieces            Value
+$2                    6            12.00
+$1                    1             1.00
+
+Deposit Total                      13.00
+
+Denom            Pieces            Value
+$20                   5           100.00
+$1                    1             1.00
+
+Withdrawal Total                  101.00
+----------------------------------------
+Net Total                         -88.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   6           120.00
+$10                   2            20.00
+$5                    2            10.00
+$2                    6            12.00
+$1                   18            18.00
+
+           Other Cash Deposits          
+
+$100                  2           200.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$2                    1             2.00
+$1                    1             1.00
+
+Other Coin                           .00
+
+Other Cash Deposited                8.00
+Machine Total                     480.00
+Total Deposited                   488.00
+# of Deposits                      65489
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                  10           200.00
+$10                   2            20.00
+$5                    2            10.00
+$1                   19            19.00
+Total Dispensed                   399.00
+# of Withdrawals                       6
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  1          +100.00
+$50                   1           +50.00
+$20                   4           -80.00
+$10                   0              .00
+$5                    0              .00
+$2                    6           +12.00
+$1                    1            -1.00
+Net Total                         +81.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                 59          5900.00
+$50                 103          5150.00
+$20                  66          1320.00
+$10                 267          2670.00
+$5                  163           815.00
+$2                    0              .00
+$1                   53            53.00
+Starting Inventory            3007900.00
+Net Adjustments                -31962.00
+Total Inventory                 15908.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                 59          5900.00
+$50                 103          5150.00
+$20                  66          1320.00
+$10                 267          2670.00
+$5                  163           815.00
+$1                   53            53.00
+Total Dispensable Notes         15908.00
+
+----------------------------------------
+          Collection Box Notes          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Notes                .00
+
+Cass. 1 $1           53            53.00
+Cass. 2 $5          163           815.00
+Cass. 3 $10         267          2670.00
+Cass. 4U $20         66          1320.00
+Cass. 4L $50        103          5150.00
+Cass. 5 $100         59          5900.00
+               Cass. 1 Low              
+               Cass. 2 Low              
+               Cass. 3 Low              
+              Cass. 4U Low              
+               Cass. 5 Low              
+========================================
+
+  *** Activity Clear Not Permitted ***  
+
+
+
+
+
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/30/20 01:32 PM
+josh
+
+
+      RBG-100 Error #6900 Occurred      
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+001/30/20 04:06 PM
+josh
+
+
+Amount Requested                  100.00
+Amount Tendered                      .00
+Balance Due                       100.00
+----------------------------------------
+
+
+
+      *** Client Disconnection ***      
+Logoff:                             josh
+001/30/20 04:06 PM At 001/30/20 01:35 PM

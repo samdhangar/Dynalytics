@@ -1,0 +1,881 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.090 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 10:56 AM
+
+   *** Entered Configuration Mode ***   
+001/01/20 10:56 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 10:56 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/01/20 10:56 AM
+
+Logon:                               Ray
+001/01/20 10:57 AM
+
+   *** Entered Configuration Mode ***   
+001/01/20 10:57 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 10:57 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/01/20 10:57 AM
+
+Logon:                               Ray
+001/01/20 10:59 AM
+
+
+   *** Entered Configuration Mode ***   
+001/01/20 10:59 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 10:59 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/01/20 10:59 AM
+
+Logon:                               Ray
+001/01/20 10:59 AM
+
+   *** Entered Configuration Mode ***   
+001/01/20 10:59 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 10:59 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/01/20 10:59 AM
+
+Logon:                               Ray
+001/01/20 11:19 AM
+
+   *** Entered Configuration Mode ***   
+001/01/20 11:19 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 11:19 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/01/20 11:19 AM
+
+Logon:                               Ray
+001/01/20 11:19 AM
+
+   *** Entered Configuration Mode ***   
+001/01/20 11:19 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 11:19 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/01/20 11:19 AM
+
+Logon:                               Ray
+001/01/20 01:38 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.090 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 01:40 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.090 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 01:51 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/01/20 01:51 PM
+Ray
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/01/20 01:51 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.090 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 01:53 PM
+
+(Online Deposit)                        
+Transaction #                         10
+001/01/20 01:53 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     186.00
+Deposit Total                     186.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         11
+001/01/20 01:53 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Other Cash Deposited              100.00
+
+Deposit Total                     100.00
+----------------------------------------
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/01/20 01:53 PM
+Ray
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/01/20 01:53 PM
+Ray
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/01/20 01:54 PM
+Ray
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/01/20 01:54 PM
+
+Logon:                               Ray
+001/01/20 02:01 PM
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         186.00
+Reversed Amount                   186.00
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/01/20 02:01 PM
+Ray
+
+
+
+             TCR Link Error             
+
+             TCR Link Error             
+     *** Deposit Needs Audited! ***     
+
+
+             TCR Link Error             
+      *** Failed To Release TCR ***     
+
+             Deposit Failure            
+
+(Online Deposit)                        
+001/01/20 02:01 PM
+Ray
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/01/20 02:01 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.090 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 02:05 PM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/01/20 02:06 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.090 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 02:07 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.090 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 02:09 PM
+
+Logoff:                              Ray
+001/01/20 02:09 PM
+
+Logon:                               Ray
+001/01/20 02:17 PM
+
+Coin Adjusted                     +10.00
+New Coin Total                     10.00
+
+(Inventory Adjustment)                  
+Transaction #                         12
+001/01/20 02:17 PM
+Ray
+
+Coin                              +10.00
+
+Total Net Added                   +10.00
+Total Net Removed                   -.00
+Total Net Adjusted                +10.00
+----------------------------------------
+
+Logoff:                              Ray
+001/01/20 02:17 PM
+
+Logon:                               Ray
+001/01/20 02:25 PM
+
+Logoff:                              Ray
+001/01/20 02:25 PM
+
+Logon:                               Ray
+001/01/20 02:26 PM
+
+Logoff:                              Ray
+001/01/20 02:26 PM
+
+Logon:                               Ray
+001/01/20 02:28 PM
+
+Logoff:                              Ray
+001/01/20 02:28 PM
+
+Logon:                               Ray
+001/01/20 02:28 PM
+
+Logoff:                              Ray
+001/01/20 02:28 PM
+
+Logon:                               Ray
+001/01/20 02:31 PM
+
+Logoff:                              Ray
+001/01/20 02:31 PM
+
+Logon:                               Ray
+001/01/20 02:32 PM
+
+Logoff:                              Ray
+001/01/20 02:32 PM
+
+Logon:                               Ray
+001/01/20 02:33 PM
+
+Logoff:                              Ray
+001/01/20 02:33 PM
+
+Logon:                               Ray
+001/01/20 02:33 PM
+
+Logoff:                              Ray
+001/01/20 02:33 PM
+
+Logon:                               Ray
+001/01/20 02:59 PM
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+
+
+
+
+
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.090 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 04:14 PM
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+Denom            Pieces            Value
+$100                603         60300.00
+$50                 604         30200.00
+$20                 604         12080.00
+$10                 604          6040.00
+$5                  604          3020.00
+$2                    0              .00
+$1                  604           604.00
+Coin                               10.00
+Starting Inventory             111786.00
+Net Adjustments                    10.00
+Total Inventory                112254.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                603         60300.00
+$50                 604         30200.00
+$20                 604         12080.00
+$10                 604          6040.00
+$5                  604          3020.00
+$1                  604           604.00
+Total Dispensable Notes        112244.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Notes              .00
+
+Cass. 1 $5          604          3020.00
+Cass. 2 $100        603         60300.00
+Cass. 3 $20         604         12080.00
+Cass. 4 $10         604          6040.00
+Cass. 5 $1          604           604.00
+Cass. 6 $50         604         30200.00
+========================================
+
+
+
+
+
+
+
+
+Logoff:                              Ray
+001/01/20 04:14 PM
+
+Logon:                               Ray
+001/01/20 04:15 PM
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.090 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 04:37 PM
+
+   *** Entered Configuration Mode ***   
+001/01/20 04:37 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.091 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 04:38 PM
+
+   *** Entered Configuration Mode ***   
+001/01/20 04:38 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 04:38 PM
+ID:                                  Ray
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.091 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 04:40 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Logoff:                              R
+ay
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.091 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 05:11 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.091 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 05:16 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Logoff:                              Ra
+y
+
+Logon:                               Ra
+y
+
+
+
+
+
+
+
+
+
+
+
+
+
+

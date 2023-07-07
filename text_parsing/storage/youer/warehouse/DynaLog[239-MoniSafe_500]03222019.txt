@@ -1,0 +1,574 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.084 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/22/20 08:54 AM
+
+   *** Entered Configuration Mode ***   
+001/22/20 08:54 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 08:54 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address            192.168.1.202
+TCD/TCR Port                        9998
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator      Glory GFR Series
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+   *** Entered Configuration Mode ***   
+001/22/20 08:54 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 08:54 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address            192.168.1.202
+TCD/TCR Port                        9998
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+Logoff:                              Ray
+001/22/20 08:54 AM
+
+Logon:                               Ray
+001/22/20 09:07 AM
+
+   *** Entered Configuration Mode ***   
+001/22/20 09:07 AM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.085 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.085 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                             Charo
+001/22/20 11:46 AM
+
+Logon:                               Ray
+001/22/20 11:46 AM
+
+(Online Mix Dispense)                   
+Transaction #                         11
+001/22/20 11:52 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/22/20 11:53 AM
+Charo
+
+
+
+(Online Deposit)                        
+Transaction #                         12
+001/22/20 11:54 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+
+Logoff:                            Charo
+001/22/20 11:55 AM
+
+Logon:                             Charo
+001/22/20 11:56 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/22/20 11:57 AM
+Charo
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/22/20 11:58 AM
+Charo
+
+
+
+(Online Mix Dispense)                   
+Transaction #                         13
+001/22/20 11:58 AM
+Charo
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+$1                    3             3.00
+
+Amount Tendered                    33.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         14
+001/22/20 12:06 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         15
+001/22/20 12:12 PM
+Ray
+
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Amount Tendered                     5.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/22/20 12:14 PM
+
+Logon:                               Ray
+001/22/20 12:15 PM
+
+(Online Deposit)                        
+Transaction #                         16
+001/22/20 12:16 PM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    4             4.00
+
+Deposit Total                      39.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         17
+001/22/20 12:17 PM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+$1                    3             3.00
+
+Amount Tendered                    33.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/22/20 12:22 PM
+
+Logon:                               Ray
+001/22/20 12:46 PM
+
+Logoff:                              Ray
+001/22/20 12:59 PM
+
+(Online Mix Dispense)                   
+Transaction #                         18
+001/22/20 01:00 PM
+Charo
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         19
+001/22/20 01:01 PM
+Charo
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+$1                    4             4.00
+
+Deposit Total                      34.00
+----------------------------------------
+
+Logon:                               Ray
+001/22/20 01:04 PM
+
+(Online Mix Dispense)                   
+Transaction #                         20
+001/22/20 01:08 PM
+Charo
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                   65            65.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+Logoff:                              Ray
+001/22/20 01:11 PM
+
+Logon:                               Ray
+001/22/20 01:12 PM
+
+Logoff:                              Ray
+001/22/20 01:13 PM
+
+(Online Deposit)                        
+Transaction #                         21
+001/22/20 01:23 PM
+Charo
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                   65            65.00
+
+Deposit Total                     100.00
+----------------------------------------
+
+Logon:                               Ray
+001/22/20 01:43 PM
+
+(Online Mix Dispense)                   
+Transaction #                         22
+001/22/20 01:50 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         23
+001/22/20 01:53 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         24
+001/22/20 01:58 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         25
+001/22/20 01:59 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         26
+001/22/20 01:59 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         27
+001/22/20 02:00 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.085 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/22/20 03:45 PM
+
+(Online Deposit)                        
+Transaction #                         28
+001/22/20 03:46 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Deposit Total                       2.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         29
+001/22/20 03:49 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.085 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/22/20 04:07 PM
+
+(Online Deposit)                        
+Transaction #                         30
+001/22/20 04:07 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         31
+001/22/20 04:10 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         32
+001/22/20 04:10 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         33
+001/22/20 04:11 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Deposit Total                       2.00
+----------------------------------------
+
+Logoff:                              Ray
+001/22/20 04:11 PM
+
+Logon:                               Ray
+001/22/20 04:14 PM
+
+Logoff:                              Ray
+001/22/20 04:15 PM
+
+Logon:                               Ray
+001/22/20 04:21 PM
+
+Logoff:                              Ray
+001/22/20 04:21 PM
+
+Logon:                               Ray
+001/22/20 04:29 PM
+
+Logoff:                              Ray
+001/22/20 04:29 PM
+
+Logon:                               Ray
+001/22/20 05:11 PM
+
+   *** Entered Configuration Mode ***   
+001/22/20 05:11 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 05:11 PM
+ID:                                  Ray
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0c:27:5c
+LAN 1 IP Address           192.168.1.239
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0c:29:1e
+LAN 2 IP Address           192.168.1.240
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address          192.168.1.68
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.085
+Release Date                    03/21/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           00.00.001
+Min. DynaCash Version          00.00.002
+Min. DynaLog Server Version    00.00.003
+Min. DynaLog Viewer Version    00.00.004
+========================================

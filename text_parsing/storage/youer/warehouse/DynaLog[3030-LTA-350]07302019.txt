@@ -1,0 +1,731 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/30/20 10:06 AM
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:06 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:06 AM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:06 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:06 AM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:06 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:06 AM
+ID:                                  Ray
+
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:06 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:06 AM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:06 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:06 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/30/20 10:06 AM
+
+Logon:                               Ray
+001/30/20 10:15 AM
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:15 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:15 AM
+ID:                                  Ray
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0b:82:7c
+LAN 1 IP Address           192.168.1.204
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0b:83:44
+LAN 2 IP Address           192.168.1.205
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.135
+Release Date                    07/26/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           1.1.0.085
+Min. DynaCash Version          4.3.0.065
+Min. DynaLog Server Version    2.0.0.005
+Min. DynaLog Viewer Version    2.0.0.000
+========================================
+
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:15 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:15 AM
+ID:                                  Ray
+
+
+========================================
+            Security Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         8:00    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                   Yes
+Use DynaCore Alarm                   Yes
+Use Machine Alarm                    Yes
+AutoLogoff                      Disabled
+Duress Lump Sum                        0
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+========================================
+
+
+
+========================================
+            Hardware Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.40
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:15 AM
+ID:                                  Ray
+
+           *** Added User ***           
+001/30/20 10:15 AM
+ID:                               Marcus
+
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:15 AM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Users             
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/30/20 10:15 AM
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+Marcus
+     Master Users
+
+Ray
+     Master Users
+
+========================================
+
+
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:15 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:15 AM
+ID:                                  Ray
+
+
+========================================
+            Security Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         8:00    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                   Yes
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        0
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+========================================
+
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:16 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:16 AM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Groups            
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/30/20 10:16 AM
+
+Dual Control Options
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Transactions HL
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Inventory Control
+     Online Withdrawals
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     Reset TCD/TCR Machine
+     Limit Overrides
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Close Day
+     View Reports (All)
+     Clear Daily Activity Totals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+User Control
+     User Management
+     Group Management
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Settings (Setup)
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Default System
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Transactions LL
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit           2000.00
+     Daily Limit                10000.00
+
+Manual Transactions
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Online Only
+     Online Withdrawals
+     Online Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Report Only
+     View Reports (All)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+IT Only
+     Hardware Setup
+     Network Setup
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Firmware1
+     Firmware Updates
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master Users
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+========================================
+            Hardware Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.40
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator      Cassida Pro Zeus
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:16 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:16 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/30/20 10:20 AM
+
+Logon:                               Ray
+001/30/20 10:32 AM
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:32 AM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                               Ray
+001/30/20 10:36 AM
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:36 AM
+ID:                                  Ray
+
+           *** Added User ***           
+001/30/20 10:36 AM
+ID:                              Marcus2
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:36 AM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Users             
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/30/20 10:36 AM
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+Marcus
+     Master Users
+
+Marcus2
+     No Groups Assigned
+
+Ray
+     Master Users
+
+========================================
+
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:36 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:36 AM
+ID:                                  Ray
+
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:36 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:36 AM
+ID:                                  Ray
+
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:36 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:36 AM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:36 AM
+ID:                                  Ray
+
+          *** Deleted User ***          
+001/30/20 10:37 AM
+ID:                              Marcus2
+    *** Exited Configuration Mode ***   
+001/30/20 10:37 AM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Users             
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/30/20 10:37 AM
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+Marcus
+     Master Users
+
+Ray
+     Master Users
+
+========================================
+
+
+   *** Entered Configuration Mode ***   
+001/30/20 10:37 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:37 AM
+ID:                                  Ray
+   *** Entered Configuration Mode ***   
+001/30/20 10:37 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:38 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/30/20 10:38 AM
+
+Logon:                               Ray
+001/30/20 10:39 AM
+   *** Entered Configuration Mode ***   
+001/30/20 10:39 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:40 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/30/20 10:40 AM
+
+Logon:                               Ray
+001/30/20 10:41 AM
+   *** Entered Configuration Mode ***   
+001/30/20 10:41 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/30/20 10:41 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/30/20 10:46 AM
+   *** Entered Configuration Mode ***   
+001/30/20 10:46 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:46 AM
+ID:                                  Ray
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/30/20 10:46 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/30/20 10:50 AM
+   *** Entered Configuration Mode ***   
+001/30/20 10:50 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 10:50 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/30/20 10:50 AM
+
+Logon:                               Ray
+001/30/20 01:32 PM
+
+
+   *** Entered Configuration Mode ***   
+001/30/20 01:32 PM
+ID:                                  Ray

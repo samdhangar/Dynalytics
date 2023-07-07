@@ -1,0 +1,54 @@
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       OKI TG7 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: LAN           
+
+                 OKI TG7                
+                Test Unit               
+                TCR Hall                
+
+Station #                             92
+
+
+       *** Vault Sell Reversed ***      
+
+Original Amount Sold             1000.00
+Reversed Amount                  1000.00
+
+(Vault Sell)                            
+Transaction #                         47
+Date                             01/28/20
+Time                          4:48:09 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$10                 100          1000.00
+
+Deposit Total                    1000.00
+----------------------------------------
+      TCR Error #FFFF 3EC Occurred      
+  Undocumented TCR Error: Call Service  
+            Deposit Cancelled           
+
+(Vault Sell)                            
+Date                             01/28/20
+Time                          4:49:59 PM
+Teller #                               1
+
+
+       *** Vault Sell Reversed ***      
+
+Original Amount Sold             2000.00
+Reversed Amount                  2000.00
+
+       *** Vault Sell Reversed ***      
+
+Original Amount Sold              500.00
+Reversed Amount                   500.00
+            Deposit Cancelled           
+
+(Vault Sell)                            
+Date                             01/28/20
+Time                          4:51:58 PM
+Teller #                               1
+

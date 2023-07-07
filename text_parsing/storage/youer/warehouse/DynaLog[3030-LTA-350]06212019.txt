@@ -1,0 +1,625 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.127 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/21/20 02:35 PM
+
+   *** Entered Configuration Mode ***   
+001/21/20 02:35 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/21/20 02:35 PM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/21/20 02:35 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/21/20 02:35 PM
+ID:                                  Ray
+
+
+========================================
+              User Settings             
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+
+             TCR Link Error             
+
+             TCR Link Error             
+      *** Inventory Read Failed ***     
+     *** Dispense Needs Audited! ***    
+
+
+             TCR Link Error             
+      *** Failed To Release TCR ***     
+
+            Dispense Failure            
+
+
+(Duress Dispense)                       
+001/21/20 02:38 PM
+Ray
+
+
+Amount Requested                  186.00
+Amount Tendered                      .00
+Balance Due                       186.00
+----------------------------------------
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/21/20 02:38 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.127 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/21/20 02:39 PM
+
+(Online Mix Dispense)                   
+Transaction #                          1
+001/21/20 02:39 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                  51          1020.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Amount Tendered                  1186.00
+----------------------------------------
+
+(Duress Dispense)                       
+Transaction #                          2
+001/21/20 02:39 PM
+Ray
+
+Denom            Pieces            Value
+$100                 11          1100.00
+$50                  11           550.00
+$20                  11           220.00
+$10                  11           110.00
+$5                   11            55.00
+$1                   11            11.00
+
+Amount Tendered                  2046.00
+----------------------------------------
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+001/21/20 02:39 PM
+Ray
+
+
+Amount Requested                  100.00
+Amount Tendered                      .00
+Balance Due                       100.00
+----------------------------------------
+
+
+Logoff:                              Ray
+001/21/20 02:39 PM
+
+Logon:                               Ray
+001/21/20 02:40 PM
+    *** Onboard Alarm Deactivated ***   
+     *** Duress Lockout Released ***    
+001/21/20 02:40 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/21/20 02:41 PM
+
+Logon:                               Ray
+001/21/20 02:41 PM
+
+Logoff:                              Ray
+001/21/20 02:41 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.127 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/21/20 03:04 PM
+
+   *** Entered Configuration Mode ***   
+001/21/20 03:04 PM
+ID:                                  Ray
+
+           *** Edited User ***          
+001/21/20 03:04 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/21/20 03:04 PM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Users             
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/21/20 03:04 PM
+
+Al Bischoff
+     User Control
+     Settings (Setup)
+     Online Only
+
+Al Capone
+     User Control
+     Settings (Setup)
+
+Art Black
+     User Control
+     Settings (Setup)
+
+Chad Davis
+     Online Only
+
+Colonel Mustard
+     User Control
+     Settings (Setup)
+
+Dave Hill
+     Transactions LL
+
+David Gilmour
+     IT Only
+
+Delores Claiborne
+     User Control
+     Settings (Setup)
+
+Dennis Blum
+     User Control
+     Settings (Setup)
+
+Devin Jones
+     User Control
+     Settings (Setup)
+
+Don Jenkins
+     User Control
+     Settings (Setup)
+
+Donna Jones
+     User Control
+     Settings (Setup)
+
+Ernest Hemingway
+     Online Only
+
+Jane Doe
+     User Control
+     Settings (Setup)
+
+Jerry Hermes
+     User Control
+     Settings (Setup)
+
+Jim Jackson
+     User Control
+     Settings (Setup)
+
+Joe Average
+     Inventory Control
+     Close Day
+
+Joe Farrell
+     User Control
+     Settings (Setup)
+
+Josh Cannon
+     IT Only
+
+Little Debbie
+     User Control
+     Settings (Setup)
+
+Mama Mia
+     User Control
+     Settings (Setup)
+Marcus Smith
+     Manual Transactions
+
+Mary Worth
+     User Control
+     Settings (Setup)
+
+Meg Ryan
+     Transactions HL
+     Close Day
+     User Control
+
+Miss Scarlet
+     User Control
+     Settings (Setup)
+
+Missy Messina
+     User Control
+     Settings (Setup)
+
+Mitchell Tyner
+     User Control
+     Settings (Setup)
+
+Mrs. Peacock
+     User Control
+     Settings (Setup)
+
+Nicky Gale
+     User Control
+     Settings (Setup)
+
+Pat Coyle
+     User Control
+     Settings (Setup)
+
+Pat Zambito
+     User Control
+     Settings (Setup)
+
+Patrick Burleson
+     Inventory Control
+     Close Day
+
+Paul Griffin
+     Report Only
+
+Paul Lewis
+     Transactions HL
+     Close Day
+     User Control
+
+Professor Plum
+     User Control
+     Settings (Setup)
+
+Randy Van Vynckt
+     User Control
+     Settings (Setup)
+
+Ray
+     MASTER USER
+
+Rex Morgan
+     User Control
+     Settings (Setup)
+
+Ricky Bates
+     User Control
+     Settings (Setup)
+
+Robert DeNiro
+     Manual Transactions
+
+Robert Lowery
+     User Control
+     Settings (Setup)
+
+Roger Waters
+     Report Only
+
+Ron Van Vynckt
+     User Control
+     Settings (Setup)
+
+Samantha Stevens
+     User Control
+     Settings (Setup)
+
+Sandy Tucker
+     Transactions LL
+
+Stephen Crawford
+     User Control
+     Settings (Setup)
+
+Test
+     Transactions HL
+     User Control
+     Settings (Setup)
+Test1
+     Transactions HL
+     Inventory Control
+     Close Day
+     User Control
+     Settings (Setup)
+     Transactions LL
+     Manual Transactions
+     Report Only
+
+Tom Hanks
+     Transactions HL
+     Inventory Control
+     Close Day
+     User Control
+     Settings (Setup)
+
+Tom Sawyer
+     User Control
+     Settings (Setup)
+
+Wiley Miller
+     Transactions HL
+     Inventory Control
+     User Control
+     Settings (Setup)
+
+Zack Brown
+     Transactions HL
+     Close Day
+     User Control
+     Report Only
+
+========================================
+
+
+
+Logoff:                              Ray
+001/21/20 03:04 PM
+
+Logon:                               Ray
+001/21/20 03:06 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/21/20 03:06 PM
+Ray
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/21/20 03:08 PM
+Ray
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/21/20 03:08 PM
+Ray
+
+
+
+
+Logoff:                              Ray
+001/21/20 03:08 PM
+
+       *** Vault Sell Reversed ***      
+
+Original Amount Sold              100.00
+Reversed Amount                  1186.00
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/21/20 03:09 PM
+Ray
+
+
+
+Logon:                               Ray
+001/21/20 03:09 PM
+
+             TCR Link Error             
+
+             TCR Link Error             
+     *** Deposit Needs Audited! ***     
+
+
+             TCR Link Error             
+      *** Failed To Release TCR ***     
+
+             Deposit Failure            
+
+(Online Deposit)                        
+001/21/20 03:12 PM
+Ray
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/21/20 03:12 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.127 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/21/20 03:14 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/21/20 03:16 PM
+Ray
+
+
+
+Logoff:                              Ray
+001/21/20 03:16 PM
+
+Logon:                               Ray
+001/21/20 03:16 PM
+
+Logoff:                              Ray
+001/21/20 03:16 PM
+
+Logon:                               Ray
+001/21/20 03:17 PM
+
+Logoff:                              Ray
+001/21/20 03:17 PM
+
+Logon:                               Ray
+001/21/20 03:18 PM
+
+   *** Entered Configuration Mode ***   
+001/21/20 03:19 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/21/20 03:20 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/21/20 03:21 PM
+
+Logon:                               Ray
+001/21/20 03:21 PM
+
+(Online Deposit)                        
+Transaction #                          1
+001/21/20 03:21 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     186.00
+Deposit Total                     186.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          2
+001/21/20 03:22 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+
+Machine Total                     150.00
+Deposit Total                     150.00
+----------------------------------------
+
+Logoff:                              Ray
+001/21/20 03:23 PM
+
+Logon:                               Ray
+001/21/20 03:36 PM
+
+Logoff:                              Ray
+001/21/20 03:36 PM
+
+      *** Client Disconnection ***      
+Logoff:                                 
+001/21/20 03:36 PM
+
+(Vault Sell)                            
+Transaction #                          3
+001/21/20 03:50 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+
+Machine Total                     150.00
+Deposit Total                     150.00
+----------------------------------------
+
+       *** Vault Sell Reversed ***      
+
+Original Amount Sold              150.00
+Reversed Amount                  1686.00
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/21/20 03:51 PM
+Ray
+
+
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/21/20 03:51 PM
+Ray
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.127 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/21/20 04:54 PM
+
+Logoff:                              Ray
+001/21/20 04:54 PM

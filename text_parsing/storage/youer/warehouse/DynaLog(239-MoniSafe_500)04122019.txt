@@ -1,0 +1,556 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.092 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                             charo
+001/12/20 10:02 AM                       
+
+   *** Entered Configuration Mode ***   
+001/12/20 10:02 AM                       
+ID:                                charo
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.096 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+
+Logon:                             charo
+001/12/20 12:17 PM                       
+
+(Online Mix Dispense)                   
+Transaction #                          1
+001/12/20 12:17 PM
+Charo
+
+Denom            Pieces            Value
+$10                   7            70.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          2
+001/12/20 12:18 PM
+Charo
+
+Denom            Pieces            Value
+$10                   7            70.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                     100.00
+
+$100                  1           100.00
+$50                   2           100.00
+$20                   5           100.00
+$10                  10           100.00
+$5                   20           100.00
+$2                   50           100.00
+$1                  100           100.00
+
+Other Coin                           .55
+Other Cash Deposited              700.55
+
+Deposit Total                     800.55
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                          3
+001/12/20 12:20 PM
+Paul
+
+Denom            Pieces            Value
+$10                   2            20.00
+$5                    1             5.00
+$1                    5             5.00
+
+Amount Tendered                    30.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          4
+001/12/20 12:21 PM
+Chad
+
+Denom            Pieces            Value
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                      16.00
+Deposit Total                      16.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          5
+001/12/20 12:22 PM
+Ray
+
+Denom            Pieces            Value
+$10                   1            10.00
+$1                    4             4.00
+
+Machine Total                      14.00
+Deposit Total                      14.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                          6
+001/12/20 12:26 PM
+Charo
+
+Denom            Pieces            Value
+$10                  17           170.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         200.00
+Reversed Amount                   200.00
+
+(Online Deposit)                        
+Transaction #                          7
+001/12/20 12:28 PM
+Charo
+
+Denom            Pieces            Value
+$10                  17           170.00
+
+Machine Total                     170.00
+Deposit Total                     170.00
+----------------------------------------
+
+Logoff:                            charo
+001/12/20 12:28 PM                       
+
+Logon:                             charo
+001/12/20 12:29 PM                       
+
+   *** Entered Configuration Mode ***   
+001/12/20 12:29 PM                       
+ID:                                charo
+
+
+    *** Exited Configuration Mode ***   
+001/12/20 12:29 PM                       
+ID:                                charo
+
+
+Logoff:                            charo
+001/12/20 12:29 PM                       
+
+Logon:                             charo
+001/12/20 12:29 PM                       
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/12/20 12:29 PM                       
+charo
+
+
+
+
+(Vault Sell)                            
+Transaction #                          8
+001/12/20 12:29 PM
+Adam
+
+Denom            Pieces            Value
+$1                    3             3.00
+
+Machine Total                       3.00
+Deposit Total                       3.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/12/20 12:29 PM                       
+ID:                                charo
+
+
+    *** Exited Configuration Mode ***   
+001/12/20 12:29 PM                       
+ID:                                charo
+
+
+Logoff:                            charo
+001/12/20 12:29 PM                       
+
+Logon:                             charo
+001/12/20 12:30 PM                       
+
+   *** Entered Configuration Mode ***   
+001/12/20 12:30 PM                       
+ID:                                charo
+
+
+           *** Added User ***           
+001/12/20 12:30 PM                       
+ID:                                Peter
+
+
+
+           *** Edited User ***          
+001/12/20 12:30 PM                       
+ID:                                Peter
+
+
+
+    *** Exited Configuration Mode ***   
+001/12/20 12:30 PM                       
+ID:                                charo
+
+
+========================================
+             DynaCore Users             
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+001/12/20 12:30 PM                       
+Adam
+     MasterUser
+
+Addon
+     MasterUser
+
+Chad
+     MasterUser
+
+Charo
+     MasterUser
+
+Josh
+     MasterUser
+
+Paul
+     MasterUser
+
+Peter
+     MasterUser
+
+Ray
+     MasterUser
+
+========================================
+
+
+
+(Vault Sell)                            
+Transaction #                          9
+001/12/20 12:31 PM
+Peter
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Machine Total                       5.00
+Deposit Total                       5.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         10
+001/12/20 12:32 PM
+Peter
+
+Denom            Pieces            Value
+$1                   33            33.00
+
+Amount Tendered                    33.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         11
+001/12/20 12:37 PM
+Charo
+
+Denom            Pieces            Value
+$5                    4            20.00
+$1                   35            35.00
+
+Machine Total                      55.00
+Total Inventory Added              55.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/12/20 12:38 PM                       
+ID:                                charo
+
+
+    *** Exited Configuration Mode ***   
+001/12/20 12:38 PM                       
+ID:                                charo
+
+
+Logoff:                            charo
+001/12/20 12:38 PM                       
+
+Logon:                             charo
+001/12/20 12:39 PM                       
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/12/20 12:39 PM                       
+charo
+
+
+
+
+   *** Entered Configuration Mode ***   
+001/12/20 12:39 PM                       
+ID:                                charo
+
+
+    *** Exited Configuration Mode ***   
+001/12/20 12:49 PM                       
+ID:                                charo
+
+
+(Online Nominated Dispense)             
+Transaction #                         12
+001/12/20 01:26 PM
+Charo
+
+Denom            Pieces            Value
+$10                  10           100.00
+$1                  100           100.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         13
+001/12/20 01:27 PM
+Charo
+
+Denom            Pieces            Value
+$10                  10           100.00
+$1                   65            65.00
+
+Machine Total                     165.00
+Deposit Total                     165.00
+----------------------------------------
+
+Logoff:                            charo
+001/12/20 01:27 PM                       
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.096 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                             charo
+001/12/20 01:36 PM                       
+
+($1) Assumed Count:                   65
+($1) Actual Count:                   100
+   *** $1 Needs Manual Adjustment! ***  
+
+
+(Auto Audit Note Count)                 
+Transaction #                         14
+001/12/20 01:37 PM
+Charo
+
+Denom            Pieces            Value
+$1                  100           100.00
+
+Audited Total                     100.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.096 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                             Charo
+001/12/20 01:39 PM                       
+
+($1) Assumed Count:                  100
+($1) Actual Count:                   100
+($5) Assumed Count:                   20
+($5) Actual Count:                    20
+($10) Assumed Count:                  20
+($10) Actual Count:                   20
+($20) Assumed Count:                   0
+($20) Actual Count:                    0
+($50) Assumed Count:                   0
+($50) Actual Count:                    0
+
+(Auto Audit Note Count)                 
+Transaction #                         15
+001/12/20 01:40 PM
+Charo
+
+Denom            Pieces            Value
+$50                   0              .00
+$20                   0              .00
+$10                  20           200.00
+$5                   20           100.00
+$1                  100           100.00
+
+Audited Total                     400.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.096 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                             charo
+001/12/20 01:46 PM                       
+
+   *** Entered Configuration Mode ***   
+001/12/20 01:46 PM                       
+ID:                                charo
+
+
+    *** Exited Configuration Mode ***   
+001/12/20 01:46 PM                       
+ID:                                charo
+
+
+Logoff:                            charo
+001/12/20 01:46 PM                       
+
+Logon:                             Charo
+001/12/20 01:49 PM                       
+
+   *** Entered Configuration Mode ***   
+001/12/20 01:50 PM                       
+ID:                                Charo
+
+
+    *** Exited Configuration Mode ***   
+001/12/20 01:50 PM                       
+ID:                                Charo
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0c:27:5c
+LAN 1 IP Address           192.168.1.239
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0c:29:1e
+LAN 2 IP Address           192.168.1.240
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.096
+Release Date                    04/11/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           00.00.001
+Min. DynaCash Version          00.00.002
+Min. DynaLog Server Version    00.00.003
+Min. DynaLog Viewer Version    00.00.004
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.096 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                             charo
+001/12/20 01:51 PM                       
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.096 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+

@@ -1,0 +1,228 @@
+            Side A Logged On            
+Date                             9/28/17
+Time                          8:03:00 AM
+Teller #                             202
+
+            Side A Logged Off           
+Teller #                             202
+Date                             9/28/17
+Time                          8:34:34 AM
+
+            Side A Logged On            
+Date                             9/28/17
+Time                          8:34:00 AM
+Teller #                             243
+
+            Side A Logged Off           
+Teller #                             243
+Date                             9/28/17
+Time                          8:34:06 AM
+
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/28/17
+Time                          8:34:12 AM
+Cassette 1 Adjusted              +300.00
+New Cassette Total               1147.00
+
+
+Cassette 2 Adjusted             +3000.00
+New Cassette Total               5925.00
+
+
+Cassette 3 Adjusted             +4000.00
+New Cassette Total               9570.00
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                            202
+Denom            Pieces            Value
+$100                194         19400.00
+$50                  13           650.00
+$20                 618         12360.00
+$10                 957          9570.00
+$5                 1185          5925.00
+$1                 1147          1147.00
+Starting Inventory              41752.00
+Net Adjustments                  7300.00
+Total Inventory                 49052.00
+
+Cassette 1         1147          1147.00
+Cassette 2         1185          5925.00
+Cassette 3          957          9570.00
+Cassette 4          618         12360.00
+Cassette 5           13           650.00
+Cassette 6          194         19400.00
+========================================
+
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/28/17
+Time                          8:34:55 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/28/17
+Time                          8:34:58 AM
+Cassette 3 Adjusted             +4000.00
+New Cassette Total              13570.00
+
+
+Cassette 4 Adjusted            +20000.00
+New Cassette Total              32360.00
+
+
+Cassette 5 Adjusted            +22000.00
+New Cassette Total              22650.00
+
+
+Cassette 6 Adjusted            +72000.00
+New Cassette Total              91400.00
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                            202
+Denom            Pieces            Value
+$100                914         91400.00
+$50                 453         22650.00
+$20                1618         32360.00
+$10                1357         13570.00
+$5                 1185          5925.00
+$1                 1147          1147.00
+Starting Inventory              41752.00
+Net Adjustments                125300.00
+Total Inventory                167052.00
+
+Cassette 1         1147          1147.00
+Cassette 2         1185          5925.00
+Cassette 3         1357         13570.00
+Cassette 4         1618         32360.00
+Cassette 5          453         22650.00
+Cassette 6          914         91400.00
+========================================
+
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/28/17
+Time                          8:35:48 AM
+****************************************
+            Side A Logged On            
+Date                             9/28/17
+Time                          8:35:00 AM
+Teller #                             202
+            Side B Logged On            
+Date                             9/28/17
+Time                          8:36:36 AM
+Teller #                             243
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/28/17
+Time                          8:39:19 AM
+Cassette 3 Adjusted             -4000.00
+New Cassette Total               9570.00
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                            202
+Denom            Pieces            Value
+$100                914         91400.00
+$50                 453         22650.00
+$20                1618         32360.00
+$10                 957          9570.00
+$5                 1185          5925.00
+$1                 1147          1147.00
+Starting Inventory              41752.00
+Net Adjustments                121300.00
+Total Inventory                163052.00
+
+Cassette 1         1147          1147.00
+Cassette 2         1185          5925.00
+Cassette 3          957          9570.00
+Cassette 4         1618         32360.00
+Cassette 5          453         22650.00
+Cassette 6          914         91400.00
+========================================
+
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/28/17
+Time                          8:39:46 AM
+****************************************
+
+            Side B Logged Off           
+Teller #                             243
+Date                             9/28/17
+Time                          8:40:00 AM
+
+
+
+(Vault Buy)                             
+Transaction #                          1
+Date                             9/28/17
+Time                          9:01:48 AM
+Teller #                             120
+
+Denom            Pieces            Value
+$100                  6           600.00
+$20                  15           300.00
+$5                   16            80.00
+$1                   20            20.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                          2
+Date                             9/28/17
+Time                          9:02:15 AM
+Teller #                             120
+
+Denom            Pieces            Value
+$10                  20           200.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+            Side A Logged Off           
+Teller #                             202
+Date                             9/28/17
+Time                          9:03:31 AM
+
+            Side B Logged On            
+Date                             9/28/17
+Time                          9:04:03 AM
+Teller #                             202
+
+
+(Vault Buy)                             
+Transaction #                          3
+Date                             9/28/17
+Time                          9:27:07 AM
+Teller #                             193
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  20          1000.00
+$20                  50          1000.00
+
+Amount Tendered                  3000.00
+----------------------------------------

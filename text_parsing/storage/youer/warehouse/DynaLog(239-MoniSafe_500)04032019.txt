@@ -1,0 +1,1137 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.092 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+             TCR Link Error             
+
+Logon:                              josh
+001/03/20 12:20 PM                       
+
+             TCR Link Error             
+
+             TCR Link Error             
+             Deposit Failure            
+
+(Online Deposit)                        
+001/03/20 12:29 PM                       
+josh
+
+
+
+
+Logon:                               ray
+001/03/20 12:31 PM                       
+*** Forced Logoff of Non-Admin Users ***
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 12:31 PM                       
+ID:                                  ray
+
+
+    *** Exited Configuration Mode ***   
+001/03/20 12:32 PM                       
+ID:                                  ray
+
+
+========================================
+            Hardware Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                        9998
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator       Cummins JetScan
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0c:27:5c
+LAN 1 IP Address           192.168.1.239
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0c:29:1e
+LAN 2 IP Address           192.168.1.240
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address          192.168.1.25
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.092
+Release Date                    04/02/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           00.00.001
+Min. DynaCash Version          00.00.002
+Min. DynaLog Server Version    00.00.003
+Min. DynaLog Viewer Version    00.00.004
+========================================
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.092 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                              josh
+001/03/20 12:32 PM                       
+
+           *** Ones Empty ***           
+         *** $1 Not Audited! ***        
+($5) Assumed Count:                    0
+($5) Actual Count:                     0
+($10) Assumed Count:                   0
+($10) Actual Count:                    0
+($20) Assumed Count:                   0
+($20) Actual Count:                    0
+($50) Assumed Count:                   0
+($50) Actual Count:                    0
+($100) Assumed Count:                  0
+($100) Actual Count:                   0
+
+(Auto Audit Note Count)                 
+Transaction #                          3
+001/03/20 12:33 PM
+Josh
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+
+Audited Total                        .00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.092 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                              josh
+001/03/20 12:38 PM                       
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited          10.00
+Reversed Amount                    10.00
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/03/20 12:43 PM                       
+josh
+
+
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 12:44 PM                       
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/03/20 12:44 PM                       
+ID:                                 josh
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 12:48 PM                       
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/03/20 12:48 PM                       
+ID:                                 josh
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0c:27:5c
+LAN 1 IP Address           192.168.1.239
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0c:29:1e
+LAN 2 IP Address           192.168.1.240
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address          192.168.1.20
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.092
+Release Date                    04/02/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           00.00.001
+Min. DynaCash Version          00.00.002
+Min. DynaLog Server Version    00.00.003
+Min. DynaLog Viewer Version    00.00.004
+========================================
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.092 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                              josh
+001/03/20 12:51 PM                       
+
+   *** Entered Configuration Mode ***   
+001/03/20 12:51 PM                       
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/03/20 12:51 PM                       
+ID:                                 josh
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 12:51 PM                       
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/03/20 12:51 PM                       
+ID:                                 josh
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0c:27:5c
+LAN 1 IP Address           192.168.1.239
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0c:29:1e
+LAN 2 IP Address           192.168.1.240
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address          192.168.1.26
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.092
+Release Date                    04/02/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           00.00.001
+Min. DynaCash Version          00.00.002
+Min. DynaLog Server Version    00.00.003
+Min. DynaLog Viewer Version    00.00.004
+========================================
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.092 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                              josh
+001/03/20 12:54 PM                       
+
+   *** Entered Configuration Mode ***   
+001/03/20 12:54 PM                       
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/03/20 12:54 PM                       
+ID:                                 josh
+
+
+Logoff:                             josh
+001/03/20 12:54 PM                       
+
+Logon:                              josh
+001/03/20 12:55 PM                       
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         175.00
+Reversed Amount                   175.00
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/03/20 12:57 PM                       
+josh
+
+
+
+
+Logoff:                             josh
+001/03/20 01:00 PM                       
+
+Logon:                              josh
+001/03/20 01:13 PM                       
+
+Coin Adjusted                     +50.00
+New Coin Total                     50.00
+
+(Inventory Adjustment)                  
+Transaction #                          4
+001/03/20 01:13 PM
+Josh
+
+Coin                              +50.00
+
+Total Net Added                   +50.00
+Total Net Removed                   -.00
+Total Net Adjusted                +50.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          5
+001/03/20 01:14 PM
+Josh
+
+Denom            Pieces            Value
+$1                    5             5.00
+
+Machine Total                       5.00
+Total Inventory Added               5.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                          6
+001/03/20 01:14 PM
+Josh
+
+Denom            Pieces            Value
+$1                    5             5.00
+
+Total Inventory Removed             5.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          7
+001/03/20 01:16 PM
+Josh
+
+Denom            Pieces            Value
+$1                  100           100.00
+
+Machine Total                     100.00
+Total Inventory Added             100.00
+----------------------------------------
+
+Logoff:                             josh
+001/03/20 01:16 PM                       
+
+Logon:                              josh
+001/03/20 01:18 PM                       
+
+(Online Nominated Dispense)             
+Transaction #                          8
+001/03/20 01:19 PM
+Josh
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/03/20 01:21 PM                       
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/03/20 01:29 PM                       
+ID:                                 josh
+
+
+Logoff:                             josh
+001/03/20 01:32 PM                       
+
+Logon:                              josh
+001/03/20 01:33 PM                       
+
+   *** Entered Configuration Mode ***   
+001/03/20 01:33 PM                       
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/03/20 01:33 PM                       
+ID:                                 josh
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0c:27:5c
+LAN 1 IP Address           192.168.1.239
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0c:29:1e
+LAN 2 IP Address           192.168.1.240
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address          192.168.1.20
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.092
+Release Date                    04/02/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           00.00.001
+Min. DynaCash Version          00.00.002
+Min. DynaLog Server Version    00.00.003
+Min. DynaLog Viewer Version    00.00.004
+========================================
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.092 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                              josh
+001/03/20 01:35 PM                       
+
+Logoff:                             josh
+001/03/20 01:38 PM                       
+
+Logon:                              Josh
+001/03/20 01:45 PM                       
+
+Logoff:                             Josh
+001/03/20 01:47 PM                       
+
+Logon:                              josh
+001/03/20 02:12 PM                       
+
+   *** Entered Configuration Mode ***   
+001/03/20 02:13 PM                       
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/03/20 02:16 PM                       
+ID:                                 josh
+
+
+Logoff:                             josh
+001/03/20 02:16 PM                       
+
+Logon:                              josh
+001/03/20 02:24 PM                       
+
+Logoff:                             josh
+001/03/20 02:26 PM                       
+
+Logon:                              josh
+001/03/20 02:27 PM                       
+
+Logoff:                             josh
+001/03/20 02:27 PM                       
+
+Logon:                              josh
+001/03/20 02:28 PM                       
+
+Logon:                               ray
+001/03/20 02:28 PM                       
+
+Logoff:                              ray
+001/03/20 02:28 PM                       
+
+Logon:                               ray
+001/03/20 02:29 PM                       
+
+(Online Mix Dispense)                   
+Transaction #                          9
+001/03/20 02:31 PM
+Josh
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+
+Logoff:                             josh
+001/03/20 02:35 PM                       
+
+Logon:                              josh
+001/03/20 02:35 PM                       
+
+(Online Deposit)                        
+Transaction #                         10
+001/03/20 02:36 PM
+Josh
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Machine Total                      10.00
+Deposit Total                      10.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         11
+001/03/20 02:39 PM
+Josh
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+Logoff:                             josh
+001/03/20 02:41 PM                       
+
+Logon:                              josh
+001/03/20 02:47 PM                       
+
+(Online Deposit)                        
+Transaction #                         12
+001/03/20 02:47 PM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$10                  36           360.00
+$5                    4            20.00
+$1                   11            11.00
+
+Machine Total                     541.00
+Deposit Total                     541.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         13
+001/03/20 02:48 PM
+Josh
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         14
+001/03/20 02:51 PM
+Josh
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Other Cash Deposited               10.00
+
+Deposit Total                      10.00
+----------------------------------------
+
+Logoff:                             josh
+001/03/20 02:52 PM                       
+
+Logon:                              josh
+001/03/20 02:53 PM                       
+
+(Online Deposit)                        
+Transaction #                         15
+001/03/20 02:54 PM
+Josh
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Deposit Total                       1.00
+----------------------------------------
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/03/20 02:55 PM                       
+josh
+
+
+
+
+Logoff:                             josh
+001/03/20 03:22 PM                       
+
+Logon:                              josh
+001/03/20 03:50 PM                       
+       *** Cassette 1 Emptied ***       
+       *** Cassette 2 Emptied ***       
+       *** Cassette 3 Emptied ***       
+       *** Cassette 5 Emptied ***       
+       *** Cassette 6 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         16
+001/03/20 03:51 PM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$10                  36           360.00
+$5                    4            20.00
+$1                   91            91.00
+
+Total Inventory Removed           621.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                             josh
+001/03/20 03:54 PM                       
+
+Logon:                              josh
+001/03/20 03:57 PM                       
+
+      *** Client Disconnection ***      
+Logoff:                              ray
+001/03/20 03:57 PM At 001/03/20 03:54 PM
+
+
+Logoff:                             josh
+001/03/20 03:58 PM                       
+
+Logon:                              josh
+001/03/20 06:10 PM                       
+
+   *** Entered Configuration Mode ***   
+001/03/20 06:10 PM                       
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/03/20 06:10 PM                       
+ID:                                 josh
+
+
+Logoff:                             josh
+001/03/20 06:10 PM                       
+
+Logon:                              josh
+001/03/20 06:10 PM                       
+
+   *** Entered Configuration Mode ***   
+001/03/20 06:10 PM                       
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/03/20 06:10 PM                       
+ID:                                 josh
+
+
+Logoff:                             josh
+001/03/20 06:10 PM                       
+
+Logon:                               ray
+001/03/20 06:14 PM                       
+
+
+
+
+
+Logoff:                              ray
+001/03/20 06:14 PM                       
+
+Logon:                              josh
+001/03/20 06:32 PM                       
+
+Logoff:                             josh
+001/03/20 06:32 PM                       
+
+Logon:                              josh
+001/03/20 06:33 PM                       
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.092 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                              josh
+001/03/20 06:34 PM                       
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/03/20 06:36 PM                       
+josh
+
+
+
+
+Logon:                               ray
+001/03/20 06:36 PM                       
+
+Logoff:                              ray
+001/03/20 06:36 PM                       
+
+(Vault Sell)                            
+Transaction #                         17
+001/03/20 06:37 PM
+Ray
+
+Denom            Pieces            Value
+$10                  33           330.00
+$5                    4            20.00
+$1                   22            22.00
+
+Machine Total                     372.00
+Deposit Total                     372.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         18
+001/03/20 06:42 PM
+Josh
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+
+$50                   1            50.00
+$20                   2            40.00
+$10                   1            10.00
+$5                    1             5.00
+
+Other Cash Deposited              105.00
+
+Deposit Total                     125.00
+----------------------------------------
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/03/20 06:55 PM                       
+josh
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                             josh
+001/03/20 06:55 PM                       
+
+Logon:                               Ray
+001/03/20 06:55 PM                       
+
+   *** Entered Configuration Mode ***   
+001/03/20 06:55 PM                       
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/03/20 07:03 PM                       
+ID:                                  Ray
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 07:07 PM                       
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/03/20 07:08 PM                       
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/03/20 07:08 PM                       
+
+Logon:                              josh
+001/03/20 07:15 PM                       
+
+(Online Nominated Dispense)             
+Transaction #                         19
+001/03/20 07:30 PM
+Josh
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Amount Tendered                    20.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/03/20 07:42 PM                       
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/03/20 08:02 PM                       
+ID:                                 josh
+
+
+(Online Mix Dispense)                   
+Transaction #                         20
+001/03/20 08:04 PM
+Josh
+
+Denom            Pieces            Value
+$10                   7            70.00
+$5                    4            20.00
+$1                   10            10.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         21
+001/03/20 08:05 PM
+Josh
+
+Denom            Pieces            Value
+$10                   7            70.00
+$5                    4            20.00
+$1                   10            10.00
+
+Machine Total                     100.00
+
+$1                   17            17.00
+
+Other Cash Deposited               17.00
+
+Deposit Total                     117.00
+----------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Logoff:                             josh
+001/03/20 08:17 PM                       
+
+Logon:                              josh
+001/03/20 08:19 PM                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   *** Entered Configuration Mode ***   
+001/03/20 08:23 PM                       
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/03/20 08:23 PM                       
+ID:                                 josh
+
+
+(Online Deposit)                        
+Transaction #                         22
+001/03/20 08:24 PM
+Josh
+
+Denom            Pieces            Value
+$1                    6             6.00
+
+Machine Total                       6.00
+
+$1                   11            11.00
+
+Other Cash Deposited               11.00
+
+Deposit Total                      17.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/03/20 08:24 PM                       
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/03/20 08:29 PM                       
+ID:                                 josh
+
+
+(Online Deposit)                        
+Transaction #                         23
+001/03/20 09:02 PM
+Josh
+
+Denom            Pieces            Value
+$10                   6            60.00
+$5                    2            10.00
+$1                  170           170.00
+
+Machine Total                     240.00
+Deposit Total                     240.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+       *** Cassette 2 Emptied ***       
+       *** Cassette 3 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         24
+001/03/20 09:18 PM
+Josh
+
+Denom            Pieces            Value
+$10                  39           390.00
+$5                    6            30.00
+$1                  198           198.00
+
+Total Inventory Removed           618.00
+----------------------------------------
+
+Logoff:                             josh
+001/03/20 09:20 PM                       

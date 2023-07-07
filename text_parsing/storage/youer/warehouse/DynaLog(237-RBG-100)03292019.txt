@@ -1,0 +1,286 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/29/20 01:02 PM
+Ray
+
+
+
+(Vault Buy)                             
+Transaction #                          1
+001/29/20 01:07 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          2
+001/29/20 01:08 PM
+Ray
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Machine Total                       2.00
+Deposit Total                       2.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                          3
+001/29/20 01:09 PM
+Ray
+
+Denom            Pieces            Value
+$1                   40            40.00
+
+Amount Tendered                    40.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          4
+001/29/20 01:13 PM
+Ray
+
+Denom            Pieces            Value
+$1                   40            40.00
+
+Machine Total                      40.00
+Deposit Total                      40.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+(Vault Buy)                             
+Transaction #                          5
+001/29/20 01:18 PM
+Ray
+
+Denom            Pieces            Value
+$1                   40            40.00
+
+Amount Tendered                    40.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          6
+001/29/20 01:19 PM
+Ray
+
+Denom            Pieces            Value
+$1                   40            40.00
+
+Machine Total                      40.00
+Deposit Total                      40.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+(Vault Sell)                            
+Transaction #                          7
+001/29/20 01:28 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Deposit Total                       1.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+(Vault Buy)                             
+Transaction #                          8
+001/29/20 01:31 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/29/20 01:32 PM
+Ray
+
+
+
+Logon:                               Ray
+001/29/20 01:33 PM
+
+Logoff:                              Ray
+001/29/20 01:33 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/29/20 05:11 PM
+
+(Online Nominated Dispense)             
+Transaction #                          9
+001/29/20 05:11 PM
+Ray
+
+Denom            Pieces            Value
+$1                   20            20.00
+
+Amount Tendered                    20.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/29/20 05:11 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 05:12 PM
+ID:                                  Ray
+
+
+========================================
+           Inventory Settings           
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+----------------------------------------
+Denom Weighting:   20, 10, 5, 1, 50, 100
+Dispense Odd $50 Note Quantities      No
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+         AutoMix     Warnings   Bundling
+       Lo  Mid  Hi    Hi  Lo    Tlr  Mgr
+$100    0    0   0   900  50      5   10
+$50     0    0   0   900  50      5   10
+$20     5    5   5   900  50      5   10
+$10     3    3   3   900  50      5   10
+$5      5    5   5   900  50      5   10
+$1      5    5   5   900  50      5   10
+========================================
+
+(Vault Buy)                             
+Transaction #                         10
+001/29/20 05:12 PM
+Josh
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         11
+001/29/20 05:13 PM
+Ray
+
+Denom            Pieces            Value
+$1                   30            30.00
+
+Machine Total                      30.00
+Deposit Total                      30.00
+----------------------------------------
+
+Logoff:                              Ray
+001/29/20 05:18 PM

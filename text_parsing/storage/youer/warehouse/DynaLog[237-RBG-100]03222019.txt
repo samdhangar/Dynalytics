@@ -1,0 +1,1696 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.084 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/22/20 05:14 AM
+
+(Online Mix Dispense)                   
+Transaction #                         11
+001/22/20 05:14 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+Logoff:                              Ray
+001/22/20 05:14 AM
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/22/20 05:15 AM
+Ray
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.084 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.084 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.084 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/22/20 05:21 AM
+
+(Vault Sell)                            
+Transaction #                         12
+001/22/20 05:21 AM
+Paul
+
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Deposit Total                      10.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         13
+001/22/20 05:26 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         14
+001/22/20 05:27 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/22/20 05:27 AM
+ID:                                  Ray
+
+           *** Added User ***           
+001/22/20 05:28 AM
+ID:                                joshu
+
+
+    *** Exited Configuration Mode ***   
+001/22/20 05:29 AM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Groups            
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+001/22/20 05:29 AM
+
+Dual Control Options
+     Manual (Offline) Withdrawals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 1
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 2
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     Reset TCD/TCR Machine
+     Limit Overrides
+
+     Transaction Limit             50.00
+     Daily Limit                  100.00
+
+Group 3
+     View Reports (All)
+     Clear Daily Activity Totals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     User Management
+     Group Management
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Default System
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit           2000.00
+     Daily Limit                10000.00
+
+Group 7
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     Online Withdrawals
+     Online Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     View Reports (All)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     Hardware Setup
+     Network Setup
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit
+                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+========================================
+             DynaCore Users             
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+001/22/20 05:29 AM
+
+Addon
+     Group 1
+
+joshu
+     Group 2
+     Group 3
+
+Paul
+     Group 1
+
+Ray
+     Group 1
+
+User 1
+     Group 1
+
+========================================
+
+
+Logoff:                              Ray
+001/22/20 05:29 AM
+
+Logon:                             joshu
+001/22/20 05:30 AM
+
+Logoff:                            joshu
+001/22/20 05:30 AM
+
+Logon:                               ray
+001/22/20 05:30 AM
+
+
+   *** Entered Configuration Mode ***   
+001/22/20 05:30 AM
+ID:                                  ray
+
+           *** Added User ***           
+001/22/20 05:30 AM
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/22/20 05:30 AM
+ID:                                  ray
+
+========================================
+             DynaCore Users             
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+001/22/20 05:30 AM
+
+Addon
+     Group 1
+
+josh
+     Group 1
+
+joshu
+     Group 2
+     Group 3
+
+Paul
+     Group 1
+
+Ray
+     Group 1
+
+User 1
+     Group 1
+
+========================================
+
+
+(Online Mix Dispense)                   
+Transaction #                         15
+001/22/20 05:30 AM
+Ray
+       *** Dual Control Logon ***       
+joshu
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                         16
+001/22/20 05:31 AM
+josh
+
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Deposit Total                     100.00
+----------------------------------------
+
+Logoff:                              ray
+001/22/20 05:35 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.084 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/22/20 09:27 AM
+
+(Online Mix Dispense)                   
+Transaction #                         17
+001/22/20 09:27 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         18
+001/22/20 09:28 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Deposit Total                     100.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         19
+001/22/20 09:29 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         20
+001/22/20 09:38 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Deposit Total                      40.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         21
+001/22/20 09:39 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         22
+001/22/20 09:39 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         23
+001/22/20 09:40 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         24
+001/22/20 09:40 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   4            80.00
+
+Deposit Total                      80.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/22/20 10:30 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 10:30 AM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Groups            
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+001/22/20 10:30 AM
+
+Dual Control Options
+     Manual (Offline) Withdrawals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 1
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 2
+     Online Withdrawals
+     Online Deposits
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     Reset TCD/TCR Machine
+     Limit Overrides
+
+     Transaction Limit             50.00
+     Daily Limit                  100.00
+
+Group 3
+     View Reports (All)
+     Clear Daily Activity Totals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     User Management
+     Group Management
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Default System
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit           2000.00
+     Daily Limit                10000.00
+
+Group 7
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     Online Withdrawals
+     Online Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     View Reports (All)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     Hardware Setup
+     Network Setup
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit
+          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+Logoff:                              Ray
+001/22/20 10:31 AM
+
+Logon:                             joshu
+001/22/20 10:31 AM
+
+Logoff:                            joshu
+001/22/20 10:31 AM
+
+Logon:                               Ray
+001/22/20 10:31 AM
+
+
+   *** Entered Configuration Mode ***   
+001/22/20 10:31 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 10:31 AM
+ID:                                  Ray
+
+========================================
+             DynaCore Groups            
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+001/22/20 10:31 AM
+
+Dual Control Options
+     Manual (Offline) Withdrawals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 1
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 2
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     Reset TCD/TCR Machine
+     Limit Overrides
+
+     Transaction Limit             50.00
+     Daily Limit                  100.00
+
+Group 3
+     View Reports (All)
+     Clear Daily Activity Totals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     User Management
+     Group Management
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Default System
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit           2000.00
+     Daily Limit                10000.00
+
+Group 7
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     Online Withdrawals
+     Online Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     View Reports (All)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     Hardware Setup
+     Network Setup
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit               
+ No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+Logoff:                              Ray
+001/22/20 10:31 AM
+
+Logon:                             joshu
+001/22/20 10:32 AM
+
+(Online Mix Dispense)                   
+Transaction #                         25
+001/22/20 10:33 AM
+joshu
+       *** Dual Control Logon ***       
+ray
+
+Denom            Pieces            Value
+$20                   5           100.00
+$10                   3            30.00
+$5                    4            20.00
+
+Amount Tendered                   150.00
+----------------------------------------
+
+Logoff:                            joshu
+001/22/20 10:33 AM
+
+Logon:                               Ray
+001/22/20 10:34 AM
+
+
+   *** Entered Configuration Mode ***   
+001/22/20 10:34 AM
+ID:                                  Ray
+
+           *** Added User ***           
+001/22/20 10:34 AM
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/22/20 10:34 AM
+ID:                                  Ray
+
+========================================
+             DynaCore Users             
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+001/22/20 10:34 AM
+
+Addon
+     Group 1
+
+josh
+     Group 1
+
+joshu
+     Group 2
+     Group 3
+
+Paul
+     Group 1
+
+Ray
+     Group 1
+
+User 1
+     Group 1
+
+========================================
+
+
+Logoff:                              Ray
+001/22/20 10:34 AM
+
+Logon:                             joshu
+001/22/20 10:34 AM
+
+(Online Deposit)                        
+Transaction #                         26
+001/22/20 10:34 AM
+joshu
+
+
+Denom            Pieces            Value
+$20                   8           160.00
+
+Deposit Total                     160.00
+----------------------------------------
+
+Logoff:                            joshu
+001/22/20 10:34 AM
+
+Logon:                               Ray
+001/22/20 10:35 AM
+
+
+   *** Entered Configuration Mode ***   
+001/22/20 10:35 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 10:35 AM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Groups            
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+001/22/20 10:35 AM
+
+Dual Control Options
+     Manual (Offline) Deposits
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 1
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 2
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     Reset TCD/TCR Machine
+     Limit Overrides
+     Transaction Limit             50.00
+     Daily Limit                  100.00
+
+Group 3
+     View Reports (All)
+     Clear Daily Activity Totals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     User Management
+     Group Management
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Default System
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit           2000.00
+     Daily Limit                10000.00
+
+Group 7
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     Online Withdrawals
+     Online Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     View Reports (All)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     Hardware Setup
+     Network Setup
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit               
+ No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+Logoff:                              Ray
+001/22/20 10:35 AM
+
+Logon:                             joshu
+001/22/20 10:35 AM
+
+Logoff:                            joshu
+001/22/20 10:36 AM
+
+Logon:                               Ray
+001/22/20 10:36 AM
+
+   *** Entered Configuration Mode ***   
+001/22/20 10:38 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 10:38 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+Coin Adjusted                    +100.00
+New Coin Total                    100.00
+
+(Inventory Adjustment)                  
+Transaction #                         27
+001/22/20 10:38 AM
+Ray
+
+Coin                             +100.00
+
+Total Net Added                  +100.00
+Total Net Removed                   -.00
+Total Net Adjusted               +100.00
+----------------------------------------
+
+             Coin Link Error            
+
+(Online Nominated Dispense)             
+Transaction #                         28
+001/22/20 10:39 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   2            40.00
+$10                   1            10.00
+$5                    1             5.00
+$1                  104           104.00
+Coin                                 .59
+
+Amount Tendered                   159.59
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/22/20 10:40 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 10:40 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/22/20 10:40 AM
+
+Logon:                             joshu
+001/22/20 10:41 AM
+
+(Online Deposit)                        
+Transaction #                         29
+001/22/20 10:41 AM
+joshu
+
+
+Denom            Pieces            Value
+$20                   7           140.00
+$10                   4            40.00
+$5                    5            25.00
+$1                  104           104.00
+
+Deposit Total                     309.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         30
+001/22/20 10:42 AM
+joshu
+
+
+Denom            Pieces            Value
+$20                   5           100.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    4             4.00
+Coin                                 .59
+
+Amount Tendered                   159.59
+----------------------------------------
+
+Logoff:                            joshu
+001/22/20 10:43 AM
+
+Logon:                               Ray
+001/22/20 10:43 AM
+
+   *** Entered Configuration Mode ***   
+001/22/20 10:43 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 10:43 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/22/20 10:43 AM
+
+Logon:                             joshu
+001/22/20 10:44 AM
+
+(Online Nominated Dispense)             
+Transaction #                         31
+001/22/20 10:44 AM
+joshu
+
+
+Denom            Pieces            Value
+$20                   2            40.00
+$5                    1             5.00
+$1                  104           104.00
+Coin                                 .49
+
+Amount Tendered                   149.49
+----------------------------------------
+
+Logoff:                            joshu
+001/22/20 10:45 AM
+
+Logon:                               Ray
+001/22/20 10:45 AM
+
+
+   *** Entered Configuration Mode ***   
+001/22/20 10:45 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 10:45 AM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/22/20 10:45 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 10:46 AM
+ID:                                  Ray
+
+
+========================================
+           Inventory Settings           
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+----------------------------------------
+Denom Weighting:   20, 10, 5, 1, 50, 100
+Dispense Odd $50 Note Quantities      No
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+         AutoMix     Warnings   Bundling
+       Lo  Mid  Hi    Hi  Lo    Tlr  Mgr
+$100    0    0   0   900  50     20  100
+$50     0    0   0   900  50     20  100
+$20     5    5   5   900  50     20  100
+$10     3    3   3   900  50     20  100
+$5      5    5   5   900  50     20  100
+$1      5    5   5   900  50     20  100
+========================================
+
+Logoff:                              Ray
+001/22/20 10:46 AM
+
+Logon:                             joshu
+001/22/20 10:46 AM
+
+(Online Nominated Dispense)             
+Transaction #                         32
+001/22/20 10:46 AM
+joshu
+
+
+Denom            Pieces            Value
+$5                   30           150.00
+$1                   50            50.00
+Coin                                 .39
+
+Amount Tendered                   200.39
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         33
+001/22/20 10:48 AM
+joshu
+
+
+Denom            Pieces            Value
+$50                  13           650.00
+$20                  31           620.00
+$10                   5            50.00
+$5                   36           180.00
+$1                  167           167.00
+
+Deposit Total                    1667.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         34
+001/22/20 10:48 AM
+joshu
+
+
+Denom            Pieces            Value
+$5                   20           100.00
+$1                  100           100.00
+Coin                                 .39
+
+Amount Tendered                   200.39
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         35
+001/22/20 11:04 AM
+joshu
+
+
+Denom            Pieces            Value
+$5                   20           100.00
+$1                   95            95.00
+
+Deposit Total                     195.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         36
+001/22/20 11:07 AM
+joshu
+
+
+Denom            Pieces            Value
+
+Deposit Total                        .00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         37
+001/22/20 11:07 AM
+joshu
+
+
+Denom            Pieces            Value
+
+Deposit Total                        .00
+----------------------------------------
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/22/20 11:21 AM
+joshu
+
+
+
+(Online Nominated Dispense)             
+Transaction #                         38
+001/22/20 11:46 AM
+joshu
+
+
+Denom            Pieces            Value
+$1                  100           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+Logoff:                            joshu
+001/22/20 11:47 AM
+
+Logon:                               Ray
+001/22/20 11:54 AM
+
+(Online Deposit)                        
+Transaction #                         39
+001/22/20 12:07 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                   51            51.00
+
+Deposit Total                      51.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         40
+001/22/20 12:08 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                   49            49.00
+
+Deposit Total                      49.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/22/20 12:09 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 12:09 PM
+ID:                                  Ray
+
+(Online Nominated Dispense)             
+Transaction #                         41
+001/22/20 12:10 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                  100           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         42
+001/22/20 12:11 PM
+Ray
+       *** Dual Control Logon ***       
+josh
+
+Denom            Pieces            Value
+$1                  100           100.00
+
+Deposit Total                     100.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         43
+001/22/20 12:13 PM
+josh
+
+
+Denom            Pieces            Value
+$1                  100           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+Logoff:                              Ray
+001/22/20 12:21 PM
+
+Logon:                               Ray
+001/22/20 01:37 PM
+    *** Cassette Cass. 4U Emptied ***   
+    *** Cassette Cass. 4L Emptied ***   
+
+(Inventory Removal)                     
+Transaction #                         44
+001/22/20 02:45 PM
+Ray
+
+
+Denom            Pieces            Value
+$20                 140          2800.00
+
+Total Inventory Removed          2800.00
+----------------------------------------
+    *** Cassette Cass. 1 Emptied ***    
+    *** Cassette Cass. 2 Emptied ***    
+    *** Cassette Cass. 3 Emptied ***    
+    *** Cassette Cass. 4U Emptied ***   
+    *** Cassette Cass. 4L Emptied ***   
+    *** Cassette Cass. 5 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         45
+001/22/20 02:48 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                  134           134.00
+
+Total Inventory Removed           134.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         46
+001/22/20 02:53 PM
+Ray
+
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 190          9500.00
+$20                 139          2780.00
+$10                 256          2560.00
+$5                  164           820.00
+$1                  178           178.00
+
+Total Inventory Added           29838.00
+----------------------------------------
+
+Logoff:                              Ray
+001/22/20 02:54 PM
+
+Logon:                               Ray
+001/22/20 04:59 PM
+
+
+   *** Entered Configuration Mode ***   
+001/22/20 04:59 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 04:59 PM
+ID:                                  Ray
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0c:27:5d
+LAN 1 IP Address           192.168.1.237
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0c:29:1f
+LAN 2 IP Address           192.168.1.238
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address          192.168.1.68
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.084
+Release Date                    03/19/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           00.00.001
+Min. DynaCash Version          00.00.002
+Min. DynaLog Server Version    00.00.003
+Min. DynaLog Viewer Version    00.00.004
+========================================
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.084 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+
+Logon:                               Ray
+001/22/20 05:08 PM
+
+
+   *** Entered Configuration Mode ***   
+001/22/20 05:08 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/22/20 05:09 PM
+ID:                                  Ray
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0c:27:5d
+LAN 1 IP Address           192.168.1.237
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0c:29:1f
+LAN 2 IP Address           192.168.1.238
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.084
+Release Date                    03/19/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           00.00.001
+Min. DynaCash Version          00.00.002
+Min. DynaLog Server Version    00.00.003
+Min. DynaLog Viewer Version    00.00.004
+========================================
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.084 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/22/20 05:10 PM
+
+
+   *** Entered Configuration Mode ***   
+001/22/20 05:10 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 05:10 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/22/20 05:10 PM

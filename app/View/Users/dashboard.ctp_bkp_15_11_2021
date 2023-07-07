@@ -1,0 +1,442 @@
+<?php
+$this->assign('pagetitle', __('Dashboard'));
+$this->Custom->addCrumb(__('Dashboard'));
+$this->start('top_links');
+//echo $this->Html->link('<span>' . __(getReportFilter($this->Session->read('Report.DashboardErrors'))) . '</span>', 'javascript:void(0)', array('data-toggle' => 'tooltip', 'title' => __('Select Date'), 'icon' => 'fa-calendar', 'class' => 'btn btn-primary btn-sm daterange pull-right', 'escape' => false));
+/*echo $this->Html->link('<span>' . __(!empty($this->Session->read('Dashboard.Filedata')) ? getReportFilter($this->Session->read('Dashboard.Filedata')) : 'Last 7 Days') . '</span>', 'javascript:void(0)', array('data-toggle' => 'tooltip', 'title' => __('Select Date'), 'icon' => 'icon-calendar', 'class' => 'btn btn-primary btn-sm daterange pull-right marginleft', 'escape' => false));*/
+echo $this->Html->link('<span>' . __(getReportFilter($this->Session->read('Dashboard.Filter'))) . '</span>', 'javascript:void(0)', array('data-toggle' => 'tooltip', 'title' => __('Select Date'), 'icon' => 'icon-calendar', 'class' => 'btn btn-primary btn-sm daterange pull-right marginleft', 'escape' => false));
+/*
+ echo $this->Html->link('<span>' . __(!empty($this->Session->read('Dashboard.Filter')) ? getReportFilter($this->Session->read('Dashboard.Filter')) : 'Last 7 Days') . '</span>', 'javascript:void(0)', array('data-toggle' => 'tooltip', 'title' => __('Select Date'), 'icon' => 'icon-calendar', 'class' => 'btn btn-primary btn-sm daterange pull-right marginleft', 'escape' => false));*/
+if (isCompany()) {
+    echo $this->Html->link(__('Export CSV'), array('controller' => 'export', 'action' => 'dashboard'), array('title' => __('Export CSV'), 'icon' => 'icon-download', 'class' => 'btn btn-primary btn-sm pull-right marginleft', 'escape' => false));
+}
+if (isCompany() || isAdminDealer() || isSuparDealer()):
+    echo $this->Html->link(__('Inventory Management'), array('controller' => 'analytics', 'action' => 'inventory_management'), array('icon' => 'icon-calendar', 'class' => 'btn btn-primary btn-sm'));
+endif;
+$this->end();
+
+echo $this->Html->script('user/moment');
+ echo $this->Html->script('user/chart');
+  echo $this->Html->script('user/highcharts');
+  echo $this->Html->script('user/daterangepicker');
+ 
+?>
+<!-- <script
+  src="https://code.jquery.com/jquery-3.4.0.slim.js"
+  integrity="sha256-milezx5lakrZu0OP9b2QWFy1ft/UEUK6NH1Jqz8hUhQ="
+  crossorigin="anonymous"></script> -->
+  <div class="row">
+  <div class="col-md-12 col-sm-12 form-group row">
+       <?php// print_r($pie_data); ?> 
+ <?php// print_r($chartDataHardwareError); ?>
+            <div class="box box-primary">
+                 <div class="box-body">
+               
+                    <?php
+
+                    echo $this->Form->create('Analytic', array('url'=>array('controller'=>'users','action'=>'dashboard'),'id' => 'analyticForm', 'inputDefaults' => array('class' => 'form-control', 'div' => array('class' => 'form-group'))));
+
+                    if((!isCompany()) && ($sessionData['user_type']!='Region')):
+                        
+                         echo $this->Form->input('company_id', array('onchange'=>'getResion(this.value)','id' => 'analyCompId', 'label' => __('Financial Institution: '), 'empty' => __('Select All'), 'class' => 'form-control', 'div' => array('class' => 'col-md-3')));
+                    endif;
+
+                     if($sessionData['user_type']!='Region' AND $sessionData['user_type']!='Branch'):
+                      echo $this->Form->input('regiones', array('onchange'=>'getBranches(this.value)','id' => 'analyRegionId', 'label' => __('Region: '), 'empty' => __('Select All'), 'class' => 'form-control', 'div' => array('class' => 'col-md-3')));
+                        
+
+                            endif;
+ 
+
+                    echo $this->Form->input('branch_id', array('onchange'=>'getStations(this.value)','id' => 'analyBranchId', 'label' => __('Branches: '), 'empty' => __('Select All'), 'class' => 'form-control', 'div' => array('class' => 'col-md-3')));
+
+
+                    echo $this->Form->input('station', array('type'=>'select','id' => 'analyStationId', 'label' => __('Station: '), 'empty' => __('Select All'), 'class' => 'form-control', 'div' => array('class' => 'col-md-3')));
+                  echo "<label for='analyBranchId' >&nbsp;</label><br>";
+                    echo $this->Form->submit(__('Search'),array('class'=>'btn btn-primary'));
+                    echo $this->Html->link(__('Reset Filter'), array('controller' => 'users', 'action' => 'dashboard', 'all'), array('title' => __('Reset Filter'), 'icon' => 'fa-refresh', 'class' => 'btn btn-default marginleft', 'escape' => false));
+                    echo $this->Form->end();
+                    ?>
+                </div>
+            </div>
+ 
+        </div>
+        </div>
+    <div class="panel-heading">
+ 
+        <h5 class="panel-title  graphTitle h4"><?php
+         echo getReportFilter($this->Session->read('Dashboard.Filter'));
+
+        ?></h5>
+    </div>    
+ <?php if (!isSupportDealer() && !isCompany()): ?>
+ 
+      <div class="col-md-3 procesedFiles">
+            <div class="panel panel-flat">
+              <div class="panel-body p-b-10">
+                <div class="row">
+                  <div class="col-md-8 col-xs-8">
+                    <div class="text-size-huge text-regular text-blue-dark text-semibold no-padding no-margin m-t-5 m-b-10"><?php echo $totalPFiles; ?></div>
+                    <span class="text-muted"><?php echo __('Total Processed Files'); ?></span>
+                  </div>
+                  <div class="col-md-4 col-xs-4">
+                    <i class="icon-magazine icon-4x icon-light"></i>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+
+          <div class="col-md-3 errors">
+                <div class="panel panel-flat">
+                  <div class="panel-body p-b-10">
+                    <div class="row">
+                      <div class="col-md-8 col-xs-8">
+                        <div class="text-size-huge text-regular text-danger-dark text-semibold no-padding no-margin m-t-5 m-b-10"><?php echo $totalErros; ?></div>
+                        <span class="text-muted"><?php echo __('Total Error/Warnings'); ?></span>
+                      </div>
+                      <div class="col-md-4 col-xs-4">
+                        <i class="icon-warning icon-4x icon-light"></i>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+
+              <div class="col-md-3 notification">
+                    <div class="panel panel-flat">
+                      <div class="panel-body p-b-10">
+                        <div class="row">
+                          <div class="col-md-8 col-xs-8">
+                            <div class="text-size-huge text-regular text-success-dark text-semibold no-padding no-margin m-t-5 m-b-10">  <?php
+                              echo count($tickets['New']) + count($tickets['Open']) + count($tickets['Closed']);
+
+                              ?></div>
+                            <span class="text-muted"><?php echo __('Notification Events'); ?></span>
+                          </div>
+                          <div class="col-md-4 col-xs-4">
+                            <i class="icon-notification2 icon-4x icon-light"></i>
+                          </div>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+
+        <?php if (!isDealer() && !isCompany()) : ?>
+
+          <div class="col-md-3 messages">
+                <div class="panel panel-flat">
+                  <div class="panel-body p-b-10">
+                    <div class="row">
+                      <div class="col-md-8 col-xs-8">
+                        <div class="text-size-huge text-regular text-amber-dark text-semibold no-padding no-margin m-t-5 m-b-10">  <?php echo $totalUnIdentiMsg; ?></div>
+                        <span class="text-muted"><?php echo __('Unidentified Message'); ?></span>
+                      </div>
+                      <div class="col-md-4 col-xs-4">
+                        <i class="icon-envelop3 icon-4x icon-light"></i>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+
+
+
+        <?php endif; ?>
+
+
+        <?php if (isDealer()): ?>
+
+          <div class="col-md-3 clients">
+                <div class="panel panel-flat">
+                  <div class="panel-body p-b-10">
+                    <div class="row">
+                      <div class="col-md-8 col-xs-8">
+                        <div class="text-size-huge text-regular text-amber-dark text-semibold no-padding no-margin m-t-5 m-b-10"> <?php echo!empty($totalClients) ? $totalClients : '0'; ?></div>
+                        <span class="text-muted"><?php echo __('No. of Client'); ?></span>
+                      </div>
+                      <div class="col-md-4 col-xs-4">
+                        <i class="icon-user icon-4x icon-light"></i>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+
+        <?php endif; ?>
+
+        <?php if (isCompanyAdmin()): ?>
+
+          <div class="col-md-3 transactions">
+                <div class="panel panel-flat">
+                  <div class="panel-body p-b-10">
+                    <div class="row">
+                      <div class="col-md-8 col-xs-8">
+                        <div class="text-size-huge text-regular text-danger-dark text-semibold no-padding no-margin m-t-5 m-b-10"> <?php echo $totalTrans; ?></div>
+                        <span class="text-muted"><?php echo __('No. of Transactions'); ?></span>
+                      </div>
+                      <div class="col-md-4 col-xs-4">
+                        <i class="icon-coin-dollar icon-4x icon-light"></i>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+
+
+        <?php endif; ?>
+    </div>
+<?php endif; ?>
+
+<?php if (isDealer() || isSuparAdmin()): ?>
+    <div class="row">
+        <div class="col-md-12">
+
+          <div class="panel panel-flat">
+                  <div class="panel-heading">
+                    <h5 class="panel-title">
+                  <?php echo __('Tickets'); ?>
+                    </h5>
+                  </div>
+                  <div class="panel-body">
+            <!-- Custom Tabs (Pulled to the right) -->
+            <div class="nav-tabs-custom" id="ticketTable">
+                <?php echo $this->element('ticketAjaxTable') ?>
+            </div>
+          </div>
+        </div>
+
+
+        </div>
+    </div>
+<?php endif; ?>
+  
+    <div class="row">
+     
+<div class="col-md-6 col-sm-6 col-xs-12">
+       <div class="panel panel-flat">
+
+           
+              <div class="header-content">
+  <div  class="page-title">Number of Transactions</div>
+  <div class="elements">
+    <a id="export2"><i class="fa icon-download position-left"></i> Export</a>
+  </div>
+</div>
+              
+
+           <div class="panel-body text-center" id="chart-div4">
+               <div class="display-inline-block" id="c3-pie-chart"></div>
+                 
+           </div>
+       </div>
+   </div>
+  <div class="col-md-6 col-sm-6 col-xs-12">
+
+            <div class="panel panel-flat">
+              
+              <div class="header-content">
+  <div  class="page-title">Number of Hardware Errors
+</div>
+  <div class="elements">
+    <a id="export"><i class="fa icon-download position-left"></i> Export</a>
+  </div>
+</div>
+              
+             
+              <div class="panel-body" id="chart-div3">
+
+                <div class="chart" id="google-bar"></div>
+              </div>
+            </div>
+          </div>
+</div>
+
+ 
+ 
+    </div> 
+<?php
+echo $this->Html->script('/app/webroot/js/charts/d3/d3.min');
+echo $this->Html->script('/app/webroot/js/charts/c3/c3.min');
+echo $this->Html->script('/app/webroot/js/charts/jsapi');
+echo $this->Html->script('user/chart');
+
+ ?>
+
+    <?php
+   // echo $this->Html->script('user/chart');
+
+    ?>
+<script type="text/javascript">
+  'use strict';
+// Bar chart
+// ------------------------------
+
+// Initialize chart
+google.load("visualization", "1", {packages:["corechart"]});
+google.setOnLoadCallback(drawBar);
+
+// Chart settings
+ google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+
+// Resize chart
+// ------------------------------
+$(function () {
+    // Resize chart on sidebar width change and window resize
+    $(window).on('resize', resize);
+    $(".sidebar-control").on('click', resize);
+    // Resize function
+    function resize() {
+        drawBar();
+    }
+});
+</script>
+
+    <script type="text/javascript">
+        jQuery(document).ready(function () {
+            var data = '<?php echo $temp; ?>';
+            var xAxisDates = '<?php echo $xAxisDates; ?>';
+            var tickInterval = '<?php echo $tickInterval; ?>';
+            var options = {
+                name: 'Errors',
+                title: 'Errors',
+                xTitle: 'Error Date',
+                yTitle: 'No. of Errors',
+                id: '#container'
+            };
+           
+              var pieData = '<?php echo $pie_data; ?>';
+               
+           pieChart_details(pieData,'c3-pie-chart');
+             var startDate = moment('<?php echo $this->Session->read('Report.DashboardErrors.start_date') ?>', 'YYYY-MM-DD');
+            var endDate = moment('<?php echo $this->Session->read('Report.DashboardErrors.end_date') ?>', 'YYYY-MM-DD');
+            //            addDateRange(startDate, endDate, "users/dashboard", 'multiLineChart');
+
+            var data1 = '<?php echo $temp1; ?>';
+            var options1 = {
+                name: 'Transaction',
+                title: 'Transaction',
+                xTitle: 'Transaction Date',
+                yTitle: 'Transaction',
+                id: '#container1'
+            };
+           
+             var data_hardware = '<?php echo $chartDataHardwareError; ?>';
+            // drawChart3(pieData,'piechart');
+            drawBar(data_hardware);
+            
+            //            addDateRange(startDate, endDate, "users/dashboard", 'multiLineChart');
+
+
+           /* var data2 = '<?php echo $sentTemp; ?>';
+            var options2 = {
+                name: 'Transaction',
+                title: 'Transaction Denom',
+                xTitle: 'Transaction Time',
+                yTitle: 'No. Of Denom',
+                id: '#container2'
+            };
+           // alert(data2);
+
+            var xAxisDatesTime = '<?php echo $xAxisDatesTime; ?>';
+            multiLineChart(data2, xAxisDatesTime, tickInterval, options2);*/
+            var extraParams = {
+                //                pieCatTitle: pieCatTitle,
+                //                pieClientTitle: pieClientTitle,
+                charts: {
+                    0: {
+                        type: 'multiLine',
+                        name: 'Transaction',
+                        title: 'Transaction',
+                        data: 'transactionDetails',
+                        xTitle: 'Transaction Date',
+                        yTitle: 'Transaction',
+                        id: '#container1'
+                    }
+                }
+
+            };
+            addDateRange(startDate, endDate, "users/dashboard", 'multiLineChart', '', extraParams);
+            //            addDateRange(startDate, endDate, "users/dashboard", 'multiLineChart');
+        });
+    </script>
+ 
+
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+        var startDate = moment().subtract('days', 7);
+        var endDate = moment();
+        addDateRange(startDate, endDate, 'dashboardData');
+ 
+
+    });
+
+
+      function getResion(compId)
+    {
+       
+        jQuery.ajax({
+            url: BaseUrl + "/company_branches/get_region/"+ compId,
+            type:'post',
+            success:function(response){
+                
+                jQuery('#analyRegionId').html(response);
+                jQuery('#analyBranchId').html('<option value="">Select All</option>');
+                jQuery('#analyStationId').html('<option value="">Select All</option>');
+            },
+            error:function(e){
+                
+            }
+        });
+    }
+        function getBranches(compId)
+    {
+         if(compId==''){
+jQuery('#analyBranchId').html('<option value="">Select All</option>');
+jQuery('#analyStationId').html('<option value="">Select All</option>');
+        }else{
+        jQuery.ajax({
+            url: BaseUrl + "/company_branches/get_branches/"+ compId,
+            type:'post',
+            success:function(response){
+                
+                jQuery('#analyBranchId').html(response); 
+                jQuery('#analyStationId').html('<option value="">Select All</option>');
+            },
+            error:function(e){
+                
+            }
+        });
+      }
+    }
+    
+    function getStations(branchId)
+    {
+          if(branchId==''){
+ jQuery('#analyStationId').html('<option value="">Select All</option>');
+        }else{
+        
+        jQuery.ajax({
+            url: BaseUrl + "/company_branches/get_stations/"+ branchId,
+            type:'post',
+            data: {data:jQuery('#analyBranchId').val()},
+            success:function(response){
+                 
+                jQuery('#analyStationId').html(response);
+            },
+            error:function(e){
+               
+            }
+        });
+      }
+    }
+</script>
+

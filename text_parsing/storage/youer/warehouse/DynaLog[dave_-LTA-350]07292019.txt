@@ -1,0 +1,243 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+   *** Entered Configuration Mode ***   
+001/29/20 08:26 AM
+ID:                                Addon
+
+
+    *** Exited Configuration Mode ***   
+001/29/20 08:26 AM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+   *** Entered Configuration Mode ***   
+001/29/20 10:51 AM
+ID:                                Addon
+
+
+    *** Exited Configuration Mode ***   
+001/29/20 10:51 AM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                               Ray
+001/29/20 03:02 PM
+
+
+   *** Entered Configuration Mode ***   
+001/29/20 03:02 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/29/20 03:18 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/29/20 03:19 PM
+
+
+Logon:                               Ray
+001/29/20 03:29 PM
+
+
+   *** Entered Configuration Mode ***   
+001/29/20 03:29 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/29/20 03:29 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/29/20 03:29 PM
+
+
+Logon:                               Ray
+001/29/20 03:43 PM
+
+
+   *** Entered Configuration Mode ***   
+001/29/20 03:43 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/29/20 03:43 PM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.58
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator      Glory GFR Series
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                               Ray
+001/29/20 03:47 PM
+
+
+   *** Entered Configuration Mode ***   
+001/29/20 03:47 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/29/20 03:47 PM
+ID:                                  Ray
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0b:82:d1
+LAN 1 IP Address           192.168.1.213
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0b:83:99
+LAN 2 IP Address                 0.0.0.0
+LAN 2 Subnet                     0.0.0.0
+LAN 2 Gateway                    0.0.0.0
+LAN 2 DNS                        0.0.0.0
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.128
+Release Date                    07/01/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           1.1.0.085
+Min. DynaCash Version          4.3.0.065
+Min. DynaLog Server Version    2.0.0.005
+Min. DynaLog Viewer Version    2.0.0.000
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+

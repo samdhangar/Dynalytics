@@ -1,0 +1,772 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             777
+Branch:                    Marcus Branch
+Region:                    Marcus Region
+
+  *** Automatic System Memory Clear *** 
+
+
+
+Logon:                               Ray
+001/22/20 08:55 AM
+
+
+   *** Entered Configuration Mode ***   
+001/22/20 08:55 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/22/20 08:55 AM
+ID:                                  Ray
+
+
+   *** Entered Configuration Mode ***   
+001/22/20 08:56 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/22/20 08:56 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                             777
+Branch:                    Marcus Branch
+Region:                    Marcus Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             777
+Branch:                    Marcus Branch
+Region:                    Marcus Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+001/22/20 09:42 AM
+
+   *** Entered Configuration Mode ***   
+001/22/20 09:42 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 09:42 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/22/20 09:42 AM
+
+Logon:                               Ray
+001/22/20 09:44 AM
+
+   *** Entered Configuration Mode ***   
+001/22/20 09:44 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 09:44 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/22/20 09:44 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             777
+Branch:                    Marcus Branch
+Region:                    Marcus Region
+
+
+Logon:                               Ray
+001/22/20 09:46 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/22/20 09:46 AM
+Ray
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             777
+Branch:                    Marcus Branch
+Region:                    Marcus Region
+
+
+Logon:                               Ray
+001/22/20 09:49 AM
+
+Logoff:                              Ray
+001/22/20 09:49 AM
+
+Logon:                               Ray
+001/22/20 09:53 AM
+
+Logoff:                              Ray
+001/22/20 09:53 AM
+
+Logon:                               Ray
+001/22/20 10:47 AM
+
+Logoff:                              Ray
+001/22/20 10:47 AM
+
+Logon:                               Ray
+001/22/20 11:12 AM
+
+Logoff:                              Ray
+001/22/20 11:12 AM
+
+Logon:                               Ray
+001/22/20 01:36 PM
+
+             TCR Link Error             
+       *** Op Cassette Emptied ***      
+
+(Reconciled OPs Cassette)               
+Transaction #                          1
+001/22/20 01:36 PM
+Ray
+
+
+----------------------------------------
+         Overflow Notes Removed         
+----------------------------------------
+Denom            Pieces            Value
+
+Overflow Notes Removed               .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$2                   34            68.00
+
+Reloaded Notes                     68.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                   34           -68.00
+Differences                       +68.00
+----------------------------------------
+
+Logoff:                              Ray
+001/22/20 01:38 PM
+
+Logon:                               Ray
+001/22/20 01:40 PM
+
+Logoff:                              Ray
+001/22/20 01:40 PM
+
+Logon:                               Ray
+001/22/20 01:41 PM
+
+             TCR Link Error             
+
+Logoff:                              Ray
+001/22/20 01:42 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             777
+Branch:                    Marcus Branch
+Region:                    Marcus Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+001/22/20 01:44 PM
+       *** Op Cassette Emptied ***      
+
+(Reconciled OPs Cassette)               
+Transaction #                          2
+001/22/20 01:45 PM
+Ray
+
+
+----------------------------------------
+         Overflow Notes Removed         
+----------------------------------------
+Denom            Pieces            Value
+
+Overflow Notes Removed               .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$2                   35            70.00
+
+Reloaded Notes                     70.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                   35           -70.00
+Differences                       +70.00
+----------------------------------------
+
+Logoff:                              Ray
+001/22/20 01:46 PM
+
+Logon:                               Ray
+001/22/20 01:49 PM
+
+             TCR Link Error             
+
+Logoff:                              Ray
+001/22/20 01:50 PM
+
+Logon:                               Ray
+001/22/20 01:54 PM
+
+             TCR Link Error             
+
+Logoff:                              Ray
+001/22/20 01:56 PM
+
+Logon:                               Ray
+001/22/20 02:03 PM
+
+
+Logoff:                              Ray
+001/22/20 02:03 PM
+
+
+Logon:                               Ray
+001/22/20 02:13 PM
+
+
+   *** Entered Configuration Mode ***   
+001/22/20 02:13 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             777
+Branch:                    Marcus Branch
+Region:                    Marcus Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             777
+Branch:                    Marcus Branch
+Region:                    Marcus Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             777
+Branch:                    Marcus Branch
+Region:                    Marcus Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+001/22/20 02:19 PM
+
+   *** Entered Configuration Mode ***   
+001/22/20 02:19 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             777
+Branch:                    Marcus Branch
+Region:                    Marcus Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+001/22/20 02:20 PM
+
+   *** Entered Configuration Mode ***   
+001/22/20 02:20 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 02:21 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/22/20 02:21 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             777
+Branch:                    Marcus Branch
+Region:                    Marcus Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             777
+Branch:                    Marcus Branch
+Region:                    Marcus Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+001/22/20 02:22 PM
+       *** Op Cassette Emptied ***      
+
+(Reconciled OPs Cassette)               
+Transaction #                          3
+001/22/20 02:22 PM
+Ray
+
+
+----------------------------------------
+         Overflow Notes Removed         
+----------------------------------------
+Denom            Pieces            Value
+
+Overflow Notes Removed               .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+Logoff:                              Ray
+001/22/20 02:25 PM
+
+Logon:                               Ray
+001/22/20 02:32 PM
+
+(Online Deposit)                        
+Transaction #                          4
+001/22/20 02:32 PM
+Ray
+
+
+Denom            Pieces            Value
+$2                   35            70.00
+
+Deposit Total                      70.00
+----------------------------------------
+       *** Op Cassette Emptied ***      
+
+(Reconciled OPs Cassette)               
+Transaction #                          5
+001/22/20 02:33 PM
+Ray
+
+
+----------------------------------------
+         Overflow Notes Removed         
+----------------------------------------
+Denom            Pieces            Value
+
+Overflow Notes Removed               .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$2                   30            60.00
+
+Reloaded Notes                     60.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                   30           -60.00
+Differences                       +60.00
+----------------------------------------
+
+Logoff:                              Ray
+001/22/20 02:38 PM
+
+Logon:                               Ray
+001/22/20 03:39 PM
+
+(Online Deposit)                        
+Transaction #                          6
+001/22/20 03:39 PM
+Ray
+
+
+Denom            Pieces            Value
+$2                    4             8.00
+
+Deposit Total                       8.00
+----------------------------------------
+       *** Op Cassette Emptied ***      
+
+(Reconciled OPs Cassette)               
+Transaction #                          7
+001/22/20 03:40 PM
+Ray
+
+
+----------------------------------------
+         Overflow Notes Removed         
+----------------------------------------
+Denom            Pieces            Value
+
+Overflow Notes Removed               .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$2                    1             2.00
+
+Reloaded Notes                      2.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                    1            -2.00
+Differences                        +2.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          8
+001/22/20 03:41 PM
+Ray
+
+
+Denom            Pieces            Value
+$2                   32            64.00
+
+Deposit Total                      64.00
+----------------------------------------
+       *** Op Cassette Emptied ***      
+
+(Reconciled OPs Cassette)               
+Transaction #                          9
+001/22/20 03:42 PM
+Ray
+
+
+----------------------------------------
+         Overflow Notes Removed         
+----------------------------------------
+Denom            Pieces            Value
+
+Overflow Notes Removed               .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                   32            64.00
+
+Removed (Mutilated) Notes          64.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                   32           -64.00
+Differences                       +64.00
+----------------------------------------
+        TCR Error #2124 Occurred        
+        TCR Error #0000 Occurred        
+     *** Deposit Needs Audited! ***     
+             Deposit Failure            
+
+(Online Deposit)                        
+001/22/20 03:44 PM
+Ray
+
+
+
+(Online Deposit)                        
+Transaction #                         10
+001/22/20 03:44 PM
+Ray
+
+
+Denom            Pieces            Value
+$2                   15            30.00
+
+Deposit Total                      30.00
+----------------------------------------
+       *** Op Cassette Emptied ***      
+
+(Reconciled OPs Cassette)               
+Transaction #                         11
+001/22/20 03:45 PM
+Ray
+
+
+----------------------------------------
+         Overflow Notes Removed         
+----------------------------------------
+Denom            Pieces            Value
+
+Overflow Notes Removed               .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                   35            70.00
+
+Removed (Mutilated) Notes          70.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                   35           -70.00
+Differences                       +70.00
+----------------------------------------
+
+Logoff:                              Ray
+001/22/20 03:48 PM
+
+Logon:                               Ray
+001/22/20 04:19 PM
+        TCR Error #1417 Occurred        
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+001/22/20 04:23 PM
+Ray
+
+
+Amount Requested                   21.00
+Amount Tendered                      .00
+Balance Due                        21.00
+----------------------------------------
+
+
+ *** Reject Box Was Emptied To Exit *** 
+
+(Reconciled Rejects)                    
+Transaction #                         12
+001/22/20 04:25 PM
+Ray
+
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$1                    2             2.00
+
+Reloaded Notes                      2.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$1                    2             2.00
+
+Removed (Mutilated) Notes           2.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$1                    4            -4.00
+Differences                        +4.00
+----------------------------------------
+
+Logoff:                              Ray
+001/22/20 04:28 PM
+
+Logon:                               Ray
+001/22/20 04:33 PM
+
+(Online Deposit)                        
+Transaction #                         13
+001/22/20 04:33 PM
+Ray
+
+
+Denom            Pieces            Value
+$2                   34            68.00
+
+Deposit Total                      68.00
+----------------------------------------
+       *** Op Cassette Emptied ***      
+
+(Reconciled OPs Cassette)               
+Transaction #                         14
+001/22/20 04:34 PM
+Ray
+
+
+----------------------------------------
+         Overflow Notes Removed         
+----------------------------------------
+Denom            Pieces            Value
+
+Overflow Notes Removed               .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                   35            70.00
+
+Removed (Mutilated) Notes          70.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                   35           -70.00
+Differences                       +70.00
+----------------------------------------
+
+Logoff:                              Ray
+001/22/20 04:34 PM

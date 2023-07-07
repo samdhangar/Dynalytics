@@ -1,0 +1,393 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+
+Logon:                               Ray
+01/06/20 12:27 PM
+     *** Cassette CST-D Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                          1
+01/06/20 12:27 PM
+Ray
+
+Denom            Pieces            Value
+$100                300         30000.00
+
+Total Inventory Removed         30000.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          2
+01/06/20 12:28 PM
+Ray
+
+Denom            Pieces            Value
+$100                300         30000.00
+
+Machine Total                   30000.00
+Total Inventory Added           30000.00
+----------------------------------------
+
+Logoff:                              Ray
+01/06/20 12:28 PM
+
+   *** Entered Configuration Mode ***   
+01/06/20 12:29 PM
+ID:                               Level2
+
+
+Logon:                   Ray's bait shop
+01/06/20 12:29 PM
+
+    *** Exited Configuration Mode ***   
+01/06/20 12:29 PM
+ID:                      Ray's bait shop
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+
+   *** Entered Configuration Mode ***   
+01/06/20 12:32 PM
+ID:                                  OEM
+
+    *** Exited Configuration Mode ***   
+01/06/20 12:32 PM
+ID:                                  OEM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+
+   *** Entered Configuration Mode ***   
+01/06/20 12:33 PM
+ID:                               Level2
+
+
+Logon:                   Ray's bait shop
+01/06/20 12:33 PM
+
+    *** Exited Configuration Mode ***   
+01/06/20 12:33 PM
+ID:                      Ray's bait shop
+
+
+========================================
+              User Settings             
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+
+   *** Entered Configuration Mode ***   
+01/06/20 12:34 PM
+ID:                               Level2
+
+
+Logon:                   Ray's bait shop
+01/06/20 12:34 PM
+
+    *** Exited Configuration Mode ***   
+01/06/20 12:34 PM
+ID:                      Ray's bait shop
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+
+   *** Entered Configuration Mode ***   
+01/06/20 02:38 PM
+ID:                               Level2
+
+Logon:                   Ray's bait shop
+01/06/20 02:38 PM
+
+    *** Exited Configuration Mode ***   
+01/06/20 02:38 PM
+ID:                      Ray's bait shop
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+
+Logon:                               ray
+01/06/20 02:40 PM
+
+(Online Nominated Dispense)             
+Transaction #                          3
+01/06/20 02:40 PM
+Ray
+
+Denom            Pieces            Value
+$10                   1            10.00
+$1                    1             1.00
+
+Amount Tendered                    11.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          4
+01/06/20 02:40 PM
+Ray
+
+Denom            Pieces            Value
+$10                   2            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+Logoff:                              ray
+01/06/20 02:41 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+   *** Entered Configuration Mode ***   
+01/06/20 03:02 PM
+ID:                               Level2
+
+Logon:                   Ray's bait shop
+01/06/20 03:02 PM
+
+    *** Exited Configuration Mode ***   
+01/06/20 03:02 PM
+ID:                      Ray's bait shop
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+  *** Automatic System Memory Clear *** 
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                               ray
+01/06/20 03:12 PM
+
+
+   *** Entered Configuration Mode ***   
+01/06/20 03:12 PM
+ID:                                  ray
+
+
+    *** Exited Configuration Mode ***   
+01/06/20 03:12 PM
+ID:                                  ray
+
+   *** Entered Configuration Mode ***   
+01/06/20 03:12 PM
+ID:                                  ray
+
+    *** Exited Configuration Mode ***   
+01/06/20 03:12 PM
+ID:                                  ray
+
+
+========================================
+            Security Settings           
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         8:00    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                    No
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        0
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  5           500.00
+$50                   5           250.00
+$20                   5           100.00
+$10                   5            50.00
+$5                    5            25.00
+$1                    5             5.00
+========================================
+
+
+
+========================================
+           Inventory Settings           
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+         Low   Mid   High   Weight  Odds
+$100       0     0      0      6     Yes
+$50        0     0      0      5      No
+$20        5     5      5      1     Yes
+$10        3     3      3      2     Yes
+$5         5     5      5      3     Yes
+$1         5     5      5      4     Yes
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+$100      50    900         25       100
+$50       50    900         25       100
+$20       50    900        100       100
+$10       50    900        100       100
+$5        50    900        100       100
+$1        50    900        100       100
+========================================
+
+
+(Online Nominated Dispense)             
+Transaction #                          1
+01/06/20 03:12 PM
+Ray
+
+Denom            Pieces            Value
+$20                   1            20.00
+$5                    1             5.00
+
+Amount Tendered                    25.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/06/20 03:13 PM
+ID:                                  ray
+
+    *** Exited Configuration Mode ***   
+01/06/20 03:13 PM
+ID:                                  ray
+
+
+Logoff:                              ray
+01/06/20 03:13 PM

@@ -1,0 +1,5 @@
+#!/bin/bash
+#Monthly Cron
+        cd /var/www/html/app
+        Console/cake EveryMonth
+

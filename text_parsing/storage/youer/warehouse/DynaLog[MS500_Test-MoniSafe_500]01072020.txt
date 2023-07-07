@@ -1,0 +1,203 @@
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.172 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                      MS500 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+Logon:                             Charo
+00001/07/20 09:35 AM
+
+   *** Entered Configuration Mode ***   
+00001/07/20 09:35 AM
+ID:                                Charo
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.173 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                      MS500 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+Logon:                             charo
+00001/07/20 09:38 AM
+
+   *** Entered Configuration Mode ***   
+00001/07/20 09:38 AM
+ID:                                charo
+
+    *** Exited Configuration Mode ***   
+00001/07/20 09:39 AM
+ID:                                charo
+
+   *** Entered Configuration Mode ***   
+00001/07/20 09:39 AM
+ID:                                charo
+
+    *** Exited Configuration Mode ***   
+00001/07/20 09:39 AM
+ID:                                charo
+
+Logoff:                            charo
+00001/07/20 09:39 AM
+
+Logon:                             charo
+00001/07/20 09:40 AM
+
+Logoff:                            charo
+00001/07/20 09:40 AM
+
+Logon:                             Charo
+00001/07/20 09:42 AM
+
+Logoff:                            Charo
+00001/07/20 09:42 AM
+
+Logon:                             Charo
+00001/07/20 09:42 AM
+
+Logoff:                            Charo
+00001/07/20 09:42 AM
+
+Logon:                             Charo
+00001/07/20 09:43 AM
+
+CST-A ($1) Assumed Count:             98
+CST-A ($1) Actual Count:              98
+CST-B ($20) Assumed Count:            17
+CST-B ($20) Actual Count:             17
+       *** CST-C ($100) Empty ***       
+       *** CST-C Not Audited! ***       
+CST-D ($10) Assumed Count:             1
+CST-D ($10) Actual Count:              1
+        *** CST-E ($5) Empty ***        
+       *** CST-E Not Audited! ***       
+CST-F ($50) Assumed Count:             1
+CST-F ($50) Actual Count:              1
+
+(Auto Audit Note Count)                 
+Transaction #                          1
+00001/07/20 09:53 AM
+Charo
+
+Denom            Pieces            Value
+$50                   1            50.00
+$20                  17           340.00
+$10                   1            10.00
+$1                   98            98.00
+
+Audited Total                     498.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+00001/07/20 10:19 AM
+ID:                                Charo
+
+    *** Exited Configuration Mode ***   
+00001/07/20 10:27 AM
+ID:                                Charo
+
+(Inventory Load)                        
+Transaction #                          2
+00001/07/20 10:29 AM
+Charo
+
+Denom            Pieces            Value
+$10                  82           820.00
+$5                   95           475.00
+$1                 1404          1404.00
+
+Machine Total                    2699.00
+Total Inventory Added            2699.00
+----------------------------------------
+
+Coin Adjusted                    +300.33
+New Coin Total                    300.33
+
+(Inventory Adjustment)                  
+Transaction #                          3
+00001/07/20 11:12 AM
+Charo
+
+Coin                             +300.33
+
+Total Net Added                  +300.33
+Total Net Removed                   -.00
+Total Net Adjusted               +300.33
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                          4
+00001/07/20 11:13 AM
+Charo
+
+Denom            Pieces            Value
+Coin                                 .33
+
+Amount Tendered                      .33
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                          5
+00001/07/20 11:13 AM
+Charo
+
+Denom            Pieces            Value
+Coin                                 .99
+
+Amount Tendered                      .99
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                          6
+00001/07/20 11:13 AM
+Charo
+
+Denom            Pieces            Value
+Coin                                 .33
+
+Amount Tendered                      .33
+----------------------------------------
+
+Logon:                              josh
+00001/07/20 11:24 AM
+
+(Online Deposit)                        
+Transaction #                          7
+00001/07/20 11:25 AM
+Josh
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  18           360.00
+
+Machine Total                     860.00
+
+$100                  3           300.00
+$50                   8           400.00
+
+Other Cash Deposited              700.00
+
+Deposit Total                    1560.00
+----------------------------------------
+
+Logoff:                            Charo
+00001/07/20 01:19 PM

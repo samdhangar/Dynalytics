@@ -1,0 +1,406 @@
+
+    *** Exited Configuration Mode ***   
+01/25/20 10:50 AM
+ID:                                Addon
+
+
+========================================
+             DynaCore Groups            
+
+Station:                             142
+Branch:                      Test Branch
+Region:                      Test Region
+01/25/20 10:50 AM
+
+Group 0
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+MASTER
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 2
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 3
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+========================================
+             DynaCore Users             
+
+Station:                             142
+Branch:                      Test Branch
+Region:                      Test Region
+01/25/20 10:50 AM
+
+Addon_local
+     MASTER
+
+rAY
+     MASTER
+
+========================================
+
+
+
+========================================
+            Hardware Settings           
+Station:                             142
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                             142
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0b:82:63
+LAN 1 IP Address           192.168.1.239
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                        0.0.0.0
+
+LAN 2 MAC Address      00:03:f4:0b:83:2b
+LAN 2 IP Address                 0.0.0.0
+LAN 2 Subnet                     0.0.0.0
+LAN 2 Gateway                    0.0.0.0
+LAN 2 DNS                        0.0.0.0
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.151
+Release Date                    10/04/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/21
+
+Min. Console Version           1.1.0.085
+Min. DynaCash Version          4.3.0.065
+Min. DynaLog Server Version    2.0.0.005
+Min. DynaLog Viewer Version    2.0.0.000
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.151 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             142
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/25/20 10:51 AM
+
+             TCR Link Error             
+             Deposit Failure            
+
+(Online Deposit)                        
+01/25/20 10:51 AM
+Ray
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/25/20 10:52 AM
+
+Logon:                               Ray
+01/25/20 10:53 AM
+        TCR Error #141A Occurred        
+        TCR Error #0000 Occurred        
+      *** Inventory Read Failed ***     
+     *** Dispense Needs Audited! ***    
+      *** Failed To Release TCR ***     
+        TCR Error #E102 Occurred        
+
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+01/25/20 10:54 AM
+Ray
+
+
+Amount Requested                  100.00
+Amount Tendered                      .00
+Balance Due                       100.00
+----------------------------------------
+
+
+
+Logoff:                              Ray
+01/25/20 10:54 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.151 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             142
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+01/25/20 11:58 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/25/20 11:58 AM
+Ray
+
+
+
+Logoff:                              Ray
+01/25/20 11:58 AM
+
+Logon:                               Ray
+01/25/20 11:58 AM
+
+Logoff:                              Ray
+01/25/20 11:58 AM
+
+Logon:                               Ray
+01/25/20 12:00 PM
+
+   *** Entered Configuration Mode ***   
+01/25/20 12:00 PM
+ID:                                  Ray
+
+           *** Added User ***           
+01/25/20 12:00 PM
+ID:                              Patrick
+
+
+    *** Exited Configuration Mode ***   
+01/25/20 12:00 PM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Users             
+
+Station:                             142
+Branch:                      Test Branch
+Region:                      Test Region
+01/25/20 12:00 PM
+
+Addon_local
+     MASTER
+
+Patrick
+     MASTER
+
+rAY
+     MASTER
+
+========================================
+
+
+Logoff:                              Ray
+01/25/20 12:00 PM
+
+Logon:                           Patrick
+01/25/20 12:01 PM
+
+   *** Entered Configuration Mode ***   
+01/25/20 12:01 PM
+ID:                              Patrick
+
+          *** Deleted User ***          
+01/25/20 12:01 PM
+ID:                                  rAY
+
+    *** Exited Configuration Mode ***   
+01/25/20 12:01 PM
+ID:                              Patrick
+
+
+========================================
+             DynaCore Users             
+
+Station:                             142
+Branch:                      Test Branch
+Region:                      Test Region
+01/25/20 12:01 PM
+
+Addon_local
+     MASTER
+
+Patrick
+     MASTER
+
+========================================
+
+
+
+Logoff:                          Patrick
+01/25/20 12:01 PM
+
+Logon:                           Patrick
+01/25/20 12:23 PM
+
+Logoff:                          Patrick
+01/25/20 12:23 PM
+
+Logon:                           Patrick
+01/25/20 12:24 PM
+
+   *** Entered Configuration Mode ***   
+01/25/20 12:25 PM
+ID:                              Patrick
+
+    *** Exited Configuration Mode ***   
+01/25/20 02:14 PM
+ID:                              Patrick
+
+
+Logoff:                          Patrick
+01/25/20 02:14 PM

@@ -1,0 +1,318 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.135 (MoniSafe 500S)   
+
+              DynaCore Test             
+        9000 Stinson Hartis Road        
+         Indian Trail, NC 28079         
+          Drive Through Window          
+
+Station:                              47
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               ray
+001/31/20 08:59 AM
+
+(Online Deposit)                        
+Transaction #                        118
+001/31/20 09:00 AM
+Ray
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   2           100.00
+$20                  33           660.00
+$10                  39           390.00
+$5                   30           150.00
+$2                    2             4.00
+$1                  204           204.00
+
+Machine Total                    2108.00
+Deposit Total                    2108.00
+----------------------------------------
+
+Logoff:                              ray
+001/31/20 09:02 AM
+
+Logon:                               ray
+001/31/20 09:03 AM
+
+   *** Entered Configuration Mode ***   
+001/31/20 09:05 AM
+ID:                                  ray
+
+    *** Exited Configuration Mode ***   
+001/31/20 09:05 AM
+ID:                                  ray
+
+   *** Entered Configuration Mode ***   
+001/31/20 09:07 AM
+ID:                                  ray
+
+    *** Exited Configuration Mode ***   
+001/31/20 09:08 AM
+ID:                                  ray
+
+Logoff:                              ray
+001/31/20 09:46 AM
+
+Logon:                           Stephen
+001/31/20 09:48 AM
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                        119
+001/31/20 09:51 AM
+Stephen
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$5                    2            10.00
+$2                    4             8.00
+
+Reject Notes Removed               18.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Removed (Mutilated) Notes           4.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$5                    2           +10.00
+$2                    2            +4.00
+Differences                       +14.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/31/20 09:56 AM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/31/20 09:56 AM
+ID:                              Stephen
+
+
+Logoff:                          Stephen
+001/31/20 09:56 AM
+
+Logon:                           Stephen
+001/31/20 09:58 AM
+
+(Online Mix Dispense)                   
+Transaction #                        120
+001/31/20 09:58 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/31/20 09:59 AM
+
+Logon:                           Stephen
+001/31/20 10:33 AM
+
+(Online Deposit)                        
+Transaction #                        121
+001/31/20 10:33 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$2                    2             4.00
+$1                    5             5.00
+
+Machine Total                     504.00
+Deposit Total                     504.00
+----------------------------------------
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                        122
+001/31/20 10:50 AM
+Stephen
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Reject Notes Removed                4.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                    2            +4.00
+Differences                        +4.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/31/20 10:56 AM
+
+Logon:                           Stephen
+001/31/20 01:03 PM
+
+(Online Deposit)                        
+Transaction #                        123
+001/31/20 01:03 PM
+Stephen
+
+Denom            Pieces            Value
+$2                    2             4.00
+
+Machine Total                       4.00
+Deposit Total                       4.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/31/20 01:12 PM
+
+
+Logon:                           Stephen
+001/31/20 01:13 PM
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                        124
+001/31/20 01:13 PM
+Stephen
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Reject Notes Removed                4.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                    2            +4.00
+Differences                        +4.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                        125
+001/31/20 01:15 PM
+Stephen
+
+Denom            Pieces            Value
+$2                    2             4.00
+
+Machine Total                       4.00
+Deposit Total                       4.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/31/20 01:18 PM
+
+Logon:                           Stephen
+001/31/20 01:22 PM
+       TCR Error #570Q300 Occurred      
+** Possible Exposed Notes Need Audit! **
+       *** Rejects NOT Emptied ***      
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.135 (MoniSafe 500S)   
+
+              DynaCore Test             
+        9000 Stinson Hartis Road        
+         Indian Trail, NC 28079         
+          Drive Through Window          
+
+Station:                              47
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+          *** Power Failed ***          
+
+
+(Reconciled Rejects)                    
+Transaction #                        126
+001/31/20 01:22 PM
+Stephen
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Reject Notes Removed                4.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                    2            +4.00
+Differences                        +4.00
+----------------------------------------

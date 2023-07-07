@@ -1,0 +1,627 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.084 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.084 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.084 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/21/20 02:44 PM
+
+Logon:                              paul
+001/21/20 02:44 PM
+
+(Online Deposit)                        
+Transaction #                          7
+001/21/20 02:44 PM
+Ray
+
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    9             9.00
+
+Deposit Total                     194.00
+----------------------------------------
+
+Logoff:                              Ray
+001/21/20 02:45 PM
+
+Logon:                               Ray
+001/21/20 02:46 PM
+
+(Online Mix Dispense)                   
+Transaction #                          8
+001/21/20 02:47 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Amount Tendered                     2.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          9
+001/21/20 02:48 PM
+Ray
+
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Total Inventory Added               2.00
+----------------------------------------
+
+Logoff:                             paul
+001/21/20 02:50 PM
+
+Logon:                              paul
+001/21/20 02:51 PM
+
+Logoff:                             paul
+001/21/20 02:51 PM
+
+Logoff:                              Ray
+001/21/20 02:54 PM
+
+Logon:                               Ray
+001/21/20 02:55 PM
+
+Logoff:                              Ray
+001/21/20 02:56 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.084 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/21/20 04:54 PM
+
+   *** Entered Configuration Mode ***   
+001/21/20 04:54 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/21/20 04:54 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/21/20 04:54 PM
+
+Logon:                               Ray
+001/21/20 05:00 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/21/20 05:00 PM
+Ray
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/21/20 05:00 PM
+Ray
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/21/20 05:00 PM
+Ray
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/21/20 05:00 PM
+Ray
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/21/20 05:09 PM
+Ray
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/21/20 05:09 PM
+Ray
+
+
+
+Logon:                              paul
+001/21/20 05:15 PM
+
+(Online Deposit)                        
+Transaction #                         10
+001/21/20 05:16 PM
+Paul
+
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Deposit Total                      10.00
+----------------------------------------
+
+Logoff:                             paul
+001/21/20 05:16 PM
+
+   *** Entered Configuration Mode ***   
+001/21/20 05:17 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/21/20 05:18 PM
+ID:                                  Ray
+
+(Online Mix Dispense)                   
+Transaction #                         11
+001/21/20 05:19 PM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+$5                    1             5.00
+$1                    4             4.00
+
+Amount Tendered                    29.00
+----------------------------------------
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited          29.00
+Reversed Amount                    29.00
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/21/20 05:22 PM
+Ray
+
+
+
+(Online Deposit)                        
+Transaction #                         12
+001/21/20 05:25 PM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+$5                    1             5.00
+$1                    4             4.00
+
+Deposit Total                      29.00
+----------------------------------------
+
+Logoff:                              Ray
+001/21/20 05:27 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.084 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+03/22/19 05:10 AM
+
+(Online Mix Dispense)                   
+Transaction #                         13
+03/22/19 05:10 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+Logoff:                              Ray
+03/22/19 05:10 AM
+
+(Vault Sell)                            
+Transaction #                         14
+03/22/19 05:11 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.085 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+
+Logon:                               Ray
+03/22/19 09:09 AM
+
+
+   *** Entered Configuration Mode ***   
+03/22/19 09:09 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+03/22/19 09:11 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+03/22/19 09:11 AM
+
+
+Logon:                               Ray
+03/22/19 09:30 AM
+
+
+   *** Entered Configuration Mode ***   
+03/22/19 09:30 AM
+ID:                                  Ray
+
+
+           *** Added User ***           
+03/22/19 09:30 AM
+ID:                                Charo
+
+
+
+    *** Exited Configuration Mode ***   
+03/22/19 09:30 AM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Users             
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+03/22/19 09:30 AM
+
+Addon
+     MasterUser
+
+Charo
+     No Groups Assigned
+
+Paul
+     MasterUser
+
+Ray
+     MasterUser
+
+========================================
+
+
+
+Logoff:                              Ray
+03/22/19 09:30 AM
+
+
+Logon:                               Ray
+03/22/19 09:31 AM
+
+
+   *** Entered Configuration Mode ***   
+03/22/19 09:31 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+03/22/19 09:31 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+03/22/19 09:31 AM
+
+
+Logon:                               Ray
+03/22/19 09:32 AM
+
+
+   *** Entered Configuration Mode ***   
+03/22/19 09:32 AM
+ID:                                  Ray
+
+
+           *** Edited User ***          
+03/22/19 09:32 AM
+ID:                                Charo
+
+
+
+    *** Exited Configuration Mode ***   
+03/22/19 09:32 AM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Users             
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+03/22/19 09:32 AM
+
+Addon
+     MasterUser
+
+Charo
+     MasterUser
+
+Paul
+     MasterUser
+
+Ray
+     MasterUser
+
+========================================
+
+
+
+Logoff:                              Ray
+03/22/19 09:32 AM
+
+
+Logon:                             Charo
+03/22/19 09:32 AM
+       *** Cassette 1 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                          1
+03/22/19 09:42 AM
+Charo
+
+
+Denom            Pieces            Value
+$1                    9             9.00
+
+Total Inventory Removed             9.00
+----------------------------------------
+       *** Cassette 3 Emptied ***       
+       *** Cassette 5 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                          2
+03/22/19 09:51 AM
+Charo
+
+
+Denom            Pieces            Value
+$100                  1           100.00
+$10                   1            10.00
+
+Total Inventory Removed           110.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          3
+03/22/19 09:59 AM
+Charo
+
+
+Denom            Pieces            Value
+$100                  1           100.00
+$10                   1            10.00
+$1                    9             9.00
+
+Deposit Total                     119.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+03/22/19 10:04 AM
+ID:                                Charo
+
+
+    *** Exited Configuration Mode ***   
+03/22/19 10:05 AM
+ID:                                Charo
+
+
+(Vault Buy)                             
+Transaction #                          4
+03/22/19 10:07 AM
+Paul
+
+
+Denom            Pieces            Value
+$100                  1           100.00
+$1                    9             9.00
+
+Amount Tendered                   109.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          5
+03/22/19 10:12 AM
+Ray
+
+
+Denom            Pieces            Value
+$100                  1           100.00
+$1                    9             9.00
+
+Deposit Total                     109.00
+----------------------------------------
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         600.00
+Reversed Amount                   600.00
+
+(Online Deposit)                        
+Transaction #                          6
+03/22/19 10:33 AM
+Charo
+
+
+Denom            Pieces            Value
+$1                  600           600.00
+
+Deposit Total                     600.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                          7
+03/22/19 10:45 AM
+Charo
+
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                  365           365.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+Logon:                               Ray
+03/22/19 10:46 AM
+
+
+Logoff:                              Ray
+03/22/19 10:46 AM
+
+
+Logon:                               Ray
+03/22/19 10:48 AM
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+03/22/19 10:49 AM
+Ray
+
+
+
+
+(Inventory Load)                        
+Transaction #                          8
+03/22/19 11:12 AM
+Charo
+
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                  365           365.00
+
+Total Inventory Added             500.00
+----------------------------------------
+
+Logoff:                            Charo
+03/22/19 11:13 AM
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+03/22/19 11:15 AM
+Ray
+
+
+
+
+(Online Nominated Dispense)             
+Transaction #                          9
+03/22/19 11:16 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         10
+03/22/19 11:18 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00

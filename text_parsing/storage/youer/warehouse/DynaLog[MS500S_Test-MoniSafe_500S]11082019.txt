@@ -1,0 +1,357 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.163 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                     MS500S Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/08/20 09:36 AM
+
+   *** Entered Configuration Mode ***   
+01/08/20 09:38 AM
+ID:                                  Ray
+
+           *** Added User ***           
+01/08/20 09:38 AM
+ID:                              Patrick
+
+
+    *** Exited Configuration Mode ***   
+01/08/20 09:39 AM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Users             
+
+Station:                     MS500S Test
+Branch:                      Test Branch
+Region:                      Test Region
+01/08/20 09:39 AM
+
+Adam
+     Master Users
+
+Chad
+     Master Users
+
+Charo
+     Master Users
+
+Josh
+     Master Users
+
+Patrick
+     Master Users
+
+Paul
+     Master Users
+
+Peter
+     Master Users
+
+Ray
+     Master Users
+
+========================================
+
+
+Logoff:                              Ray
+01/08/20 09:39 AM
+
+Logon:                           Patrick
+01/08/20 09:39 AM
+
+Logoff:                          Patrick
+01/08/20 09:54 AM
+
+Logon:                           Patrick
+01/08/20 10:32 AM
+
+   *** Entered Configuration Mode ***   
+01/08/20 10:33 AM
+ID:                              Patrick
+
+    *** Exited Configuration Mode ***   
+01/08/20 10:35 AM
+ID:                              Patrick
+
+(Online Nominated Dispense)             
+Transaction #                         13
+01/08/20 10:36 AM
+Patrick
+
+Denom            Pieces            Value
+$1                    9             9.00
+
+Amount Tendered                     9.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         14
+01/08/20 10:37 AM
+Patrick
+
+Denom            Pieces            Value
+$1                    9             9.00
+
+Machine Total                       9.00
+
+$5                    2            10.00
+
+Other Cash Deposited               10.00
+
+Deposit Total                      19.00
+----------------------------------------
+
+Logoff:                          Patrick
+01/08/20 10:40 AM
+
+Logon:                           Patrick
+01/08/20 10:40 AM
+
+Logon:                               ray
+01/08/20 12:55 PM
+*** Forced Logoff of Non-Admin Users ***
+
+
+   *** Entered Configuration Mode ***   
+01/08/20 12:55 PM
+ID:                                  ray
+
+    *** Exited Configuration Mode ***   
+01/08/20 12:57 PM
+ID:                                  ray
+
+
+Logoff:                              ray
+01/08/20 12:57 PM
+
+Logon:                             Charo
+01/08/20 12:58 PM
+
+(Online Deposit)                        
+Transaction #                         15
+01/08/20 12:58 PM
+Charo
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$2                    1             2.00
+$1                    1             1.00
+
+Other Coin                           .33
+Other Cash Deposited              188.33
+
+Deposit Total                     188.33
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/08/20 01:01 PM
+ID:                                Charo
+
+    *** Exited Configuration Mode ***   
+01/08/20 01:03 PM
+ID:                                Charo
+       *** Dual Control Logon ***       
+Patrick
+
+
+========================================
+             DynaCore Groups            
+
+Station:                     MS500S Test
+Branch:                      Test Branch
+Region:                      Test Region
+01/08/20 01:03 PM
+
+Group 0
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master Users
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+IT Only
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Reboot System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Dual Control
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+Logoff:                            Charo
+01/08/20 01:03 PM
+
+Logon:                             Charo
+01/08/20 01:04 PM
+
+
+Logoff:                            Charo
+01/08/20 01:04 PM

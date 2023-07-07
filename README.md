@@ -1,2 +1,2 @@
-# Dynalytics
-Dynalytics
+# dynalitics
+

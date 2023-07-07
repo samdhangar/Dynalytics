@@ -1,0 +1,152 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.119 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                  Ray PC Station
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/12/20 10:39 AM
+
+   *** Entered Configuration Mode ***   
+001/12/20 10:39 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/12/20 10:39 AM
+ID:                                  Ray
+       TCR Error #68-210E Occurred      
+  Exchange Cassette 4/(D): Call Service 
+
+             Deposit Failure            
+    *** Possible Partial Deposit ***    
+
+(Inventory Load)                        
+Transaction #                          3
+001/12/20 10:39 AM
+Ray
+
+Denom            Pieces            Value
+$10                 168          1680.00
+
+Machine Total                    1680.00
+Total Inventory Added            1680.00
+----------------------------------------
+
+Logoff:                              Ray
+001/12/20 10:47 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.119 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                  Ray PC Station
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/12/20 10:54 AM
+
+(Inventory Load)                        
+Transaction #                          4
+001/12/20 10:54 AM
+Ray
+
+Denom            Pieces            Value
+$50                 163          8150.00
+$20                 192          3840.00
+$10                 121          1210.00
+$5                  120           600.00
+$1                   33            33.00
+
+Machine Total                   13833.00
+Total Inventory Added           13833.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/12/20 10:57 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/12/20 10:58 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+TCD/TCR Address            192.168.1.115
+TCD/TCR Port                       60000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser             No Coin Usage
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0b:82:6f
+LAN 1 IP Address            192.168.1.34
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                    0.0.0.0
+LAN 1 DNS                        0.0.0.0
+
+LAN 2 MAC Address      00:03:f4:0b:83:37
+LAN 2 IP Address            192.168.1.35
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                    0.0.0.0
+LAN 2 DNS                        0.0.0.0
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.119
+Release Date                    06/10/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           1.1.0.085
+Min. DynaCash Version          4.3.0.065
+Min. DynaLog Server Version    2.0.0.005
+Min. DynaLog Viewer Version    2.0.0.000
+========================================
+

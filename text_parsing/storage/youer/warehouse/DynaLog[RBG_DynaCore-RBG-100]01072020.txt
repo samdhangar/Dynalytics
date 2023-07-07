@@ -1,0 +1,231 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.169 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG DynaCore
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               ray
+00001/07/20 09:53 AM
+
+(Online Mix Dispense)                   
+Transaction #                          1
+00001/07/20 09:53 AM
+Ray
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+========================================
+           User Totals Report           
+----------------------------------------
+Station:                    RBG DynaCore
+Branch:                      Test Branch
+Region:                      Test Region
+00001/07/20 09:58 AM
+
+
+Ray
+# of Deposits                          0
+# of Withdrawals                       1
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Withdrawal Total                  100.00
+----------------------------------------
+Buy                               100.00
+========================================
+
+
+
+
+
+
+
+
+   *** Entered Configuration Mode ***   
+00001/07/20 11:10 AM
+ID:                                  ray
+
+    *** Exited Configuration Mode ***   
+00001/07/20 11:11 AM
+ID:                                  ray
+
+   *** Entered Configuration Mode ***   
+00001/07/20 11:12 AM
+ID:                                  ray
+
+    *** Exited Configuration Mode ***   
+00001/07/20 11:16 AM
+ID:                                  ray
+
+   *** Entered Configuration Mode ***   
+00001/07/20 11:16 AM
+ID:                                  ray
+
+    *** Exited Configuration Mode ***   
+00001/07/20 11:16 AM
+ID:                                  ray
+
+
+Logoff:                              ray
+00001/07/20 11:17 AM At 00001/07/20 11:16 AM
+
+Logon:                               ray
+00001/07/20 11:18 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+00001/07/20 11:18 AM
+ray
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+00001/07/20 11:20 AM
+ray
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+00001/07/20 11:42 AM
+ray
+
+
+
+   *** Entered Configuration Mode ***   
+00001/07/20 11:50 AM
+ID:                                  ray
+
+    *** Exited Configuration Mode ***   
+00001/07/20 11:50 AM
+ID:                                  ray
+
+
+========================================
+            Hardware Settings           
+Station:                    RBG DynaCore
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser             No Coin Usage
+Bill Discriminator       Toshiba IBS-200
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+
+Logoff:                              ray
+00001/07/20 11:50 AM
+
+Logon:                               ray
+00001/07/20 11:51 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+00001/07/20 11:51 AM
+ray
+
+
+
+   *** Entered Configuration Mode ***   
+00001/07/20 11:51 AM
+ID:                                  ray
+
+    *** Exited Configuration Mode ***   
+00001/07/20 11:51 AM
+ID:                                  ray
+
+   *** Entered Configuration Mode ***   
+00001/07/20 01:11 PM
+ID:                                  ray
+
+    *** Exited Configuration Mode ***   
+00001/07/20 01:11 PM
+ID:                                  ray
+
+
+Logoff:                              ray
+00001/07/20 01:11 PM
+
+   *** Entered Configuration Mode ***   
+00001/07/20 01:11 PM
+ID:                               Level2
+
+
+Logon:                     Addon Support
+00001/07/20 01:11 PM
+
+    *** Exited Configuration Mode ***   
+00001/07/20 01:11 PM
+ID:                        Addon Support
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.169 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG DynaCore
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               ray
+00001/07/20 01:15 PM
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         100.00
+Reversed Amount                   100.00
+            Deposit Canceled            
+
+(Online Deposit)                        
+00001/07/20 03:04 PM
+ray
+
+
+
+   *** Entered Configuration Mode ***   
+00001/07/20 03:05 PM
+ID:                                  ray
+
+    *** Exited Configuration Mode ***   
+00001/07/20 03:06 PM
+ID:                                  ray
+
+Logoff:                              ray
+00001/07/20 03:06 PM
+
+Logon:                               ray
+00001/07/20 03:06 PM
+
+Logoff:                              ray
+00001/07/20 03:26 PM
+
+Logon:                               ray
+00001/07/20 03:28 PM

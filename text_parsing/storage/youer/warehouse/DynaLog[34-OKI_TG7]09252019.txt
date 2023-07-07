@@ -1,0 +1,84 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.146 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                              josh
+001/25/20 10:34 AM
+
+(Online Deposit)                        
+Transaction #                          1
+001/25/20 10:34 AM
+Josh
+
+Denom            Pieces            Value
+$10                  50           500.00
+$1                    1             1.00
+
+Machine Total                     501.00
+Deposit Total                     501.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          2
+001/25/20 10:35 AM
+Josh
+
+Denom            Pieces            Value
+$20                  36           720.00
+$1                   20            20.00
+
+Machine Total                     740.00
+Deposit Total                     740.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/25/20 10:38 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/25/20 10:39 AM
+ID:                                 josh
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/25/20 11:48 AM
+josh
+
+
+
+   *** Entered Configuration Mode ***   
+001/25/20 11:53 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/25/20 11:59 AM
+ID:                                 josh
+
+   *** Entered Configuration Mode ***   
+001/25/20 12:00 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/25/20 12:04 PM
+ID:                                 josh
+
+Logoff:                             josh
+001/25/20 12:12 PM
+
+Logon:                               Ray
+001/25/20 02:41 PM
+
+
+   *** Entered Configuration Mode ***   
+001/25/20 02:41 PM
+ID:                                  Ray

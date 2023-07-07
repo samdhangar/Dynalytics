@@ -1,0 +1,292 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.102 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.102 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.102 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.102 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.102 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.102 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+001/26/20 04:11 PM
+
+   *** Entered Configuration Mode ***   
+001/26/20 04:11 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/26/20 04:25 PM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.71
+TCD/TCR Port                       60000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.102 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/26/20 04:26 PM
+
+Logon:                              paul
+001/26/20 04:53 PM
+
+(Inventory Load)                        
+Transaction #                          1
+001/26/20 04:54 PM
+Paul
+
+Denom            Pieces            Value
+$100                 28          2800.00
+
+Machine Total                    2800.00
+Total Inventory Added            2800.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          2
+001/26/20 04:55 PM
+Paul
+
+Denom            Pieces            Value
+$100                165         16500.00
+
+Machine Total                   16500.00
+Deposit Total                   16500.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.102 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.102 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.102 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              Paul
+001/26/20 05:34 PM
+
+   *** Entered Configuration Mode ***   
+001/26/20 05:34 PM
+ID:                                 Paul
+
+           *** Added User ***           
+001/26/20 05:34 PM
+ID:                                 Josh
+
+
+           *** Edited User ***          
+001/26/20 05:34 PM
+ID:                                 Josh
+
+
+           *** Added User ***           
+001/26/20 05:34 PM
+ID:                                    1
+
+
+    *** Exited Configuration Mode ***   
+001/26/20 05:34 PM
+ID:                                 Paul
+
+
+========================================
+             DynaCore Users             
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/26/20 05:34 PM
+
+1
+     Inventory Control
+
+Addon
+     MasterUser
+
+Josh
+     MasterUser
+
+Paul
+     MasterUser
+
+Ray
+     MasterUser
+
+========================================
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/26/20 05:35 PM
+Paul
+
+
+
+(Online Deposit)                        
+Transaction #                          3
+001/26/20 05:35 PM
+Paul
+
+Denom            Pieces            Value
+$50                  16           800.00
+$10                   1            10.00
+
+Machine Total                     810.00
+Deposit Total                     810.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                          4
+001/26/20 05:36 PM
+Paul
+
+Denom            Pieces            Value
+$100                  2           200.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          5
+001/26/20 05:37 PM
+Paul
+
+Denom            Pieces            Value
+$100                  2           200.00
+
+Machine Total                     200.00
+Deposit Total                     200.00
+----------------------------------------

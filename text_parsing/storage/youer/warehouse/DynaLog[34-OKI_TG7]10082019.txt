@@ -1,0 +1,641 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.150 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.151 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+  *** Automatic System Memory Clear *** 
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.151 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.151 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/08/20 12:16 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/08/20 12:25 PM
+
+         *** Security Event! ***        
+            01/08/20 12:31 PM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/08/20 12:31 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/08/20 12:33 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            01/08/20 12:33 PM           
+      *** TCR Safe Door Closed ***      
+       *** Cassette 2 Emptied ***       
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                          1
+01/08/20 12:33 PM
+Ray
+
+Denom            Pieces            Value
+200k                  8            1600k
+
+Total Inventory Removed            1600k
+----------------------------------------
+  Removed Notes Subject To Fine Count!  
+
+(Reconciled Rejects)                    
+Transaction #                          2
+01/08/20 12:59 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+Unknown Notes        37               0k
+
+Reject Notes Removed                  0k
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                        0k
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes             0k
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                           0k
+----------------------------------------
+
+         *** Security Event! ***        
+            01/08/20 01:10 PM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/08/20 01:10 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/08/20 01:11 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            01/08/20 01:11 PM           
+      *** TCR Safe Door Closed ***      
+Cass. 2 Adjustment Pending        +1600k
+New Cassette Total                 1600k
+
+
+
+(Inventory Adjustment)                  
+Transaction #                          3
+01/08/20 01:12 PM
+Ray
+
+Denom            Pieces            Value
+100k                  0              +0k
+
+Total Net Added                      +0k
+Total Net Removed                    -0k
+Total Net Adjusted                   +0k
+----------------------------------------
+
+         *** Security Event! ***        
+            01/08/20 01:13 PM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/08/20 01:13 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/08/20 01:15 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            01/08/20 01:15 PM           
+      *** TCR Safe Door Closed ***      
+Cass. 1 Adjustment Pending         -500k
+New Cassette Total                14500k
+
+
+
+(Inventory Adjustment)                  
+Transaction #                          4
+01/08/20 01:17 PM
+Ray
+
+Denom            Pieces            Value
+200k                  0              -0k
+
+Total Net Added                      +0k
+Total Net Removed                    -0k
+Total Net Adjusted                   +0k
+----------------------------------------
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/08/20 01:40 PM At 01/08/20 01:21 PM
+
+Logon:                               Ray
+01/08/20 01:41 PM
+
+Console Disconnected During Transaction!
+
+             TCR Link Error             
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+01/08/20 01:42 PM
+Ray
+
+
+Amount Requested                    500k
+Amount Tendered                       0k
+Balance Due                         500k
+----------------------------------------
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/08/20 01:42 PM At 01/08/20 01:41 PM
+
+Logon:                               Ray
+01/08/20 01:43 PM
+
+             TCR Link Error             
+
+(Online Nominated Dispense)             
+Transaction #                          5
+01/08/20 01:43 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1             500k
+
+Amount Tendered                     500k
+----------------------------------------
+
+         *** Security Event! ***        
+            01/08/20 01:54 PM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/08/20 01:54 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/08/20 01:56 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            01/08/20 01:57 PM           
+      *** TCR Safe Door Closed ***      
+Cass. 4 Adjustment Pending         -100k
+New Cassette Total                    0k
+
+
+
+(Inventory Adjustment)                  
+Transaction #                          6
+01/08/20 01:57 PM
+Ray
+
+Denom            Pieces            Value
+
+Total Net Added                      +0k
+Total Net Removed                    -0k
+Total Net Adjusted                   +0k
+----------------------------------------
+
+Logoff:                              Ray
+01/08/20 02:04 PM
+
+Logon:                               Ray
+01/08/20 02:06 PM
+
+(Online Deposit)                        
+Transaction #                          7
+01/08/20 02:06 PM
+Ray
+
+Denom            Pieces            Value
+10k                  10             100k
+
+Machine Total                       100k
+Deposit Total                       100k
+----------------------------------------
+
+Logoff:                              Ray
+01/08/20 02:06 PM
+
+Logon:                               Ray
+01/08/20 02:21 PM
+
+         *** Security Event! ***        
+            01/08/20 02:21 PM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/08/20 02:21 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/08/20 02:22 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            01/08/20 02:22 PM           
+      *** TCR Safe Door Closed ***      
+Cass. 4 Adjustment Pending         -100k
+New Cassette Total                    0k
+
+
+
+(Inventory Adjustment)                  
+Transaction #                          8
+01/08/20 02:22 PM
+Ray
+
+Denom            Pieces            Value
+
+Total Net Added                      +0k
+Total Net Removed                    -0k
+Total Net Adjusted                   +0k
+----------------------------------------
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/08/20 02:35 PM At 01/08/20 02:22 PM
+
+Logon:                               Ray
+01/08/20 02:35 PM
+
+(Online Deposit)                        
+Transaction #                          9
+01/08/20 02:35 PM
+Ray
+
+Denom            Pieces            Value
+10k                  10             100k
+
+Machine Total                       100k
+Deposit Total                       100k
+----------------------------------------
+
+         *** Security Event! ***        
+            01/08/20 02:36 PM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/08/20 02:36 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/08/20 02:37 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            01/08/20 02:37 PM           
+      *** TCR Safe Door Closed ***      
+Cass. 4 Adjustment Pending         -100k
+New Cassette Total                    0k
+
+
+
+(Inventory Adjustment)                  
+Transaction #                         10
+01/08/20 02:37 PM
+Ray
+
+Denom            Pieces            Value
+
+Total Net Added                      +0k
+Total Net Removed                    -0k
+Total Net Adjusted                   +0k
+----------------------------------------
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/08/20 02:42 PM At 01/08/20 02:37 PM
+
+Logon:                               Ray
+01/08/20 02:43 PM
+
+Logoff:                              Ray
+01/08/20 02:43 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/08/20 02:45 PM
+
+(Online Deposit)                        
+Transaction #                         11
+01/08/20 02:45 PM
+Ray
+
+Denom            Pieces            Value
+10k                  10             100k
+
+Machine Total                       100k
+Deposit Total                       100k
+----------------------------------------
+Cass. 4 Adjustment Pending         -100k
+New Cassette Total                    0k
+
+
+
+(Inventory Adjustment)                  
+Transaction #                         12
+01/08/20 02:46 PM
+Ray
+
+Denom            Pieces            Value
+
+Total Net Added                      +0k
+Total Net Removed                    -0k
+Total Net Adjusted                   +0k
+----------------------------------------
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/08/20 03:19 PM At 01/08/20 02:46 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/08/20 03:22 PM
+
+         *** Security Event! ***        
+            01/08/20 03:23 PM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/08/20 03:23 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/08/20 03:24 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            01/08/20 03:25 PM           
+      *** TCR Safe Door Closed ***      
+
+Cass. 4 Adjustment Pending         +100k
+New Cassette Total                  100k
+
+
+
+(Inventory Adjustment)                  
+Transaction #                         13
+01/08/20 03:25 PM
+Ray
+
+Denom            Pieces            Value
+
+Total Net Added                      +0k
+Total Net Removed                    -0k
+Total Net Adjusted                   +0k
+----------------------------------------
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/08/20 03:28 PM At 01/08/20 03:25 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/08/20 03:32 PM
+
+         *** Security Event! ***        
+            01/08/20 03:32 PM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/08/20 03:32 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/08/20 03:32 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            01/08/20 03:33 PM           
+      *** TCR Safe Door Closed ***      
+
+Cass. 4 Adjustment Pending         -100k
+New Cassette Total                    0k
+
+
+
+(Inventory Adjustment)                  
+Transaction #                         14
+01/08/20 03:33 PM
+Ray
+
+Denom            Pieces            Value
+
+Total Net Added                      +0k
+Total Net Removed                    -0k
+Total Net Adjusted                   +0k
+----------------------------------------
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/08/20 03:42 PM At 01/08/20 03:33 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/08/20 03:48 PM
+
+(Online Deposit)                        
+Transaction #                         15
+01/08/20 03:48 PM
+Ray
+
+Denom            Pieces            Value
+10k                  10             100k
+
+Machine Total                       100k
+Deposit Total                       100k
+----------------------------------------
+
+         *** Security Event! ***        
+            01/08/20 03:54 PM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/08/20 03:54 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/08/20 03:55 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            01/08/20 03:55 PM           
+      *** TCR Safe Door Closed ***      
+
+Cass. 4 Adjustment Pending         -100k
+New Cassette Total                    0k
+
+
+
+(Inventory Adjustment)                  
+Transaction #                         16
+01/08/20 03:55 PM
+Ray
+
+Denom            Pieces            Value
+10k                  10            -100k
+
+Total Net Added                      +0k
+Total Net Removed                  -100k
+Total Net Adjusted                 -100k
+----------------------------------------

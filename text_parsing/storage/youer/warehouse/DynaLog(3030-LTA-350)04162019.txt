@@ -1,0 +1,1184 @@
+
+Logon:                               Ray
+001/16/20 08:45 AM                       
+
+========================================
+             Activity Report            
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/16/20 08:46 AM                       
+ID:                                  Ray
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Coin                                 .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                3312         33120.00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                               10.00
+Starting Inventory              18400.00
+Net Adjustments                    10.00
+Total Inventory                 33130.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                3312         33120.00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Notes         33120.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Notes              .00
+
+Cass. 1 $5            0              .00
+Cass. 2 $100          0              .00
+Cass. 3 $20           0              .00
+Cass. 4 $10        3312         33120.00
+Cass. 5 $1            0              .00
+Cass. 6 $50           0              .00
+========================================
+
+
+
+
+
+
+
+
+
+========================================
+            User Batch Report           
+----------------------------------------
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/16/20 08:46 AM                       
+
+Ray
+
+ *** No Transactions For This User ***  
+
+   *** Entered Configuration Mode ***   
+001/16/20 08:46 AM                       
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/16/20 08:48 AM                       
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/16/20 08:48 AM                       
+
+Logon:                               Ray
+001/16/20 08:51 AM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 08:52 AM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/16/20 08:52 AM                       
+ID:                                  Ray
+
+Logoff:                              Ray
+001/16/20 08:52 AM                       
+
+Logon:                               Ray
+001/16/20 08:54 AM                       
+
+Logoff:                              Ray
+001/16/20 08:54 AM                       
+
+Logon:                               Ray
+001/16/20 09:58 AM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 09:58 AM                       
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.097 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                               Ray
+001/16/20 09:59 AM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 09:59 AM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/16/20 09:59 AM                       
+ID:                                  Ray
+
+(Online Nominated Dispense)             
+Transaction #                          1
+001/16/20 10:03 AM
+Ray
+
+Denom            Pieces            Value
+$50                   1            50.00
+$20                   2            40.00
+$10                   1            10.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/16/20 10:04 AM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/16/20 10:04 AM                       
+ID:                                  Ray
+
+Logoff:                              Ray
+001/16/20 10:04 AM                       
+
+Logon:                               Ray
+001/16/20 10:27 AM                       
+
+Logoff:                              Ray
+001/16/20 10:27 AM                       
+
+Logon:                               Ray
+001/16/20 10:37 AM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 10:37 AM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/16/20 10:37 AM                       
+ID:                                  Ray
+
+Logoff:                              Ray
+001/16/20 10:37 AM                       
+
+Logon:                               Ray
+001/16/20 10:37 AM                       
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/16/20 10:37 AM                       
+Ray
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/16/20 10:37 AM                       
+Ray
+
+
+
+Logoff:                              Ray
+001/16/20 10:37 AM                       
+
+Logon:                               Ray
+001/16/20 10:39 AM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 10:39 AM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/16/20 10:39 AM                       
+ID:                                  Ray
+
+Logoff:                              Ray
+001/16/20 10:39 AM                       
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/16/20 10:45 AM                       
+Ray
+
+
+
+Logon:                               Ray
+001/16/20 11:13 AM                       
+
+Logoff:                              Ray
+001/16/20 11:13 AM                       
+
+Logon:                               Ray
+001/16/20 11:17 AM                       
+
+Logoff:                              Ray
+001/16/20 11:17 AM                       
+
+Logon:                               Ray
+001/16/20 11:17 AM                       
+
+Logoff:                              Ray
+001/16/20 11:17 AM                       
+
+Logon:                               Ray
+001/16/20 12:49 PM                       
+
+Logoff:                              Ray
+001/16/20 12:49 PM                       
+
+Logon:                               Ray
+001/16/20 12:51 PM                       
+
+Logoff:                              Ray
+001/16/20 12:52 PM                       
+
+Logon:                               Ray
+001/16/20 12:53 PM                       
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/16/20 12:53 PM                       
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.097 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/16/20 12:54 PM                       
+
+Logoff:                              Ray
+001/16/20 12:54 PM                       
+
+Logon:                               Ray
+001/16/20 12:55 PM                       
+
+Logoff:                              Ray
+001/16/20 12:56 PM                       
+
+Logon:                               Ray
+001/16/20 12:56 PM                       
+
+Logoff:                              Ray
+001/16/20 12:56 PM                       
+
+Logon:                               Ray
+001/16/20 12:59 PM                       
+
+Logoff:                              Ray
+001/16/20 12:59 PM                       
+
+Logon:                               Ray
+001/16/20 01:00 PM                       
+
+Logoff:                              Ray
+001/16/20 01:01 PM                       
+
+Logon:                               Ray
+001/16/20 01:03 PM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 01:03 PM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/16/20 01:03 PM                       
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/16/20 01:03 PM                       
+
+Logon:                               Ray
+001/16/20 01:03 PM                       
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         100.00
+Reversed Amount                   100.00
+
+(Online Deposit)                        
+Transaction #                          2
+001/16/20 01:03 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Other Cash Deposited              100.00
+
+Deposit Total                     100.00
+----------------------------------------
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/16/20 01:04 PM                       
+Ray
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/16/20 01:05 PM                       
+Ray
+
+
+
+Logoff:                              Ray
+001/16/20 01:05 PM                       
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.097 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/16/20 01:11 PM                       
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/16/20 01:11 PM                       
+Ray
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/16/20 01:11 PM                       
+
+Logon:                               Ray
+001/16/20 01:13 PM                       
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/16/20 01:13 PM                       
+Ray
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/16/20 01:13 PM                       
+
+Logon:                               Ray
+001/16/20 01:18 PM                       
+
+Logoff:                              Ray
+001/16/20 01:18 PM                       
+
+Logon:                               Ray
+001/16/20 01:19 PM                       
+
+Logoff:                              Ray
+001/16/20 01:19 PM                       
+
+Logon:                               Ray
+001/16/20 01:23 PM                       
+
+Logoff:                              Ray
+001/16/20 01:23 PM                       
+
+Logon:                               Ray
+001/16/20 01:24 PM                       
+
+Logoff:                              Ray
+001/16/20 01:24 PM                       
+
+Logon:                               Ray
+001/16/20 01:26 PM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 01:26 PM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/16/20 01:26 PM                       
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/16/20 01:26 PM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/16/20 01:26 PM                       
+ID:                                  Ray
+
+Logoff:                              Ray
+001/16/20 01:26 PM                       
+
+Logon:                               Ray
+001/16/20 02:00 PM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 02:00 PM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/16/20 02:00 PM                       
+ID:                                  Ray
+
+Logoff:                              Ray
+001/16/20 02:00 PM                       
+
+Logon:                               Ray
+001/16/20 02:03 PM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 02:03 PM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/16/20 02:03 PM                       
+ID:                                  Ray
+
+Logoff:                              Ray
+001/16/20 02:03 PM                       
+
+Logon:                               Ray
+001/16/20 02:11 PM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 02:11 PM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/16/20 02:11 PM                       
+ID:                                  Ray
+
+Logoff:                              Ray
+001/16/20 02:11 PM                       
+
+Logon:                               Ray
+001/16/20 02:18 PM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 02:18 PM                       
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.097 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/16/20 02:20 PM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 02:20 PM                       
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.097 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.097 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.097 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.097 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/16/20 02:26 PM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 02:26 PM                       
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.097 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/16/20 02:27 PM                       
+
+Logoff:                              Ray
+001/16/20 02:27 PM                       
+
+Logon:                               Ray
+001/16/20 02:31 PM                       
+
+Logoff:                              Ray
+001/16/20 02:31 PM                       
+
+Logon:                               Ray
+001/16/20 03:26 PM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 03:26 PM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/16/20 03:26 PM                       
+ID:                                  Ray
+
+Logoff:                              Ray
+001/16/20 03:26 PM                       
+
+Logon:                               Ray
+001/16/20 03:26 PM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 03:26 PM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/16/20 03:26 PM                       
+ID:                                  Ray
+
+Logoff:                              Ray
+001/16/20 03:26 PM                       
+
+Logon:                               Ray
+001/16/20 03:27 PM                       
+
+Logoff:                              Ray
+001/16/20 03:27 PM                       
+
+Logon:                               Ray
+001/16/20 03:36 PM                       
+
+Logoff:                              Ray
+001/16/20 03:36 PM                       
+
+Logon:                               Ray
+001/16/20 03:37 PM                       
+
+Logoff:                              Ray
+001/16/20 03:37 PM                       
+
+Logon:                               Ray
+001/16/20 03:38 PM                       
+
+Logoff:                              Ray
+001/16/20 03:38 PM                       
+
+Logon:                               Ray
+001/16/20 03:42 PM                       
+
+========================================
+             Activity Report            
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/16/20 03:42 PM                       
+ID:                                  Ray
+========================================
+              User Activity             
+----------------------------------------
+Ray
+# of Deposits                          1
+# of Withdrawals                       1
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Other Cash Deposited              100.00
+Machine Total                        .00
+Deposit Total                     100.00
+
+Denom            Pieces            Value
+$50                   1            50.00
+$20                   2            40.00
+$10                   1            10.00
+
+Withdrawal Total                  100.00
+----------------------------------------
+Net Total                        -100.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  1           100.00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                1.00
+Machine Total                        .00
+Total Deposited                     1.00
+# of Deposits                          1
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   1            50.00
+$20                   2            40.00
+$10                   1            10.00
+$5                    0              .00
+$1                    0              .00
+Coin                                 .00
+Total Dispensed                   100.00
+# of Withdrawals                       1
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   1           -50.00
+$20                   2           -40.00
+$10                   1           -10.00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                     
+            .00
+Net Total                        -100.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                100         10000.00
+$50                  99          4950.00
+$20                  98          1960.00
+$10                  99           990.00
+$5                  100           500.00
+$2                    0              .00
+$1                  100           100.00
+Coin                                 .00
+Starting Inventory              18600.00
+Net Adjustments                      .00
+Total Inventory                 18500.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                100         10000.00
+$50                  99          4950.00
+$20                  98          1960.00
+$10                  99           990.00
+$5                  100           500.00
+$1                  100           100.00
+Total Dispensable Notes         18500.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Notes              
+.00
+
+Cass. 1 $5          100           500.00
+Cass. 2 $100        100         10000.00
+Cass. 3 $20          98          1960.00
+Cass. 4 $10          99           990.00
+Cass. 5 $1          100           100.00
+Cass. 6 $50          99          4950.00
+
+          *** OPEN BATCHES ***          
+Ray
+========================================
+
+
+
+
+
+
+
+
+========================================
+            User Batch Report           
+----------------------------------------
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/16/20 03:42 PM                       
+
+Ray
+# of Deposits                          1
+# of Withdrawals                       1
+Denom            Pieces            Value
+$100                  1           100.00
+
+Other Cash Deposited              100.00
+Machine Total                        .00
+Deposit Total                     100.00
+
+Denom            Pieces            Value
+$50                   1            50.00
+$20                   2            40.00
+$10                   1            10.00
+
+Withdrawal Total                  100.00
+----------------------------------------
+Buy                               100.00
+========================================
+
+
+
+
+
+
+
+
+Logoff:                              Ray
+001/16/20 03:43 PM                       
+
+Logon:                               Ray
+001/16/20 03:44 PM                       
+
+Logoff:                              Ray
+001/16/20 03:44 PM                       
+
+Logon:                               Ray
+001/16/20 03:51 PM                       
+
+Logoff:                              Ray
+001/16/20 03:52 PM                       
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.097 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/16/20 04:10 PM                       
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/16/20 04:15 PM                       
+Ray
+
+
+
+Logoff:                              Ray
+001/16/20 04:15 PM                       
+
+Logon:                               Ray
+001/16/20 04:23 PM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 04:23 PM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/16/20 04:23 PM                       
+ID:                                  Ray
+
+Logoff:                              Ray
+001/16/20 04:25 PM                       
+
+Logon:                               Ray
+001/16/20 04:33 PM                       
+
+   *** Entered Configuration Mode ***   
+001/16/20 04:33 PM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/16/20 04:33 PM                       
+ID:                                  Ray
+
+Logoff:                              Ray
+001/16/20 04:33 PM                       
+
+       *** Vault Sell Reversed ***      
+
+Original Amount Sold              100.00
+Reversed Amount                   100.00
+
+             TCR Link Error             
+
+             TCR Link Error             
+     *** Deposit Needs Audited! ***     
+
+             TCR Link Error             
+      *** Failed To Release TCR ***     
+             Deposit Failure            
+
+(Vault Sell)                            
+001/16/20 04:34 PM                       
+Ray
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.097 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/16/20 04:37 PM                       
+Ray
+
+
+
+       *** Vault Sell Reversed ***      
+
+Original Amount Sold              100.00
+Reversed Amount                   100.00
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/16/20 04:39 PM                       
+Ray
+
+
+
+(Vault Sell)                            
+Transaction #                          3
+001/16/20 04:39 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Machine Total                     100.00
+Deposit Total                     100.00
+----------------------------------------
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/16/20 04:40 PM                       
+Ray
+
+
+
+(Vault Sell)                            
+Transaction #                          4
+001/16/20 05:03 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+
+Machine Total                     170.00
+Deposit Total                     170.00
+----------------------------------------
+
+Logon:                               Ray
+04/17/19 10:47 AM                       
+
+Logoff:                              Ray
+04/17/19 10:47 AM                       
+
+Logon:                               Ray
+04/17/19 10:48 AM                       
+
+Logoff:                              Ray
+04/17/19 10:48 AM                       
+
+Logon:                               Ray
+04/17/19 10:49 AM                       
+
+Logoff:                              Ray
+04/17/19 10:49 AM                       
+
+Logon:                               Ray
+04/17/19 11:30 AM                       
+
+   *** Entered Configuration Mode ***   
+04/17/19 11:30 AM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+04/17/19 11:30 AM                       
+ID:                                  Ray
+
+Logoff:                              Ray
+04/17/19 11:30 AM                       
+
+Logon:                               Ray
+04/17/19 11:30 AM                       
+
+   *** Entered Configuration Mode ***   
+04/17/19 11:30 AM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+04/17/19 11:30 AM                       
+ID:                                  Ray
+
+
+Logoff:                              Ray
+04/17/19 11:30 AM                       
+
+(Vault Sell)                            
+Transaction #                          5
+04/17/19 11:31 AM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Machine Total                     100.00
+Deposit Total                     100.00
+----------------------------------------
+
+Logon:                               Ray
+04/17/19 11:31 AM                       
+
+========================================
+            User Batch Report           
+----------------------------------------
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+04/17/19 11:31 AM                       
+
+Ray
+# of Deposits                          4
+# of Withdrawals                       1
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   1            50.00
+$20                   1            20.00
+
+$100                  1           100.00
+
+Other Cash Deposited              100.00
+Machine Total                     370.00
+Deposit Total                     470.00
+
+Denom            Pieces            Value
+$50                   1            50.00
+$20                   2            40.00
+$10                   1            10.00
+
+Withdrawal Total                  100.00
+----------------------------------------
+Sell                              270.00
+========================================
+
+
+
+
+
+
+
+
+Logoff:                              Ray
+04/17/19 11:31 AM                       
+
+Logon:                               Ray
+04/17/19 11:32 AM                       
+
+   *** Entered Configuration Mode ***   
+04/17/19 11:32 AM                       
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+04/17/19 11:32 AM                       
+ID:                                  Ray
+
+Logoff:                              Ray
+04/17/19 11:32 AM                       
+
+Logon:                               Ray
+04/17/19 01:43 PM                       
+
+   *** Entered Configuration Mode ***   
+04/17/19 01:43 PM                       
+ID:                                  Ray

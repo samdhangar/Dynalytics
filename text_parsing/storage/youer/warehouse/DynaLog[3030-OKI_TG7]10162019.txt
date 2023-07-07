@@ -1,0 +1,404 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/16/20 08:42 AM
+
+   *** Entered Configuration Mode ***   
+01/16/20 08:42 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/16/20 08:43 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+01/16/20 08:47 AM
+
+Logon:                               Ray
+01/16/20 08:53 AM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/16/20 08:53 AM
+
+Logon:                               Ray
+01/16/20 08:53 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/16/20 08:54 AM
+Ray
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/16/20 08:54 AM
+Ray
+
+
+
+Logoff:                              Ray
+01/16/20 08:57 AM
+
+Logon:                               Ray
+01/16/20 09:05 AM
+
+
+   *** Entered Configuration Mode ***   
+01/16/20 09:05 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/16/20 09:05 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+01/16/20 09:05 AM
+
+Logon:                               Ray
+01/16/20 09:05 AM
+
+
+   *** Entered Configuration Mode ***   
+01/16/20 09:05 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/16/20 09:05 AM
+ID:                                  Ray
+
+
+========================================
+           Inventory Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                     500000
+Mix 2 Below $                    2500000
+
+         Low   Mid   High   Weight  Odds
+500k       0     0      0      5     Yes
+200k       5     5      5      1     Yes
+100k       3     3      3      2     Yes
+50k        5     5      5      3     Yes
+20k        0     0      0      6     Yes
+10k        5     5      5      4     Yes
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+500k      50   9999         25       100
+200k      50    900        100       100
+100k      50    900        100       100
+50k       50    900        100       100
+20k       50    900        132       100
+10k       50    900          3       100
+========================================
+
+
+Logoff:                              Ray
+01/16/20 09:05 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/16/20 09:16 AM
+
+
+   *** Entered Configuration Mode ***   
+01/16/20 09:16 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/16/20 09:18 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+01/16/20 09:18 AM
+
+Logon:                               Ray
+01/16/20 09:19 AM
+
+
+   *** Entered Configuration Mode ***   
+01/16/20 09:19 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/16/20 09:19 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+01/16/20 09:19 AM
+
+Logon:                               Ray
+01/16/20 09:43 AM
+
+Logoff:                              Ray
+01/16/20 09:43 AM
+
+Logon:                               Ray
+01/16/20 10:23 AM
+
+Logoff:                              Ray
+01/16/20 10:30 AM
+
+Logon:                               Ray
+01/16/20 03:15 PM
+
+Logoff:                              Ray
+01/16/20 03:15 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+01/16/20 03:30 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/16/20 03:31 PM
+Ray
+
+
+
+Logoff:                              Ray
+01/16/20 03:32 PM
+
+Logon:                               Ray
+01/16/20 03:41 PM
+
+Logoff:                              Ray
+01/16/20 03:43 PM
+
+Logon:                               Ray
+01/16/20 03:45 PM
+
+(Online Nominated Dispense)             
+Transaction #                         22
+01/16/20 03:47 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1             500k
+
+Amount Tendered                     500k
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/16/20 03:54 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/16/20 03:57 PM
+ID:                                  Ray
+
+(Online Nominated Dispense)             
+Transaction #                         23
+01/16/20 04:05 PM
+Ray
+
+Denom            Pieces            Value
+20k                  25             500k
+
+Amount Tendered                     500k
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         24
+01/16/20 04:14 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1             500k
+20k                 174            3480k
+10k                  25             250k
+
+Machine Total                      4230k
+Deposit Total                      4230k
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         25
+01/16/20 04:17 PM
+Ray
+
+Denom            Pieces            Value
+500k                 92           46000k
+20k                 108            2160k
+
+Machine Total                     48160k
+Deposit Total                     48160k
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         26
+01/16/20 04:30 PM
+Ray
+
+Denom            Pieces            Value
+200k                  1             200k
+100k                  1             100k
+20k                   7             140k
+10k                   6              60k
+
+Amount Tendered                     500k
+----------------------------------------
+
+Logoff:                              Ray
+01/16/20 04:31 PM
+
+Logon:                               Ray
+01/16/20 04:32 PM
+
+(Online Deposit)                        
+Transaction #                         27
+01/16/20 04:32 PM
+Ray
+
+Denom            Pieces            Value
+200k                  1             200k
+100k                  1             100k
+20k                   7             140k
+10k                   6              60k
+
+Machine Total                       500k
+Deposit Total                       500k
+----------------------------------------
+
+Logoff:                              Ray
+01/16/20 04:32 PM
+
+Logon:                               Ray
+01/16/20 04:34 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/16/20 04:34 PM
+Ray
+
+
+
+(Online Nominated Dispense)             
+Transaction #                         28
+01/16/20 04:34 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1             500k
+
+Amount Tendered                     500k
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         29
+01/16/20 04:35 PM
+Ray
+
+Denom            Pieces            Value
+200k                  1             200k
+20k                  10             200k
+10k                  10             100k
+
+Amount Tendered                     500k
+----------------------------------------
+
+Logoff:                              Ray
+01/16/20 04:36 PM
+
+Logon:                               Ray
+01/16/20 04:45 PM
+
+Logoff:                              Ray
+01/16/20 04:46 PM
+
+Logon:                               Ray
+01/16/20 04:48 PM
+
+Logoff:                              Ray
+01/16/20 04:50 PM

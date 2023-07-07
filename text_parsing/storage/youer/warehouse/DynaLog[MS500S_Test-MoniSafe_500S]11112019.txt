@@ -1,0 +1,115 @@
+
+             TCR Link Error             
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.163 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                     MS500S Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+(Vault Buy)                             
+Transaction #                         16
+01/11/20 10:14 AM
+Charo
+       *** Dual Control Logon ***       
+Patrick
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+Logon:                             Charo
+01/11/20 10:15 AM
+
+   *** Entered Configuration Mode ***   
+01/11/20 10:15 AM
+ID:                                Charo
+
+    *** Exited Configuration Mode ***   
+01/11/20 10:17 AM
+ID:                                Charo
+
+Logoff:                            Charo
+01/11/20 10:17 AM
+
+(Vault Buy)                             
+Transaction #                         17
+01/11/20 10:18 AM
+Charo
+       *** Dual Control Logon ***       
+Josh
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Amount Tendered                   186.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         18
+01/11/20 10:22 AM
+Charo
+       *** Dual Control Logon ***       
+ray
+Denom            Pieces            Value
+$100                  1           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         19
+01/11/20 10:23 AM
+Charo
+       *** Dual Control Logon ***       
+josh
+Denom            Pieces            Value
+$50                   1            50.00
+$20                   5           100.00
+$10                   4            40.00
+$5                    2            10.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+Logon:                             Charo
+01/11/20 10:26 AM
+
+Logoff:                            Charo
+01/11/20 10:26 AM
+
+      *** Client Disconnection ***      
+Logoff:                                 
+01/11/20 10:35 AM
+
+Logon:                             Charo
+01/11/20 10:36 AM
+
+   *** Entered Configuration Mode ***   
+01/11/20 10:36 AM
+ID:                                Charo
+
+    *** Exited Configuration Mode ***   
+01/11/20 10:36 AM
+ID:                                Charo
+       *** Dual Control Logon ***       
+ray
+
+Logoff:                            Charo
+01/11/20 10:36 AM
+
+      *** Client Disconnection ***      
+Logoff:                                 
+01/11/20 10:37 AM

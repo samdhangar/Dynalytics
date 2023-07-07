@@ -1,0 +1,120 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.134 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/29/20 09:57 AM
+
+   *** Entered Configuration Mode ***   
+001/29/20 09:57 AM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.135 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+001/29/20 09:58 AM
+
+   *** Entered Configuration Mode ***   
+001/29/20 09:58 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 09:58 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/29/20 09:58 AM
+
+Logon:                              Josh
+001/29/20 10:17 AM
+
+             TCR Link Error             
+
+ *** Reject Box Was Emptied To Exit *** 
+
+(Reconciled Rejects)                    
+Transaction #                          1
+001/29/20 10:18 AM
+Josh
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$1                   25            25.00
+
+Reject Notes Removed               25.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$1                   25            25.00
+
+Removed (Mutilated) Notes          25.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+($1) Assumed Count:                  213
+($1) Actual Count:                   213
+($20) Assumed Count:                  71
+($20) Actual Count:                   71
+($5) Assumed Count:                  104
+($5) Actual Count:                   104
+($100) Assumed Count:                564
+($100) Actual Count:                 564
+($10) Assumed Count:                 110
+($10) Actual Count:                  110
+($50) Assumed Count:                 117
+($50) Actual Count:                  117
+
+(Auto Audit Note Count)                 
+Transaction #                          2
+001/29/20 10:31 AM
+Josh
+
+Denom            Pieces            Value
+$100                564         56400.00
+$50                 117          5850.00
+$20                  71          1420.00
+$10                 110          1100.00
+$5                  104           520.00
+$1                  213           213.00
+
+Audited Total                   65503.00
+----------------------------------------

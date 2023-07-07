@@ -1,0 +1,182 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+           RBG-100 Link Error           
+
+Logon:                             Charo
+001/01/20 11:44 AM
+
+           RBG-100 Link Error           
+      RBG-100 Error #6900 Occurred      
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+001/01/20 11:49 AM
+Charo
+
+
+Amount Requested                    1.00
+Amount Tendered                      .00
+Balance Due                         1.00
+----------------------------------------
+
+
+   *** Entered Configuration Mode ***   
+001/01/20 11:50 AM
+ID:                                Charo
+
+    *** Exited Configuration Mode ***   
+001/01/20 11:51 AM
+ID:                                Charo
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/01/20 11:58 AM
+Charo
+
+
+
+      *** Client Disconnection ***      
+Logoff:                            Charo
+001/01/20 11:58 AM
+
+Logon:                             Charo
+001/01/20 12:03 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/01/20 12:03 PM
+Charo
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                             Charo
+001/01/20 12:05 PM
+
+(Online Deposit)                        
+Transaction #                         12
+001/01/20 12:06 PM
+Charo
+
+Denom            Pieces            Value
+$1                   63            63.00
+
+Machine Total                      63.00
+Deposit Total                      63.00
+----------------------------------------
+
+Logoff:                            Charo
+001/01/20 12:20 PM
+
+Logon:                               Ray
+001/01/20 12:21 PM
+
+Logoff:                              Ray
+001/01/20 12:21 PM
+
+Logon:                             charo
+001/01/20 12:21 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/01/20 12:21 PM
+charo
+
+
+
+Logoff:                            charo
+001/01/20 12:21 PM
+
+Logon:                             charo
+001/01/20 12:22 PM
+
+(Online Mix Dispense)                   
+Transaction #                         13
+001/01/20 12:22 PM
+Charo
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+Logoff:                            charo
+001/01/20 12:29 PM
+
+Logon:                             charo
+001/01/20 12:33 PM
+
+Logoff:                            charo
+001/01/20 12:33 PM
+
+Logon:                             charo
+001/01/20 12:34 PM
+
+           RBG-100 Link Error           
+
+(Online Mix Dispense)                   
+Transaction #                         14
+001/01/20 12:34 PM
+Charo
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+    *** Cassette Cass. 5 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         15
+001/01/20 04:35 PM
+Charo
+
+Denom            Pieces            Value
+$100                140         14000.00
+
+Total Inventory Removed         14000.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         16
+001/01/20 04:39 PM
+Charo
+
+Denom            Pieces            Value
+$100                140         14000.00
+$20                 103          2060.00
+$5                   18            90.00
+$1                  120           120.00
+
+Machine Total                   16270.00
+Total Inventory Added           16270.00
+----------------------------------------
+
+Logoff:                            charo
+001/01/20 05:10 PM

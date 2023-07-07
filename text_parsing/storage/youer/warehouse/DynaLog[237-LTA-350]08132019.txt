@@ -1,0 +1,428 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.140 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                           Stephen
+001/13/20 12:21 PM
+
+   *** Entered Configuration Mode ***   
+001/13/20 12:21 PM
+ID:                              Stephen
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.140 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           Stephen
+001/13/20 12:24 PM
+
+   *** Entered Configuration Mode ***   
+001/13/20 12:24 PM
+ID:                              Stephen
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+Logon:                           Stephen
+001/13/20 12:25 PM
+
+
+   *** Entered Configuration Mode ***   
+001/13/20 12:25 PM
+ID:                              Stephen
+
+           *** Added User ***           
+001/13/20 12:25 PM
+ID:                                Adam1
+
+
+          *** Deleted User ***          
+001/13/20 12:25 PM
+ID:                                 Test
+
+          *** Deleted User ***          
+001/13/20 12:25 PM
+ID:                                Test1
+
+    *** Exited Configuration Mode ***   
+001/13/20 12:26 PM
+ID:                              Stephen
+
+
+========================================
+             DynaCore Groups            
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+001/13/20 12:26 PM
+
+Dual Control Options
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     Load Notes & Adjust Coin
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Transactions HL
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Inventory Control
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     Reset TCD/TCR Machine
+     Limit Overrides
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Close Day
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+User Control
+     User Management
+     Group Management
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Settings (Setup)
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Default System
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Transactions LL
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit           2000.00
+     Daily Limit                10000.00
+
+Manual Transactions
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Online Only
+     Online Withdrawals
+     Online Deposits
+     View Reports (Self Only)
+     Inventory Control Setup
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Report Only
+     View Reports (All)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+IT Only
+     Hardware Setup
+     Network Setup
+     Firmware Updates
+     Reboot System
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Test
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master Users
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+========================================
+             DynaCore Users             
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+001/13/20 12:26 PM
+
+Adam
+     Master Users
+
+Adam1
+     Master Users
+
+Chad
+     Manual Transactions
+
+Charo
+     Master Users
+
+Josh
+     Master Users
+Patrick
+     Master Users
+
+Peter
+     Master Users
+
+Ray
+     Transactions HL
+     Inventory Control
+     Close Day
+     User Control
+     Settings (Setup)
+     Transactions LL
+     Manual Transactions
+     Online Only
+     Report Only
+     IT Only
+
+Stephen
+     Master Users
+
+========================================
+
+
+Logoff:                          Stephen
+001/13/20 12:26 PM
+
+   *** Entered Configuration Mode ***   
+001/13/20 12:26 PM
+ID:                                addon
+
+    *** Exited Configuration Mode ***   
+001/13/20 12:26 PM
+ID:                Addon date: 6-10-2019
+
+
+========================================
+              User Settings             
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           Stephen
+001/13/20 12:28 PM
+
+
+   *** Entered Configuration Mode ***   
+001/13/20 12:28 PM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/13/20 12:28 PM
+ID:                              Stephen
+
+Logoff:                          Stephen
+001/13/20 12:28 PM
+
+   *** Entered Configuration Mode ***   
+001/13/20 12:29 PM
+ID:                                addon
+
+    *** Exited Configuration Mode ***   
+001/13/20 12:32 PM
+ID:                Addon date: 6-10-2019
+
+
+========================================
+              User Settings             
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+   *** Entered Configuration Mode ***   
+001/13/20 12:33 PM
+ID:                                addon
+
+    *** Exited Configuration Mode ***   
+001/13/20 12:33 PM
+ID:                Addon date: 6-10-2019
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           Stephen
+001/13/20 02:23 PM
+       *** Cassette 1 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                          1
+001/13/20 02:23 PM
+Stephen
+
+Denom            Pieces            Value
+$1                    9             9.00
+
+Total Inventory Removed             9.00
+----------------------------------------
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/13/20 02:24 PM
+Stephen
+
+
+
+Logoff:                          Stephen
+001/13/20 02:24 PM

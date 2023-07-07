@@ -1,0 +1,277 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.119 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                  Ray PC Station
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.119 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                  Ray PC Station
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.119 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                  Ray PC Station
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.119 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                  Ray PC Station
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.119 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                  Ray PC Station
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/11/20 01:49 PM
+
+   *** Entered Configuration Mode ***   
+001/11/20 01:49 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 01:49 PM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                  Ray PC Station
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+TCD/TCR Address            192.168.1.115
+TCD/TCR Port                       60000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.119 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                  Ray PC Station
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/11/20 01:52 PM
+       *** Cassette 1 Emptied ***       
+       *** Cassette 2 Emptied ***       
+ Prior Undocumented Cassette(s) Emptied!
+ 
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                          2
+001/11/20 01:53 PM
+Ray
+
+Denom            Pieces            Value
+$20                 111          2220.00
+
+Total Inventory Removed          2220.00
+----------------------------------------
+  Removed Notes Subject To Fine Count!  
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.119 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                  Ray PC Station
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/11/20 02:08 PM
+       *** Cassette 4 Emptied ***       
+       *** Cassette 9 Emptied ***       
+ Prior Undocumented Cassette(s) Emptied!
+ 
+       TCR Error #29-0901 Occurred      
+        Line Error: Call Service        
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                          3
+001/11/20 02:09 PM
+Ray
+
+Denom            Pieces            Value
+$100                420         42000.00
+$1                   89            89.00
+
+Total Inventory Removed         42089.00
+----------------------------------------
+ *** TCR Note Counts Are Incorrect! *** 
+  Removed Notes Subject To Fine Count!  
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/11/20 02:11 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.119 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                  Ray PC Station
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/11/20 02:12 PM
+
+   *** Entered Configuration Mode ***   
+001/11/20 02:12 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.119 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                  Ray PC Station
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/11/20 02:15 PM
+       *** Cassette 5 Emptied ***       
+ Prior Undocumented Cassette(s) Emptied!
+ 
+       TCR Error #29-0901 Occurred      
+        Line Error: Call Service        
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                          1
+001/11/20 02:16 PM
+Ray
+
+Denom            Pieces            Value
+$50                 120          6000.00
+
+Total Inventory Removed          6000.00
+----------------------------------------
+ *** TCR Note Counts Are Incorrect! *** 
+  Removed Notes Subject To Fine Count!  
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/11/20 02:17 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.119 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                  Ray PC Station
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/11/20 02:17 PM
+       *** Cassette 4 Emptied ***       
+       *** Cassette 9 Emptied ***       
+ Prior Undocumented Cassette(s) Emptied!
+ 
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                          2
+001/11/20 02:18 PM
+Ray
+
+Denom            Pieces            Value
+$100                420         42000.00
+$1                   89            89.00
+
+Total Inventory Removed         42089.00
+----------------------------------------
+  Removed Notes Subject To Fine Count!  
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/11/20 03:38 PM
+
+Logon:                               Ray
+001/11/20 03:39 PM
+
+Logoff:                              Ray
+001/11/20 03:39 PM

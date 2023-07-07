@@ -1,0 +1,572 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/17/20 09:07 AM
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+Denom            Pieces            Value
+500k                 92           46000k
+200k                  5            1000k
+100k                 41            4100k
+50k                   0               0k
+20k                 282            5640k
+10k                  24             240k
+Starting Inventory                16910k
+Net Adjustments                       0k
+Total Inventory                   56980k
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+500k                 92           46000k
+200k                  5            1000k
+100k                 41            4100k
+50k                   0               0k
+20k                 282            5640k
+10k                  24             240k
+Total Dispensable Notes           56980k
+
+Cass. 1 500k         92           46000k
+Cass. 2 200k          5            1000k
+Cass. 3 100k         41            4100k
+Cass. 4 10k          24             240k
+Cass. 5 50k           0               0k
+Cass. 10 20k        282            5640k
+              10k Notes Low             
+             50k Notes Empty            
+             100k Notes Low             
+             200k Notes Low             
+               Cass. A Low              
+               Cass. B Low              
+               Cass. C Low              
+               Cass. D Low              
+              Cass. E Empty             
+========================================
+
+
+
+
+
+
+
+      TCR Error #FFFFFBAE Occurred      
+        API Parameters Not Valid        
+      TCR Error #FFFFFBB3 Occurred      
+        Invalid Request Sequence        
+      TCR Error #FFFFFBAE Occurred      
+        API Parameters Not Valid        
+      TCR Error #FFFFFBB3 Occurred      
+        Invalid Request Sequence        
+
+            Partial Dispense            
+
+(Inventory Removal)                     
+Transaction #                          4
+01/17/20 09:09 AM
+Ray
+
+Denom            Pieces            Value
+20k                 200            4000k
+10k                  22             220k
+
+Amount Requested                  55320k
+Total Inventory Removed            4220k
+Balance Due                       51100k
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                          5
+01/17/20 09:11 AM
+Ray
+
+Denom            Pieces            Value
+500k                 90           45000k
+200k                  3             600k
+100k                 39            3900k
+
+Total Inventory Removed           49500k
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                          6
+01/17/20 09:11 AM
+Ray
+
+Denom            Pieces            Value
+10k                   2              20k
+
+Total Inventory Removed              20k
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                          7
+01/17/20 09:12 AM
+Ray
+
+Denom            Pieces            Value
+20k                  82            1640k
+
+Total Inventory Removed            1640k
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                          8
+01/17/20 09:12 AM
+Ray
+
+Denom            Pieces            Value
+500k                  2            1000k
+200k                  2             400k
+100k                  2             200k
+
+Total Inventory Removed            1600k
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          9
+01/17/20 09:16 AM
+Ray
+
+Denom            Pieces            Value
+500k                  2            1000k
+200k                  2             400k
+100k                  2             200k
+50k                   5             250k
+20k                   2              40k
+10k                   2              20k
+
+Machine Total                      1910k
+Deposit Total                      1910k
+----------------------------------------
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/17/20 09:17 AM
+Ray
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+Denom            Pieces            Value
+500k                  2            1000k
+200k                  2             400k
+100k                  2             200k
+50k                   5             250k
+20k                   2              40k
+10k                   2              20k
+Starting Inventory                16910k
+Net Adjustments                  -56980k
+Total Inventory                    1910k
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+500k                  2            1000k
+200k                  2             400k
+100k                  2             200k
+50k                   5             250k
+20k                   2              40k
+10k                   2              20k
+Total Dispensable Notes            1910k
+
+Cass. 1 500k          2            1000k
+Cass. 2 200k          2             400k
+Cass. 3 100k          2             200k
+Cass. 4 10k           2              20k
+Cass. 5 50k           5             250k
+Cass. 10 20k          2              40k
+              10k Notes Low             
+              20k Notes Low             
+              50k Notes Low             
+             100k Notes Low             
+             200k Notes Low             
+             500k Notes Low             
+               Cass. A Low              
+               Cass. B Low              
+               Cass. C Low              
+               Cass. D Low              
+               Cass. E Low              
+              Cass. E2 Low              
+========================================
+
+
+
+
+
+
+
+       TCR Error #04-9099 Occurred      
+   Entrance/Exit In Improper Position   
+
+         *** Security Event! ***        
+            01/17/20 09:18 AM           
+      *** TCR Upper Unit Opened ***     
+
+         *** Security Event! ***        
+            01/17/20 09:18 AM           
+      *** TCR Upper Unit Closed ***     
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/17/20 09:19 AM
+Ray
+
+
+       TCR Error #04-9099 Occurred      
+   Entrance/Exit In Improper Position   
+
+         *** Security Event! ***        
+            01/17/20 09:23 AM           
+      *** TCR Upper Unit Opened ***     
+
+         *** Security Event! ***        
+            01/17/20 09:23 AM           
+      *** TCR Upper Unit Closed ***     
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/17/20 09:24 AM
+Ray
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+Denom            Pieces            Value
+500k                  2            1000k
+200k                  2             400k
+100k                  2             200k
+50k                   5             250k
+20k                   2              40k
+10k                   2              20k
+Starting Inventory                16910k
+Net Adjustments                  -56980k
+Total Inventory                    1910k
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+500k                  2            1000k
+200k                  2             400k
+100k                  2             200k
+50k                   5             250k
+20k                   2              40k
+10k                   2              20k
+Total Dispensable Notes            1910k
+
+Cass. 1 500k          2            1000k
+Cass. 2 200k          2             400k
+Cass. 3 100k          2             200k
+Cass. 4 10k           2              20k
+Cass. 5 50k           5             250k
+Cass. 10 20k          2              40k
+              10k Notes Low             
+              20k Notes Low             
+              50k Notes Low             
+             100k Notes Low             
+             200k Notes Low             
+             500k Notes Low             
+               Cass. A Low              
+               Cass. B Low              
+               Cass. C Low              
+               Cass. D Low              
+               Cass. E Low              
+              Cass. E2 Low              
+========================================
+
+
+
+
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+Denom            Pieces            Value
+500k                  2            1000k
+200k                  2             400k
+100k                  2             200k
+50k                   5             250k
+20k                   2              40k
+10k                   2              20k
+Starting Inventory                16910k
+Net Adjustments                  -56980k
+Total Inventory                    1910k
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+500k                  2            1000k
+200k                  2             400k
+100k                  2             200k
+50k                   5             250k
+20k                   2              40k
+10k                   2              20k
+Total Dispensable Notes            1910k
+
+Cass. 1 500k          2            1000k
+Cass. 2 200k          2             400k
+Cass. 3 100k          2             200k
+Cass. 4 10k           2              20k
+Cass. 5 50k           5             250k
+Cass. 10 20k          2              40k
+              10k Notes Low             
+              20k Notes Low             
+              50k Notes Low             
+             100k Notes Low             
+             200k Notes Low             
+             500k Notes Low             
+               Cass. A Low              
+               Cass. B Low              
+               Cass. C Low              
+               Cass. D Low              
+               Cass. E Low              
+              Cass. E2 Low              
+========================================
+
+
+
+
+
+
+
+
+   *** Entered Configuration Mode ***   
+01/17/20 09:38 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/17/20 09:48 AM
+ID:                                  Ray
+       TCR Error #04-9099 Occurred      
+   Entrance/Exit In Improper Position   
+
+         *** Security Event! ***        
+            01/17/20 09:50 AM           
+      *** TCR Upper Unit Opened ***     
+
+         *** Security Event! ***        
+            01/17/20 09:51 AM           
+      *** TCR Upper Unit Closed ***     
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/17/20 09:52 AM
+Ray
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+Denom            Pieces            Value
+500k                  2            1000k
+200k                  2             400k
+100k                  2             200k
+50k                   5             250k
+20k                   2              40k
+10k                   2              20k
+Starting Inventory                16910k
+Net Adjustments                  -56980k
+Total Inventory                    1910k
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+500k                  2            1000k
+200k                  2             400k
+100k                  2             200k
+50k                   5             250k
+20k                   2              40k
+10k                   2              20k
+Total Dispensable Notes            1910k
+
+Cass. 1 500k          2            1000k
+Cass. 2 200k          2             400k
+Cass. 3 100k          2             200k
+Cass. 4 10k           2              20k
+Cass. 5 50k           5             250k
+Cass. 10 20k          2              40k
+              10k Notes Low             
+              20k Notes Low             
+              50k Notes Low             
+             100k Notes Low             
+             200k Notes Low             
+             500k Notes Low             
+               Cass. A Low              
+               Cass. B Low              
+               Cass. C Low              
+               Cass. D Low              
+               Cass. E Low              
+              Cass. E2 Low              
+========================================
+
+
+
+
+
+
+
+       TCR Error #04-9099 Occurred      
+   Entrance/Exit In Improper Position   
+
+         *** Security Event! ***        
+            01/17/20 09:57 AM           
+      *** TCR Upper Unit Opened ***     
+
+         *** Security Event! ***        
+            01/17/20 10:00 AM           
+      *** TCR Upper Unit Closed ***     
+
+         *** Security Event! ***        
+            01/17/20 09:57 AM           
+     *** TCR Bill Reader Opened ***     
+
+         *** Security Event! ***        
+            01/17/20 09:58 AM           
+     *** TCR Bill Reader Closed ***     
+
+(Online Deposit)                        
+Transaction #                         10
+01/17/20 09:56 AM
+Ray
+
+Deposit Total                         0k
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+Denom            Pieces            Value
+500k                  2            1000k
+200k                  2             400k
+100k                  2             200k
+50k                   5             250k
+20k                   2              40k
+10k                   2              20k
+Starting Inventory                16910k
+Net Adjustments                  -56980k
+Total Inventory                    1910k
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+500k                  2            1000k
+200k                  2             400k
+100k                  2             200k
+50k                   5             250k
+20k                   2              40k
+10k                   2              20k
+Total Dispensable Notes            1910k
+
+Cass. 1 500k          2            1000k
+Cass. 2 200k          2             400k
+Cass. 3 100k          2             200k
+Cass. 4 10k           2              20k
+Cass. 5 50k           5             250k
+Cass. 10 20k          2              40k
+              10k Notes Low             
+              20k Notes Low             
+              50k Notes Low             
+             100k Notes Low             
+             200k Notes Low             
+             500k Notes Low             
+               Cass. A Low              
+               Cass. B Low              
+               Cass. C Low              
+               Cass. D Low              
+               Cass. E Low              
+              Cass. E2 Low              
+========================================
+
+
+
+
+
+
+
+       TCR Error #04-9099 Occurred      
+   Entrance/Exit In Improper Position   
+
+         *** Security Event! ***        
+            01/17/20 10:22 AM           
+      *** TCR Upper Unit Opened ***     
+
+         *** Security Event! ***        
+            01/17/20 10:23 AM           
+      *** TCR Upper Unit Closed ***     
+
+         *** Security Event! ***        
+            01/17/20 10:22 AM           
+     *** TCR Bill Reader Opened ***     
+
+         *** Security Event! ***        
+            01/17/20 10:23 AM           
+     *** TCR Bill Reader Closed ***     
+
+            Deposit Canceled            
+    *** Possible Partial Deposit ***    
+
+(Online Deposit)                        
+Transaction #                         11
+01/17/20 10:19 AM
+Ray
+
+Deposit Total                         0k
+----------------------------------------
+
+Logoff:                              Ray
+01/17/20 10:37 AM
+
+Logon:                               Ray
+01/17/20 10:50 AM

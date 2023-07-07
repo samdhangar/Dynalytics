@@ -1,0 +1,821 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.137 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                               Ray
+001/06/20 09:40 AM
+
+   *** Entered Configuration Mode ***   
+001/06/20 09:40 AM
+ID:                                  Ray
+
+========================================
+             Activity Report            
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+001/06/20 09:40 AM
+
+ID:                                  Ray
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Coin                                 .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                  11           110.00
+$5                   19            95.00
+$2                    0              .00
+$1                   80            80.00
+Coin                                 .00
+Starting Inventory                285.00
+Net Adjustments                      .00
+Total Inventory                   285.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  0              .00
+$20                   0              .00
+$10                  11           110.00
+$5                   19            95.00
+$1                   80            80.00
+Total Dispensable Notes           285.00
+
+Cass. 1 $1           34            34.00
+Cass. 2 $20           0              .00
+Cass. 3 $100          0              .00
+Cass. 4 $10          11           110.00
+Cass. 5 $5           19            95.00
+Cass. 6 $1           46            46.00
+              $5 Notes Low              
+              $10 Notes Low             
+             $20 Notes Empty            
+            $100 Notes Empty            
+                CST-A Low               
+               CST-B Empty              
+               CST-C Empty              
+                CST-D Low               
+                CST-E Low               
+                CST-F Low               
+========================================
+
+      *** System Memory Cleared ***     
+001/06/20 09:40 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/06/20 09:40 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/06/20 09:40 AM
+
+Logon:                               Ray
+001/06/20 09:47 AM
+
+Logoff:                              Ray
+001/06/20 09:47 AM
+
+Logon:                               Ray
+001/06/20 09:47 AM
+
+   *** Entered Configuration Mode ***   
+001/06/20 09:47 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/06/20 09:47 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/06/20 09:47 AM
+
+Logon:                               Ray
+001/06/20 10:38 AM
+
+   *** Entered Configuration Mode ***   
+001/06/20 10:38 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/06/20 10:38 AM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/06/20 11:04 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/06/20 11:04 AM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/06/20 11:06 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/06/20 11:10 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/06/20 11:11 AM
+
+   *** Entered Configuration Mode ***   
+001/06/20 11:12 AM
+ID:                                Addon
+
+    *** Exited Configuration Mode ***   
+001/06/20 11:13 AM
+ID:                                Addon
+
+
+========================================
+              User Settings             
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                 Yes
+Use Batch Totals                     Yes
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.137 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              Josh
+001/06/20 11:14 AM
+
+   *** Entered Configuration Mode ***   
+001/06/20 11:14 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/06/20 11:14 AM
+ID:                                 Josh
+
+Logoff:                             Josh
+001/06/20 11:14 AM
+
+Logon:                              Josh
+001/06/20 11:15 AM
+
+   *** Entered Configuration Mode ***   
+001/06/20 11:15 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/06/20 11:15 AM
+ID:                                 Josh
+
+Logoff:                             Josh
+001/06/20 11:15 AM
+
+Logon:                              Josh
+001/06/20 11:16 AM
+
+
+   *** Entered Configuration Mode ***   
+001/06/20 11:16 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/06/20 11:16 AM
+ID:                                 Josh
+
+      *** Client Disconnection ***      
+Logoff:                             Josh
+001/06/20 11:16 AM
+
+   *** Entered Configuration Mode ***   
+001/06/20 12:33 PM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.137 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/06/20 12:36 PM
+ID:                                Addon
+
+    *** Exited Configuration Mode ***   
+001/06/20 12:36 PM
+ID:                                Addon
+
+
+========================================
+              User Settings             
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                     Yes
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.137 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/06/20 12:38 PM
+
+   *** Entered Configuration Mode ***   
+001/06/20 12:38 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/06/20 01:46 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/06/20 01:46 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.137 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/06/20 01:56 PM
+ID:                                Addon
+
+    *** Exited Configuration Mode ***   
+001/06/20 01:57 PM
+ID:                                Addon
+
+
+========================================
+            Hardware Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address            192.168.1.202
+TCD/TCR Port                        9998
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator      Amrotec X-Series
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          200
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+
+========================================
+              User Settings             
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                     Yes
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.137 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              Josh
+001/06/20 01:59 PM
+
+(Online Nominated Dispense)             
+Transaction #                          1
+001/06/20 01:59 PM
+Josh
+
+Denom            Pieces            Value
+$1                    5             5.00
+
+Amount Tendered                     5.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                  11           110.00
+$5                   19            95.00
+$2                    0              .00
+$1                   75            75.00
+Coin                                 .00
+Starting Inventory                285.00
+Net Adjustments                      .00
+Total Inventory                   280.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  0              .00
+$20                   0              .00
+$10                  11           110.00
+$5                   19            95.00
+$1                   75            75.00
+Total Dispensable Notes           280.00
+
+Cass. 1 $1           34            34.00
+Cass. 2 $20           0              .00
+Cass. 3 $100          0              .00
+Cass. 4 $10          11           110.00
+Cass. 5 $5           19            95.00
+Cass. 6 $1           41            41.00
+              $5 Notes Low              
+              $10 Notes Low             
+             $20 Notes Empty            
+            $100 Notes Empty            
+                CST-A Low               
+               CST-B Empty              
+               CST-C Empty              
+                CST-D Low               
+                CST-E Low               
+                CST-F Low               
+========================================
+
+
+
+
+
+
+
+
+========================================
+             Activity Report            
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+001/06/20 02:00 PM
+
+ID:                                 Josh
+========================================
+              User Activity             
+----------------------------------------
+Josh
+# of Deposits                          0
+# of Withdrawals                       1
+
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$1                    5             5.00
+
+Withdrawal Total                    5.00
+----------------------------------------
+Net Total                          -5.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    5             5.00
+Coin                                 .00
+Total Dispensed                     5.00
+# of Withdrawals                       1
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    5            -5.00
+Coin                                 .00
+Net Total                          -5.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                  11           110.00
+$5                   19            95.00
+$2                    0              .00
+$1                   75            75.00
+Coin                                 .00
+Starting Inventory                285.00
+Net Adjustments                      .00
+Total Inventory                   280.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  0              .00
+$20                   0              .00
+$10                  11           110.00
+$5                   19            95.00
+$1                   75            75.00
+Total Dispensable Notes           280.00
+
+Cass. 1 $1           34            34.00
+Cass. 2 $20           0              .00
+Cass. 3 $100          0              .00
+Cass. 4 $10          11           110.00
+Cass. 5 $5           19            95.00
+Cass. 6 $1           41            41.00
+              $5 Notes Low              
+              $10 Notes Low             
+             $20 Notes Empty            
+            $100 Notes Empty            
+                CST-A Low               
+               CST-B Empty              
+               CST-C Empty              
+                CST-D Low               
+                CST-E Low               
+                CST-F Low               
+          *** OPEN BATCHES ***          
+Josh
+========================================
+
+
+
+
+
+
+
+
+========================================
+            User Batch Report           
+----------------------------------------
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+001/06/20 02:02 PM
+
+
+Josh
+# of Deposits                          0
+# of Withdrawals                       1
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$1                    5             5.00
+
+Withdrawal Total                    5.00
+----------------------------------------
+Buy                                 5.00
+========================================
+
+           User Batch Cleared           
+
+
+
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                  11           110.00
+$5                   19            95.00
+$2                    0              .00
+$1                   75            75.00
+Coin                                 .00
+Starting Inventory                285.00
+Net Adjustments                      .00
+Total Inventory                   280.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  0              .00
+$20                   0              .00
+$10                  11           110.00
+$5                   19            95.00
+$1                   75            75.00
+Total Dispensable Notes           280.00
+
+Cass. 1 $1           34            34.00
+Cass. 2 $20           0              .00
+Cass. 3 $100          0              .00
+Cass. 4 $10          11           110.00
+Cass. 5 $5           19            95.00
+Cass. 6 $1           41            41.00
+              $5 Notes Low              
+              $10 Notes Low             
+             $20 Notes Empty            
+            $100 Notes Empty            
+                CST-A Low               
+               CST-B Empty              
+               CST-C Empty              
+                CST-D Low               
+                CST-E Low               
+                CST-F Low               
+========================================
+
+
+
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                  11           110.00
+$5                   19            95.00
+$2                    0              .00
+$1                   75            75.00
+Coin                                 .00
+Starting Inventory                285.00
+Net Adjustments                      .00
+Total Inventory                   280.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  0              .00
+$20                   0              .00
+$10                  11           110.00
+$5                   19            95.00
+$1                   75            75.00
+Total Dispensable Notes           280.00
+
+Cass. 1 $1           34            34.00
+Cass. 2 $20           0              .00
+Cass. 3 $100          0              .00
+Cass. 4 $10          11           110.00
+Cass. 5 $5           19            95.00
+Cass. 6 $1           41            41.00
+              $5 Notes Low              
+              $10 Notes Low             
+             $20 Notes Empty            
+            $100 Notes Empty            
+                CST-A Low               
+               CST-B Empty              
+               CST-C Empty              
+                CST-D Low               
+                CST-E Low               
+                CST-F Low               
+========================================
+
+
+
+
+
+
+
+Logoff:                             Josh
+001/06/20 02:49 PM
+
+Logon:                              Josh
+001/06/20 03:01 PM
+
+   *** Entered Configuration Mode ***   
+001/06/20 03:01 PM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/06/20 03:01 PM
+ID:                                 Josh
+
+
+========================================
+            Hardware Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address            192.168.1.202
+TCD/TCR Port                        9998
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator      Amrotec X-Series
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          200
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+
+Logoff:                             Josh
+001/06/20 03:01 PM
+
+Logon:                              Josh
+001/06/20 03:26 PM
+
+(Online Deposit)                        
+Transaction #                          2
+001/06/20 03:26 PM
+Josh
+
+Denom            Pieces            Value
+$1                    5             5.00
+
+Machine Total                       5.00
+Deposit Total                       5.00
+----------------------------------------
+
+Logoff:                             Josh
+001/06/20 03:26 PM
+
+Logon:                              Josh
+001/06/20 03:38 PM
+
+   *** Entered Configuration Mode ***   
+001/06/20 03:38 PM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/06/20 03:39 PM
+ID:                                 Josh
+
+Logoff:                             Josh
+001/06/20 03:39 PM

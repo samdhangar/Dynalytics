@@ -1,0 +1,1859 @@
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+     *** Error At Inventory Read ***    
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          9:21:06 AM
+      TCR Error #000(0000) Occurred     
+      TCR Error #4GK(4543) Occurred     
+     *** Possible Exposed Bills ***     
+
+(Inventory Removal)                     
+Transaction #                         15
+Date                             01/06/20
+Time                          9:28:57 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$5                   11            55.00
+
+Total Inventory Removed            55.00
+----------------------------------------
+       *** Cassette 5 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         16
+Date                             01/06/20
+Time                          9:29:34 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                   22            22.00
+
+Total Inventory Removed            22.00
+----------------------------------------
+       *** Cassette 7 Emptied ***       
+
+========================================
+
+      *** Inventory Read Failed ***     
+  *** Can't Create Inventory Report *** 
+
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          9:30:41 AM
+****************************************
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          9:49:54 AM
+Coin  Adjusted                   +100.00
+New Coin Total                    100.00
+
+
+(Inventory Load)                        
+Transaction #                         17
+Date                             01/06/20
+Time                          9:51:32 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                  190           950.00
+$1                  121           121.00
+
+Total Inventory Added           39901.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             70
+Denom            Pieces            Value
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                  190           950.00
+$2                    0              .00
+$1                  121           121.00
+Coin                              100.00
+Starting Inventory                   .00
+Net Adjustments                 36476.00
+Total Inventory                 40001.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                  190           950.00
+$1                  121           121.00
+Total Dispensable Bills         39901.00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+----------------------------------------
+             Cassette Bills             
+----------------------------------------
+Cass. 1  ($100)     190         19000.00
+Cass. 2  ($5)       190           950.00
+Cass. 3  ($1)       121           121.00
+Cass. 5  ($20)      424          8480.00
+Cass. 7  ($20)        0              .00
+Cass. 9  ($50)      189          9450.00
+Cass. 10 ($10)      190          1900.00
+              Cass. 7 Empty             
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          9:54:03 AM
+****************************************
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+
+(Local Mix Dispense)                    
+Transaction #                         18
+Date                             01/06/20
+Time                          9:58:01 AM
+Teller #                               1
+
+Denom            Pieces            Value
+Coin                                 .25
+
+Amount Tendered                      .25
+----------------------------------------
+            Side A Logged On            
+Date                             01/06/20
+Time                         10:02:04 AM
+Teller #                               1
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+            Side A Logged On            
+Date                             01/06/20
+Time                         10:15:00 AM
+Teller #                               1
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+            Side A Logged On            
+Date                             01/06/20
+Time                         10:25:00 AM
+Teller #                               1
+
+(Online Mix Dispense)                   
+Transaction #                         19
+Date                             01/06/20
+Time                         10:25:36 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$100                 14          1400.00
+$50                   6           300.00
+$20                   8           160.00
+
+Amount Tendered                  1860.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         20
+Date                             01/06/20
+Time                         10:26:22 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$100                 14          1400.00
+$50                   6           300.00
+$20                   8           160.00
+
+Amount Tendered                  1860.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         21
+Date                             01/06/20
+Time                         10:26:56 AM
+Teller #                               1
+
+Denom            Pieces            Value
+$100                 38          3800.00
+$50                  22          1100.00
+$20                  26           520.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Deposit Total                    5580.00
+----------------------------------------
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+            Side A Logged On            
+Date                             01/06/20
+Time                         10:45:00 AM
+Teller #                               1
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+            Side B Logged On            
+Date                             01/06/20
+Time                          1:05:06 PM
+Teller #                               1
+      TCR Error #1A2(2669) Occurred     
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+Date                             01/06/20
+Time                          1:06:25 PM
+Teller #                               1
+
+Amount Requested                 1860.00
+Amount Tendered                      .00
+Balance Due                      1860.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         22
+Date                             01/06/20
+Time                          1:09:09 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Amount Tendered                  1860.00
+----------------------------------------
+            Side B Logged Off           
+Teller #                               1
+Date                             01/06/20
+Time                          1:09:34 PM
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          1:09:44 PM
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          1:09:56 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          1:20:04 PM
+
+(Replenished Cassettes)                 
+Transaction #                         23
+Date                             01/06/20
+Time                          1:20:53 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                 30          3000.00
+$50                  30          1500.00
+$20                  30           600.00
+$10                  30           300.00
+$5                   30           150.00
+$1                   30            30.00
+
+Replenished Total                5580.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             70
+Denom            Pieces            Value
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                  190           950.00
+$2                    0              .00
+$1                  121           121.00
+Coin                               99.75
+Starting Inventory                   .00
+Net Adjustments                 42056.00
+Total Inventory                 40000.75
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                130         13000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                  190           950.00
+$1                  121           121.00
+Total Dispensable Bills         33901.00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$100                 60          6000.00
+Total Reject Bills               6000.00
+
+----------------------------------------
+             Cassette Bills             
+----------------------------------------
+Cass. 1  ($100)     130         13000.00
+Cass. 2  ($5)       190           950.00
+Cass. 3  ($1)       121           121.00
+Cass. 5  ($20)      368          7360.00
+Cass. 7  ($20)       56          1120.00
+Cass. 9  ($50)      189          9450.00
+Cass. 10 ($10)      190          1900.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          1:23:32 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          1:24:23 PM
+
+ *** Reject Box Was Emptied To Exit *** 
+ *** Rejects Need To Be Reconciled! *** 
+
+(Reconciled Rejects)                    
+Transaction #                         24
+Date                             01/06/20
+Time                          1:26:12 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                 60          6000.00
+
+Reconciled Total                 6000.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         25
+Date                             01/06/20
+Time                          1:26:42 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                 60          6000.00
+
+Total Inventory Added            6000.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             70
+Denom            Pieces            Value
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                  190           950.00
+$2                    0              .00
+$1                  121           121.00
+Coin                               99.75
+Starting Inventory                   .00
+Net Adjustments                 42056.00
+Total Inventory                 40000.75
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                  190           950.00
+$1                  121           121.00
+Total Dispensable Bills         39901.00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+----------------------------------------
+             Cassette Bills             
+----------------------------------------
+Cass. 1  ($100)     190         19000.00
+Cass. 2  ($5)       190           950.00
+Cass. 3  ($1)       121           121.00
+Cass. 5  ($20)      368          7360.00
+Cass. 7  ($20)       56          1120.00
+Cass. 9  ($50)      189          9450.00
+Cass. 10 ($10)      190          1900.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          1:27:11 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          1:27:54 PM
+       *** Audited Cassette 1 ***       
+
+($100) Assumed Count:                190
+($100) Actual Count:                 190
+
+(Auto Audit Bill Count)                 
+Transaction #                         26
+Date                             01/06/20
+Time                          1:29:50 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                190         19000.00
+
+Audited Total                   19000.00
+----------------------------------------
+($100) Assumed Count:                190
+($100) Actual Count:                 190
+($5) Assumed Count:                  190
+($5) Actual Count:                   190
+($1) Assumed Count:                  121
+($1) Actual Count:                   121
+($20) Assumed Count:                 368
+($20) Actual Count:                  368
+($20) Assumed Count:                  56
+($20) Actual Count:                   56
+($50) Assumed Count:                 189
+($50) Actual Count:                  189
+($10) Assumed Count:                 190
+($10) Actual Count:                  190
+
+(Auto Audit Bill Count)                 
+Transaction #                         27
+Date                             01/06/20
+Time                          1:31:50 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                  190           950.00
+$1                  121           121.00
+
+Audited Total                   39901.00
+----------------------------------------
+
+========================================
+               User Report              
+Station #                             70
+Date                             01/06/20
+Time                          1:40:25 PM
+----------------------------------------
+                Managers                
+----------------------------------------
+Manager #                              1
+----------------------------------------
+                 Tellers                
+----------------------------------------
+Teller #                               1
+Transaction Limit               No Limit
+Daily Limit                     No Limit
+
+========================================
+
+
+========================================
+            Automix Settings            
+Station #                             70
+----------------------------------------
+Denom Weighting: 20, 10, 5, 1, 50, 100
+----------------------------------------
+               Tier 1 Mix               
+----------------------------------------
+Tier 1 Below $301
+
+$100                                   1
+$50                                    2
+$20                                    5
+$10                                    0
+$5                                     0
+$1                                     0
+----------------------------------------
+               Tier 2 Mix               
+----------------------------------------
+Tier 2 Below $601
+
+$100                                   1
+$50                                    4
+$20                                    5
+$10                                    0
+$5                                     0
+$1                                     0
+----------------------------------------
+               Tier 3 Mix               
+----------------------------------------
+$100                                   1
+$50                                    6
+$20                                    5
+$10                                    0
+$5                                     0
+$1                                     0
+========================================
+
+
+
+
+
+
+
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          1:42:27 PM
+****************************************
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+
+             TCR Link Error             
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+
+             TCR Link Error             
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          1:49:17 PM
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          1:51:29 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          1:51:48 PM
+
+========================================
+            Automix Settings            
+Station #                             70
+----------------------------------------
+Denom Weighting: 20, 10, 5, 1, 50, 100
+----------------------------------------
+               Tier 1 Mix               
+----------------------------------------
+Tier 1 Below $300
+
+$100                                 100
+$50                                  100
+$20                                  100
+$10                                    0
+$5                                     0
+$1                                     0
+----------------------------------------
+               Tier 2 Mix               
+----------------------------------------
+Tier 2 Below $600
+
+$100                                   1
+$50                                    4
+$20                                    5
+$10                                    0
+$5                                     0
+$1                                     0
+----------------------------------------
+               Tier 3 Mix               
+----------------------------------------
+$100                                   1
+$50                                    6
+$20                                    5
+$10                                    0
+$5                                     0
+$1                                     0
+========================================
+
+
+
+
+
+
+
+
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          1:58:29 PM
+       *** Cassette 3 Emptied ***       
+    *** Cassette And Bill Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         28
+Date                             01/06/20
+Time                          2:01:31 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  121           121.00
+
+Total Inventory Removed           121.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             70
+Denom            Pieces            Value
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                  190           950.00
+$2                    0              .00
+$1                    0              .00
+Coin                               99.75
+Starting Inventory                   .00
+Net Adjustments                 41935.00
+Total Inventory                 39879.75
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                  190           950.00
+$1                    0              .00
+Total Dispensable Bills         39780.00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+----------------------------------------
+             Cassette Bills             
+----------------------------------------
+Cass. 1  ($100)     190         19000.00
+Cass. 2  ($5)       190           950.00
+Cass. 3  ($1)         0              .00
+Cass. 5  ($20)      368          7360.00
+Cass. 7  ($20)       56          1120.00
+Cass. 9  ($50)      189          9450.00
+Cass. 10 ($10)      190          1900.00
+              Cass. 3 Empty             
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          2:01:44 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          2:02:27 PM
+
+(Inventory Load)                        
+Transaction #                         29
+Date                             01/06/20
+Time                          2:02:51 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  121           121.00
+
+Total Inventory Added             121.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         30
+Date                             01/06/20
+Time                          2:04:44 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                190         19000.00
+
+Total Inventory Removed         19000.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         31
+Date                             01/06/20
+Time                          2:06:02 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$10                   5            50.00
+
+Total Inventory Removed            50.00
+----------------------------------------
+
+(Inventory Collected)                   
+Transaction #                         32
+Date                             01/06/20
+Time                          2:07:58 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$5                  190           950.00
+
+Total Inventory Collected         950.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         33
+Date                             01/06/20
+Time                          2:09:32 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                190         19000.00
+$10                   5            50.00
+
+Total Inventory Added           19050.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             70
+Denom            Pieces            Value
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                  190           950.00
+$2                    0              .00
+$1                  121           121.00
+Coin                               99.75
+Starting Inventory                   .00
+Net Adjustments                 42056.00
+Total Inventory                 40000.75
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                    0              .00
+$1                  121           121.00
+Total Dispensable Bills         38951.00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                  190           950.00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills           950.00
+
+----------------------------------------
+             Cassette Bills             
+----------------------------------------
+Cass. 1  ($100)     190         19000.00
+Cass. 2  ($5)         0              .00
+Cass. 3  ($1)       121           121.00
+Cass. 5  ($20)      368          7360.00
+Cass. 7  ($20)       56          1120.00
+Cass. 9  ($50)      189          9450.00
+Cass. 10 ($10)      190          1900.00
+              Cass. 2 Empty             
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          2:10:22 PM
+****************************************
+
+       Bills Short Due To Rejects!      
+
+            Deposit Cancelled           
+    *** Possible Partial Deposit ***    
+
+(Vault Sell)                            
+Transaction #                         34
+Date                             01/06/20
+Time                          2:12:48 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$5                    2            10.00
+
+Deposit Total                      10.00
+----------------------------------------
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          2:13:26 PM
+
+(Inventory Load)                        
+Transaction #                         35
+Date                             01/06/20
+Time                          2:13:38 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Total Inventory Added               5.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             70
+Denom            Pieces            Value
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                  193           965.00
+$2                    0              .00
+$1                  121           121.00
+Coin                               99.75
+Starting Inventory                   .00
+Net Adjustments                 42061.00
+Total Inventory                 40015.75
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                    3            15.00
+$1                  121           121.00
+Total Dispensable Bills         38966.00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                  190           950.00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills           950.00
+
+----------------------------------------
+             Cassette Bills             
+----------------------------------------
+Cass. 1  ($100)     190         19000.00
+Cass. 2  ($5)         3            15.00
+Cass. 3  ($1)       121           121.00
+Cass. 5  ($20)      368          7360.00
+Cass. 7  ($20)       56          1120.00
+Cass. 9  ($50)      189          9450.00
+Cass. 10 ($10)      190          1900.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          2:14:16 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          2:14:57 PM
+
+(Inventory Removal)                     
+Transaction #                         36
+Date                             01/06/20
+Time                          2:15:24 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$5                  190           950.00
+
+Total Inventory Removed           950.00
+----------------------------------------
+       *** Op Cassette Emptied ***      
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             70
+Denom            Pieces            Value
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                    3            15.00
+$2                    0              .00
+$1                  121           121.00
+Coin                               99.75
+Starting Inventory                   .00
+Net Adjustments                 41111.00
+Total Inventory                 39065.75
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                    3            15.00
+$1                  121           121.00
+Total Dispensable Bills         38966.00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+----------------------------------------
+             Cassette Bills             
+----------------------------------------
+Cass. 1  ($100)     190         19000.00
+Cass. 2  ($5)         3            15.00
+Cass. 3  ($1)       121           121.00
+Cass. 5  ($20)      368          7360.00
+Cass. 7  ($20)       56          1120.00
+Cass. 9  ($50)      189          9450.00
+Cass. 10 ($10)      190          1900.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          2:15:35 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          2:17:47 PM
+
+(Inventory Removal)                     
+Transaction #                         37
+Date                             01/06/20
+Time                          2:18:18 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  121           121.00
+
+Total Inventory Removed           121.00
+----------------------------------------
+       *** Cassette 3 Emptied ***       
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             70
+Denom            Pieces            Value
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                    3            15.00
+$2                    0              .00
+$1                    0              .00
+Coin                               99.75
+Starting Inventory                   .00
+Net Adjustments                 40990.00
+Total Inventory                 38944.75
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                    3            15.00
+$1                    0              .00
+Total Dispensable Bills         38845.00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+----------------------------------------
+             Cassette Bills             
+----------------------------------------
+Cass. 1  ($100)     190         19000.00
+Cass. 2  ($5)         3            15.00
+Cass. 3  ($1)         0              .00
+Cass. 5  ($20)      368          7360.00
+Cass. 7  ($20)       56          1120.00
+Cass. 9  ($50)      189          9450.00
+Cass. 10 ($10)      190          1900.00
+              Cass. 3 Empty             
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          2:18:27 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          2:20:18 PM
+
+(Inventory Load)                        
+Transaction #                         38
+Date                             01/06/20
+Time                          2:21:04 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$5                  187           935.00
+$1                  121           121.00
+
+Total Inventory Added            1056.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             70
+Denom            Pieces            Value
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                  190           950.00
+$2                    0              .00
+$1                  121           121.00
+Coin                               99.75
+Starting Inventory                   .00
+Net Adjustments                 42046.00
+Total Inventory                 40000.75
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                  190           950.00
+$1                  121           121.00
+Total Dispensable Bills         39901.00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+----------------------------------------
+             Cassette Bills             
+----------------------------------------
+Cass. 1  ($100)     190         19000.00
+Cass. 2  ($5)       190           950.00
+Cass. 3  ($1)       121           121.00
+Cass. 5  ($20)      368          7360.00
+Cass. 7  ($20)       56          1120.00
+Cass. 9  ($50)      189          9450.00
+Cass. 10 ($10)      190          1900.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          2:21:44 PM
+****************************************
+
+========================================
+       Current Teller Transactions      
+----------------------------------------
+Station #                             70
+Date                             01/06/20
+Time                          2:21:54 PM
+
+Teller #                               1
+# of Deposits                          4
+# of Withdrawals                       5
+
+----------------------------------------
+                Deposits                
+----------------------------------------
+Denom            Pieces            Value
+$100                 58          5800.00
+$50                  33          1650.00
+$20                  47           940.00
+$10                  10           100.00
+$5                   23           115.00
+$1                   10            10.00
+
+Deposits                         8615.00
+----------------------------------------
+               Withdrawals              
+----------------------------------------
+Denom            Pieces            Value
+$100                 43          4300.00
+$50                  22          1100.00
+$20                  26           520.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+Coin                                 .25
+
+Withdrawals                      6080.25
+----------------------------------------
+Sell                             2534.75
+========================================
+
+
+
+
+
+
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          2:23:17 PM
+
+========================================
+             Activity Report            
+Station #                             70
+Date                             01/06/20
+Time                          2:23:19 PM
+Manager #                              1
+========================================
+             Teller Activity            
+----------------------------------------
+Teller #                               1
+# of Deposits                          4
+# of Withdrawals                       5
+
+Deposit Total                    8615.00
+
+Withdrawal Total                 6080.25
+----------------------------------------
+Net Total                       +2534.75
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+Denom            Pieces            Value
+$100                 58          5800.00
+$50                  33          1650.00
+$20                  47           940.00
+$10                  10           100.00
+$5                   23           115.00
+$2                    0              .00
+$1                   10            10.00
+Total Deposited                  8615.00
+# of Deposits                          4
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                 43          4300.00
+$50                  22          1100.00
+$20                  26           520.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+Coin                                 .25
+Total Dispensed                  6080.25
+# of Withdrawals                       5
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                 15         +1500.00
+$50                  11          +550.00
+$20                  21          +420.00
+$10                   0              .00
+$5                   13           +65.00
+$2                    0              .00
+$1                    0              .00
+Coin                                -.25
+Net Total                       +2534.75
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                  190           950.00
+$2                    0              .00
+$1                  121           121.00
+Coin                               99.75
+Starting Inventory                   .00
+Net Adjustments                 42046.00
+Total Inventory                 40000.75
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                190         19000.00
+$50                 189          9450.00
+$20                 424          8480.00
+$10                 190          1900.00
+$5                  190           950.00
+$1                  121           121.00
+Total Dispensable Bills         39901.00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+----------------------------------------
+             Cassette Bills             
+----------------------------------------
+Cass. 1  ($100)     190         19000.00
+Cass. 2  ($5)       190           950.00
+Cass. 3  ($1)       121           121.00
+Cass. 5  ($20)      368          7360.00
+Cass. 7  ($20)       56          1120.00
+Cass. 9  ($50)      189          9450.00
+Cass. 10 ($10)      190          1900.00
+========================================
+
+       Teller Grand Totals Cleared      
+            Activity Cleared            
+
+
+
+
+
+
+
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          2:26:23 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          2:55:04 PM
+
+(Inventory Removal)                     
+Transaction #                          1
+Date                             01/06/20
+Time                          2:56:11 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                190         19000.00
+
+Total Inventory Removed         19000.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          2
+Date                             01/06/20
+Time                          2:56:51 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$5                  190           950.00
+
+Total Inventory Removed           950.00
+----------------------------------------
+       *** Cassette 2 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          3
+Date                             01/06/20
+Time                          2:57:34 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  121           121.00
+
+Total Inventory Removed           121.00
+----------------------------------------
+       *** Cassette 3 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          4
+Date                             01/06/20
+Time                          2:58:42 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$20                 368          7360.00
+
+Total Inventory Removed          7360.00
+----------------------------------------
+       *** Cassette 5 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          5
+Date                             01/06/20
+Time                          2:59:12 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$20                  56          1120.00
+
+Total Inventory Removed          1120.00
+----------------------------------------
+       *** Cassette 7 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          6
+Date                             01/06/20
+Time                          2:59:52 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$50                 189          9450.00
+
+Total Inventory Removed          9450.00
+----------------------------------------
+       *** Cassette 9 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          7
+Date                             01/06/20
+Time                          3:01:00 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$10                 190          1900.00
+
+Total Inventory Removed          1900.00
+----------------------------------------
+       *** Cassette 10 Emptied ***      
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             70
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                               99.75
+Starting Inventory              40000.75
+Net Adjustments                -39901.00
+Total Inventory                    99.75
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Bills              .00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+----------------------------------------
+             Cassette Bills             
+----------------------------------------
+Cass. 1  ($100)       0              .00
+Cass. 2  ($5)         0              .00
+Cass. 3  ($1)         0              .00
+Cass. 5  ($20)        0              .00
+Cass. 7  ($20)        0              .00
+Cass. 9  ($50)        0              .00
+Cass. 10 ($10)        0              .00
+              Cass. 1 Empty             
+              Cass. 2 Empty             
+              Cass. 3 Empty             
+              Cass. 5 Empty             
+              Cass. 7 Empty             
+              Cass. 9 Empty             
+             Cass. 10 Empty             
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          3:01:21 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          3:01:46 PM
+Coin  Adjusted                    -99.75
+New Coin Total                       .00
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             70
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Starting Inventory              40000.75
+Net Adjustments                -40000.75
+Total Inventory                      .00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Bills              .00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+----------------------------------------
+             Cassette Bills             
+----------------------------------------
+Cass. 1  ($100)       0              .00
+Cass. 2  ($5)         0              .00
+Cass. 3  ($1)         0              .00
+Cass. 5  ($20)        0              .00
+Cass. 7  ($20)        0              .00
+Cass. 9  ($50)        0              .00
+Cass. 10 ($10)        0              .00
+              Cass. 1 Empty             
+              Cass. 2 Empty             
+              Cass. 3 Empty             
+              Cass. 5 Empty             
+              Cass. 7 Empty             
+              Cass. 9 Empty             
+             Cass. 10 Empty             
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          3:02:22 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/06/20
+Time                          3:02:41 PM
+
+========================================
+             Activity Report            
+Station #                             70
+Date                             01/06/20
+Time                          3:02:49 PM
+Manager #                              1
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Coin                                 .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Starting Inventory              40000.75
+Net Adjustments                -40000.75
+Total Inventory                      .00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Bills              .00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+----------------------------------------
+             Cassette Bills             
+----------------------------------------
+Cass. 1  ($100)       0              .00
+Cass. 2  ($5)         0              .00
+Cass. 3  ($1)         0              .00
+Cass. 5  ($20)        0              .00
+Cass. 7  ($20)        0              .00
+Cass. 9  ($50)        0              .00
+Cass. 10 ($10)        0              .00
+              Cass. 1 Empty             
+              Cass. 2 Empty             
+              Cass. 3 Empty             
+              Cass. 5 Empty             
+              Cass. 7 Empty             
+              Cass. 9 Empty             
+             Cass. 10 Empty             
+========================================
+
+       Teller Grand Totals Cleared      
+            Activity Cleared            
+
+
+
+
+
+
+
+           Manager Logged Off           
+Manager #                              1
+Date                             01/06/20
+Time                          3:03:11 PM
+****************************************
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+     LG LTA-450 Pgm. Ver. 5.5.98-DC     
+           DynaCash Mode: LAN           
+
+               Chad Davis               
+                Test Unit               
+
+Station #                             70
+

@@ -1,0 +1,365 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.109 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+           RBG-100 Link Error           
+
+Logon:                               Ray
+001/15/20 02:23 PM
+
+
+   *** Entered Configuration Mode ***   
+001/15/20 02:23 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/15/20 02:23 PM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.60
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator      Cassida Pro Zeus
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.109 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/15/20 02:41 PM
+ *** Cassette Cass. 5 Needs Long Verify 
+***                                     
+                                        
+                                        
+                                        
+                                        
+                                        
+                     *** Use Manual Cas
+sette Removal ***  
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.109 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/15/20 02:46 PM
+    *** Cassette Cass. 2 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                          1
+001/15/20 02:46 PM
+Ray
+
+Denom            Pieces            Value
+$5                   60           300.00
+
+Total Inventory Removed           300.00
+----------------------------------------
+
+Logoff:                              Ray
+001/15/20 02:48 PM
+
+Logon:                               Ray
+001/15/20 02:51 PM
+ *** Cassette Cass. 5 Needs Long Verify 
+***                                     
+                                        
+                                        
+                                        
+                                        
+                                        
+                     *** Use Manual Cas
+sette Removal ***  
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.109 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.109 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/15/20 03:37 PM
+
+(Online Deposit)                        
+Transaction #                          2
+001/15/20 03:37 PM
+Ray
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                  91          4550.00
+$10                  93           930.00
+$5                   61           305.00
+$1                  172           172.00
+
+Machine Total                    6557.00
+Deposit Total                    6557.00
+----------------------------------------
+
+Logoff:                              Ray
+001/15/20 03:42 PM
+
+Logon:                               Ray
+001/15/20 03:43 PM
+
+Logoff:                              Ray
+001/15/20 03:43 PM
+
+Logon:                               Ray
+001/15/20 03:52 PM
+
+Logoff:                              Ray
+001/15/20 03:52 PM
+
+Logon:                               Ray
+001/15/20 03:54 PM
+
+Logoff:                              Ray
+001/15/20 03:54 PM
+
+Logon:                               Ray
+001/15/20 04:03 PM
+
+Logoff:                              Ray
+001/15/20 04:03 PM
+
+Logon:                               Ray
+001/15/20 04:04 PM
+
+Logoff:                              Ray
+001/15/20 04:04 PM
+
+Logon:                               Ray
+001/15/20 04:19 PM
+
+      This Transaction Went Offline     
+
+(Inventory Removal)                     
+Transaction #                          3
+001/15/20 04:19 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Total Inventory Removed           100.00
+----------------------------------------
+
+      This Transaction Went Offline     
+
+(Inventory Removal)                     
+Transaction #                          4
+001/15/20 04:20 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Total Inventory Removed           100.00
+----------------------------------------
+
+Logoff:                              Ray
+001/15/20 04:21 PM
+
+Logon:                               Ray
+001/15/20 04:24 PM
+
+      This Transaction Went Offline     
+
+(Inventory Removal)                     
+Transaction #                          5
+001/15/20 04:24 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Total Inventory Removed           100.00
+----------------------------------------
+
+Logoff:                              Ray
+001/15/20 04:24 PM
+
+Logon:                               Ray
+001/15/20 04:27 PM
+
+      This Transaction Went Offline     
+
+(Inventory Removal)                     
+Transaction #                          6
+001/15/20 04:27 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Total Inventory Removed           100.00
+----------------------------------------
+
+Logoff:                              Ray
+001/15/20 04:28 PM
+
+Logon:                               Ray
+001/15/20 04:29 PM
+
+      This Transaction Went Offline     
+
+(Inventory Removal)                     
+Transaction #                          7
+001/15/20 04:29 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Total Inventory Removed             1.00
+----------------------------------------
+
+      This Transaction Went Offline     
+
+(Inventory Removal)                     
+Transaction #                          8
+001/15/20 04:30 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$5                    1             5.00
+$1                    1             1.00
+
+Total Inventory Removed           156.00
+----------------------------------------
+
+Logoff:                              Ray
+001/15/20 04:35 PM
+
+Logon:                               Ray
+001/15/20 04:37 PM
+
+Logoff:                              Ray
+001/15/20 04:37 PM
+
+Logon:                               Ray
+001/15/20 04:38 PM
+
+Logoff:                              Ray
+001/15/20 04:38 PM
+
+Logon:                               Ray
+001/15/20 04:39 PM
+
+Logoff:                              Ray
+001/15/20 04:39 PM
+
+Logon:                               Ray
+001/15/20 04:41 PM
+
+Logoff:                              Ray
+001/15/20 04:42 PM
+
+Logon:                               Ray
+001/15/20 04:42 PM
+
+Logoff:                              Ray
+001/15/20 04:42 PM
+
+Logon:                               Ray
+001/15/20 04:51 PM
+
+Logoff:                              Ray
+001/15/20 04:52 PM
+
+Logon:                               Ray
+001/15/20 04:56 PM
+
+Logoff:                              Ray
+001/15/20 04:56 PM
+
+Logon:                               Ray
+001/15/20 04:57 PM
+
+Logoff:                              Ray
+001/15/20 04:57 PM
+
+Logon:                               Ray
+001/15/20 05:07 PM
+
+Logoff:                              Ray
+001/15/20 05:07 PM
+
+Logon:                               Ray
+05/16/19 09:21 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+05/16/19 09:21 AM
+Ray
+
+

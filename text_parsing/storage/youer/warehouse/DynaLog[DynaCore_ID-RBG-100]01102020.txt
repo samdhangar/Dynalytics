@@ -1,0 +1,41 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.169 (RBG-100)      
+
+                DynaCore                
+              DynaCore Ave.             
+                DynaCity                
+           Location In Branch           
+
+Station:                     DynaCore ID
+Branch:                        Branch ID
+Region:                        Region ID
+
+
+Logon:                              josh
+00001/10/20 10:13 AM
+
+(Inventory Load)                        
+Transaction #                          1
+00001/10/20 10:13 AM
+josh
+
+Denom            Pieces            Value
+$50                   1            50.00
+$10                  17           170.00
+$1                    1             1.00
+
+Machine Total                     221.00
+Total Inventory Added             221.00
+----------------------------------------
+
+Logoff:                             josh
+00001/10/20 10:15 AM
+
+Logon:                             charo
+00001/10/20 10:16 AM
+
+
+   *** Entered Configuration Mode ***   
+00001/10/20 10:16 AM
+ID:                                charo

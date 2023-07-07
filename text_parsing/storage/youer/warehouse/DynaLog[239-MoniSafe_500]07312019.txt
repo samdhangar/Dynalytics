@@ -1,0 +1,705 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.135 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/31/20 09:01 AM
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                          9
+001/31/20 09:01 AM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Reject Notes Removed              104.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Removed (Mutilated) Notes         104.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+Logoff:                              Ray
+001/31/20 09:01 AM
+
+Logon:                               Ray
+001/31/20 10:00 AM
+
+(Online Deposit)                        
+Transaction #                         10
+001/31/20 10:00 AM
+Ray
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                     500.00
+Deposit Total                     500.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/31/20 10:00 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/31/20 10:00 AM
+ID:                                  Ray
+
+
+========================================
+            Security Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         6:30    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                   Yes
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        0
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+========================================
+
+
+
+Logoff:                              Ray
+001/31/20 10:00 AM
+
+Logon:                               Ray
+001/31/20 10:01 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.135 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/31/20 10:04 AM
+
+   *** Entered Configuration Mode ***   
+001/31/20 10:14 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/31/20 10:14 AM
+ID:                                  Ray
+
+
+   *** Entered Configuration Mode ***   
+001/31/20 10:14 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/31/20 10:14 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/31/20 10:27 AM
+
+Logon:                               ray
+001/31/20 10:28 AM
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                         11
+001/31/20 10:28 AM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$50                   2           100.00
+
+Reject Notes Removed              100.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$50                   2          +100.00
+Differences                      +100.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                              ray
+001/31/20 10:31 AM
+
+Logon:                               Ray
+001/31/20 01:47 PM
+
+(Online Deposit)                        
+Transaction #                         12
+001/31/20 01:47 PM
+Ray
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   2           100.00
+$20                  33           660.00
+$10                  39           390.00
+$5                   30           150.00
+$2                    2             4.00
+$1                  204           204.00
+
+Machine Total                    2108.00
+Deposit Total                    2108.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/31/20 01:48 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/31/20 01:48 PM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/31/20 01:57 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/31/20 01:57 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/31/20 01:57 PM
+
+
+Logon:                               Ray
+001/31/20 01:57 PM
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                         13
+001/31/20 01:57 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Reject Notes Removed              104.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Removed (Mutilated) Notes         104.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         14
+001/31/20 01:59 PM
+Ray
+
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Machine Total                     104.00
+Total Inventory Added             104.00
+----------------------------------------
+       TCR Error #570Q300 Occurred      
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                         15
+001/31/20 02:00 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Reject Notes Removed              104.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Reloaded Notes                    104.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                         16
+001/31/20 02:03 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Reject Notes Removed              104.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Removed (Mutilated) Notes         104.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+Logoff:                              Ray
+001/31/20 02:04 PM
+
+
+Logon:                               Ray
+001/31/20 02:05 PM
+
+(Inventory Load)                        
+Transaction #                         17
+001/31/20 02:06 PM
+Ray
+
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Machine Total                     104.00
+Total Inventory Added             104.00
+----------------------------------------
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                         18
+001/31/20 02:07 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Reject Notes Removed              104.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$50                   2          +100.00
+$2                    2            +4.00
+Differences                      +104.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         19
+001/31/20 02:09 PM
+Ray
+
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Machine Total                     104.00
+Total Inventory Added             104.00
+----------------------------------------
+
+Logoff:                              Ray
+001/31/20 02:20 PM
+
+
+Logon:                               Ray
+001/31/20 02:20 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/31/20 02:20 PM
+Ray
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.135 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+          *** Power Failed ***          
+
+
+(Reconciled Rejects)                    
+Transaction #                         20
+001/31/20 02:20 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Reject Notes Removed              104.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$50                   2          +100.00
+$2                    2            +4.00
+Differences                      +104.00
+----------------------------------------
+
+Logon:                               Ray
+001/31/20 02:22 PM
+
+(Online Deposit)                        
+Transaction #                         21
+001/31/20 02:23 PM
+Ray
+
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Machine Total                     104.00
+Deposit Total                     104.00
+----------------------------------------
+         *** Rejects Emptied ***        
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.135 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+          *** Power Failed ***          
+
+
+(Reconciled Rejects)                    
+Transaction #                         22
+001/31/20 02:24 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Reject Notes Removed              104.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$50                   2          +100.00
+$2                    2            +4.00
+Differences                      +104.00
+----------------------------------------
+
+Logon:                               Ray
+001/31/20 02:27 PM
+
+(Online Deposit)                        
+Transaction #                         23
+001/31/20 02:28 PM
+Ray
+
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Machine Total                     104.00
+Deposit Total                     104.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         24
+001/31/20 02:33 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$50                   2           100.00
+$2                    2             4.00
+
+Reject Notes Removed              104.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Reloaded Notes                      4.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$50                   2           100.00
+
+Removed (Mutilated) Notes         100.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         25
+001/31/20 02:36 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Reject Notes Removed                4.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                    2             4.00
+
+Removed (Mutilated) Notes           4.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/31/20 03:37 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/31/20 03:37 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/31/20 03:37 PM
+
+Logon:                               Ray
+001/31/20 04:26 PM
+
+   *** Entered Configuration Mode ***   
+001/31/20 04:26 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/31/20 04:26 PM
+ID:                                  Ray
+       *** Cassette 2 Emptied ***       
+       *** Cassette 3 Emptied ***       
+       *** Cassette 4 Emptied ***       
+       *** Cassette 5 Emptied ***       
+       *** Cassette 6 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         26
+001/31/20 04:26 PM
+Ray
+
+Denom            Pieces            Value
+$100                  6           600.00
+$20                  33           660.00
+$10                  39           390.00
+$5                   30           150.00
+$1                  204           204.00
+
+Total Inventory Removed          2004.00
+----------------------------------------
+
+Logoff:                              Ray
+001/31/20 04:28 PM

@@ -1,0 +1,311 @@
+
+Logon:                               Ray
+001/23/20 09:17 AM
+
+
+Logoff:                              Ray
+001/23/20 09:17 AM
+
+
+Logon:                               Ray
+001/23/20 10:24 AM
+
+
+Logoff:                              Ray
+001/23/20 10:24 AM
+
+
+Logon:                               Ray
+001/23/20 10:25 AM
+
+
+Logoff:                              Ray
+001/23/20 10:25 AM
+
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/23/20 10:26 AM
+Ray
+
+
+
+
+Logon:                               Ray
+001/23/20 10:26 AM
+
+
+Logoff:                              Ray
+001/23/20 10:26 AM
+
+
+Logon:                               Ray
+001/23/20 10:26 AM
+
+
+Logoff:                              Ray
+001/23/20 10:31 AM
+
+
+Logon:                               Ray
+001/23/20 11:12 AM
+
+
+   *** Entered Configuration Mode ***   
+001/23/20 11:12 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/23/20 11:13 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/23/20 11:13 AM
+
+
+Logon:                               Ray
+001/23/20 11:15 AM
+
+
+   *** Entered Configuration Mode ***   
+001/23/20 11:18 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/23/20 11:18 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/23/20 11:18 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.111 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.111 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/23/20 01:36 PM
+
+Logoff:                              Ray
+001/23/20 01:36 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.111 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/23/20 02:36 PM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            186.00
+Reversed Amount                   186.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/23/20 02:37 PM
+Ray
+
+
+
+             TCR Link Error             
+
+             TCR Link Error             
+     *** Deposit Needs Audited! ***     
+
+             TCR Link Error             
+      *** Failed To Release TCR ***     
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/23/20 02:37 PM
+Ray
+
+
+
+Logoff:                              Ray
+001/23/20 02:37 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.111 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/23/20 02:52 PM
+
+(Inventory Load)                        
+Transaction #                         27
+001/23/20 02:57 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+
+Machine Total                     185.00
+Total Inventory Added             185.00
+----------------------------------------
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/23/20 03:00 PM
+Ray
+
+
+
+(Inventory Load)                        
+Transaction #                         28
+001/23/20 03:01 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Machine Total                     100.00
+Total Inventory Added             100.00
+----------------------------------------
+
+Logoff:                              Ray
+001/23/20 03:32 PM
+
+Logon:                               Ray
+001/23/20 03:44 PM
+
+Logoff:                              Ray
+001/23/20 03:44 PM
+
+Logon:                               Ray
+001/23/20 03:48 PM
+
+Logoff:                              Ray
+001/23/20 03:49 PM
+
+Logon:                               Ray
+001/23/20 03:50 PM
+
+Logoff:                              Ray
+001/23/20 03:50 PM
+
+Logon:                               Ray
+001/23/20 03:52 PM
+
+Logoff:                              Ray
+001/23/20 03:52 PM
+
+Logon:                               Ray
+001/23/20 03:54 PM
+
+Logoff:                              Ray
+001/23/20 03:55 PM
+
+Logon:                               Ray
+001/23/20 03:57 PM
+
+Logoff:                              Ray
+001/23/20 03:57 PM
+
+Logon:                               Ray
+001/23/20 03:59 PM
+
+Logoff:                              Ray
+001/23/20 03:59 PM
+
+Logon:                               Ray
+001/23/20 05:21 PM
+
+Logoff:                              Ray
+001/23/20 05:22 PM
+
+Logon:                               Ray
+05/24/19 08:34 AM
+
+Logoff:                              Ray
+05/24/19 08:34 AM
+
+Logon:                               Ray
+05/24/19 08:39 AM
+
+Logoff:                              Ray
+05/24/19 08:42 AM
+
+Logon:                               Ray
+05/24/19 09:28 AM
+
+Logoff:                              Ray
+05/24/19 09:28 AM
+
+Logon:                               Ray
+05/24/19 09:37 AM
+
+Logoff:                              Ray
+05/24/19 09:37 AM
+
+       *** Vault Sell Reversed ***      
+
+Original Amount Sold              100.00
+Reversed Amount                   100.00
+            Deposit Canceled            
+
+(Vault Sell)                            
+05/24/19 09:38 AM
+Ray
+
+
+
+Logon:                               Ray
+05/24/19 09:52 AM
+
+Logoff:                              Ray
+05/24/19 09:53 AM
+
+Logon:                               Ray
+05/24/19 09:54 AM
+
+Logoff:                              Ray
+05/24/19 09:54 AM

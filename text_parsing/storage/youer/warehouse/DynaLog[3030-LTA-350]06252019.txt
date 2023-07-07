@@ -1,0 +1,182 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.127 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/25/20 10:53 AM
+
+(Online Deposit)                        
+Transaction #                         20
+001/25/20 10:53 AM
+Ray
+
+Denom            Pieces            Value
+$50                   1            50.00
+$20                   1            20.00
+
+Machine Total                      70.00
+Deposit Total                      70.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         21
+001/25/20 10:53 AM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+
+Machine Total                     150.00
+Deposit Total                     150.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         22
+001/25/20 10:56 AM
+Ray
+
+Denom            Pieces            Value
+$50                   1            50.00
+$20                   1            20.00
+
+Machine Total                      70.00
+Deposit Total                      70.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         23
+001/25/20 10:57 AM
+Ray
+
+Denom            Pieces            Value
+$50                   1            50.00
+$20                   1            20.00
+
+Machine Total                      70.00
+Deposit Total                      70.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         24
+001/25/20 10:58 AM
+Ray
+
+Denom            Pieces            Value
+$50                   1            50.00
+$20                   1            20.00
+
+Machine Total                      70.00
+Deposit Total                      70.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         25
+001/25/20 11:00 AM
+Ray
+
+Denom            Pieces            Value
+$50                   1            50.00
+$20                   1            20.00
+
+Machine Total                      70.00
+Deposit Total                      70.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         26
+001/25/20 11:02 AM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+
+Machine Total                     150.00
+Deposit Total                     150.00
+----------------------------------------
+
+Logoff:                              Ray
+001/25/20 11:04 AM
+
+Logon:                               Ray
+001/25/20 11:06 AM
+
+(Online Deposit)                        
+Transaction #                         27
+001/25/20 11:06 AM
+Ray
+
+Denom            Pieces            Value
+$50                   1            50.00
+$20                   1            20.00
+
+Machine Total                      70.00
+Deposit Total                      70.00
+----------------------------------------
+
+             TCR Link Error             
+
+             TCR Link Error             
+      *** Failed To Release TCR ***     
+
+             Deposit Failure            
+
+(Online Deposit)                        
+001/25/20 11:09 AM
+Ray
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/25/20 11:09 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.127 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/25/20 11:10 AM
+
+(Online Deposit)                        
+Transaction #                         28
+001/25/20 11:10 AM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$2                    1             2.00
+$1                    1             1.00
+
+Other Coin                           .99
+Other Cash Deposited              188.99
+
+Deposit Total                     188.99
+----------------------------------------
+
+Logoff:                              Ray
+001/25/20 11:10 AM

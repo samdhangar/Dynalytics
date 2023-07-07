@@ -1,0 +1,162 @@
+<?php
+$data_first = array(
+    __('Sr. No.'),
+);
+if (!isCompany() && empty($companyDetail)):
+    $data_first = array(
+        __('Sr. No.'),
+        __('Company Name')
+    );
+endif;
+
+$data_second = array(
+    __('Branch Name'),
+    __('DynaCore Station ID'),
+    __('Date'),
+    __('Transaction Date'),
+    __('No. of deposits'),
+    __('No. of withdrawals'),
+    __('W Denom 100'),
+    __('W Denom 50'),
+    __('W Denom 20'),
+    __('W Denom 10'),
+    __('W Denom 5'),
+    __('W Denom 2'),
+    __('W Denom 1'),
+    __('W Coin'),
+    __('D Denom 100'),
+    __('D Denom 50'),
+    __('D Denom 20'),
+    __('D Denom 10'),
+    __('D Denom 5'),
+    __('D Denom 2'),
+    __('D Denom 1'),
+    __('D Coin'),
+    __('Bw Denom 100'),
+    __('Bw Denom 50'),
+    __('Bw Denom 20'),
+    __('Bw Denom 10'),
+    __('Bw Denom 5'),
+    __('Bw Denom 2'),
+    __('Bw Denom 1'),
+    __('Bw Coin'),
+    __('Bd Denom 100'),
+    __('Bd Denom 50'),
+    __('Bd Denom 20'),
+    __('Bd Denom 10'),
+    __('Bd Denom 5'),
+    __('Bd Denom 2'),
+    __('Bd Denom 1'),
+    __('Bd Coin'),
+    __('V Denom 100'),
+    __('V Denom 50'),
+    __('V Denom 20'),
+    __('V Denom 10'),
+    __('V Denom 5'),
+    __('V Denom 2'),
+    __('V Denom 1'),
+    __('V Coin'),
+    __('Bv Denom 100'),
+    __('Bv Denom 50'),
+    __('Bv Denom 20'),
+    __('Bv Denom 10'),
+    __('Bv Denom 5'),
+    __('Bv Denom 2'),
+    __('Bv Denom 1'),
+    __('Bv Coin'),
+    __('Withdrawals Amount'),
+    __('Batch Withdrawals Amount'),
+    __('Buy Amount'),
+    __('Batch Deposit Amount'),
+    __('Deposit Amount'),
+    __('Sell Amount'),
+    __('Valut Buy Amount'),
+    __('Batch Valut Buys Amount'),
+    __('Message'),
+);
+$data = array_merge($data_first, $data_second);
+$this->CSV->addRow(array_values($data));
+$startNo = 1;
+foreach ($tellerTransactions as $tellerTransaction):
+    $exportArr_first = array(
+        $startNo++,
+    );
+    if (!isCompany() && empty($companyDetail)):
+        $exportArr_first = array(
+            $startNo++,
+            (isset($tellerTransaction['FileProccessingDetail']['Company']['first_name']) ? $tellerTransaction['FileProccessingDetail']['Company']['first_name'] : ''),
+        );
+    endif;
+
+    $exportArr_second = array(
+        (isset($tellerTransaction['FileProccessingDetail']['Branch']['name']) ? $tellerTransaction['FileProccessingDetail']['Branch']['name'] : ''),
+        (isset($tellerTransaction['FileProccessingDetail']['station']) ? $tellerTransaction['FileProccessingDetail']['station'] : ''),
+        (isset($tellerTransaction['FileProccessingDetail']['file_date']) ? $tellerTransaction['FileProccessingDetail']['file_date'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['trans_datetime']) ? showdatetime($tellerTransaction['CurrentTellerTransactions']['trans_datetime']) : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['no_of_deposits']) ? $tellerTransaction['CurrentTellerTransactions']['no_of_deposits'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['no_of_withdrawals']) ? $tellerTransaction['CurrentTellerTransactions']['no_of_withdrawals'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['w_denom_100']) ? $tellerTransaction['CurrentTellerTransactions']['w_denom_100'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['w_denom_50']) ? $tellerTransaction['CurrentTellerTransactions']['w_denom_50'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['w_denom_20']) ? $tellerTransaction['CurrentTellerTransactions']['w_denom_20'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['w_denom_10']) ? $tellerTransaction['CurrentTellerTransactions']['w_denom_10'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['w_denom_5']) ? $tellerTransaction['CurrentTellerTransactions']['w_denom_5'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['w_denom_2']) ? $tellerTransaction['CurrentTellerTransactions']['w_denom_2'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['w_denom_1']) ? $tellerTransaction['CurrentTellerTransactions']['w_denom_1'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['w_coin']) ? $tellerTransaction['CurrentTellerTransactions']['w_coin'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['d_denom_100']) ? $tellerTransaction['CurrentTellerTransactions']['d_denom_100'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['d_denom_50']) ? $tellerTransaction['CurrentTellerTransactions']['d_denom_50'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['d_denom_20']) ? $tellerTransaction['CurrentTellerTransactions']['d_denom_20'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['d_denom_10']) ? $tellerTransaction['CurrentTellerTransactions']['d_denom_10'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['d_denom_5']) ? $tellerTransaction['CurrentTellerTransactions']['d_denom_5'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['d_denom_2']) ? $tellerTransaction['CurrentTellerTransactions']['d_denom_2'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['d_denom_1']) ? $tellerTransaction['CurrentTellerTransactions']['d_denom_1'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['d_coin']) ? $tellerTransaction['CurrentTellerTransactions']['d_coin'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bw_denom_100']) ? $tellerTransaction['CurrentTellerTransactions']['bw_denom_100'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bw_denom_50']) ? $tellerTransaction['CurrentTellerTransactions']['bw_denom_50'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bw_denom_20']) ? $tellerTransaction['CurrentTellerTransactions']['bw_denom_20'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bw_denom_10']) ? $tellerTransaction['CurrentTellerTransactions']['bw_denom_10'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bw_denom_5']) ? $tellerTransaction['CurrentTellerTransactions']['bw_denom_5'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bw_denom_2']) ? $tellerTransaction['CurrentTellerTransactions']['bw_denom_2'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bw_denom_1']) ? $tellerTransaction['CurrentTellerTransactions']['bw_denom_1'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bw_coin']) ? $tellerTransaction['CurrentTellerTransactions']['bw_coin'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bd_denom_100']) ? $tellerTransaction['CurrentTellerTransactions']['bd_denom_100'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bd_denom_50']) ? $tellerTransaction['CurrentTellerTransactions']['bd_denom_50'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bd_denom_20']) ? $tellerTransaction['CurrentTellerTransactions']['bd_denom_20'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bd_denom_10']) ? $tellerTransaction['CurrentTellerTransactions']['bd_denom_10'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bd_denom_5']) ? $tellerTransaction['CurrentTellerTransactions']['bd_denom_5'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bd_denom_2']) ? $tellerTransaction['CurrentTellerTransactions']['bd_denom_2'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bd_denom_1']) ? $tellerTransaction['CurrentTellerTransactions']['bd_denom_1'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bd_coin']) ? $tellerTransaction['CurrentTellerTransactions']['bd_coin'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['v_denom_100']) ? $tellerTransaction['CurrentTellerTransactions']['v_denom_100'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['v_denom_50']) ? $tellerTransaction['CurrentTellerTransactions']['v_denom_50'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['v_denom_20']) ? $tellerTransaction['CurrentTellerTransactions']['v_denom_20'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['v_denom_10']) ? $tellerTransaction['CurrentTellerTransactions']['v_denom_10'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['v_denom_5']) ? $tellerTransaction['CurrentTellerTransactions']['v_denom_5'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['v_denom_2']) ? $tellerTransaction['CurrentTellerTransactions']['v_denom_2'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['v_denom_1']) ? $tellerTransaction['CurrentTellerTransactions']['v_denom_1'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['v_coin']) ? $tellerTransaction['CurrentTellerTransactions']['v_coin'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bv_denom_100']) ? $tellerTransaction['CurrentTellerTransactions']['bv_denom_100'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bv_denom_50']) ? $tellerTransaction['CurrentTellerTransactions']['bv_denom_50'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bv_denom_20']) ? $tellerTransaction['CurrentTellerTransactions']['bv_denom_20'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bv_denom_10']) ? $tellerTransaction['CurrentTellerTransactions']['bv_denom_10'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bv_denom_5']) ? $tellerTransaction['CurrentTellerTransactions']['bv_denom_5'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bv_denom_2']) ? $tellerTransaction['CurrentTellerTransactions']['bv_denom_2'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bv_denom_1']) ? $tellerTransaction['CurrentTellerTransactions']['bv_denom_1'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['bv_coin']) ? $tellerTransaction['CurrentTellerTransactions']['bv_coin'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['withdrawals_amt']) ? $tellerTransaction['CurrentTellerTransactions']['withdrawals_amt'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['batch_withdrawals_amt']) ? $tellerTransaction['CurrentTellerTransactions']['batch_withdrawals_amt'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['buy_amt']) ? $tellerTransaction['CurrentTellerTransactions']['buy_amt'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['batch_deposit_amt']) ? $tellerTransaction['CurrentTellerTransactions']['batch_deposit_amt'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['deposit_amt']) ? $tellerTransaction['CurrentTellerTransactions']['deposit_amt'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['sell_amt']) ? $tellerTransaction['CurrentTellerTransactions']['sell_amt'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['vault_buys_amt']) ? $tellerTransaction['CurrentTellerTransactions']['vault_buys_amt'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['batch_vault_buys_amt']) ? $tellerTransaction['CurrentTellerTransactions']['batch_vault_buys_amt'] : ''),
+        (isset($tellerTransaction['CurrentTellerTransactions']['message']) ? $tellerTransaction['CurrentTellerTransactions']['message'] : ''),
+    );
+    $exportArr = array_merge($exportArr_first, $exportArr_second);
+    $this->CSV->addRow($exportArr);
+endforeach;
+
+$filename = getReportName('CurrentTellerTransactions');
+echo $this->CSV->render($filename);
+?>

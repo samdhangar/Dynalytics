@@ -1,0 +1,280 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.169 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG DynaCore
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+00001/02/20 04:50 PM
+ID:                               Level2
+
+
+Logon:                     Addon Support
+00001/02/20 04:50 PM
+
+          *** Deleted User ***          
+00001/02/20 04:51 PM
+ID:                                 Adam
+
+          *** Deleted User ***          
+00001/02/20 04:51 PM
+ID:                                 Chad
+
+          *** Deleted User ***          
+00001/02/20 04:51 PM
+ID:                                Charo
+
+          *** Deleted User ***          
+00001/02/20 04:51 PM
+ID:                             Manager1
+
+          *** Deleted User ***          
+00001/02/20 04:51 PM
+ID:                             Manager2
+
+          *** Deleted User ***          
+00001/02/20 04:51 PM
+ID:                              Patrick
+
+          *** Deleted User ***          
+00001/02/20 04:51 PM
+ID:                                 Paul
+
+          *** Deleted User ***          
+00001/02/20 04:51 PM
+ID:                                Peter
+
+          *** Deleted User ***          
+00001/02/20 04:51 PM
+ID:                              Teller1
+
+          *** Deleted User ***          
+00001/02/20 04:51 PM
+ID:                              Teller2
+
+          *** Deleted User ***          
+00001/02/20 04:51 PM
+ID:                     totaly not a spy
+
+           *** Edited User ***          
+00001/02/20 04:56 PM
+ID:                                  Ray
+
+
+           *** Added User ***           
+00001/02/20 04:56 PM
+ID:                               Teller
+
+
+           *** Added User ***           
+00001/02/20 04:57 PM
+ID:                              Manager
+
+
+           *** Added User ***           
+00001/02/20 04:57 PM
+ID:                                Admin
+
+
+    *** Exited Configuration Mode ***   
+00001/02/20 04:58 PM
+ID:                        Addon Support
+
+
+========================================
+             DynaCore Groups            
+
+Station:                    RBG DynaCore
+Branch:                      Test Branch
+Region:                      Test Region
+00001/02/20 04:58 PM
+
+¡"!
+     Empty & Remove Note Inventory
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Teller
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Manager
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Inventory Control Setup
+     Reset TCD/TCR Machine
+     Reboot System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Administrator
+     Group Management
+     Hardware Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit           2000.00
+     Daily Limit                10000.00
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master Users
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+========================================
+             DynaCore Users             
+
+Station:                    RBG DynaCore
+Branch:                      Test Branch
+Region:                      Test Region
+00001/02/20 04:58 PM
+
+Admin
+     Administrator
+
+Josh
+     Teller
+
+Manager
+     Manager
+
+Ray
+     Teller
+     Manager
+     Administrator
+
+Teller
+     Teller
+
+========================================
+
+
+
+========================================
+              User Settings             
+Station:                    RBG DynaCore
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.169 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG DynaCore
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+00001/02/20 05:00 PM
+ID:                                  OEM

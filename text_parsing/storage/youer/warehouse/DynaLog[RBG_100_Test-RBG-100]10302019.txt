@@ -1,0 +1,362 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.158 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                             Charo
+01/30/20 05:03 PM
+
+Logon:                             peter
+01/30/20 05:04 PM
+
+Logon:                              Paul
+01/30/20 05:08 PM
+
+(Online Deposit)                        
+Transaction #                         37
+01/30/20 05:08 PM
+Charo
+
+Denom            Pieces            Value
+$100                  1           100.00
+$1                  101           101.00
+
+Other Coin                           .33
+Other Cash Deposited              201.33
+
+Deposit Total                     201.33
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         38
+01/30/20 05:10 PM
+Peter
+
+Denom            Pieces            Value
+$100                  7           700.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   900.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         39
+01/30/20 05:10 PM
+Josh
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+Denom            Pieces            Value
+$100                131         13100.00
+$50                 199          9950.00
+$20                 129          2580.00
+$10                 264          2640.00
+$5                  164           820.00
+$2                    0              .00
+$1                  191           191.00
+Coin                               99.99
+Starting Inventory              14968.00
+Net Adjustments                  1844.99
+Total Inventory                 29380.99
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                131         13100.00
+$50                 199          9950.00
+$20                 129          2580.00
+$10                 264          2640.00
+$5                  164           820.00
+$1                  191           191.00
+Total Dispensable Notes         29281.00
+
+----------------------------------------
+          Collection Box Notes          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Notes                .00
+
+Cass. 1 $1          191           191.00
+Cass. 2 $5          164           820.00
+Cass. 3 $10         264          2640.00
+Cass. 4U $20        129          2580.00
+Cass. 4L $50        199          9950.00
+Cass. 5 $100        131         13100.00
+               Cass. 1 Low              
+               Cass. 2 Low              
+               Cass. 3 Low              
+               Cass. 5 Low              
+========================================
+
+
+
+
+
+
+
+
+========================================
+           User Totals Report           
+----------------------------------------
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+01/30/20 05:11 PM
+
+
+Chad
+# of Deposits                          1
+# of Withdrawals                       1
+Denom            Pieces            Value
+$5                    4            20.00
+$1                    1             1.00
+
+Deposit Total                      21.00
+
+Denom            Pieces            Value
+$100                 28          2800.00
+$20                   7           140.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Withdrawal Total                 3000.00
+----------------------------------------
+Buy                              2979.00
+========================================
+
+
+
+
+
+
+
+
+========================================
+           User Totals Report           
+----------------------------------------
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+01/30/20 05:11 PM
+
+
+Charo
+# of Deposits                          8
+# of Withdrawals                       4
+Denom            Pieces            Value
+$100                158         15800.00
+$50                  57          2850.00
+$20                  21           420.00
+$10                  18           180.00
+$5                   17            85.00
+$1                   44            44.00
+
+$100                  3           300.00
+$1                  106           106.00
+
+Other Coin                           .33
+
+Other Cash Deposited              406.33
+Machine Total                   19379.00
+Deposit Total                   19785.33
+
+Denom            Pieces            Value
+$100                130         13000.00
+$50                  49          2450.00
+$20                  14           280.00
+$10                  15           150.00
+$5                   12            60.00
+$1                  160           160.00
+
+Withdrawal Total                16100.00
+----------------------------------------
+Sell                             3279.00
+========================================
+
+
+
+
+
+
+
+
+========================================
+           User Totals Report           
+----------------------------------------
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+01/30/20 05:11 PM
+
+
+Josh
+# of Deposits                          2
+# of Withdrawals                       1
+Denom            Pieces            Value
+$20                   1            20.00
+$10                  30           300.00
+$5                   10            50.00
+$1                  150           150.00
+
+$1                    1             1.00
+
+Other Cash Deposited                1.00
+Machine Total                     520.00
+Deposit Total                     521.00
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Withdrawal Total                    1.00
+----------------------------------------
+Sell                              519.00
+========================================
+
+
+
+
+
+
+
+
+========================================
+           User Totals Report           
+----------------------------------------
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+01/30/20 05:11 PM
+
+
+Paul
+# of Deposits                          0
+# of Withdrawals                       1
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Withdrawal Total                  100.00
+----------------------------------------
+Buy                               100.00
+========================================
+
+
+
+
+
+
+
+
+========================================
+           User Totals Report           
+----------------------------------------
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+01/30/20 05:11 PM
+
+
+Peter
+# of Deposits                          0
+# of Withdrawals                       2
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$100                  7           700.00
+$20                   7           140.00
+$10                  33           330.00
+$5                   15            75.00
+$1                  155           155.00
+
+Withdrawal Total                 1400.00
+----------------------------------------
+Buy                              1400.00
+========================================
+
+
+
+
+
+
+
+
+========================================
+           User Totals Report           
+----------------------------------------
+Station:                    RBG 100 Test
+Branch:                      Test Branch
+Region:                      Test Region
+01/30/20 05:11 PM
+
+
+Ray
+# of Deposits                          8
+# of Withdrawals                       6
+Denom            Pieces            Value
+$100                 45          4500.00
+$50                  66          3300.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    2            10.00
+$1                   72            72.00
+
+$100                  4           400.00
+$1                    6             6.00
+
+Other Cash Deposited              406.00
+Machine Total                    7912.00
+Deposit Total                    8318.00
+
+Denom            Pieces            Value
+$100                 71          7100.00
+$50                  58          2900.00
+$20                  29           580.00
+$10                  17           170.00
+$5                   21           105.00
+$1                   85            85.00
+
+Non-Cash Total                    400.00
+Withdrawal Total                10940.00
+----------------------------------------
+Buy                              3028.00
+========================================
+
+
+
+
+
+
+
+
+Logoff:                            Charo
+01/30/20 05:32 PM

@@ -1,0 +1,20 @@
+.errorDV{
+    color : #e32!important;
+}
+.customlabel{
+    font-weight : bold!important;
+    font-size : 14px!important;
+}
+.error-message{
+    color : #e32!important;
+}
+.diff_color{
+    background-color : #E43F4A;
+    text-align: right;
+}
+.text_align{
+    text-align: center;
+}
+.text_right{
+    text-align: right;
+}

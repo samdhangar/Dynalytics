@@ -1,0 +1,93 @@
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       OKI TG7 Pgm. Ver. 5.5.75-DC      
+           DynaCash Mode: LAN           
+
+                 OKI TG7                
+                Test Unit               
+                TCR Hall                
+
+Station #                             92
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/12/20
+Time                          9:41:07 AM
+       *** Cassette 1 Emptied ***       
+       *** Cassette 2 Emptied ***       
+       *** Cassette 5 Emptied ***       
+       *** Cassette 9 Emptied ***       
+ Prior Undocumented Cassette(s) Emptied!
+ 
+    *** Cassette And Bill Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         13
+Date                             01/12/20
+Time                          9:42:28 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$50                 120          6000.00
+
+Total Inventory Removed          6000.00
+----------------------------------------
+  Removed Bills Subject To Fine Count!  
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             92
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    1             2.00
+$1                    0              .00
+Starting Inventory              19302.00
+Net Adjustments                -84490.00
+Total Inventory                     2.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Bills              .00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$100                  1           100.00
+$20                  32           640.00
+$10                  16           160.00
+Total Reject Bills                900.00
+
+Cass. 1 ($20)         0              .00
+Cass. 2 ($10)         0              .00
+Cass. 3 ($5)          0              .00
+Cass. 4 ($1)          0              .00
+Cass. 5 ($50)         0              .00
+Cass. 9 ($100)        0              .00
+               Ones Empty               
+               Fives Empty              
+              Fifties Empty             
+               Cass. 1 Low              
+               Cass. 2 Low              
+              Cass. 3 Empty             
+              Cass. 4 Empty             
+              Cass. 5 Empty             
+               Cass. 9 Low              
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/12/20
+Time                          9:42:41 AM
+****************************************

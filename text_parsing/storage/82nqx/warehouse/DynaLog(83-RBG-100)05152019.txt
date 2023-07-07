@@ -1,0 +1,525 @@
+       DynaCash (c) 1999 - 2018 by      
+        Add-On Technologies, Inc.       
+       RBG-100 Pgm. Ver. 5.5.96-DC      
+           DynaCash Mode: LAN           
+
+                   RBG                  
+                  Test                  
+                 CC-5000                
+
+Station #                             83
+
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             9/15/17
+Time                          2:57:16 PM
+      RBG-100 Error #3904 Occurred      
+
+
+
+   *** Manual Bill Removal Attempt ***  
+     *** Possible Exposed Bills ***     
+
+           Manager Logged Off           
+Manager #                              1
+Date                             9/15/17
+Time                          3:04:28 PM
+****************************************
+       DynaCash (c) 1999 - 2018 by      
+        Add-On Technologies, Inc.       
+       RBG-100 Pgm. Ver. 5.5.96-DC      
+           DynaCash Mode: LAN           
+
+                   RBG                  
+                  Test                  
+                 CC-5000                
+
+Station #                             83
+
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             9/15/17
+Time                          3:06:41 PM
+
+
+   *** Manual Bill Removal Attempt ***  
+      *** No Bills Were Removed ***     
+
+
+
+   *** Manual Bill Removal Attempt ***  
+      *** No Bills Were Removed ***     
+
+           Manager Logged Off           
+Manager #                              1
+Date                             9/15/17
+Time                          3:08:27 PM
+****************************************
+       DynaCash (c) 1999 - 2018 by      
+        Add-On Technologies, Inc.       
+       RBG-100 Pgm. Ver. 5.5.96-DC      
+           DynaCash Mode: LAN           
+
+                   RBG                  
+                  Test                  
+                 CC-5000                
+
+Station #                             83
+
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             9/15/17
+Time                          3:10:46 PM
+           Manager Logged Off           
+Manager #                              1
+Date                             9/15/17
+Time                          3:12:42 PM
+****************************************
+       DynaCash (c) 1999 - 2018 by      
+        Add-On Technologies, Inc.       
+       RBG-100 Pgm. Ver. 5.5.96-DC      
+           DynaCash Mode: LAN           
+
+                   RBG                  
+                  Test                  
+                 CC-5000                
+
+Station #                             83
+
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             9/15/17
+Time                          3:14:26 PM
+
+
+========================================
+          Exposed Bills History         
+Station #                             83
+Date                             9/15/17
+Time                          3:14:40 PM
+Manager #                              1
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                 Incomplete
+Date                             4/26/19
+Time                          1:14:06 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                  175           175.00
+
+Total Exposed Bills               175.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+Date                             9/15/17
+Time                          2:57:37 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                147         14700.00
+$50                 103          5150.00
+$20                 278          5560.00
+$10                 273          2730.00
+$5                  104           520.00
+$1                  203           203.00
+
+Total Exposed Bills             28863.00
+========================================
+
+
+
+
+
+
+
+
+
+
+(Reconciled Exposed Bills)              
+Transaction #                         29
+Date                             9/15/17
+Time                          3:15:57 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  203           203.00
+
+Exposed Bills Reconciled          203.00
+----------------------------------------
+
+
+========================================
+          Excess Bills History          
+Station #                             83
+Date                             9/15/17
+Time                          3:16:06 PM
+Manager #                              1
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         21
+Date                             5/01/19
+Time                          5:14:46 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$10                   2            20.00
+
+Total Excess Bills                 20.00
+========================================
+
+
+
+
+
+
+
+
+
+(Processed Excess Bills)                
+Transaction #                         30
+Date                             9/15/17
+Time                          3:16:06 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$10                   2            20.00
+
+Excess Bills Processed             20.00
+----------------------------------------
+  *** Excess Bills History Cleared ***  
+
+
+
+========================================
+          Exposed Bills History         
+Station #                             83
+Date                             9/15/17
+Time                          3:16:41 PM
+Manager #                              1
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                 Incomplete
+Date                             4/26/19
+Time                          1:14:06 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                  175           175.00
+
+Total Exposed Bills               175.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+Date                             9/15/17
+Time                          2:57:37 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                147         14700.00
+$50                 103          5150.00
+$20                 278          5560.00
+$10                 273          2730.00
+$5                  104           520.00
+$1                  203           203.00
+
+Total Exposed Bills             28863.00
+========================================
+
+
+
+
+
+
+
+
+
+
+(Reconciled Exposed Bills)              
+Transaction #                         31
+Date                             9/15/17
+Time                          3:17:45 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                147         14700.00
+$50                 103          5150.00
+$20                 278          5560.00
+$10                 273          2730.00
+$5                  104           520.00
+$1                  203           203.00
+
+Exposed Bills Reconciled        28863.00
+----------------------------------------
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             83
+Denom            Pieces            Value
+$100                275         27500.00
+$50                 191          9550.00
+$20                 247          4940.00
+$10                 272          2720.00
+$5                  165           825.00
+$2                    0              .00
+$1                  113           113.00
+Starting Inventory              25310.00
+Net Adjustments                -28880.00
+Total Inventory                 45648.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Bills              .00
+
+
+----------------------------------------
+          Collection Box Bills          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Bills                .00
+
+----------------------------------------
+              Exposed Bills             
+----------------------------------------
+$100                275         27500.00
+$50                 191          9550.00
+$20                 247          4940.00
+$10                 272          2720.00
+$5                  165           825.00
+$1                  113           113.00
+Total Exposed Bills             45648.00
+
+Cass. 1 ($1)          0              .00
+Cass. 2 ($5)          0              .00
+Cass. 3 ($10)         0              .00
+Cass. 4U ($20)        0              .00
+Cass. 4L ($50)        0              .00
+Cass. 5 ($100)        0              .00
+               Ones Empty               
+               Fives Empty              
+               Tens Empty               
+             Twenties Empty             
+              Fifties Empty             
+             Hundreds Empty             
+========================================
+
+           Manager Logged Off           
+Manager #                              1
+Date                             9/15/17
+Time                          3:17:54 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             9/15/17
+Time                          3:18:22 PM
+
+
+========================================
+          Exposed Bills History         
+Station #                             83
+Date                             9/15/17
+Time                          3:18:32 PM
+Manager #                              1
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                 Incomplete
+Date                             4/26/19
+Time                          1:14:06 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                  175           175.00
+
+Total Exposed Bills               175.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+Date                             9/15/17
+Time                          2:57:37 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                147         14700.00
+$50                 103          5150.00
+$20                 278          5560.00
+$10                 273          2730.00
+$5                  104           520.00
+$1                  203           203.00
+
+Total Exposed Bills             28863.00
+========================================
+
+
+
+
+
+
+
+
+           Manager Logged Off           
+Manager #                              1
+Date                             9/15/17
+Time                          3:21:27 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             9/15/17
+Time                          3:21:36 PM
+
+
+========================================
+          Exposed Bills History         
+Station #                             83
+Date                             9/15/17
+Time                          3:21:45 PM
+Manager #                              1
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                 Incomplete
+Date                             4/26/19
+Time                          1:14:06 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                  175           175.00
+
+Total Exposed Bills               175.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+Date                             9/15/17
+Time                          2:57:37 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                147         14700.00
+$50                 103          5150.00
+$20                 278          5560.00
+$10                 273          2730.00
+$5                  104           520.00
+$1                  203           203.00
+
+Total Exposed Bills             28863.00
+========================================
+
+
+
+
+
+
+
+
+
+
+(Reconciled Exposed Bills)              
+Transaction #                         32
+Date                             9/15/17
+Time                          3:22:27 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                275         27500.00
+$50                 191          9550.00
+$20                 247          4940.00
+$10                 272          2720.00
+$5                  165           825.00
+$1                  113           113.00
+
+Exposed Bills Reconciled        45648.00
+----------------------------------------
+  *** Exposed Bills History Cleared *** 
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             83
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Starting Inventory              25310.00
+Net Adjustments                -74528.00
+Total Inventory                      .00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Bills              .00
+
+----------------------------------------
+          Collection Box Bills          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Bills                .00
+
+Cass. 1 ($1)          0              .00
+Cass. 2 ($5)          0              .00
+Cass. 3 ($10)         0              .00
+Cass. 4U ($20)        0              .00
+Cass. 4L ($50)        0              .00
+Cass. 5 ($100)        0              .00
+               Ones Empty               
+               Fives Empty              
+               Tens Empty               
+             Twenties Empty             
+              Fifties Empty             
+             Hundreds Empty             
+========================================
+
+           Manager Logged Off           
+Manager #                              1
+Date                             9/15/17
+Time                          3:22:37 PM
+****************************************

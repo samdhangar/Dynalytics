@@ -1,0 +1,69 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.143 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.143 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              Josh
+01/04/20 12:00 PM
+
+(Online Deposit)                        
+Transaction #                          4
+01/04/20 12:01 PM
+Josh
+
+Denom            Pieces            Value
+$1                   15            15.00
+
+Machine Total                      15.00
+Deposit Total                      15.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/04/20 12:06 PM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+01/04/20 12:22 PM
+ID:                                 Josh
+
+         *** Security Event! ***        
+            01/04/20 12:24 PM           
+    *** TCR Main Safe Door Opened ***   
+
+         *** Security Event! ***        
+            01/04/20 12:24 PM           
+    *** TCR Main Safe Door Closed ***   
+
+   *** Manual Note Removal Attempt ***  
+      *** No Notes Were Removed ***     
+
+Logoff:                             Josh
+01/04/20 12:35 PM
+
+Logon:                              Josh
+01/04/20 01:48 PM
+
+Logoff:                             Josh
+01/04/20 01:51 PM

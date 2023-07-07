@@ -1,0 +1,225 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.086 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.086 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/30/20 02:48 PM
+
+   *** Entered Configuration Mode ***   
+001/30/20 02:48 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 02:48 PM
+ID:                                  Ray
+
+Logon:                              josh
+001/30/20 04:01 PM
+
+(Online Mix Dispense)                   
+Transaction #                         20
+001/30/20 04:01 PM
+Josh
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         21
+001/30/20 04:02 PM
+Josh
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Machine Total                      10.00
+Deposit Total                      10.00
+----------------------------------------
+
+Logoff:                             josh
+001/30/20 04:02 PM
+
+Logoff:                              Ray
+001/30/20 04:16 PM
+
+Logon:                               Ray
+001/30/20 04:16 PM
+
+   *** Entered Configuration Mode ***   
+001/30/20 04:16 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/30/20 04:17 PM
+ID:                                  Ray
+
+
+Logon:                              josh
+001/30/20 04:17 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/30/20 04:18 PM
+Ray
+
+
+
+Logoff:                              Ray
+001/30/20 04:18 PM
+
+Logon:                               Ray
+001/30/20 04:27 PM
+
+Logoff:                              Ray
+001/30/20 04:28 PM
+
+Logoff:                             josh
+001/30/20 04:28 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.086 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/30/20 05:05 PM
+
+Logon:                              josh
+001/30/20 05:05 PM
+
+Logoff:                             josh
+001/30/20 05:06 PM
+
+Logoff:                              Ray
+001/30/20 05:08 PM
+
+Logon:                               Ray
+04/01/19 10:00 AM
+
+Logoff:                              Ray
+04/01/19 11:31 AM
+
+Logon:                               Ray
+04/01/19 01:19 PM
+
+Logoff:                              Ray
+04/01/19 01:19 PM
+
+Logon:                               Ray
+04/01/19 02:44 PM
+
+             TCR Link Error             
+             Deposit Failure            
+
+(Online Deposit)                        
+04/01/19 02:44 PM
+Ray
+
+
+
+Logoff:                              Ray
+04/01/19 02:45 PM
+
+Logon:                               Ray
+04/01/19 02:45 PM
+
+(Online Deposit)                        
+Transaction #                         22
+04/01/19 02:45 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Deposit Total                       1.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         23
+04/01/19 02:46 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+Logoff:                              Ray
+04/01/19 02:46 PM
+
+Logon:                               Ray
+04/01/19 02:57 PM
+
+Logoff:                              Ray
+04/01/19 02:57 PM
+
+Logon:                               Ray
+04/01/19 04:02 PM
+
+Logoff:                              Ray
+04/01/19 04:02 PM
+
+Logon:                               Ray
+04/01/19 04:13 PM
+
+(Online Nominated Dispense)             
+Transaction #                         24
+04/01/19 04:13 PM
+Ray
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                         25
+04/01/19 04:14 PM
+Josh
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Machine Total                      10.00
+Deposit Total                      10.00
+----------------------------------------
+
+Logoff:                              Ray
+04/01/19 04:14 PM

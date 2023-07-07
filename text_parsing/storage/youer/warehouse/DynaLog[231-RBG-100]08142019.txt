@@ -1,0 +1,2452 @@
+
+      *** Client Disconnection ***      
+Logoff:                             josh
+001/14/20 03:02 AM
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 03:02 AM At 08/13/19 05:34 PM
+
+
+Logon:                           Stephen
+001/14/20 08:51 AM
+
+
+           RBG-100 Link Error           
+
+   *** Manual Note Removal Attempt ***  
+     *** Possible Exposed Notes ***     
+
+
+Logoff:                          Stephen
+001/14/20 08:53 AM
+
+
+Logon:                           Stephen
+001/14/20 08:54 AM
+
+
+   *** Manual Note Removal Attempt ***  
+      *** No Notes Were Removed ***     
+
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 08:56 AM
+Stephen
+
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 08:56 AM
+
+
+Logon:                           Stephen
+001/14/20 08:57 AM
+
+
+(Inventory Load)                        
+Transaction #                         33
+001/14/20 08:59 AM
+Stephen
+
+Denom            Pieces            Value
+$100                 38          3800.00
+$50                 191          9550.00
+$20                 140          2800.00
+$10                 239          2390.00
+$5                  163           815.00
+$1                  189           189.00
+
+Machine Total                   19544.00
+Total Inventory Added           19544.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/14/20 09:00 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           Stephen
+001/14/20 09:01 AM
+
+========================================
+          Exposed Notes History         
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/14/20 09:01 AM
+ID:                              Stephen
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+08/13/19 05:20 PM
+Stephen
+
+Denom            Pieces            Value
+$1                   48            48.00
+
+Total Exposed Notes                48.00
+========================================
+
+
+
+
+
+
+
+
+
+(Reconciled Exposed Notes)              
+Transaction #                         34
+001/14/20 09:01 AM
+Stephen
+
+Denom            Pieces            Value
+$1                   48            48.00
+
+Exposed Notes Reconciled           48.00
+----------------------------------------
+  *** Exposed Notes History Cleared *** 
+
+Logoff:                          Stephen
+001/14/20 09:02 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/14/20 09:06 AM
+ID:                                addon
+
+    *** Exited Configuration Mode ***   
+001/14/20 09:06 AM
+ID:                Addon date: 6-10-2019
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           Stephen
+001/14/20 09:08 AM
+
+Logoff:                          Stephen
+001/14/20 09:09 AM
+
+Logon:                           Stephen
+001/14/20 09:09 AM
+    *** Cassette Cass. 1 Emptied ***    
+     *** Possible Exposed Notes ***     
+
+
+(Inventory Removal)                     
+Transaction #                         35
+001/14/20 09:09 AM
+Stephen
+
+Denom            Pieces            Value
+$1                  189           189.00
+
+Total Inventory Removed           189.00
+----------------------------------------
+
+========================================
+          Exposed Notes History         
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/14/20 09:14 AM
+ID:                              Stephen
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+001/14/20 09:10 AM
+Stephen
+
+Denom            Pieces            Value
+$1                  189           189.00
+
+Total Exposed Notes               189.00
+========================================
+
+
+
+
+
+
+
+
+
+(Reconciled Exposed Notes)              
+Transaction #                         36
+001/14/20 09:14 AM
+Stephen
+
+Denom            Pieces            Value
+$1                  189           189.00
+
+Exposed Notes Reconciled          189.00
+----------------------------------------
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         37
+001/14/20 09:15 AM
+Stephen
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$5                  164           820.00
+
+Collection Notes Removed          820.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$5                  164           820.00
+
+Removed (Mutilated) Notes         820.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+    *** Cassette Cass. 3 Emptied ***    
+    *** Cassette Cass. 4U Emptied ***   
+    *** Cassette Cass. 4L Emptied ***   
+    *** Cassette Cass. 5 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         38
+001/14/20 09:17 AM
+Stephen
+
+Denom            Pieces            Value
+$10                 267          2670.00
+
+Total Inventory Removed          2670.00
+----------------------------------------
+
+========================================
+          Exposed Notes History         
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/14/20 09:24 AM
+ID:                              Stephen
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+001/14/20 09:10 AM
+Stephen
+
+Denom            Pieces            Value
+$1                  189           189.00
+
+Total Exposed Notes               189.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+001/14/20 09:21 AM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 192          9600.00
+$20                 140          2800.00
+
+Total Exposed Notes             26400.00
+========================================
+
+
+
+
+
+
+
+
+
+(Reconciled Exposed Notes)              
+Transaction #                         39
+001/14/20 09:24 AM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 192          9600.00
+$20                 140          2800.00
+
+Exposed Notes Reconciled        26400.00
+----------------------------------------
+  *** Exposed Notes History Cleared *** 
+
+           RBG-100 Link Error           
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           Stephen
+001/14/20 09:34 AM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 09:34 AM
+Stephen
+
+
+
+(Inventory Load)                        
+Transaction #                         40
+001/14/20 09:37 AM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 191          9550.00
+$20                 140          2800.00
+$10                 265          2650.00
+$5                  164           820.00
+$1                  189           189.00
+
+Machine Total                   30009.00
+Total Inventory Added           30009.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/14/20 09:38 AM
+
+Logon:                           Stephen
+001/14/20 09:38 AM
+    *** Cassette Cass. 1 Emptied ***    
+    *** Cassette Cass. 2 Emptied ***    
+    *** Cassette Cass. 3 Emptied ***    
+    *** Cassette Cass. 4U Emptied ***   
+    *** Cassette Cass. 4L Emptied ***   
+    *** Cassette Cass. 5 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         41
+001/14/20 09:39 AM
+Stephen
+
+Denom            Pieces            Value
+$1                  189           189.00
+
+Total Inventory Removed           189.00
+----------------------------------------
+
+========================================
+          Exposed Notes History         
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/14/20 09:47 AM
+ID:                              Stephen
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+001/14/20 09:41 AM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 191          9550.00
+$20                 140          2800.00
+$10                 265          2650.00
+$5                  164           820.00
+
+Total Exposed Notes             29820.00
+========================================
+
+
+
+
+
+
+
+
+
+(Reconciled Exposed Notes)              
+Transaction #                         42
+001/14/20 09:47 AM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 191          9550.00
+$20                 140          2800.00
+$10                 265          2650.00
+$5                  164           820.00
+
+Exposed Notes Reconciled        29820.00
+----------------------------------------
+  *** Exposed Notes History Cleared *** 
+
+(Inventory Load)                        
+Transaction #                         43
+001/14/20 09:50 AM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+$50                 191          9550.00
+$20                 140          2800.00
+$10                 265          2650.00
+$5                  164           820.00
+$1                  189           189.00
+
+Machine Total                   30009.00
+Total Inventory Added           30009.00
+----------------------------------------
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 09:50 AM
+
+Logon:                           Stephen
+001/14/20 09:52 AM
+    *** Cassette Cass. 5 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         44
+001/14/20 09:52 AM
+Stephen
+
+Denom            Pieces            Value
+$100                140         14000.00
+
+Total Inventory Removed         14000.00
+----------------------------------------
+    *** Cassette Cass. 1 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         45
+001/14/20 09:53 AM
+Stephen
+
+Denom            Pieces            Value
+$1                  189           189.00
+
+Total Inventory Removed           189.00
+----------------------------------------
+    *** Cassette Cass. 2 Emptied ***    
+    *** Cassette Cass. 3 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         46
+001/14/20 09:54 AM
+Stephen
+
+Denom            Pieces            Value
+$5                  164           820.00
+
+Total Inventory Removed           820.00
+----------------------------------------
+    *** Cassette Cass. 4U Emptied ***   
+    *** Cassette Cass. 4L Emptied ***   
+
+(Inventory Removal)                     
+Transaction #                         47
+001/14/20 09:56 AM
+Stephen
+
+Denom            Pieces            Value
+$20                 140          2800.00
+
+Total Inventory Removed          2800.00
+----------------------------------------
+
+========================================
+          Exposed Notes History         
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/14/20 10:03 AM
+ID:                              Stephen
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+001/14/20 09:54 AM
+Stephen
+
+Denom            Pieces            Value
+$10                 265          2650.00
+
+Total Exposed Notes              2650.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+001/14/20 09:56 AM
+Stephen
+
+Denom            Pieces            Value
+$50                 191          9550.00
+
+Total Exposed Notes              9550.00
+========================================
+
+
+
+
+
+
+
+
+
+(Reconciled Exposed Notes)              
+Transaction #                         48
+001/14/20 10:03 AM
+Stephen
+
+Denom            Pieces            Value
+$50                 191          9550.00
+$10                 265          2650.00
+
+Exposed Notes Reconciled        12200.00
+----------------------------------------
+  *** Exposed Notes History Cleared *** 
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 10:13 AM
+Stephen
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 10:13 AM
+
+Logon:                           Stephen
+001/14/20 10:13 AM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 10:13 AM
+Stephen
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 10:13 AM
+
+Logon:                           Stephen
+001/14/20 10:14 AM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 10:14 AM
+Stephen
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 10:18 AM
+
+Logon:                           Stephen
+001/14/20 10:19 AM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 10:19 AM
+Stephen
+
+
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 10:19 AM
+Stephen
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 10:19 AM
+
+Logon:                           Stephen
+001/14/20 10:20 AM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 10:20 AM
+Stephen
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 10:20 AM
+
+Logon:                           Stephen
+001/14/20 10:21 AM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 10:21 AM
+Stephen
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 10:22 AM
+
+Logon:                           Stephen
+001/14/20 10:23 AM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 10:23 AM
+Stephen
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 10:23 AM
+
+Logon:                           Stephen
+001/14/20 10:25 AM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 10:25 AM
+Stephen
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 10:25 AM
+
+Logon:                           Stephen
+001/14/20 10:25 AM
+
+ *** Inventory Load Partial Reversal ***
+ 
+
+Original Amount Loaded           1162.00
+Reversed Amount                  1062.00
+
+  Notes Short Due To Rejects Or Unfit!  
+
+Console Disconnected During Transaction!
+
+             Deposit Failure            
+    *** Possible Partial Deposit ***    
+
+(Inventory Load)                        
+Transaction #                         49
+001/14/20 10:26 AM
+Stephen
+
+Denom            Pieces            Value
+$50                   2           100.00
+
+Machine Total                     100.00
+Total Inventory Added             100.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 10:29 AM
+
+Logon:                           Stephen
+001/14/20 10:30 AM
+
+(Inventory Load)                        
+Transaction #                         50
+001/14/20 10:32 AM
+Stephen
+
+Denom            Pieces            Value
+$100                132         13200.00
+$50                 187          9350.00
+$20                 136          2720.00
+$10                 259          2590.00
+$5                  159           795.00
+$1                  182           182.00
+
+Machine Total                   28837.00
+Total Inventory Added           28837.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1062.00
+Reversed Amount                  1062.00
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1062.00
+Reversed Amount                  1062.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 10:37 AM
+Stephen
+
+
+
+Logoff:                          Stephen
+001/14/20 10:41 AM
+
+Logon:                           Stephen
+001/14/20 10:42 AM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1062.00
+Reversed Amount                  1062.00
+
+Console Disconnected During Transaction!
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/14/20 10:46 AM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 10:46 AM
+
+Logon:                           Stephen
+001/14/20 10:47 AM
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         51
+001/14/20 10:48 AM
+Stephen
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$10                   1            10.00
+
+Collection Notes Removed           10.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$10                   1            10.00
+
+Removed (Mutilated) Notes          10.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1072.00
+Reversed Amount                  1072.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 10:57 AM
+Stephen
+
+
+
+Logoff:                          Stephen
+001/14/20 10:57 AM
+
+Logon:                           Stephen
+001/14/20 11:40 AM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1072.00
+Reversed Amount                  1072.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 11:43 AM
+Stephen
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 11:43 AM
+
+Logon:                           Stephen
+001/14/20 11:45 AM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1072.00
+Reversed Amount                  1072.00
+
+Console Disconnected During Transaction!
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/14/20 11:47 AM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 11:47 AM
+
+Logon:                           Stephen
+001/14/20 11:48 AM
+
+(Inventory Removal)                     
+Transaction #                         52
+001/14/20 11:48 AM
+Stephen
+
+Denom            Pieces            Value
+$10                   2            20.00
+
+Total Inventory Removed            20.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1042.00
+Reversed Amount                  1042.00
+
+Console Disconnected During Transaction!
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 11:50 AM
+Stephen
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 11:50 AM
+
+Logon:                           Stephen
+001/14/20 11:52 AM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1042.00
+Reversed Amount                  1042.00
+
+Console Disconnected During Transaction!
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 11:53 AM
+Stephen
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 11:53 AM
+
+Logon:                           Stephen
+001/14/20 11:54 AM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1042.00
+Reversed Amount                  1042.00
+
+Console Disconnected During Transaction!
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 11:55 AM
+Stephen
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 11:55 AM
+
+Logon:                           Stephen
+001/14/20 12:02 PM
+
+(Inventory Load)                        
+Transaction #                         53
+001/14/20 12:03 PM
+Stephen
+
+Denom            Pieces            Value
+$100                  8           800.00
+$50                   1            50.00
+$20                   4            80.00
+$10                   7            70.00
+$5                    5            25.00
+$1                    7             7.00
+
+Machine Total                    1032.00
+Total Inventory Added            1032.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         54
+001/14/20 12:07 PM
+Stephen
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Total Inventory Removed          1860.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1860.00
+Reversed Amount                  1860.00
+
+Console Disconnected During Transaction!
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/14/20 12:10 PM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 12:10 PM
+
+Logon:                           Stephen
+001/14/20 12:16 PM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1860.00
+Reversed Amount                  1860.00
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1860.00
+Reversed Amount                  1860.00
+
+Console Disconnected During Transaction!
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/14/20 12:18 PM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 12:19 PM At 001/14/20 12:18 PM
+
+Logon:                           Stephen
+001/14/20 12:41 PM
+
+Logon:                               ray
+001/14/20 12:41 PM
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         55
+001/14/20 12:45 PM
+Stephen
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$10                   1            10.00
+
+Collection Notes Removed           10.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$10                   1            10.00
+
+Reloaded Notes                     10.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                              ray
+001/14/20 12:47 PM At 001/14/20 12:46 PM
+
+Logon:                               ray
+001/14/20 12:47 PM
+
+Logoff:                          Stephen
+001/14/20 12:50 PM
+
+Logoff:                              ray
+001/14/20 12:51 PM
+
+Logon:                           Stephen
+001/14/20 12:57 PM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1860.00
+Reversed Amount                  1860.00
+
+Console Disconnected During Transaction!
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/14/20 01:02 PM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 01:02 PM
+
+Logon:                           Stephen
+001/14/20 01:03 PM
+
+Logoff:                          Stephen
+001/14/20 02:01 PM
+
+Logon:                           Stephen
+001/14/20 02:03 PM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1860.00
+Reversed Amount                  1860.00
+
+Console Disconnected During Transaction!
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/14/20 02:04 PM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 02:05 PM At 001/14/20 02:04 PM
+
+Logon:                           Stephen
+001/14/20 02:09 PM
+
+Logon:                              josh
+001/14/20 02:09 PM
+
+Logon:                               ray
+001/14/20 02:10 PM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 02:11 PM
+Stephen
+
+
+
+(Online Mix Dispense)                   
+Transaction #                         56
+001/14/20 02:12 PM
+Josh
+
+Denom            Pieces            Value
+$1                    7             7.00
+
+Amount Tendered                     7.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         57
+001/14/20 02:12 PM
+Ray
+
+Denom            Pieces            Value
+$1                    5             5.00
+
+Amount Tendered                     5.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         58
+001/14/20 02:16 PM
+Stephen
+
+Denom            Pieces            Value
+$1                    4             4.00
+
+Machine Total                       4.00
+Total Inventory Added               4.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         59
+001/14/20 02:19 PM
+Stephen
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Total Inventory Added               1.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         60
+001/14/20 02:21 PM
+Stephen
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Machine Total                       2.00
+Total Inventory Added               2.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         61
+001/14/20 02:22 PM
+Stephen
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Machine Total                       2.00
+Total Inventory Added               2.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/14/20 02:26 PM
+
+Logon:                           Stephen
+001/14/20 02:29 PM
+
+(Inventory Load)                        
+Transaction #                         62
+001/14/20 02:29 PM
+Stephen
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Total Inventory Added               1.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1860.00
+Reversed Amount                  1860.00
+
+Console Disconnected During Transaction!
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/14/20 02:37 PM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 02:37 PM
+
+Logon:                           Stephen
+001/14/20 02:38 PM
+      RBG-100 Error #3901 Occurred      
+
+(Inventory Load)                        
+Transaction #                         63
+001/14/20 02:39 PM
+Stephen
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Machine Total                    1860.00
+Total Inventory Added            1860.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         64
+001/14/20 02:50 PM
+Stephen
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Total Inventory Removed          1860.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         65
+001/14/20 02:52 PM
+Stephen
+
+Denom            Pieces            Value
+$100                 10          1000.00
+
+Machine Total                    1000.00
+Total Inventory Added            1000.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         66
+001/14/20 02:53 PM
+Stephen
+
+Denom            Pieces            Value
+$50                  10           500.00
+
+Machine Total                     500.00
+Total Inventory Added             500.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         67
+001/14/20 02:53 PM
+Stephen
+
+Denom            Pieces            Value
+$20                  10           200.00
+
+Machine Total                     200.00
+Total Inventory Added             200.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         68
+001/14/20 02:54 PM
+Stephen
+
+Denom            Pieces            Value
+$10                  10           100.00
+
+Machine Total                     100.00
+Total Inventory Added             100.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         69
+001/14/20 02:54 PM
+Stephen
+
+Denom            Pieces            Value
+$5                   10            50.00
+
+Machine Total                      50.00
+Total Inventory Added              50.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         70
+001/14/20 02:55 PM
+Stephen
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Machine Total                      10.00
+Total Inventory Added              10.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded             10.00
+Reversed Amount                    10.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 02:57 PM
+Stephen
+
+
+
+(Inventory Removal)                     
+Transaction #                         71
+001/14/20 02:58 PM
+Stephen
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   10            10.00
+
+Total Inventory Removed          1860.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded             10.00
+Reversed Amount                    10.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 03:01 PM
+Stephen
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded             50.00
+Reversed Amount                    50.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 03:02 PM
+Stephen
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            100.00
+Reversed Amount                   100.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 03:04 PM
+Stephen
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            200.00
+Reversed Amount                   200.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 03:05 PM
+Stephen
+
+
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 03:05 PM
+
+Logon:                           Stephen
+001/14/20 03:05 PM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            200.00
+Reversed Amount                   200.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 03:06 PM
+Stephen
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            500.00
+Reversed Amount                   500.00
+
+Console Disconnected During Transaction!
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/14/20 03:08 PM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 03:08 PM
+
+Logon:                           Stephen
+001/14/20 03:08 PM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            500.00
+Reversed Amount                   500.00
+
+Console Disconnected During Transaction!
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/14/20 03:09 PM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 03:10 PM At 001/14/20 03:09 PM
+
+Logon:                           Stephen
+001/14/20 03:10 PM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1000.00
+Reversed Amount                  1000.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 03:11 PM
+Stephen
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            500.00
+Reversed Amount                   500.00
+
+Console Disconnected During Transaction!
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/14/20 03:13 PM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 03:13 PM
+
+Logon:                           Stephen
+001/14/20 03:13 PM
+    *** Cassette Cass. 4L Emptied ***   
+
+(Inventory Removal)                     
+Transaction #                         72
+001/14/20 03:14 PM
+Stephen
+
+Denom            Pieces            Value
+$50                 250         12500.00
+
+Total Inventory Removed         12500.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         73
+001/14/20 03:16 PM
+Stephen
+
+Denom            Pieces            Value
+$50                 170          8500.00
+
+Machine Total                    8500.00
+Total Inventory Added            8500.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            500.00
+Reversed Amount                   500.00
+
+Console Disconnected During Transaction!
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/14/20 03:18 PM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 03:18 PM
+
+Logon:                           Stephen
+001/14/20 03:18 PM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            500.00
+Reversed Amount                   500.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 03:20 PM
+Stephen
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            500.00
+Reversed Amount                   500.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 03:21 PM
+Stephen
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            500.00
+Reversed Amount                   500.00
+
+Console Disconnected During Transaction!
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/14/20 03:22 PM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 03:22 PM
+
+Logon:                           Stephen
+001/14/20 03:22 PM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            500.00
+Reversed Amount                   500.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 03:23 PM
+Stephen
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            500.00
+Reversed Amount                   500.00
+
+Console Disconnected During Transaction!
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/14/20 03:29 PM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 03:29 PM
+
+Logon:                           Stephen
+001/14/20 03:32 PM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 03:37 PM
+Stephen
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1860.00
+Reversed Amount                  1860.00
+
+Console Disconnected During Transaction!
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/14/20 03:41 PM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 03:41 PM
+
+Logon:                           Stephen
+001/14/20 03:41 PM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1860.00
+Reversed Amount                  1860.00
+
+Console Disconnected During Transaction!
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/14/20 03:43 PM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 03:44 PM At 001/14/20 03:43 PM
+
+Logon:                           Stephen
+001/14/20 03:48 PM
+
+Logoff:                          Stephen
+001/14/20 03:48 PM
+
+Logon:                           Stephen
+001/14/20 03:48 PM
+
+========================================
+          Excess Notes History          
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/14/20 03:49 PM
+ID:                              Stephen
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+001/14/20 10:42 AM
+Stephen
+
+Denom            Pieces            Value
+$20                   3            60.00
+
+Total Excess Notes                 60.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+001/14/20 11:45 AM
+Stephen
+
+Denom            Pieces            Value
+$1                    3             3.00
+
+Total Excess Notes                  3.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+001/14/20 12:08 PM
+Stephen
+
+Denom            Pieces            Value
+$50                   1            50.00
+$10                   2            20.00
+
+Total Excess Notes                 70.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+001/14/20 12:16 PM
+Stephen
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Total Excess Notes                  5.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+001/14/20 12:57 PM
+Stephen
+
+Denom            Pieces            Value
+$50                   5           250.00
+
+Total Excess Notes                250.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+001/14/20 02:03 PM
+Stephen
+
+Denom            Pieces            Value
+$50                  16           800.00
+$1                    5             5.00
+
+Total Excess Notes                805.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         57
+001/14/20 02:12 PM
+Ray
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Total Excess Notes                 10.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+001/14/20 02:34 PM
+Stephen
+
+Denom            Pieces            Value
+$50                   1            50.00
+$1                    1             1.00
+
+Total Excess Notes                 51.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+001/14/20 03:07 PM
+Stephen
+
+Denom            Pieces            Value
+$50                  16           800.00
+
+Total Excess Notes                800.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+001/14/20 03:08 PM
+Stephen
+
+Denom            Pieces            Value
+$50                  16           800.00
+
+Total Excess Notes                800.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+001/14/20 03:11 PM
+Stephen
+
+Denom            Pieces            Value
+$50                  13           650.00
+
+Total Excess Notes                650.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+001/14/20 03:16 PM
+Stephen
+
+Denom            Pieces            Value
+$50                   6           300.00
+
+Total Excess Notes                300.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+001/14/20 03:21 PM
+Stephen
+
+Denom            Pieces            Value
+$50                   7           350.00
+
+Total Excess Notes                350.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+001/14/20 03:24 PM
+Stephen
+
+Denom            Pieces            Value
+$50                   7           350.00
+
+Total Excess Notes                350.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+001/14/20 03:39 PM
+Stephen
+
+Denom            Pieces            Value
+$50                   9           450.00
+
+Total Excess Notes                450.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+001/14/20 03:42 PM
+Stephen
+
+Denom            Pieces            Value
+$1                    7             7.00
+
+Total Excess Notes                  7.00
+========================================
+
+
+
+
+
+
+
+
+
+(Processed Excess Notes)                
+Transaction #                         74
+001/14/20 03:49 PM
+Stephen
+
+Denom            Pieces            Value
+$50                  97          4850.00
+$20                   3            60.00
+$10                   2            20.00
+$5                    1             5.00
+$1                   26            26.00
+
+Excess Notes Processed           4961.00
+----------------------------------------
+  *** Excess Notes History Cleared ***  
+       *** $1 Notes Collected ***       
+
+
+(Inventory Collected)                   
+Transaction #                         75
+001/14/20 03:49 PM
+Stephen
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Total Inventory Collected           1.00
+----------------------------------------
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         76
+001/14/20 03:50 PM
+Stephen
+
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$1                    1             1.00
+
+Collection Notes Removed            1.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$1                    2             2.00
+
+Removed (Mutilated) Notes           2.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$1                    1            -1.00
+Differences                        +1.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1862.00
+Reversed Amount                  1862.00
+
+Console Disconnected During Transaction!
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/14/20 03:53 PM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/14/20 03:53 PM
+
+Logon:                           Stephen
+001/14/20 03:54 PM
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded           1860.00
+Reversed Amount                  1860.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 03:55 PM
+Stephen
+
+
+
+Logoff:                          Stephen
+001/14/20 03:55 PM
+
+Logon:                           Stephen
+001/14/20 03:57 PM
+
+Logoff:                          Stephen
+001/14/20 03:59 PM
+
+Logon:                           Stephen
+001/14/20 03:59 PM
+    *** Cassette Cass. 1 Emptied ***    
+    *** Cassette Cass. 2 Emptied ***    
+    *** Cassette Cass. 3 Emptied ***    
+    *** Cassette Cass. 4U Emptied ***   
+    *** Cassette Cass. 4L Emptied ***   
+    *** Cassette Cass. 5 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         77
+001/14/20 04:00 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  213           213.00
+
+Total Inventory Removed           213.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/14/20 04:05 PM
+
+Logon:                           Stephen
+001/14/20 04:05 PM
+
+========================================
+          Excess Notes History          
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/14/20 04:05 PM
+ID:                              Stephen
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                 Incomplete
+001/14/20 03:52 PM
+Stephen
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Total Excess Notes                  2.00
+========================================
+
+
+
+
+
+
+
+
+
+(Processed Excess Notes)                
+Transaction #                         78
+001/14/20 04:05 PM
+Stephen
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Excess Notes Processed              2.00
+----------------------------------------
+  *** Excess Notes History Cleared ***  
+
+========================================
+          Exposed Notes History         
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/14/20 04:05 PM
+ID:                              Stephen
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+001/14/20 04:03 PM
+Stephen
+
+Denom            Pieces            Value
+$100                130         13000.00
+$50                 199          9950.00
+$20                 133          2660.00
+$10                 255          2550.00
+$5                  160           800.00
+
+Total Exposed Notes             28960.00
+========================================
+
+
+
+
+
+
+
+
+
+(Reconciled Exposed Notes)              
+Transaction #                         79
+001/14/20 04:05 PM
+Stephen
+
+Denom            Pieces            Value
+$100                130         13000.00
+$50                 199          9950.00
+$20                 133          2660.00
+$10                 255          2550.00
+$5                  160           800.00
+
+Exposed Notes Reconciled        28960.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/14/20 04:06 PM
+
+Logon:                           Stephen
+001/14/20 04:10 PM
+
+           RBG-100 Link Error           
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/14/20 04:11 PM
+Stephen
+
+
+
+Logoff:                          Stephen
+001/14/20 04:11 PM
+
+Logon:                           Stephen
+001/14/20 04:11 PM
+
+(Inventory Load)                        
+Transaction #                         80
+001/14/20 04:11 PM
+Stephen
+
+Denom            Pieces            Value
+$2                    3             6.00
+
+Machine Total                       6.00
+Total Inventory Added               6.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/14/20 04:12 PM
+
+Logon:                           Stephen
+001/14/20 04:12 PM
+
+========================================
+          Exposed Notes History         
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/14/20 04:13 PM
+ID:                              Stephen
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                 Incomplete
+001/14/20 04:03 PM
+Stephen
+
+Denom            Pieces            Value
+$100                130         13000.00
+$50                 199          9950.00
+$20                 133          2660.00
+$10                 255          2550.00
+$5                  160           800.00
+
+Total Exposed Notes             28960.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         80
+001/14/20 04:11 PM
+Stephen
+
+Denom            Pieces            Value
+$2                    3             6.00
+
+Total Exposed Notes                 6.00
+========================================
+
+
+
+
+
+
+
+
+
+(Reconciled Exposed Notes)              
+Transaction #                         81
+001/14/20 04:13 PM
+Stephen
+
+Denom            Pieces            Value
+$2                    3             6.00
+
+Exposed Notes Reconciled            6.00
+----------------------------------------
+  *** Exposed Notes History Cleared *** 
+       *** Cassette 1 Emptied ***       
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         82
+001/14/20 04:17 PM
+Stephen
+
+Denom            Pieces            Value
+
+Total Inventory Removed              .00
+----------------------------------------
+
+Logoff:                          Stephen
+001/14/20 04:17 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           Stephen
+001/14/20 04:19 PM
+
+Logoff:                          Stephen
+001/14/20 04:22 PM
+
+Logon:                           Stephen
+001/14/20 04:22 PM
+
+(Online Deposit)                        
+Transaction #                         83
+001/14/20 04:23 PM
+Stephen
+
+Denom            Pieces            Value
+$2                    3             6.00
+
+Machine Total                       6.00
+Deposit Total                       6.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/14/20 04:25 PM
+
+Logon:                           Stephen
+001/14/20 04:25 PM
+
+   *** Entered Configuration Mode ***   
+001/14/20 04:36 PM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/14/20 04:37 PM
+ID:                              Stephen
+
+========================================
+          Exposed Notes History         
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+001/14/20 04:40 PM
+ID:                              Stephen
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         83
+001/14/20 04:22 PM
+Stephen
+
+Denom            Pieces            Value
+$2                    3             6.00
+
+Total Exposed Notes                 6.00
+========================================
+
+
+
+
+
+
+
+
+
+(Reconciled Exposed Notes)              
+Transaction #                         84
+001/14/20 04:40 PM
+Stephen
+
+Denom            Pieces            Value
+$2                    3             6.00
+
+Exposed Notes Reconciled            6.00
+----------------------------------------
+  *** Exposed Notes History Cleared *** 
+
+Logoff:                          Stephen
+001/14/20 04:40 PM
+
+Logon:                           Stephen
+001/14/20 04:45 PM
+
+           RBG-100 Link Error           
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/14/20 04:45 PM
+Stephen
+
+
+
+Logoff:                          Stephen
+001/14/20 04:45 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           Stephen
+001/14/20 04:46 PM
+
+(Online Deposit)                        
+Transaction #                         85
+001/14/20 04:47 PM
+Stephen
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Deposit Total                       1.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         86
+001/14/20 04:48 PM
+Stephen
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/14/20 04:48 PM
+
+Logon:                           Stephen
+001/14/20 04:52 PM
+
+Logoff:                          Stephen
+001/14/20 04:53 PM
+
+Logon:                           Stephen
+001/14/20 04:54 PM
+
+Logoff:                          Stephen
+001/14/20 04:54 PM
+
+Logon:                           Stephen
+001/14/20 04:55 PM
+
+Logoff:                          Stephen
+001/14/20 04:56 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             231
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                           Stephen
+001/14/20 04:58 PM
+
+(Online Deposit)                        
+Transaction #                         87
+001/14/20 04:58 PM
+Stephen
+
+Denom            Pieces            Value
+$2                    3             6.00
+
+Machine Total                       6.00
+Deposit Total                       6.00
+----------------------------------------

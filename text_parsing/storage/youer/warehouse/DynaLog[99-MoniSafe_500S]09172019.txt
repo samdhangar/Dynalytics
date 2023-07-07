@@ -1,0 +1,277 @@
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    MoniSafe 500S Pgm. Ver. 5.6.10-DC   
+           DynaCash Mode: LAN           
+
+
+
+Station #                             99
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/17/20
+Time                          9:26:40 AM
+
+(Inventory Load)                        
+Transaction #                         29
+Date                             01/17/20
+Time                          9:28:24 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                 1076          1076.00
+
+Total Inventory Added            1076.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             99
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                 1076          1076.00
+Starting Inventory                   .00
+Net Adjustments                  2120.00
+Total Inventory                  1076.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                 1076          1076.00
+Total Dispensable Bills          1076.00
+
+Cass. 1 ($1)        378           378.00
+Cass. 2 ($1)        698           698.00
+Cass. 3 ($5)          0              .00
+Cass. 4 ($10)         0              .00
+Cass. 5 ($20)         0              .00
+Cass. 6 ($20)         0              .00
+Cass. 7 ($50)         0              .00
+Cass. 8 ($100)        0              .00
+               Fives Empty              
+               Tens Empty               
+             Twenties Empty             
+              Fifties Empty             
+             Hundreds Empty             
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/17/20
+Time                          9:31:46 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/17/20
+Time                          9:31:50 AM
+
+($1) Assumed Count:                 1076
+($1) Actual Count:                   717
+   *** $1 Needs Manual Adjustment! ***  
+
+
+  *** BE SURE TO ADJUST DUAL DENOM! *** 
+
+
+(Auto Audit Bill Count)                 
+Transaction #                         30
+Date                             01/17/20
+Time                          9:36:12 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  717           717.00
+
+Audited Total                     717.00
+----------------------------------------
+           Manager Logged Off           
+Manager #                              1
+Date                             01/17/20
+Time                          9:36:26 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/17/20
+Time                          9:42:05 AM
+
+(Inventory Removal)                     
+Transaction #                         31
+Date                             01/17/20
+Time                          9:45:39 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  717           717.00
+
+Total Inventory Removed           717.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+(Replenished Cassettes)                 
+Transaction #                         32
+Date                             01/17/20
+Time                          9:47:10 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  346           346.00
+
+Replenished Total                 346.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         33
+Date                             01/17/20
+Time                          9:48:20 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  346           346.00
+
+Total Inventory Removed           346.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             99
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    7             7.00
+Starting Inventory                   .00
+Net Adjustments                  1403.00
+Total Inventory                     7.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Bills              .00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$1                    7             7.00
+Unknown Bills         4              .00
+Total Reject Bills                  7.00
+
+Cass. 1 ($1)          0              .00
+Cass. 2 ($1)          0              .00
+Cass. 3 ($5)          0              .00
+Cass. 4 ($10)         0              .00
+Cass. 5 ($20)         0              .00
+Cass. 6 ($20)         0              .00
+Cass. 7 ($50)         0              .00
+Cass. 8 ($100)        0              .00
+               Ones Empty               
+               Fives Empty              
+               Tens Empty               
+             Twenties Empty             
+              Fifties Empty             
+             Hundreds Empty             
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/17/20
+Time                          9:48:41 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/17/20
+Time                         11:55:12 AM
+           Manager Logged Off           
+Manager #                              1
+Date                             01/17/20
+Time                         11:55:23 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             01/17/20
+Time                         11:55:26 AM
+
+(Reconciled Rejects)                    
+Transaction #                         34
+Date                             01/17/20
+Time                         11:55:43 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Reconciled Total                    1.00
+----------------------------------------
+        *** Overflow Emptied ***        
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             99
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Starting Inventory                   .00
+Net Adjustments                  1402.00
+Total Inventory                      .00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Bills              .00
+
+Cass. 1 ($1)          0              .00
+Cass. 2 ($1)          0              .00
+Cass. 3 ($5)          0              .00
+Cass. 4 ($10)         0              .00
+Cass. 5 ($20)         0              .00
+Cass. 6 ($20)         0              .00
+Cass. 7 ($50)         0              .00
+Cass. 8 ($100)        0              .00
+               Ones Empty               
+               Fives Empty              
+               Tens Empty               
+             Twenties Empty             
+              Fifties Empty             
+             Hundreds Empty             
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             01/17/20
+Time                         11:57:02 AM
+****************************************

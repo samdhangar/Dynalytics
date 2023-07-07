@@ -1,0 +1,592 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.135 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                                 1
+001/01/20 09:13 AM
+
+(Online Deposit)                        
+Transaction #                         27
+001/01/20 09:13 AM
+1
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Deposit Total                       1.00
+----------------------------------------
+
+Logoff:                                1
+001/01/20 09:14 AM
+
+Logon:                           Stephen
+001/01/20 09:14 AM
+
+   *** Entered Configuration Mode ***   
+001/01/20 09:14 AM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/01/20 09:14 AM
+ID:                              Stephen
+
+========================================
+            User Batch Report           
+----------------------------------------
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+001/01/20 09:14 AM
+
+
+1
+# of Deposits                          1
+# of Withdrawals                       0
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Sell                                1.00
+========================================
+
+           User Batch Cleared           
+
+
+
+
+
+
+
+
+   *** Entered Configuration Mode ***   
+001/01/20 09:14 AM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/01/20 09:14 AM
+ID:                              Stephen
+
+
+Logoff:                          Stephen
+001/01/20 09:14 AM
+
+Logon:                           Stephen
+001/01/20 09:15 AM
+
+
+   *** Entered Configuration Mode ***   
+001/01/20 09:15 AM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/01/20 09:15 AM
+ID:                              Stephen
+
+   *** Entered Configuration Mode ***   
+001/01/20 09:15 AM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/01/20 09:15 AM
+ID:                              Stephen
+
+========================================
+             Activity Report            
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+001/01/20 09:15 AM
+
+ID:                              Stephen
+========================================
+              User Activity             
+----------------------------------------
+Ray
+# of Deposits                          6
+# of Withdrawals                       1
+
+Denom            Pieces            Value
+$100                 20          2000.00
+$50                  10           500.00
+$20                  93          1860.00
+$10                  98           980.00
+$5                   81           405.00
+$2                    8            16.00
+$1                  429           429.00
+
+Deposit Total                    6190.00
+
+Denom            Pieces            Value
+$5                    1             5.00
+$1                    1             1.00
+
+Withdrawal Total                    6.00
+----------------------------------------
+Net Total                       +6184.00
+----------------------------------------
+Josh
+# of Deposits                          1
+# of Withdrawals                       0
+
+Denom            Pieces            Value
+$100                  6           600.00
+$20                  10           200.00
+$10                  10           100.00
+$5                   10            50.00
+$1                   11            11.00
+
+Deposit Total                     961.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Net Total                        +961.00
+----------------------------------------
+Chad
+# of Deposits                          2
+# of Withdrawals                       1
+
+Denom            Pieces            Value
+$10                   3            30.00
+$5                    6            30.00
+$1                    6             6.00
+
+Deposit Total                      66.00
+
+Denom            Pieces            Value
+$5                    1             5.00
+$1                    1             1.00
+
+Withdrawal Total                    6.00
+----------------------------------------
+Net Total                         +60.00
+----------------------------------------
+1
+# of Deposits                          1
+# of Withdrawals                       0
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Net Total                          +1.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                 26          2600.00
+$50                  10           500.00
+$20                 103          2060.00
+$10                 111          1110.00
+$5                   97           485.00
+$2                    8            16.00
+$1                  447           447.00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                    7218.00
+Total Deposited                  7218.00
+# of Deposits                         10
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    2            10.00
+$1                    2             2.00
+Coin                                 .00
+Total Dispensed                    12.00
+# of Withdrawals                       2
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                 26         +2600.00
+$50                  10          +500.00
+$20                 103         +2060.00
+$10                 111         +1110.00
+$5                   95          +475.00
+$2                    8           +16.00
+$1                  445          +445.00
+Coin                                 .00
+Net Total                       +7206.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    1             1.00
+Coin                                 .00
+Starting Inventory                   .00
+Net Adjustments                 -3152.00
+Total Inventory                     1.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    1             1.00
+Total Dispensable Notes             1.00
+
+Cass. 1 $1            0              .00
+Cass. 2 $20           0              .00
+Cass. 3 $100          0              .00
+Cass. 4 $10           0              .00
+Cass. 5 $5            0              .00
+Cass. 6 $1            1             1.00
+              $1 Notes Low              
+             $5 Notes Empty             
+             $10 Notes Empty            
+             $20 Notes Empty            
+            $100 Notes Empty            
+               CST-A Empty              
+               CST-B Empty              
+               CST-C Empty              
+               CST-D Empty              
+               CST-E Empty              
+                CST-F Low               
+========================================
+
+        User Grand Totals Cleared       
+            Activity Cleared            
+
+
+
+
+
+
+
+
+   *** Entered Configuration Mode ***   
+001/01/20 09:15 AM
+ID:                              Stephen
+
+          *** Deleted User ***          
+001/01/20 09:15 AM
+ID:                                    1
+
+           *** Added User ***           
+001/01/20 09:16 AM
+ID:                                    1
+
+
+    *** Exited Configuration Mode ***   
+001/01/20 09:16 AM
+ID:                              Stephen
+
+
+========================================
+             DynaCore Users             
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+001/01/20 09:16 AM
+
+1
+     Transactions HL
+
+2
+     Master Users
+
+Chad
+     Manual Transactions
+
+Charo
+     Master Users
+
+Josh
+     Master Users
+
+Ray
+     Transactions HL
+     Inventory Control
+     Close Day
+     User Control
+     Settings (Setup)
+     Transactions LL
+     Manual Transactions
+     Online Only
+     Report Only
+     IT Only
+
+Stephen
+     Manual Transactions
+     Master Users
+
+========================================
+
+       TCR Error #5701T00 Occurred      
+
+(Online Mix Dispense)                   
+Transaction #                          1
+001/01/20 09:21 AM
+Stephen
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          2
+001/01/20 09:22 AM
+Stephen
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Machine Total                       2.00
+Deposit Total                       2.00
+----------------------------------------
+
+========================================
+            User Batch Report           
+----------------------------------------
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+001/01/20 09:22 AM
+
+
+Stephen
+# of Deposits                          1
+# of Withdrawals                       1
+Denom            Pieces            Value
+$1                    2             2.00
+
+Deposit Total                       2.00
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Withdrawal Total                    1.00
+----------------------------------------
+Sell                                1.00
+========================================
+
+           User Batch Cleared           
+
+
+
+
+
+
+
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+001/01/20 09:23 AM
+Stephen
+
+
+Amount Requested                    1.00
+Amount Tendered                      .00
+Balance Due                         1.00
+----------------------------------------
+
+            Dispense Failure            
+
+
+(Online Mix Dispense)                   
+001/01/20 09:24 AM
+Stephen
+
+
+Amount Requested                    1.00
+Amount Tendered                      .00
+Balance Due                         1.00
+----------------------------------------
+
+
+   *** Entered Configuration Mode ***   
+001/01/20 09:24 AM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/01/20 09:24 AM
+ID:                              Stephen
+
+Logoff:                          Stephen
+001/01/20 09:24 AM
+
+Logon:                               ray
+001/01/20 09:25 AM
+
+
+   *** Entered Configuration Mode ***   
+001/01/20 09:25 AM
+ID:                                  ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 09:25 AM
+ID:                                  ray
+
+Logoff:                              ray
+001/01/20 09:25 AM
+
+
+Logon:                           Stephen
+001/01/20 09:25 AM
+
+Logoff:                          Stephen
+001/01/20 09:31 AM
+
+
+Logon:                           Stephen
+001/01/20 09:32 AM
+
+Logon:                               Ray
+001/01/20 09:35 AM
+
+Logoff:                              Ray
+001/01/20 09:38 AM
+
+   *** Entered Configuration Mode ***   
+001/01/20 10:11 AM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/01/20 10:12 AM
+ID:                              Stephen
+
+
+========================================
+            Security Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         6:30    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday      11:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                   Yes
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        0
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+========================================
+
+
+
+Logoff:                          Stephen
+001/01/20 10:12 AM
+
+Logon:                           Stephen
+001/01/20 10:18 AM
+
+
+   *** Entered Configuration Mode ***   
+001/01/20 10:18 AM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/01/20 12:12 PM
+ID:                              Stephen
+
+   *** Entered Configuration Mode ***   
+001/01/20 12:12 PM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/01/20 12:12 PM
+ID:                              Stephen
+
+Logoff:                          Stephen
+001/01/20 12:15 PM
+
+Logon:                           Stephen
+001/01/20 12:17 PM
+
+Logoff:                          Stephen
+001/01/20 12:17 PM
+
+Logon:                           Stephen
+001/01/20 12:18 PM
+
+Logoff:                          Stephen
+001/01/20 12:37 PM
+
+Logon:                           Stephen
+001/01/20 01:42 PM
+       *** Cassette 6 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          3
+001/01/20 01:42 PM
+Stephen
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Total Inventory Removed             2.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/01/20 01:43 PM

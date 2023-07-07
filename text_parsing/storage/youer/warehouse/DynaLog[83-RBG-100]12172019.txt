@@ -1,0 +1,933 @@
+       DynaCash (c) 1999 - 2018 by      
+        Add-On Technologies, Inc.       
+       RBG-100 Pgm. Ver. 5.5.96-DC      
+           DynaCash Mode: LAN           
+
+                   RBG                  
+                  Test                  
+                 CC-5000                
+
+Station #                             83
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                            01/17/20
+Time                          1:05:08 PM
+
+========================================
+               User Report              
+Station #                             83
+Date                            01/17/20
+Time                          1:05:12 PM
+----------------------------------------
+                Managers                
+----------------------------------------
+Manager #                              1
+Manager #                              2
+Manager #                              3
+----------------------------------------
+                 Tellers                
+----------------------------------------
+Teller #                               1
+Transaction Limit               No Limit
+Daily Limit                     No Limit
+Deposit Limit                   No Limit
+
+Teller #                               2
+Transaction Limit               No Limit
+Daily Limit                     No Limit
+Deposit Limit                   No Limit
+
+Teller #                               3
+Transaction Limit                1000.00
+Daily Limit                      3000.00
+Deposit Limit                   No Limit
+
+========================================
+
+           Manager Logged Off           
+Manager #                              1
+Date                            01/17/20
+Time                          1:05:25 PM
+****************************************
+            Side B Logged On            
+Date                            01/17/20
+Time                          1:07:03 PM
+Teller #                               3
+
+(Online Mix Dispense)                   
+Transaction #                         30
+Date                            01/17/20
+Time                          1:07:27 PM
+Teller #                               3
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   6           300.00
+$20                   5           100.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         31
+Date                            01/17/20
+Time                          1:07:53 PM
+Teller #                               3
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   6           300.00
+$20                   5           100.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         32
+Date                            01/17/20
+Time                          1:08:21 PM
+Teller #                               3
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   6           300.00
+$20                   5           100.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+           Day Limit Override           
+Manager #                              1
+
+(Online Mix Dispense)                   
+Transaction #                         33
+Date                            01/17/20
+Time                          1:09:06 PM
+Teller #                               3
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   6           300.00
+$20                   5           100.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+        Request Over Teller Limit       
+
+
+(Online Mix Dispense)                   
+Date                            01/17/20
+Time                          1:33:26 PM
+Teller #                               3
+
+Amount Requested                 1000.00
+Amount Tendered                      .00
+Balance Due                      1000.00
+----------------------------------------
+
+       DynaCash (c) 1999 - 2018 by      
+        Add-On Technologies, Inc.       
+       RBG-100 Pgm. Ver. 5.5.96-DC      
+           DynaCash Mode: LAN           
+
+                   RBG                  
+                  Test                  
+                 CC-5000                
+
+Station #                             83
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                            01/17/20
+Time                          2:16:59 PM
+
+========================================
+             Activity Report            
+Station #                             83
+Date                            01/17/20
+Time                          2:17:01 PM
+Manager #                              1
+========================================
+             Teller Activity            
+----------------------------------------
+Teller #                               3
+# of Deposits                          0
+# of Withdrawals                       4
+
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$100                 24          2400.00
+$50                  24          1200.00
+$20                  20           400.00
+
+Withdrawal Total                 4000.00
+----------------------------------------
+Net Total                       -4000.00
+========================================
+----------------------------------------
+            Side A Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                  50          2500.00
+$20                   2            40.00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Deposited                  2540.00
+----------------------------------------
+            Side B Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   0              .00
+$20                   4            80.00
+$10                   2            20.00
+$5                    0              .00
+$2                    0              .00
+$1                   12            12.00
+Total Deposited                   312.00
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+Denom            Pieces            Value
+$100                  2           200.00
+$50                  50          2500.00
+$20                   6           120.00
+$10                   2            20.00
+$5                    0              .00
+$2                    0              .00
+$1                   12            12.00
+Total Deposited                  2852.00
+# of Deposits                          0
+========================================
+----------------------------------------
+            Side A Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    4             4.00
+Total Dispensed                     4.00
+----------------------------------------
+            Side B Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+$100                 24          2400.00
+$50                  24          1200.00
+$20                  20           400.00
+$10                   0              .00
+$5                    0              .00
+$1                    5             5.00
+Total Dispensed                  4005.00
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                 24          2400.00
+$50                  24          1200.00
+$20                  20           400.00
+$10                   0              .00
+$5                    0              .00
+$1                    9             9.00
+Total Dispensed                  4009.00
+# of Withdrawals                       4
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                 22         -2200.00
+$50                  26         +1300.00
+$20                  14          -280.00
+$10                   2           +20.00
+$5                    0              .00
+$2                    0              .00
+$1                    3            +3.00
+Net Total                       -1157.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                102         10200.00
+$50                 171          8550.00
+$20                 114          2280.00
+$10                 263          2630.00
+$5                  159           795.00
+$2                    0              .00
+$1                  180           180.00
+Starting Inventory                   .00
+Net Adjustments                -25487.00
+Total Inventory                 24635.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                102         10200.00
+$50                 171          8550.00
+$20                 114          2280.00
+$10                 263          2630.00
+$5                  159           795.00
+$1                  180           180.00
+Total Dispensable Bills         24635.00
+
+----------------------------------------
+          Collection Box Bills          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Bills                .00
+
+----------------------------------------
+              Excess Bills              
+----------------------------------------
+$100                  1           100.00
+$50                  11           550.00
+Total Excess Bills                650.00
+
+Cass. 1 ($1)        180           180.00
+Cass. 2 ($5)        159           795.00
+Cass. 3 ($10)       263          2630.00
+Cass. 4U ($20)      114          2280.00
+Cass. 4L ($50)      171          8550.00
+Cass. 5 ($100)      102         10200.00
+----------------------------------------
+          Verification Required         
+----------------------------------------
+Collection Box               Long Verify
+
+========================================
+
+  *** Activity Clear Not Permitted ***  
+
+
+
+
+
+
+
+
+========================================
+          Excess Bills History          
+Station #                             83
+Date                            01/17/20
+Time                          2:17:22 PM
+Manager #                              1
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                 Incomplete
+Date                            11/12/19
+Time                          4:58:18 PM
+Teller #                               2
+
+Denom            Pieces            Value
+$50                   8           400.00
+
+Total Excess Bills                400.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         31
+Date                            01/17/20
+Time                          1:07:41 PM
+Teller #                               3
+
+Denom            Pieces            Value
+$50                   3           150.00
+
+Total Excess Bills                150.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         32
+Date                            01/17/20
+Time                          1:08:10 PM
+Teller #                               3
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Total Excess Bills                100.00
+========================================
+
+
+
+
+
+
+
+
+
+(Processed Excess Bills)                
+Transaction #                         34
+Date                            01/17/20
+Time                          2:17:24 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                  11           550.00
+
+Excess Bills Processed            650.00
+----------------------------------------
+  *** Excess Bills History Cleared ***  
+           Manager Logged Off           
+Manager #                              1
+Date                            01/17/20
+Time                          2:17:58 PM
+****************************************
+
+========================================
+       Current Teller Transactions      
+----------------------------------------
+Station #                             83
+Date                            01/17/20
+Time                          2:18:12 PM
+
+Teller #                               3
+# of Deposits                          2
+# of Withdrawals                       4
+
+----------------------------------------
+                Deposits                
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   3           150.00
+
+Deposits                          250.00
+----------------------------------------
+               Withdrawals              
+----------------------------------------
+Denom            Pieces            Value
+$100                 24          2400.00
+$50                  24          1200.00
+$20                  20           400.00
+
+Withdrawals                      4000.00
+----------------------------------------
+Buy                              3750.00
+========================================
+
+
+
+
+
+
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                            01/17/20
+Time                          2:18:49 PM
+
+========================================
+             Activity Report            
+Station #                             83
+Date                            01/17/20
+Time                          2:18:50 PM
+Manager #                              1
+========================================
+             Teller Activity            
+----------------------------------------
+Teller #                               2
+# of Deposits                          1
+# of Withdrawals                       0
+
+Denom            Pieces            Value
+$50                   8           400.00
+
+Deposit Total                     400.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Net Total                        +400.00
+----------------------------------------
+Teller #                               3
+# of Deposits                          2
+# of Withdrawals                       4
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   3           150.00
+
+Deposit Total                     250.00
+
+Denom            Pieces            Value
+$100                 24          2400.00
+$50                  24          1200.00
+$20                  20           400.00
+
+Withdrawal Total                 4000.00
+----------------------------------------
+Net Total                       -3750.00
+========================================
+----------------------------------------
+            Side A Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                  50          2500.00
+$20                   2            40.00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Deposited                  2540.00
+----------------------------------------
+            Side B Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                  3           300.00
+$50                  11           550.00
+$20                   4            80.00
+$10                   2            20.00
+$5                    0              .00
+$2                    0              .00
+$1                   12            12.00
+Total Deposited                   962.00
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+Denom            Pieces            Value
+$100                  3           300.00
+$50                  61          3050.00
+$20                   6           120.00
+$10                   2            20.00
+$5                    0              .00
+$2                    0              .00
+$1                   12            12.00
+Total Deposited                  3502.00
+# of Deposits                          3
+========================================
+----------------------------------------
+            Side A Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    4             4.00
+Total Dispensed                     4.00
+----------------------------------------
+            Side B Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+$100                 24          2400.00
+$50                  24          1200.00
+$20                  20           400.00
+$10                   0              .00
+$5                    0              .00
+$1                    5             5.00
+Total Dispensed                  4005.00
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                 24          2400.00
+$50                  24          1200.00
+$20                  20           400.00
+$10                   0              .00
+$5                    0              .00
+$1                    9             9.00
+Total Dispensed                  4009.00
+# of Withdrawals                       4
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                 21         -2100.00
+$50                  37         +1850.00
+$20                  14          -280.00
+$10                   2           +20.00
+$5                    0              .00
+$2                    0              .00
+$1                    3            +3.00
+Net Total                        -507.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                102         10200.00
+$50                 171          8550.00
+$20                 114          2280.00
+$10                 263          2630.00
+$5                  159           795.00
+$2                    0              .00
+$1                  180           180.00
+Starting Inventory                   .00
+Net Adjustments                -25487.00
+Total Inventory                 24635.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                102         10200.00
+$50                 171          8550.00
+$20                 114          2280.00
+$10                 263          2630.00
+$5                  159           795.00
+$1                  180           180.00
+Total Dispensable Bills         24635.00
+
+----------------------------------------
+          Collection Box Bills          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Bills                .00
+
+Cass. 1 ($1)        180           180.00
+Cass. 2 ($5)        159           795.00
+Cass. 3 ($10)       263          2630.00
+Cass. 4U ($20)      114          2280.00
+Cass. 4L ($50)      171          8550.00
+Cass. 5 ($100)      102         10200.00
+----------------------------------------
+          Verification Required         
+----------------------------------------
+Collection Box               Long Verify
+
+========================================
+
+
+
+
+
+
+
+
+(Inventory Collected)                   
+Transaction #                         35
+Date                            01/17/20
+Time                          2:19:46 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Total Inventory Collected           1.00
+----------------------------------------
+
+(Inventory Collected)                   
+Transaction #                         36
+Date                            01/17/20
+Time                          2:20:13 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Total Inventory Collected           5.00
+----------------------------------------
+
+(Inventory Collected)                   
+Transaction #                         37
+Date                            01/17/20
+Time                          2:20:33 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Total Inventory Collected          10.00
+----------------------------------------
+
+(Inventory Collected)                   
+Transaction #                         38
+Date                            01/17/20
+Time                          2:20:52 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Total Inventory Collected          20.00
+----------------------------------------
+
+(Inventory Collected)                   
+Transaction #                         39
+Date                            01/17/20
+Time                          2:21:18 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Total Inventory Collected         100.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             83
+Denom            Pieces            Value
+$100                102         10200.00
+$50                 171          8550.00
+$20                 114          2280.00
+$10                 263          2630.00
+$5                  159           795.00
+$2                    0              .00
+$1                  180           180.00
+Starting Inventory                   .00
+Net Adjustments                -25487.00
+Total Inventory                 24635.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                101         10100.00
+$50                 171          8550.00
+$20                 113          2260.00
+$10                 262          2620.00
+$5                  158           790.00
+$1                  179           179.00
+Total Dispensable Bills         24499.00
+
+----------------------------------------
+          Collection Box Bills          
+----------------------------------------
+$100                  1           100.00
+$50                   0              .00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$2                    0              .00
+$1                    1             1.00
+Total Collected Bills             136.00
+
+Cass. 1 ($1)        179           179.00
+Cass. 2 ($5)        158           790.00
+Cass. 3 ($10)       262          2620.00
+Cass. 4U ($20)      113          2260.00
+Cass. 4L ($50)      171          8550.00
+Cass. 5 ($100)      101         10100.00
+----------------------------------------
+          Verification Required         
+----------------------------------------
+Collection Box               Long Verify
+
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                            01/17/20
+Time                          2:21:24 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                            01/17/20
+Time                          2:21:27 PM
+       *** Cassette 1 Emptied ***       
+   *** Collection Cassette Emptied ***  
+     *** Collection Bill Removal ***    
+
+(Inventory Removal)                     
+Transaction #                         40
+Date                            01/17/20
+Time                          2:23:56 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Total Inventory Removed           136.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         41
+Date                            01/17/20
+Time                          2:24:54 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    2             2.00
+
+Total Inventory Added             137.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             83
+Denom            Pieces            Value
+$100                102         10200.00
+$50                 171          8550.00
+$20                 114          2280.00
+$10                 263          2630.00
+$5                  159           795.00
+$2                    0              .00
+$1                  181           181.00
+Starting Inventory                   .00
+Net Adjustments                -25486.00
+Total Inventory                 24636.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                102         10200.00
+$50                 171          8550.00
+$20                 114          2280.00
+$10                 263          2630.00
+$5                  159           795.00
+$1                    2             2.00
+Total Dispensable Bills         24457.00
+
+----------------------------------------
+          Collection Box Bills          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Bills                .00
+
+----------------------------------------
+              Exposed Bills             
+----------------------------------------
+$1                  179           179.00
+Total Exposed Bills               179.00
+
+Cass. 1 ($1)          2             2.00
+Cass. 2 ($5)        159           795.00
+Cass. 3 ($10)       263          2630.00
+Cass. 4U ($20)      114          2280.00
+Cass. 4L ($50)      171          8550.00
+Cass. 5 ($100)      102         10200.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                            01/17/20
+Time                          2:25:26 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                            01/17/20
+Time                          2:26:52 PM
+
+========================================
+          Exposed Bills History         
+Station #                             83
+Date                            01/17/20
+Time                          2:27:03 PM
+Manager #                              1
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         40
+Date                            01/17/20
+Time                          2:22:07 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  179           179.00
+
+Total Exposed Bills               179.00
+========================================
+
+
+
+
+
+
+
+
+(Reconciled Exposed Bills)              
+Transaction #                         42
+Date                            01/17/20
+Time                          2:27:11 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  179           179.00
+
+Exposed Bills Reconciled          179.00
+----------------------------------------
+  *** Exposed Bills History Cleared *** 
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             83
+Denom            Pieces            Value
+$100                102         10200.00
+$50                 171          8550.00
+$20                 114          2280.00
+$10                 263          2630.00
+$5                  159           795.00
+$2                    0              .00
+$1                    2             2.00
+Starting Inventory                   .00
+Net Adjustments                -25665.00
+Total Inventory                 24457.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                102         10200.00
+$50                 171          8550.00
+$20                 114          2280.00
+$10                 263          2630.00
+$5                  159           795.00
+$1                    2             2.00
+Total Dispensable Bills         24457.00
+
+----------------------------------------
+          Collection Box Bills          
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Collected Bills                .00
+
+Cass. 1 ($1)          2             2.00
+Cass. 2 ($5)        159           795.00
+Cass. 3 ($10)       263          2630.00
+Cass. 4U ($20)      114          2280.00
+Cass. 4L ($50)      171          8550.00
+Cass. 5 ($100)      102         10200.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                            01/17/20
+Time                          2:27:26 PM
+****************************************

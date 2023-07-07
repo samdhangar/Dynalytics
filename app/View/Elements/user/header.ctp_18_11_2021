@@ -1,0 +1,73 @@
+   <?php
+$logUserName = $this->Session->read('Auth.User.first_name');
+?>
+
+    <header class="main-nav clearfix">  
+        <div class="top-search-bar">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-6 col-md-offset-3">
+                        <div class="search-input-addon">
+                            <span class="addon-icon"><i class="icon-search4"></i></span>
+                            <input type="text" class="form-control top-search-input" placeholder="Search">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="navbar-left pull-left">
+            <div class="clearfix">
+                <ul class="left-branding pull-left">
+                    <li><span class="left-toggle-switch visible-handheld"><i class="icon-menu7"></i></span></li>
+                    <li>
+                                  <?php
+    $actionArr = array('controller' => 'users', 'action' => 'dashboard');
+
+    echo $this->Html->link($this->Html->image('logo_w.png', array('class' => 'img-responsive')), $actionArr, array('escape' => false, 'class' => 'logo'));
+    ?> 
+                    </li>
+                </ul>
+                   
+            </div>
+        </div>
+        
+        <div class="navbar-right pull-right">
+            <div class="clearfix">              
+                <ul class="pull-right top-right-icons">
+                    <li><a href="#" class="btn-top-search"><i class="icon-search4"></i></a></li>                 
+
+                     
+                    <li class="dropdown user-dropdown">
+                        <a href="#" class="btn-user dropdown-toggle hidden-xs" data-toggle="dropdown">
+                         <?php
+                            echo $this->Html->image(getUserPhoto($this->Session->read('Auth.User.id'), $this->Session->read('Auth.User.photo')), array('class' => 'img-circle user'));
+                        ?></a>
+                        <a href="#" class="dropdown-toggle visible-xs" data-toggle="dropdown"><i class="icon-more"></i></a>
+                        <div class="dropdown-menu"> 
+                            <div class="text-center">
+                            <?php 
+                                echo $this->Html->image(getUserPhoto($this->Session->read('Auth.User.id'), $this->Session->read('Auth.User.photo'), false, false), array('class' => 'img-circle img-70')); 
+                            ?></div>
+                            <h5 class="text-center"><b>Hi!  <?php echo $logUserName; ?>l</b></h5>
+                        <center>
+                            <small>
+                                    <?php
+                                    $lastLoginDate = str_replace('k', 'sup', showdatetime($this->Session->read('Auth.User.last_login_time'), 'N/A', 'd<k>S</k>M,Y H:i:s'));
+                                    ?>
+                                    <?php echo ($lastLoginDate == 'N/A') ? __('First Time Login') : __('Last login: ') . $lastLoginDate ?>
+                                </small>
+                        </center>
+                            <ul class="more-apps">
+                                
+                                <li><?php echo $this->Html->link('Profile', array('controller' => 'users', 'action' => 'profile'), array('icon' => 'icon-profile')); ?></li>
+                                
+                                <li><?php echo $this->Html->link('Change Password', array('controller' => 'users', 'action' => 'change_password'), array('icon' => 'icon-lock5')); ?></li>
+                            </ul>
+                            <div class="text-center"><?php echo $this->Html->link('Sign out', array('controller' => 'users', 'action' => 'logout'), array('class' => 'btn btn-sm btn-info', 'icon' => 'icon-exit3 i-16 position-left')) ?></div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>

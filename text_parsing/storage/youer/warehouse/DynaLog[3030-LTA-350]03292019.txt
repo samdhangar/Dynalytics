@@ -1,0 +1,860 @@
+
+Logon:                               Ray
+001/29/20 10:16 AM
+
+
+Logoff:                              Ray
+001/29/20 10:16 AM
+
+
+Logon:                               Ray
+001/29/20 10:18 AM
+
+
+Logoff:                              Ray
+001/29/20 10:18 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.089 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/29/20 10:21 AM
+
+Coin Adjusted                     +10.00
+New Coin Total                     10.00
+
+(Inventory Adjustment)                  
+Transaction #                          2
+001/29/20 10:21 AM
+Ray
+
+Coin                              +10.00
+
+Total Net Added                   +10.00
+Total Net Removed                   -.00
+Total Net Adjusted                +10.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          3
+001/29/20 10:21 AM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     186.00
+Total Inventory Added             186.00
+----------------------------------------
+
+Logoff:                              Ray
+001/29/20 10:22 AM
+
+Logon:                               Ray
+001/29/20 11:04 AM
+
+
+   *** Entered Configuration Mode ***   
+001/29/20 11:04 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 11:04 AM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/29/20 11:04 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 11:04 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.40
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator      Cassida Pro Zeus
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+   *** Entered Configuration Mode ***   
+001/29/20 11:04 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 11:07 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/29/20 11:13 AM
+
+       *** Vault Sell Reversed ***      
+
+Original Amount Sold              186.00
+Reversed Amount                   186.00
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/29/20 11:15 AM
+Ray
+
+
+
+Logon:                               Ray
+001/29/20 11:21 AM
+
+Logoff:                              Ray
+001/29/20 11:21 AM
+
+Logon:                               Ray
+001/29/20 02:20 PM
+
+Logoff:                              Ray
+001/29/20 02:20 PM
+
+Logon:                               Ray
+001/29/20 02:21 PM
+
+   *** Entered Configuration Mode ***   
+001/29/20 02:21 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 02:21 PM
+ID:                                  Ray
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/29/20 02:22 PM
+Ray
+
+
+
+Logoff:                              Ray
+001/29/20 02:22 PM
+
+Logon:                               Ray
+001/29/20 02:28 PM
+
+   *** Entered Configuration Mode ***   
+001/29/20 02:28 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 02:28 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/29/20 02:28 PM
+
+Logon:                               Ray
+001/29/20 02:29 PM
+
+   *** Entered Configuration Mode ***   
+001/29/20 02:29 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 02:29 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/29/20 02:29 PM
+
+Logon:                               Ray
+001/29/20 02:30 PM
+
+   *** Entered Configuration Mode ***   
+001/29/20 02:30 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 02:30 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/29/20 02:30 PM
+
+Logon:                               Ray
+001/29/20 02:31 PM
+
+   *** Entered Configuration Mode ***   
+001/29/20 02:31 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 02:31 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/29/20 02:31 PM
+
+Logon:                               Ray
+001/29/20 02:31 PM
+
+
+   *** Entered Configuration Mode ***   
+001/29/20 02:31 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 02:31 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/29/20 02:31 PM
+
+Logon:                               Ray
+001/29/20 02:32 PM
+
+   *** Entered Configuration Mode ***   
+001/29/20 02:32 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 02:32 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/29/20 02:32 PM
+
+Logon:                               Ray
+001/29/20 02:33 PM
+
+Logoff:                              Ray
+001/29/20 02:33 PM
+
+Logon:                               Ray
+001/29/20 02:34 PM
+
+   *** Entered Configuration Mode ***   
+001/29/20 02:34 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 02:34 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/29/20 02:34 PM
+
+Logon:                               Ray
+001/29/20 02:34 PM
+
+   *** Entered Configuration Mode ***   
+001/29/20 02:34 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 02:34 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/29/20 02:34 PM
+
+Logon:                               Ray
+001/29/20 02:35 PM
+
+   *** Entered Configuration Mode ***   
+001/29/20 02:35 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 02:35 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/29/20 02:35 PM
+
+Logon:                               Ray
+001/29/20 02:35 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/29/20 02:35 PM
+Ray
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/29/20 02:35 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.089 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/29/20 02:53 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/29/20 02:54 PM
+Ray
+
+
+
+Logoff:                              Ray
+001/29/20 02:54 PM
+
+Logon:                               Ray
+001/29/20 02:58 PM
+
+
+   *** Entered Configuration Mode ***   
+001/29/20 02:58 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 02:58 PM
+ID:                                  Ray
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/29/20 03:00 PM
+Ray
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/29/20 03:00 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.089 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/29/20 03:15 PM
+
+   *** Entered Configuration Mode ***   
+001/29/20 03:15 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.090 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/29/20 03:16 PM
+
+   *** Entered Configuration Mode ***   
+001/29/20 03:16 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/29/20 03:16 PM
+ID:                                  Ray
+
+(Online Deposit)                        
+Transaction #                          1
+001/29/20 03:16 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     186.00
+
+$100                  4           400.00
+$20                   8           160.00
+$10                   4            40.00
+
+Other Cash Deposited              600.00
+
+Deposit Total                     786.00
+----------------------------------------
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/29/20 03:18 PM
+Ray
+
+
+
+(Online Deposit)                        
+Transaction #                          2
+001/29/20 03:18 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   2            40.00
+$10                   1            10.00
+
+Other Cash Deposited              150.00
+
+Deposit Total                     150.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          3
+001/29/20 03:18 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     186.00
+
+$100                  5           500.00
+$20                  10           200.00
+$10                   5            50.00
+
+Other Cash Deposited              750.00
+
+Deposit Total                     936.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/29/20 03:19 PM
+
+Logon:                               Ray
+001/29/20 03:26 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/29/20 03:26 PM
+Ray
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/29/20 03:26 PM
+
+Logon:                               Ray
+001/29/20 03:41 PM
+
+(Online Deposit)                        
+Transaction #                          4
+001/29/20 03:41 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   2            40.00
+$10                   1            10.00
+
+Other Cash Deposited              150.00
+
+Deposit Total                     150.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/29/20 03:41 PM
+
+Logon:                               Ray
+001/29/20 03:42 PM
+
+             TCR Link Error             
+
+             TCR Link Error             
+     *** Deposit Needs Audited! ***     
+
+
+             TCR Link Error             
+      *** Failed To Release TCR ***     
+
+             Deposit Failure            
+
+(Online Deposit)                        
+001/29/20 03:42 PM
+Ray
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/29/20 03:42 PM
+
+Logon:                               Ray
+001/29/20 03:47 PM
+
+Logoff:                              Ray
+001/29/20 03:47 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.090 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/29/20 03:48 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/29/20 03:48 PM
+Ray
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/29/20 03:48 PM
+
+Logon:                               Ray
+001/29/20 03:52 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/29/20 03:52 PM
+Ray
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/29/20 03:52 PM
+
+Logon:                               Ray
+001/29/20 03:53 PM
+
+(Online Deposit)                        
+Transaction #                          5
+001/29/20 03:53 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     186.00
+Deposit Total                     186.00
+----------------------------------------
+
+Logoff:                              Ray
+001/29/20 03:53 PM
+
+Logon:                               Ray
+001/29/20 03:55 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/29/20 03:55 PM
+Ray
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/29/20 03:55 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.090 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/29/20 03:59 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/29/20 03:59 PM
+Ray
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/29/20 03:59 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.090 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.090 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/29/20 04:01 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/29/20 04:01 PM
+Ray
+
+
+
+
+Logoff:                              Ray
+001/29/20 04:01 PM
+
+Logon:                               Ray
+001/29/20 04:02 PM
+
+(Online Deposit)                        
+Transaction #                          6
+001/29/20 04:02 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     186.00
+Deposit Total                     186.00
+----------------------------------------
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         186.00
+Reversed Amount                   186.00
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         186.00
+Reversed Amount                   186.00
+
+(Online Deposit)                        
+Transaction #                          7
+001/29/20 04:02 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     186.00
+
+$100                  1           100.00
+$20                   2            40.00
+$10                   1            10.00
+
+Other Cash Deposited              150.00
+
+Deposit Total                     336.00
+----------------------------------------
+
+Logoff:                              Ray
+001/29/20 04:03 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.090 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/29/20 04:04 PM
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         186.00
+Reversed Amount                   186.00
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         186.00
+Reversed Amount                   186.00
+
+(Online Deposit)                        
+Transaction #                          8
+001/29/20 04:04 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     186.00
+
+$100                  1           100.00
+$20                   2            40.00
+$10                   1            10.00
+
+Other Cash Deposited              150.00
+
+Deposit Total                     336.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/29/20 04:05 PM
+
+Logon:                               Ray
+001/29/20 04:33 PM
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         186.00
+Reversed Amount                   186.00
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         186.00
+Reversed Amount                   186.00
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         186.00
+Reversed Amount                   186.00
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/29/20 04:35 PM
+Ray
+
+
+
+Logoff:                              Ray
+001/29/20 04:35 PM
+
+(Vault Buy)                             
+Transaction #                          9
+001/29/20 05:27 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+Logon:                               Ray
+04/01/19 10:10 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+04/01/19 10:10 AM
+Ray
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+04/01/19 10:10 AM

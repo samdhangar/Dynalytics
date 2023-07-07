@@ -1,0 +1,2284 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.121 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.121 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/19/20 08:42 AM
+
+(Reconciled Rejects)                    
+Transaction #                         22
+001/19/20 08:43 AM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+       *** Cassette 3 Emptied ***       
+       *** Cassette 4 Emptied ***       
+       *** Cassette 9 Emptied ***       
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         23
+001/19/20 08:46 AM
+Ray
+
+Denom            Pieces            Value
+$100                297         29700.00
+$5                  141           705.00
+$1                  142           142.00
+
+Total Inventory Removed         30547.00
+----------------------------------------
+  Removed Notes Subject To Fine Count!  
+
+Logoff:                              Ray
+001/19/20 08:51 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.121 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/19/20 11:19 AM
+
+(Reconciled Rejects)                    
+Transaction #                         24
+001/19/20 11:20 AM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+========================================
+             Activity Report            
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+001/19/20 11:21 AM
+
+ID:                                  Ray
+========================================
+              User Activity             
+----------------------------------------
+Ray
+# of Deposits                          2
+# of Withdrawals                       6
+
+Denom            Pieces            Value
+$100                  9           900.00
+$20                  13           260.00
+$10                  23           230.00
+$1                  259           259.00
+
+$100                  1           100.00
+$50                   2           100.00
+$20                   5           100.00
+$10                  10           100.00
+$5                   20           100.00
+$2                   50           100.00
+$1                  100           100.00
+
+Other Coin                        100.00
+
+Other Cash Deposited              800.00
+Machine Total                    1649.00
+Deposit Total                    2449.00
+
+Denom            Pieces            Value
+$100                  9           900.00
+$20                  13           260.00
+$10                  23           230.00
+$1                  201           201.00
+
+Withdrawal Total                 1591.00
+----------------------------------------
+Net Total                         +58.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  9           900.00
+$50                   0              .00
+$20                  13           260.00
+$10                  23           230.00
+$5                    0              .00
+$2                    0              .00
+$1                  259           259.00
+
+           Other Cash Deposits          
+
+$100                  1           100.00
+$50                   2           100.00
+$20                   5           100.00
+$10                  10           100.00
+$5                   20           100.00
+$2                   50           100.00
+$1                  100           100.00
+
+Other Coin                        100.00
+
+Other Cash Deposited              288.00
+Machine Total                    1649.00
+Total Deposited                  1937.00
+# of Deposits                          2
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  9           900.00
+$50                   0              .00
+$20                  13           260.00
+$10                  23           230.00
+$5                    0              .00
+$1                  201           201.00
+Total Dispensed                  1591.00
+# of Withdrawals                       6
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                   58           +58.00
+Net Total                         +58.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                65535        131070.00
+$1                    0              .00
+Starting Inventory              40051.00
+Net Adjustments                -36606.00
+Total Inventory                131170.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Notes              .00
+
+Cass. 1 $20           0              .00
+Cass. 2 $10           0              .00
+Cass. 3 $100
+          0              .00Cass. 4 $1  
+          0              .00Cass. 5 $50 
+          0              .00Cass. 8 $5  
+          0              .00Cass. 9 $1  
+          0              .00
+========================================
+
+        User Grand Totals Cleared       
+            Activity Cleared            
+
+
+
+
+
+
+
+
+========================================
+             Activity Report            
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+001/19/20 11:23 AM
+
+ID:                                  Ray
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                65535        131070.00
+$1                    0              .00
+Starting Inventory             131170.00
+Net Adjustments                      .00
+Total Inventory                131170.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  
+0              .00$50                   
+0              .00$20                   
+0              .00$10                   
+0              .00$5                    
+0              .00$1                    
+0              .00Total Dispensable Note
+s              .00
+
+Cass. 1 $20           0              .00
+Cass. 2 $10           0              .00
+Cass. 3 $100          0              .00
+Cass. 4 $1            0              .00
+Cass. 5 $50           0              .00
+Cass. 8 $5            0              .00
+Cass. 9 $1            0              .00
+========================================
+
+
+
+
+
+
+
+
+   *** Entered Configuration Mode ***   
+001/19/20 11:27 AM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.123 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+001/19/20 11:29 AM
+
+   *** Entered Configuration Mode ***   
+001/19/20 11:29 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/19/20 11:29 AM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.123 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/19/20 11:33 AM
+
+   *** Manual Note Removal Attempt ***  
+      *** No Notes Were Removed ***     
+
+Logoff:                              Ray
+001/19/20 11:37 AM
+
+Logon:                               Ray
+001/19/20 11:39 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/19/20 11:39 AM
+Ray
+
+
+
+   *** Entered Configuration Mode ***   
+001/19/20 11:39 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/19/20 11:39 AM
+ID:                                  Ray
+
+(Reconciled Rejects)                    
+Transaction #                          1
+001/19/20 11:59 AM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+
+Removed (Mutilated) Notes         100.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$100                  1          -100.00
+Differences                      +100.00
+----------------------------------------
+
+========================================
+             Activity Report            
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+001/19/20 12:00 PM
+
+ID:                                  Ray
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                65535        131070.00
+$1                    0              .00
+Starting Inventory             131170.00
+Net Adjustments                  -100.00
+Total Inventory                131070.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  
+0              .00$50                   
+0              .00$20                   
+0              .00$10                   
+0              .00$5                    
+0              .00$1                    
+0              .00Total Dispensable Note
+s              .00
+
+Cass. 1 $20           0              .00
+Cass. 2 $10           0              .00
+Cass. 3 $100          0              .00
+Cass. 4 $1            0              .00
+Cass. 5 $50           0              .00
+Cass. 8 $5            0              .00
+Cass. 9 $1            0              .00
+========================================
+
+
+
+
+
+
+
+
+(Reconciled Rejects)                    
+Transaction #                          2
+001/19/20 12:01 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                    1             2.00
+
+Removed (Mutilated) Notes           2.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                    1            -2.00
+Differences                        +2.00
+----------------------------------------
+
+========================================
+             Activity Report            
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+001/19/20 12:02 PM
+
+ID:                                  Ray
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                65534        131068.00
+$1                    0              .00
+Starting Inventory             131170.00
+Net Adjustments                  -102.00
+Total Inventory                131068.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  
+0              .00$50                   
+0              .00$20                   
+0              .00$10                   
+0              .00$5                    
+0              .00$1                    
+0              .00Total Dispensable Note
+s              .00
+
+Cass. 1 $20           0              .00
+Cass. 2 $10           0              .00
+Cass. 3 $100          0              .00
+Cass. 4 $1            0              .00
+Cass. 5 $50           0              .00
+Cass. 8 $5            0              .00
+Cass. 9 $1            0              .00
+========================================
+
+
+
+
+
+
+
+
+(Reconciled Rejects)                    
+Transaction #                          3
+001/19/20 12:05 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                          4
+001/19/20 12:07 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                          5
+001/19/20 12:08 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+Logoff:                              Ray
+001/19/20 12:10 PM
+
+Logon:                               Ray
+001/19/20 12:10 PM
+
+(Reconciled Rejects)                    
+Transaction #                          6
+001/19/20 12:10 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                          7
+001/19/20 12:12 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                          8
+001/19/20 12:15 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                          9
+001/19/20 12:16 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         10
+001/19/20 12:17 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         11
+001/19/20 12:19 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         12
+001/19/20 12:20 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         13
+001/19/20 12:21 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         14
+001/19/20 12:22 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         15
+001/19/20 12:23 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+========================================
+             Activity Report            
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+001/19/20 12:24 PM
+
+ID:                                  Ray
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                 1083          2166.00
+$1                    0              .00
+Starting Inventory             131170.00
+Net Adjustments               -260076.00
+Total Inventory                  2166.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  
+0              .00$50                   
+0              .00$20                   
+0              .00$10                   
+0              .00$5                    
+0              .00$1                    
+0              .00Total Dispensable Note
+s              .00
+
+Cass. 1 $20           0              .00
+Cass. 2 $10           0              .00
+Cass. 3 $100          0              .00
+Cass. 4 $1            0              .00
+Cass. 5 $50           0              .00
+Cass. 8 $5            0              .00
+Cass. 9 $1            0              .00
+========================================
+
+
+
+
+
+
+
+
+(Reconciled Rejects)                    
+Transaction #                         16
+001/19/20 12:25 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 2168          4336.00
+
+Removed (Mutilated) Notes        4336.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 2168         -4336.00
+Differences                     +4336.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         17
+001/19/20 12:28 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         18
+001/19/20 12:48 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         19
+001/19/20 12:49 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         20
+001/19/20 12:50 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         21
+001/19/20 12:50 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+Logoff:                              Ray
+001/19/20 12:51 PM
+
+Logon:                               Ray
+001/19/20 12:52 PM
+
+   *** Entered Configuration Mode ***   
+001/19/20 12:52 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/19/20 12:52 PM
+ID:                                  Ray
+
+(Reconciled Rejects)                    
+Transaction #                         22
+001/19/20 12:52 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         23
+001/19/20 12:54 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 4400          8800.00
+
+Removed (Mutilated) Notes        8800.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 4400         -8800.00
+Differences                     +8800.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                         24
+001/19/20 12:55 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                   57           114.00
+
+Removed (Mutilated) Notes         114.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                   57          -114.00
+Differences                      +114.00
+----------------------------------------
+
+========================================
+             Activity Report            
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+001/19/20 12:55 PM
+
+ID:                                  Ray
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Starting Inventory             131170.00
+Net Adjustments               -393314.00
+Total Inventory                      .00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  
+0              .00$50                   
+0              .00$20                   
+0              .00$10                   
+0              .00$5                    
+0              .00$1                    
+0              .00Total Dispensable Note
+s              .00
+
+Cass. 1 $20           0              .00
+Cass. 2 $10           0              .00
+Cass. 3 $100          0              .00
+Cass. 4 $1            0              .00
+Cass. 5 $50           0              .00
+Cass. 8 $5            0              .00
+Cass. 9 $1            0              .00
+========================================
+
+        User Grand Totals Cleared       
+            Activity Cleared            
+
+
+
+
+
+
+
+
+Logoff:                              Ray
+001/19/20 12:56 PM
+
+Logon:                               Ray
+001/19/20 02:03 PM
+
+Logoff:                              Ray
+001/19/20 02:03 PM
+
+Logon:                               Ray
+001/19/20 02:09 PM
+
+Logoff:                              Ray
+001/19/20 02:09 PM
+
+Logon:                               Ray
+001/19/20 02:11 PM
+
+Logoff:                              Ray
+001/19/20 02:11 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.123 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.123 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/19/20 02:37 PM
+
+(Reconciled Rejects)                    
+Transaction #                          1
+001/19/20 02:37 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/19/20 02:44 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.124 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+001/19/20 02:46 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.124 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/19/20 02:49 PM
+
+(Reconciled Rejects)                    
+Transaction #                          1
+001/19/20 02:49 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                          2
+001/19/20 02:50 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                          3
+001/19/20 02:51 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                          4
+001/19/20 02:52 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                          5
+001/19/20 02:52 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+(Reconciled Rejects)                    
+Transaction #                          6
+001/19/20 02:53 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999         19998.00
+
+Removed (Mutilated) Notes       19998.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$2                 9999        -19998.00
+Differences                    +19998.00
+----------------------------------------
+
+========================================
+             Activity Report            
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+001/19/20 02:54 PM
+
+ID:                                  Ray
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Starting Inventory             111074.00
+Net Adjustments               -119988.00
+Total Inventory                      .00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  
+0              .00$50                   
+0              .00$20                   
+0              .00$10                   
+0              .00$5                    
+0              .00$1                    
+0              .00Total Dispensable Note
+s              .00
+
+Cass. 1 $20           0              .00
+Cass. 2 $10           0              .00
+Cass. 3 $100          0              .00
+Cass. 4 $1            0              .00
+Cass. 5 $50           0              .00
+Cass. 8 $5            0              .00
+Cass. 9 $1            0              .00
+========================================
+
+        User Grand Totals Cleared       
+            Activity Cleared            
+
+
+
+
+
+
+
+
+(Inventory Load)                        
+Transaction #                          1
+001/19/20 02:55 PM
+Ray
+
+Denom            Pieces            Value
+$1                   12            12.00
+
+Machine Total                      12.00
+Total Inventory Added              12.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          2
+001/19/20 02:57 PM
+Ray
+
+Denom            Pieces            Value
+$5                   24           120.00
+$1                   19            19.00
+
+Machine Total                     139.00
+Total Inventory Added             139.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/19/20 02:58 PM
+
+Logon:                               Ray
+001/19/20 02:58 PM
+
+(Online Mix Dispense)                   
+Transaction #                          3
+001/19/20 02:59 PM
+Ray
+
+Denom            Pieces            Value
+$5                    9            45.00
+$1                    5             5.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+Logoff:                              Ray
+001/19/20 03:02 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.125 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/19/20 04:56 PM
+
+   *** Entered Configuration Mode ***   
+001/19/20 04:56 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/19/20 04:56 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/19/20 04:57 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.125 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.125 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+

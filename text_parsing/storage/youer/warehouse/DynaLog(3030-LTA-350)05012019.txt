@@ -1,0 +1,956 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.104 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 09:13 AM
+
+
+   *** Entered Configuration Mode ***   
+001/01/20 09:13 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 09:20 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/01/20 09:20 AM
+
+Logon:                               Ray
+001/01/20 09:28 AM
+
+
+   *** Entered Configuration Mode ***   
+001/01/20 09:28 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 09:41 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/01/20 09:41 AM
+
+Logon:                               Ray
+001/01/20 10:02 AM
+
+   *** Entered Configuration Mode ***   
+001/01/20 10:02 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 10:02 AM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Groups            
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/01/20 10:02 AM
+
+Dual Control Options
+     Online Withdrawals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+MasterUser
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Inventory Control
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     Reset TCD/TCR Machine
+     Limit Overrides
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Close Day
+     View Reports (All)
+     Clear Daily Activity Totals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+User Control
+     User Management
+     Group Management
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Settings (Setup)
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Default System
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Transactions LL
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit           2000.00
+     Daily Limit                10000.00
+
+Manual Transactions
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Online Only
+     Online Withdrawals
+     Online Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Report Only
+     View Reports (All)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+IT Only
+     Hardware Setup
+     Network Setup
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit
+          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+Logoff:                              Ray
+001/01/20 10:02 AM
+
+Logon:                               Ray
+001/01/20 10:02 AM
+
+   *** Entered Configuration Mode ***   
+001/01/20 10:02 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 10:02 AM
+ID:                                  Ray
+
+========================================
+             DynaCore Groups            
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/01/20 10:02 AM
+
+Dual Control Options
+     Manual (Offline) Withdrawals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+MasterUser
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Inventory Control
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     Reset TCD/TCR Machine
+     Limit Overrides
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Close Day
+     View Reports (All)
+     Clear Daily Activity Totals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+User Control
+     User Management
+     Group Management
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Settings (Setup)
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Default System
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Transactions LL
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit           2000.00
+     Daily Limit                10000.00
+
+Manual Transactions
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Online Only
+     Online Withdrawals
+     Online Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Report Only
+     View Reports (All)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+IT Only
+     Hardware Setup
+     Network Setup
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+Logoff:                              Ray
+001/01/20 10:02 AM
+
+Logon:                               Ray
+001/01/20 10:04 AM
+
+Logoff:                              Ray
+001/01/20 10:04 AM
+
+Logon:                               Ray
+001/01/20 10:10 AM
+
+Logoff:                              Ray
+001/01/20 10:10 AM
+
+Logon:                               Ray
+001/01/20 10:14 AM
+
+Logoff:                              Ray
+001/01/20 10:14 AM
+
+Logon:                               Ray
+001/01/20 10:14 AM
+
+Logoff:                              Ray
+001/01/20 10:14 AM
+
+Logon:                               Ray
+001/01/20 12:16 PM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/01/20 12:16 PM
+
+Logon:                               Ray
+001/01/20 12:18 PM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/01/20 12:18 PM
+
+Logon:                               Ray
+001/01/20 12:18 PM
+
+Logoff:                              Ray
+001/01/20 12:18 PM
+
+Logon:                               Ray
+001/01/20 12:20 PM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/01/20 12:20 PM
+
+Logon:                               Ray
+001/01/20 12:20 PM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/01/20 12:20 PM
+
+Logon:                               Ray
+001/01/20 12:21 PM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/01/20 12:21 PM
+
+Logon:                               Ray
+001/01/20 12:21 PM
+
+Logoff:                              Ray
+001/01/20 12:21 PM
+
+Logon:                               Ray
+001/01/20 12:21 PM
+
+Logoff:                              Ray
+001/01/20 12:21 PM
+
+Logon:                               Ray
+001/01/20 12:22 PM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/01/20 12:22 PM
+
+Logon:                               Ray
+001/01/20 12:22 PM
+
+Logoff:                              Ray
+001/01/20 12:22 PM
+
+Logon:                               Ray
+001/01/20 01:25 PM
+
+   *** Entered Configuration Mode ***   
+001/01/20 01:26 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 01:26 PM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Groups            
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/01/20 01:26 PM
+
+Dual Control Options
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+MasterUser
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Inventory Control
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     Reset TCD/TCR Machine
+     Limit Overrides
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+Close Day
+     View Reports (All)
+     Clear Daily Activity Totals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+User Control
+     User Management
+     Group Management
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Settings (Setup)
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Default System
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Transactions LL
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit           2000.00
+     Daily Limit                10000.00
+
+Manual Transactions
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Online Only
+     Online Withdrawals
+     Online Deposits
+     View Reports (Self Only)
+     Reset TCD/TCR Machine
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Report Only
+     View Reports (All)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+IT Only
+     Hardware Setup
+     Network Setup
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     
+Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+Logoff:                              Ray
+001/01/20 01:26 PM
+
+Logon:                               Ray
+001/01/20 01:27 PM
+
+   *** Entered Configuration Mode ***   
+001/01/20 01:27 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 01:27 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/01/20 01:27 PM
+
+(Vault Buy)                             
+Transaction #                          1
+001/01/20 01:28 PM
+Ray
+
+Denom            Pieces            Value
+$20                   4            80.00
+$10                   2            20.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+Logon:                               Ray
+001/01/20 01:28 PM
+
+Logoff:                              Ray
+001/01/20 01:28 PM
+
+Logon:                               Ray
+001/01/20 01:37 PM
+
+   *** Entered Configuration Mode ***   
+001/01/20 01:37 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 01:40 PM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/01/20 01:40 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 01:41 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/01/20 01:41 PM
+
+Logon:                               Ray
+001/01/20 01:48 PM
+
+   *** Entered Configuration Mode ***   
+001/01/20 01:48 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/01/20 01:48 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/01/20 01:48 PM
+
+Logon:                               Ray
+001/01/20 03:30 PM
+
+Logoff:                              Ray
+001/01/20 03:30 PM
+
+Logon:                               Ray
+001/01/20 03:41 PM
+
+Logoff:                              Ray
+001/01/20 03:41 PM
+
+Logon:                               Ray
+001/01/20 03:42 PM
+
+Logoff:                              Ray
+001/01/20 03:42 PM
+
+Logon:                               Ray
+001/01/20 03:46 PM
+
+Logoff:                              Ray
+001/01/20 03:46 PM
+
+Logon:                               Ray
+001/01/20 03:51 PM
+
+Logoff:                              Ray
+001/01/20 03:52 PM
+
+Logon:                               Ray
+001/01/20 03:54 PM
+
+Logoff:                              Ray
+001/01/20 03:55 PM
+
+Logon:                               Ray
+001/01/20 03:58 PM
+
+Logoff:                              Ray
+001/01/20 03:58 PM
+
+Logon:                               Ray
+001/01/20 03:58 PM
+
+Logoff:                              Ray
+001/01/20 03:59 PM
+
+Logon:                               Ray
+001/01/20 04:00 PM
+
+Logoff:                              Ray
+001/01/20 04:00 PM
+
+Logon:                               Ray
+001/01/20 04:01 PM
+
+Logoff:                              Ray
+001/01/20 04:01 PM
+
+Logon:                               Ray
+001/01/20 04:03 PM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/01/20 04:03 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.104 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.104 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 04:07 PM
+
+Logoff:                              Ray
+001/01/20 04:07 PM
+
+Logon:                               Ray
+001/01/20 04:08 PM
+
+Logoff:                              Ray
+001/01/20 04:08 PM
+
+Logon:                               Ray
+001/01/20 04:09 PM
+
+Logoff:                              Ray
+001/01/20 04:11 PM
+
+Logon:                               Ray
+001/01/20 04:29 PM
+
+Logoff:                              Ray
+001/01/20 04:29 PM
+
+Logon:                               Ray
+001/01/20 04:32 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.104 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 04:33 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.104 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/01/20 04:34 PM
+
+Logoff:                              Ray
+001/01/20 04:34 PM
+
+Logon:                               Ray
+001/01/20 04:35 PM
+
+Logoff:                              Ray
+001/01/20 04:35 PM
+
+Logon:                               Ray
+001/01/20 04:35 PM
+
+Logoff:                              Ray
+001/01/20 04:35 PM
+
+Logon:                               Ray
+001/01/20 04:36 PM
+
+Logoff:                              Ray
+001/01/20 04:37 PM
+
+Logon:                               Ray
+001/01/20 05:25 PM
+
+Logoff:                              Ray
+001/01/20 05:25 PM
+
+Logon:                               Ray
+05/02/19 10:58 AM
+
+
+   *** Entered Configuration Mode ***   
+05/02/19 10:58 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/02/19 10:58 AM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+05/02/19 10:58 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/02/19 10:58 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+05/02/19 10:59 AM
+
+Logon:                               Ray
+05/02/19 10:59 AM
+
+   *** Entered Configuration Mode ***   
+05/02/19 10:59 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/02/19 10:59 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+05/02/19 10:59 AM
+
+Logon:                               Ray
+05/02/19 01:16 PM
+
+   *** Entered Configuration Mode ***   
+05/02/19 01:16 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+05/02/19 01:16 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+05/02/19 01:16 PM
+
+Logon:                               Ray
+05/02/19 01:53 PM
+
+Logoff:                              Ray
+05/02/19 01:53 PM
+
+Logon:                               Ray
+05/02/19 01:54 PM
+
+Logoff:                              Ray
+05/02/19 01:55 PM
+
+Logon:                               Ray
+05/02/19 02:19 PM
+
+Logoff:                              Ray
+05/02/19 02:20 PM
+
+Logon:                               Ray
+05/02/19 02:28 PM
+
+Logoff:                              Ray
+05/02/19 02:28 PM
+
+Logon:                               Ray
+05/02/19 02:33 PM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+05/02/19 02:33 PM

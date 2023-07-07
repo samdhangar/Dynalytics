@@ -1,0 +1,118 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+01/06/20 03:58 PM
+
+
+   *** Entered Configuration Mode ***   
+01/06/20 03:58 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/06/20 03:58 PM
+ID:                                  Ray
+    *** Cassette Cass. 2 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                          1
+01/06/20 04:00 PM
+Ray
+
+Denom            Pieces            Value
+$5                   83           415.00
+
+Total Inventory Removed           415.00
+----------------------------------------
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+01/06/20 04:02 PM
+Ray
+
+
+
+(Inventory Load)                        
+Transaction #                          2
+01/06/20 04:04 PM
+Ray
+
+Denom            Pieces            Value
+$5                   83           415.00
+
+Machine Total                     415.00
+Total Inventory Added             415.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/06/20 04:04 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/06/20 04:04 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+01/06/20 04:04 PM
+
+Logon:                               Ray
+01/06/20 04:05 PM
+
+Logoff:                              Ray
+01/06/20 04:05 PM
+
+Logon:                               Ray
+01/06/20 04:05 PM
+
+
+Logoff:                              Ray
+01/06/20 04:05 PM
+
+   *** Entered Configuration Mode ***   
+01/06/20 04:05 PM
+ID:                               Level2
+
+
+Logon:                   Ray's bait shop
+01/06/20 04:05 PM
+
+    *** Exited Configuration Mode ***   
+01/06/20 04:06 PM
+ID:                      Ray's bait shop
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+

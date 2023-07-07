@@ -1,0 +1,1118 @@
+
+Logon:                         michellem
+04/13/23 07:57 AM
+
+========================================
+             Activity Report
+
+
+Station:                      Station ID
+Branch:                                4
+Region:                        Region ID
+04/13/23 07:57 AM
+
+ID:                            michellem
+========================================
+              User Activity
+----------------------------------------
+freidab
+# of Deposits                          1
+# of Withdrawals                       2
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   1            50.00
+$20                   1            20.00
+
+Deposit Total                     370.00
+
+Denom            Pieces            Value
+$20                  12           240.00
+$10                   3            30.00
+$5                    1             5.00
+$1                    1             1.00
+
+Non-Cash Total                       .55
+Withdrawal Total                  276.00
+----------------------------------------
+Net Total                         +94.00
+========================================
+----------------------------------------
+          Grand Total Deposited
+----------------------------------------
+
+            Machine Deposits
+
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits
+
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                     370.00
+Total Deposited                   370.00
+# of Deposits                          1
+========================================
+----------------------------------------
+          Grand Total Dispensed
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                  12           240.00
+$10                   3            30.00
+$5                    1             5.00
+$1                    1             1.00
+Non-Cash Total                       .55
+Total Dispensed                   276.00
+# of Withdrawals                       2
+========================================
+----------------------------------------
+             Net Cash Usage
+----------------------------------------
+Denom            Pieces            Value
+$100                  3          +300.00
+$50                   1           +50.00
+$20                  11          -220.00
+$10                   3           -30.00
+$5                    1            -5.00
+$2                    0              .00
+$1                    1            -1.00
+Net Total                         +94.00
+========================================
+----------------------------------------
+                Inventory
+----------------------------------------
+Denom            Pieces            Value
+$100                105         10500.00
+$50                 524         26200.00
+$20                1052         21040.00
+$10                 192          1920.00
+$5                  141           705.00
+$2                    0              .00
+$1                  478           478.00
+Starting Inventory              60749.00
+Net Adjustments                      .00
+Total Inventory                 60843.00
+
+----------------------------------------
+            Dispensable Notes
+----------------------------------------
+$100                105         10500.00
+$50                 524         26200.00
+$20                1052         21040.00
+$10                 192          1920.00
+$5                  141           705.00
+$1                  478           478.00
+Total Dispensable Notes         60843.00
+
+----------------------------------------
+           Ops Cassette Notes
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Ops Cassette Notes             .00
+
+CST-A1  $1          478           478.00
+CST-B1  $5          141           705.00
+CST-C1  $20        1052         21040.00
+CST-D1  $100        105         10500.00
+CST-E1  $50         524         26200.00
+CST-E2  $10         192          1920.00
+               CST-B1 Low
+               CST-D1 Low
+               CST-E2 Low
+========================================
+
+        User Grand Totals Cleared
+
+            Activity Cleared
+
+
+
+
+
+
+
+
+($1) Assumed Count:                  478
+($1) Actual Count:                   478
+($5) Assumed Count:                  141
+($5) Actual Count:                   141
+($20) Assumed Count:                1052
+($20) Actual Count:                 1052
+($100) Assumed Count:                105
+($100) Actual Count:                 105
+($50) Assumed Count:                 524
+($50) Actual Count:                  524
+($10) Assumed Count:                 192
+($10) Actual Count:                  192
+
+(Auto Audit Note Count)                 
+Transaction #                          1
+04/13/23 08:01 AM
+michellem
+Inventory Snapshot              60843.00
+
+Denom            Pieces            Value
+$100                105         10500.00
+$50                 524         26200.00
+$20                1052         21040.00
+$10                 192          1920.00
+$5                  141           705.00
+$1                  478           478.00
+
+Audited Total                   60843.00
+----------------------------------------
+
+Logon:                          bethanyt
+04/13/23 08:19 AM
+
+(Manual Entry Dispense)                 
+Transaction #                          2
+04/13/23 08:21 AM
+bethanyt
+Inventory Snapshot              60843.00
+
+Denom            Pieces            Value
+$20                  25           500.00
+$10                  50           500.00
+$5                   25           125.00
+$1                   50            50.00
+
+Amount Tendered                  1175.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                          3
+04/13/23 08:39 AM
+bethanyt
+Inventory Snapshot              59668.00
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          4
+04/13/23 08:48 AM
+bethanyt
+Inventory Snapshot              59568.00
+
+Denom            Pieces            Value
+$100                 20          2000.00
+
+Machine Total                    2000.00
+Deposit Total                    2000.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                          5
+04/13/23 08:50 AM
+bethanyt
+Inventory Snapshot              61568.00
+
+Denom            Pieces            Value
+$20                   4            80.00
+$10                   1            10.00
+$5                    2            10.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          6
+04/13/23 08:57 AM
+bethanyt
+Inventory Snapshot              61468.00
+
+Denom            Pieces            Value
+$100                 12          1200.00
+$20                  10           200.00
+
+Machine Total                    1400.00
+Deposit Total                    1400.00
+----------------------------------------
+
+Logon:                           vconroy
+04/13/23 09:48 AM
+
+(Manual Entry Dispense)                 
+Transaction #                          7
+04/13/23 09:48 AM
+vconroy
+Inventory Snapshot              62868.00
+
+Denom            Pieces            Value
+$100                  3           300.00
+$20                   2            40.00
+$10                   1            10.00
+
+Amount Tendered                   350.00
+----------------------------------------
+
+      *** Client Disconnection ***
+Logoff:                        michellem
+04/13/23 09:48 AM
+
+Logon:                         michellem
+04/13/23 09:48 AM
+
+(Manual Entry Dispense)                 
+Transaction #                          8
+04/13/23 09:49 AM
+michellem
+Inventory Snapshot              62518.00
+
+Denom            Pieces            Value
+$5                   60           300.00
+
+Amount Tendered                   300.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          9
+04/13/23 09:52 AM
+bethanyt
+Inventory Snapshot              62218.00
+
+Denom            Pieces            Value
+$20                   4            80.00
+
+Machine Total                      80.00
+Deposit Total                      80.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         10
+04/13/23 10:00 AM
+bethanyt
+Inventory Snapshot              62298.00
+
+Denom            Pieces            Value
+$20                   6           120.00
+$10                   2            20.00
+$1                    5             5.00
+
+Machine Total                     145.00
+Deposit Total                     145.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         11
+04/13/23 10:01 AM
+bethanyt
+Inventory Snapshot              62443.00
+
+Denom            Pieces            Value
+$20                  10           200.00
+
+Machine Total                     200.00
+Deposit Total                     200.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         12
+04/13/23 10:01 AM
+bethanyt
+Inventory Snapshot              62643.00
+
+Denom            Pieces            Value
+$5                   40           200.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         13
+04/13/23 10:06 AM
+bethanyt
+Inventory Snapshot              62443.00
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   3           150.00
+$20                  18           360.00
+$10                   2            20.00
+$1                    2             2.00
+
+Non-Cash Total                       .64
+Amount Tendered                   832.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         14
+04/13/23 10:07 AM
+bethanyt
+Inventory Snapshot              61611.00
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+
+Machine Total                     380.00
+Deposit Total                     380.00
+----------------------------------------
+
+Logon:                         michelleb
+04/13/23 10:56 AM
+
+(Inventory Load)                        
+Transaction #                         15
+04/13/23 10:58 AM
+michelleb
+Inventory Snapshot              61991.00
+
+Denom            Pieces            Value
+$100                100         10000.00
+$5                  250          1250.00
+
+Machine Total                   11250.00
+Total Inventory Added           11250.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         16
+04/13/23 11:37 AM
+bethanyt
+Inventory Snapshot              73241.00
+
+Denom            Pieces            Value
+$20                   7           140.00
+$10                   6            60.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         17
+04/13/23 12:23 PM
+vconroy
+Inventory Snapshot              73041.00
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   9           180.00
+$10                   1            10.00
+$5                    1             5.00
+
+Amount Tendered                   495.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         18
+04/13/23 01:09 PM
+vconroy
+Inventory Snapshot              72546.00
+
+Denom            Pieces            Value
+$100                  5           500.00
+$50                   3           150.00
+$1                    2             2.00
+
+Non-Cash Total                       .50
+Amount Tendered                   652.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         19
+04/13/23 01:28 PM
+michellem
+Inventory Snapshot              71894.00
+
+Denom            Pieces            Value
+$100                 35          3500.00
+
+Machine Total                    3500.00
+Deposit Total                    3500.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         20
+04/13/23 01:33 PM
+bethanyt
+Inventory Snapshot              75394.00
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   4           200.00
+$20                  15           300.00
+$10                   5            50.00
+
+Amount Tendered                   750.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         21
+04/13/23 01:43 PM
+bethanyt
+Inventory Snapshot              74644.00
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Machine Total                      40.00
+Deposit Total                      40.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         22
+04/13/23 01:48 PM
+bethanyt
+Inventory Snapshot              74684.00
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   2           100.00
+$20                  20           400.00
+$10                   2            20.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     826.00
+Deposit Total                     826.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         23
+04/13/23 01:55 PM
+bethanyt
+Inventory Snapshot              75510.00
+
+Denom            Pieces            Value
+$10                   1            10.00
+$5                    1             5.00
+$1                    4             4.00
+
+Non-Cash Total                       .11
+Amount Tendered                    19.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         24
+04/13/23 02:15 PM
+bethanyt
+Inventory Snapshot              75491.00
+
+Denom            Pieces            Value
+$100                 32          3200.00
+
+Machine Total                    3200.00
+Deposit Total                    3200.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         25
+04/13/23 02:18 PM
+bethanyt
+Inventory Snapshot              78691.00
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   5           100.00
+$1                    1             1.00
+
+Machine Total                     201.00
+Deposit Total                     201.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         26
+04/13/23 02:19 PM
+bethanyt
+Inventory Snapshot              78892.00
+
+Denom            Pieces            Value
+$5                   20           100.00
+$1                  100           100.00
+
+Non-Cash Total                      1.00
+Amount Tendered                   200.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         27
+04/13/23 02:21 PM
+bethanyt
+Inventory Snapshot              78692.00
+
+Denom            Pieces            Value
+$20                   2            40.00
+$10                   1            10.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         28
+04/13/23 02:27 PM
+bethanyt
+Inventory Snapshot              78642.00
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   3            60.00
+
+Machine Total                     160.00
+Deposit Total                     160.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         29
+04/13/23 02:29 PM
+bethanyt
+Inventory Snapshot              78802.00
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   8           160.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     326.00
+Deposit Total                     326.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         30
+04/13/23 02:29 PM
+vconroy
+Inventory Snapshot              79128.00
+
+Denom            Pieces            Value
+$100                  8           800.00
+$20                  10           200.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         31
+04/13/23 02:38 PM
+bethanyt
+Inventory Snapshot              78128.00
+
+Denom            Pieces            Value
+$100                  8           800.00
+
+Machine Total                     800.00
+Deposit Total                     800.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         32
+04/13/23 02:57 PM
+bethanyt
+Inventory Snapshot              78928.00
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Machine Total                     100.00
+Deposit Total                     100.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         33
+04/13/23 02:58 PM
+bethanyt
+Inventory Snapshot              79028.00
+
+Denom            Pieces            Value
+$100                  3           300.00
+$20                  76          1520.00
+$10                   3            30.00
+$5                    9            45.00
+$1                   22            22.00
+
+Machine Total                    1917.00
+Deposit Total                    1917.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         34
+04/13/23 03:00 PM
+bethanyt
+Inventory Snapshot              80945.00
+
+Denom            Pieces            Value
+$100                 45          4500.00
+
+Amount Tendered                  4500.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         35
+04/13/23 03:10 PM
+vconroy
+Inventory Snapshot              76445.00
+
+Denom            Pieces            Value
+$20                   2            40.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    3             3.00
+
+Non-Cash Total                       .57
+Amount Tendered                    58.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         36
+04/13/23 03:17 PM
+bethanyt
+Inventory Snapshot              76387.00
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Amount Tendered                    40.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         37
+04/13/23 03:22 PM
+bethanyt
+Inventory Snapshot              76347.00
+
+Denom            Pieces            Value
+$100                 11          1100.00
+
+Amount Tendered                  1100.00
+----------------------------------------
+
+========================================
+           User Totals Report
+----------------------------------------
+Station:                      Station ID
+Branch:                                4
+Region:                        Region ID
+04/13/23 03:38 PM
+
+
+michellem
+# of Deposits                          1
+# of Withdrawals                       1
+Denom            Pieces            Value
+$100                 35          3500.00
+
+Deposit Total                    3500.00
+
+Denom            Pieces            Value
+$5                   60           300.00
+
+Withdrawal Total                  300.00
+----------------------------------------
+Sell                             3200.00
+========================================
+
+
+
+
+
+
+
+
+========================================
+           User Totals Report
+----------------------------------------
+Station:                      Station ID
+Branch:                                4
+Region:                        Region ID
+04/13/23 03:53 PM
+
+
+bethanyt
+# of Deposits                         15
+# of Withdrawals                      13
+Denom            Pieces            Value
+$100                 84          8400.00
+$50                   4           200.00
+$20                 150          3000.00
+$10                   9            90.00
+$5                   11            55.00
+$1                   30            30.00
+
+Deposit Total                   11775.00
+
+Denom            Pieces            Value
+$100                 61          6100.00
+$50                   7           350.00
+$20                  78          1560.00
+$10                  66           660.00
+$5                   88           440.00
+$1                  156           156.00
+
+Non-Cash Total                      1.75
+Withdrawal Total                 9266.00
+----------------------------------------
+Sell                             2509.00
+========================================
+
+
+
+
+
+
+
+
+========================================
+           User Totals Report
+----------------------------------------
+Station:                      Station ID
+Branch:                                4
+Region:                        Region ID
+04/13/23 03:55 PM
+
+
+vconroy
+# of Deposits                          0
+# of Withdrawals                       5
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$100                 18          1800.00
+$50                   5           250.00
+$20                  23           460.00
+$10                   3            30.00
+$5                    2            10.00
+$1                    5             5.00
+
+Non-Cash Total                      1.07
+Withdrawal Total                 2555.00
+----------------------------------------
+Buy                              2555.00
+========================================
+
+
+
+
+
+
+
+
+========================================
+             Activity Report
+
+
+Station:                      Station ID
+Branch:                                4
+Region:                        Region ID
+04/13/23 04:01 PM
+
+ID:                            michellem
+========================================
+              User Activity
+----------------------------------------
+bethanyt
+# of Deposits                         15
+# of Withdrawals                      13
+
+Denom            Pieces            Value
+$100                 84          8400.00
+$50                   4           200.00
+$20                 150          3000.00
+$10                   9            90.00
+$5                   11            55.00
+$1                   30            30.00
+
+Deposit Total                   11775.00
+
+Denom            Pieces            Value
+$100                 61          6100.00
+$50                   7           350.00
+$20                  78          1560.00
+$10                  66           660.00
+$5                   88           440.00
+$1                  156           156.00
+
+Non-Cash Total                      1.75
+Withdrawal Total                 9266.00
+----------------------------------------
+Net Total                       +2509.00
+----------------------------------------
+michellem
+# of Deposits                          1
+# of Withdrawals                       1
+
+Denom            Pieces            Value
+$100                 35          3500.00
+
+Deposit Total                    3500.00
+
+Denom            Pieces            Value
+$5                   60           300.00
+
+Withdrawal Total                  300.00
+----------------------------------------
+Net Total                       +3200.00
+----------------------------------------
+vconroy
+# of Deposits                          0
+# of Withdrawals                       5
+
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$100                 18          1800.00
+$50                   5           250.00
+$20                  23           460.00
+$10                   3            30.00
+$5                    2            10.00
+$1                    5             5.00
+
+Non-Cash Total                      1.07
+Withdrawal Total                 2555.00
+----------------------------------------
+Net Total                       -2555.00
+========================================
+----------------------------------------
+          Grand Total Deposited
+----------------------------------------
+
+            Machine Deposits
+
+
+Denom            Pieces            Value
+$100                119         11900.00
+$50                   4           200.00
+$20                 150          3000.00
+$10                   9            90.00
+$5                   11            55.00
+$2                    0              .00
+$1                   30            30.00
+
+           Other Cash Deposits
+
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                   15275.00
+Total Deposited                 15275.00
+# of Deposits                         16
+========================================
+----------------------------------------
+          Grand Total Dispensed
+----------------------------------------
+Denom            Pieces            Value
+$100                 79          7900.00
+$50                  12           600.00
+$20                 101          2020.00
+$10                  69           690.00
+$5                  150           750.00
+$1                  161           161.00
+Non-Cash Total                      2.82
+Total Dispensed                 12121.00
+# of Withdrawals                      19
+========================================
+----------------------------------------
+             Net Cash Usage
+----------------------------------------
+Denom            Pieces            Value
+$100                 40         +4000.00
+$50                   8          -400.00
+$20                  49          +980.00
+$10                  60          -600.00
+$5                  139          -695.00
+$2                    0              .00
+$1                  131          -131.00
+Net Total                       +3154.00
+========================================
+----------------------------------------
+                Inventory
+----------------------------------------
+Denom            Pieces            Value
+$100                245         24500.00
+$50                 516         25800.00
+$20                1101         22020.00
+$10                 132          1320.00
+$5                  252          1260.00
+$2                    0              .00
+$1                  347           347.00
+Starting Inventory              60843.00
+Net Adjustments                 11250.00
+Total Inventory                 75247.00
+
+----------------------------------------
+            Dispensable Notes
+----------------------------------------
+$100                245         24500.00
+$50                 516         25800.00
+$20                1101         22020.00
+$10                 132          1320.00
+$5                  252          1260.00
+$1                  347           347.00
+Total Dispensable Notes         75247.00
+
+----------------------------------------
+           Ops Cassette Notes
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Ops Cassette Notes             .00
+
+CST-A1  $1          347           347.00
+CST-B1  $5          252          1260.00
+CST-C1  $20        1101         22020.00
+CST-D1  $100        245         24500.00
+CST-E1  $50         516         25800.00
+CST-E2  $10         132          1320.00
+               CST-E2 Low
+========================================
+
+        User Grand Totals Cleared
+
+            Activity Cleared
+
+
+
+
+
+
+
+
+
+Logoff:                        michellem
+04/13/23 04:01 PM
+
+(Online Nominated Dispense)             
+Transaction #                          1
+04/13/23 04:17 PM
+bethanyt
+Inventory Snapshot              75247.00
+
+Denom            Pieces            Value
+$100                  8           800.00
+
+Amount Tendered                   800.00
+----------------------------------------
+
+========================================
+           User Totals Report
+----------------------------------------
+Station:                      Station ID
+Branch:                                4
+Region:                        Region ID
+04/13/23 04:21 PM
+
+
+bethanyt
+# of Deposits                          0
+# of Withdrawals                       1
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$100                  8           800.00
+
+Withdrawal Total                  800.00
+----------------------------------------
+Buy                               800.00
+========================================
+
+
+
+
+
+
+
+
+Logoff:                         bethanyt
+04/13/23 04:21 PM
+
+Logoff:                          vconroy
+04/13/23 04:29 PM
+
+(Online Deposit)                        
+Transaction #                          2
+04/13/23 05:00 PM
+michelleb
+Inventory Snapshot              74447.00
+
+Denom            Pieces            Value
+$100                 30          3000.00
+$50                   6           300.00
+$20                  41           820.00
+$5                    1             5.00
+
+Machine Total                    4125.00
+Deposit Total                    4125.00
+----------------------------------------
+
+========================================
+           User Totals Report
+----------------------------------------
+Station:                      Station ID
+Branch:                                4
+Region:                        Region ID
+04/13/23 05:20 PM
+
+
+michelleb
+# of Deposits                          1
+# of Withdrawals                       0
+Denom            Pieces            Value
+$100                 30          3000.00
+$50                   6           300.00
+$20                  41           820.00
+$5                    1             5.00
+
+Deposit Total                    4125.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Sell                             4125.00
+========================================
+
+
+
+
+
+
+
+
+Logoff:                        michelleb
+04/13/23 05:25 PM

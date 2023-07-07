@@ -1,0 +1,1615 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.128 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.128 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/11/20 09:40 AM
+
+      TCR Result Code 124 Occurred      
+      *** TCR Note Audit Failed ***     
+
+Logon:                              Josh
+001/11/20 09:47 AM
+*** Forced Logoff of Non-Admin Users ***
+
+
+   *** Entered Configuration Mode ***   
+001/11/20 09:47 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/11/20 09:47 AM
+ID:                                 Josh
+
+Logon:                               Ray
+001/11/20 09:47 AM
+*** Forced Logoff of Non-Admin Users ***
+
+
+   *** Entered Configuration Mode ***   
+001/11/20 09:48 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/11/20 10:02 AM
+ID:                                 Josh
+
+   *** Entered Configuration Mode ***   
+001/11/20 10:02 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/11/20 11:56 AM
+ID:                                 Josh
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/11/20 11:56 AM
+Josh
+
+
+
+   *** Entered Configuration Mode ***   
+001/11/20 11:56 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/11/20 11:56 AM
+ID:                                 Josh
+
+(Online Nominated Dispense)             
+Transaction #                          1
+001/11/20 11:57 AM
+Josh
+
+Denom            Pieces            Value
+$1                    5             5.00
+
+Amount Tendered                     5.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          2
+001/11/20 11:57 AM
+Josh
+
+Denom            Pieces            Value
+$1                    5             5.00
+
+Machine Total                       5.00
+Deposit Total                       5.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/11/20 11:57 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/11/20 11:58 AM
+ID:                                 Josh
+
+
+========================================
+            Security Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         6:30    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00     9:00
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                    No
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        5
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+========================================
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/11/20 11:58 AM
+Josh
+
+
+
+   *** Entered Configuration Mode ***   
+001/11/20 11:58 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/11/20 12:01 PM
+ID:                                 Josh
+
+
+========================================
+            Security Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         6:30    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    24:00
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                    No
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        5
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+========================================
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/11/20 12:01 PM
+Josh
+
+
+
+(Online Nominated Dispense)             
+Transaction #                          3
+001/11/20 12:01 PM
+Josh
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          4
+001/11/20 12:02 PM
+Josh
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Deposit Total                       1.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/11/20 12:02 PM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/11/20 12:03 PM
+ID:                                 Josh
+
+
+========================================
+            Security Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         6:30    11:00
+Monday         8:00    11:00
+Tuesday        8:00    11:00
+Wednesday      8:00    11:00
+Thursday       8:00    11:00
+Friday         8:00    11:00
+Saturday       8:00    11:00
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                    No
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        5
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+========================================
+
+
+
+Logoff:                             Josh
+001/11/20 12:03 PM
+
+Logon:                               Ray
+001/11/20 12:02 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/11/20 12:02 PM
+Ray
+
+
+
+(Online Nominated Dispense)             
+Transaction #                          5
+001/11/20 12:02 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          6
+001/11/20 12:02 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Deposit Total                       1.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/11/20 12:02 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 12:34 PM
+ID:                                  Ray
+
+
+========================================
+            Security Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         6:30    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                   Yes
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        1
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+========================================
+
+
+   *** Entered Configuration Mode ***   
+001/11/20 12:34 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/11/20 12:34 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/11/20 12:34 PM
+
+Logon:                               Ray
+001/11/20 12:38 PM
+
+   *** Entered Configuration Mode ***   
+001/11/20 12:38 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 12:38 PM
+ID:                                  Ray
+            Dispense Failure            
+
+
+(Duress Dispense)                       
+001/11/20 12:38 PM
+Ray
+
+
+Amount Requested                    1.00
+Amount Tendered                      .00
+Balance Due                         1.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                          7
+001/11/20 12:38 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          8
+001/11/20 12:39 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Deposit Total                       1.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.128 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/11/20 12:44 PM
+
+   *** Entered Configuration Mode ***   
+001/11/20 12:44 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 12:44 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/11/20 12:44 PM
+
+Logon:                               Ray
+001/11/20 12:47 PM
+            Dispense Failure            
+
+
+(Duress Dispense)                       
+001/11/20 12:47 PM
+Ray
+
+
+Amount Requested                    1.00
+Amount Tendered                      .00
+Balance Due                         1.00
+----------------------------------------
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.128 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/11/20 12:48 PM
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+001/11/20 12:48 PM
+Ray
+
+
+Amount Requested                    1.00
+Amount Tendered                      .00
+Balance Due                         1.00
+----------------------------------------
+
+
+   *** Entered Configuration Mode ***   
+001/11/20 12:48 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 12:49 PM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/11/20 12:50 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 12:50 PM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/11/20 12:54 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 12:54 PM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/11/20 12:55 PM
+ID:                                  Ray
+
+========================================
+             Activity Report            
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+001/11/20 12:56 PM
+
+ID:                                  Ray
+========================================
+              User Activity             
+----------------------------------------
+Ray
+# of Deposits                          2
+# of Withdrawals                       2
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Deposit Total                       2.00
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Withdrawal Total                    2.00
+----------------------------------------
+Net Total                     In Balance
+----------------------------------------
+Josh
+# of Deposits                          2
+# of Withdrawals                       2
+
+Denom            Pieces            Value
+$1                    6             6.00
+
+Deposit Total                       6.00
+
+Denom            Pieces            Value
+$1                    6             6.00
+
+Withdrawal Total                    6.00
+----------------------------------------
+Net Total                     In Balance
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    8             8.00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                       8.00
+Total Deposited                     8.00
+# of Deposits                          4
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    8             8.00
+Coin                                 .00
+Total Dispensed                     8.00
+# of Withdrawals                       4
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   5           250.00
+$20                  20           400.00
+$10                  40           400.00
+$5                   19            95.00
+$2                    0              .00
+$1                 1313          1313.00
+Coin                                 .00
+Starting Inventory               2558.00
+Net Adjustments                      .00
+Total Inventory                  2558.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  1           100.00
+$50                   5           250.00
+$20                  20           400.00
+$10                  40           400.00
+$5                   19            95.00
+$1                 1313          1313.00
+Total Dispensable Notes          2558.00
+
+Cass. 1 $1          579           579.00
+Cass. 2 $1          734           734.00
+Cass. 3 $5           19            95.00
+Cass. 4 $10          40           400.00
+Cass. 5 $20          19           380.00
+Cass. 6 $20           1            20.00
+           $1 Notes Near Full           
+              $5 Notes Low              
+              $10 Notes Low             
+              $20 Notes Low             
+              $50 Notes Low             
+          $100 Notes Near Full          
+               CST-A High               
+               CST-B High               
+                CST-C Low               
+                CST-D Low               
+                CST-E Low               
+                CST-F Low               
+                CST-G Low               
+                CST-H Low               
+========================================
+
+      *** System Memory Cleared ***     
+001/11/20 12:56 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/11/20 12:56 PM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/11/20 01:11 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 01:11 PM
+ID:                                  Ray
+
+
+========================================
+            Security Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         6:30    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                    No
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        1
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+========================================
+
+
+Logoff:                              Ray
+001/11/20 01:11 PM
+
+
+Logon:                               Ray
+001/11/20 01:12 PM
+
+
+   *** Entered Configuration Mode ***   
+001/11/20 01:12 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 01:12 PM
+ID:                                  Ray
+
+
+========================================
+            Security Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         6:30    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                   Yes
+Use DynaCore Alarm                   Yes
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        1
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+========================================
+
+
+Logoff:                              Ray
+001/11/20 01:12 PM
+
+Logon:                               Ray
+001/11/20 01:14 PM
+
+(Online Mix Dispense)                   
+Transaction #                          1
+001/11/20 01:14 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/11/20 01:14 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 01:14 PM
+ID:                                  Ray
+
+(Online Deposit)                        
+Transaction #                          2
+001/11/20 01:15 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Deposit Total                       1.00
+----------------------------------------
+            Dispense Failure            
+
+
+(Duress Dispense)                       
+001/11/20 01:15 PM
+Ray
+
+
+Amount Requested                    1.00
+Amount Tendered                      .00
+Balance Due                         1.00
+----------------------------------------
+
+
+   *** Entered Configuration Mode ***   
+001/11/20 01:15 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/11/20 01:15 PM
+ID:                                  Ray
+
+(Online Mix Dispense)                   
+Transaction #                          3
+001/11/20 01:16 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/11/20 01:17 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 01:17 PM
+ID:                                  Ray
+
+
+========================================
+            Security Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         6:30    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                   Yes
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        1
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+========================================
+
+            Dispense Failure            
+
+
+(Duress Dispense)                       
+001/11/20 01:17 PM
+Ray
+
+
+Amount Requested                    1.00
+Amount Tendered                      .00
+Balance Due                         1.00
+----------------------------------------
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/11/20 01:17 PM
+
+Logon:                               Ray
+001/11/20 01:17 PM
+
+   *** Entered Configuration Mode ***   
+001/11/20 01:17 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 01:17 PM
+ID:                                  Ray
+
+
+========================================
+            Security Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         6:30    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                    No
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        1
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+========================================
+
+
+(Online Deposit)                        
+Transaction #                          4
+001/11/20 01:17 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Deposit Total                       1.00
+----------------------------------------
+
+Logoff:                              Ray
+001/11/20 01:17 PM
+
+Logon:                               Ray
+001/11/20 01:18 PM
+
+   *** Entered Configuration Mode ***   
+001/11/20 01:18 PM
+ID:                                  Ray
+
+========================================
+             Activity Report            
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+001/11/20 01:18 PM
+
+ID:                                  Ray
+========================================
+              User Activity             
+----------------------------------------
+Ray
+# of Deposits                          2
+# of Withdrawals                       2
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Deposit Total                       2.00
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Withdrawal Total                    2.00
+----------------------------------------
+Net Total                     In Balance
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    2             2.00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                       2.00
+Total Deposited                     2.00
+# of Deposits                          2
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    2             2.00
+Coin                                 .00
+Total Dispensed                     2.00
+# of Withdrawals                       2
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   5           250.00
+$20                  20           400.00
+$10                  40           400.00
+$5                   19            95.00
+$2                    0              .00
+$1                 1313          1313.00
+Coin                                 .00
+Starting Inventory               2558.00
+Net Adjustments                      .00
+Total Inventory                  2558.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  1           100.00
+$50                   5           250.00
+$20                  20           400.00
+$10                  40           400.00
+$5                   19            95.00
+$1                 1313          1313.00
+Total Dispensable Notes          2558.00
+
+Cass. 1 $1          581           581.00
+Cass. 2 $1          732           732.00
+Cass. 3 $5           19            95.00
+Cass. 4 $10          40           400.00
+Cass. 5 $20          19           380.00
+Cass. 6 $20           1            20.00
+           $1 Notes Near Full           
+              $5 Notes Low              
+              $10 Notes Low             
+              $20 Notes Low             
+              $50 Notes Low             
+          $100 Notes Near Full          
+               CST-A High               
+               CST-B High               
+                CST-C Low               
+                CST-D Low               
+                CST-E Low               
+                CST-F Low               
+                CST-G Low               
+                CST-H Low               
+========================================
+
+      *** System Memory Cleared ***     
+001/11/20 01:18 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/11/20 01:18 PM
+
+Logon:                               Ray
+001/11/20 01:19 PM
+
+   *** Entered Configuration Mode ***   
+001/11/20 01:19 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 01:19 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/11/20 01:19 PM
+
+Logon:                               Ray
+001/11/20 01:19 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/11/20 01:19 PM
+Ray
+
+
+
+(Online Mix Dispense)                   
+Transaction #                          1
+001/11/20 01:19 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+Logoff:                              Ray
+001/11/20 01:19 PM
+
+Logon:                               Ray
+001/11/20 01:20 PM
+
+   *** Entered Configuration Mode ***   
+001/11/20 01:20 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 01:20 PM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/11/20 01:53 PM
+ID:                                  Ray
+
+========================================
+             Activity Report            
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+001/11/20 01:53 PM
+
+ID:                                  Ray
+========================================
+              User Activity             
+----------------------------------------
+Ray
+# of Deposits                          0
+# of Withdrawals                       1
+
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Withdrawal Total                    1.00
+----------------------------------------
+Net Total                          -1.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    1             1.00
+Coin                                 .00
+Total Dispensed                     1.00
+# of Withdrawals                       1
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    1            -1.00
+Coin                                 .00
+Net Total                          -1.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   5           250.00
+$20                  20           400.00
+$10                  40           400.00
+$5                   19            95.00
+$2                    0              .00
+$1                 1312          1312.00
+Coin                                 .00
+Starting Inventory               2558.00
+Net Adjustments                      .00
+Total Inventory                  2557.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  1           100.00
+$50                   5           250.00
+$20                  20           400.00
+$10                  40           400.00
+$5                   19            95.00
+$1                 1312          1312.00
+Total Dispensable Notes          2557.00
+
+Cass. 1 $1          581           581.00
+Cass. 2 $1          731           731.00
+Cass. 3 $5           19            95.00
+Cass. 4 $10          40           400.00
+Cass. 5 $20          19           380.00
+Cass. 6 $20           1            20.00
+           $1 Notes Near Full           
+              $5 Notes Low              
+              $10 Notes Low             
+              $20 Notes Low             
+              $50 Notes Low             
+          $100 Notes Near Full          
+               CST-A High               
+               CST-B High               
+                CST-C Low               
+                CST-D Low               
+                CST-E Low               
+                CST-F Low               
+                CST-G Low               
+                CST-H Low               
+========================================
+
+      *** System Memory Cleared ***     
+001/11/20 01:53 PM
+ID:                                  Ray
+
+
+
+    *** Exited Configuration Mode ***   
+001/11/20 01:53 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/11/20 01:53 PM
+
+Logon:                               Ray
+001/11/20 01:54 PM
+
+   *** Entered Configuration Mode ***   
+001/11/20 01:54 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 01:54 PM
+ID:                                  Ray
+
+
+========================================
+            Security Settings           
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         6:30    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                   Yes
+Use DynaCore Alarm                    No
+Use Machine Alarm                     No
+AutoLogoff                      Disabled
+Duress Lump Sum                        1
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+========================================
+
+            Dispense Failure            
+
+
+(Duress Dispense)                       
+001/11/20 01:54 PM
+Ray
+
+
+Amount Requested                    1.00
+Amount Tendered                      .00
+Balance Due                         1.00
+----------------------------------------
+
+
+Logoff:                              Ray
+001/11/20 01:54 PM
+
+Logon:                               Ray
+001/11/20 01:55 PM
+
+(Online Nominated Dispense)             
+Transaction #                          1
+001/11/20 01:55 PM
+Ray
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+            Dispense Failure            
+
+
+(Duress Dispense)                       
+001/11/20 01:55 PM
+Ray
+
+
+Amount Requested                    1.00
+Amount Tendered                      .00
+Balance Due                         1.00
+----------------------------------------
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/11/20 01:56 PM
+
+Logon:                               Ray
+001/11/20 02:21 PM
+
+   *** Entered Configuration Mode ***   
+001/11/20 02:21 PM
+ID:                                  Ray
+
+========================================
+             Activity Report            
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+001/11/20 02:21 PM
+
+ID:                                  Ray
+========================================
+              User Activity             
+----------------------------------------
+Ray
+# of Deposits                          0
+# of Withdrawals                       1
+
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Withdrawal Total                    1.00
+----------------------------------------
+Net Total                          -1.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    1             1.00
+Coin                                 .00
+Total Dispensed                     1.00
+# of Withdrawals                       1
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    1            -1.00
+Coin                                 .00
+Net Total                          -1.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   5           250.00
+$20                  20           400.00
+$10                  40           400.00
+$5                   19            95.00
+$2                    0              .00
+$1                 1311          1311.00
+Coin                                 .00
+Starting Inventory               2557.00
+Net Adjustments                      .00
+Total Inventory                  2556.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  1           100.00
+$50                   5           250.00
+$20                  20           400.00
+$10                  40           400.00
+$5                   19            95.00
+$1                 1311          1311.00
+Total Dispensable Notes          2556.00
+
+Cass. 1 $1          581           581.00
+Cass. 2 $1          730           730.00
+Cass. 3 $5           19            95.00
+Cass. 4 $10          40           400.00
+Cass. 5 $20          19           380.00
+Cass. 6 $20           1            20.00
+           $1 Notes Near Full           
+              $5 Notes Low              
+              $10 Notes Low             
+              $20 Notes Low             
+              $50 Notes Low             
+          $100 Notes Near Full          
+               CST-A High               
+               CST-B High               
+                CST-C Low               
+                CST-D Low               
+                CST-E Low               
+                CST-F Low               
+                CST-G Low               
+                CST-H Low               
+========================================
+
+      *** System Memory Cleared ***     
+001/11/20 02:21 PM
+ID:                                  Ray
+
+
+
+    *** Exited Configuration Mode ***   
+001/11/20 02:21 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/11/20 02:21 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/11/20 02:21 PM
+
+Logon:                               Ray
+001/11/20 02:23 PM
+
+   *** Entered Configuration Mode ***   
+001/11/20 02:23 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 03:12 PM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/11/20 03:12 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/11/20 03:53 PM
+ID:                                  Ray
+
+   *** Entered Configuration Mode ***   
+001/11/20 03:55 PM
+ID:                                  Ray

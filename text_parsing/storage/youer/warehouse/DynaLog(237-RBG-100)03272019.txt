@@ -1,0 +1,1639 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                             Peter
+001/27/20 09:36 AM
+
+Logon:                              Adam
+001/27/20 09:36 AM
+
+(Online Deposit)                        
+Transaction #                          9
+001/27/20 09:36 AM
+Peter
+
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Deposit Total                      40.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         10
+001/27/20 09:36 AM
+Adam
+
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Deposit Total                      40.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         11
+001/27/20 09:37 AM
+Adam
+
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Deposit Total                      40.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         12
+001/27/20 09:37 AM
+Peter
+
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Deposit Total                      40.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         13
+001/27/20 09:38 AM
+Peter
+
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Deposit Total                      40.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         14
+001/27/20 09:38 AM
+Adam
+
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Deposit Total                      40.00
+----------------------------------------
+
+Logoff:                            Peter
+001/27/20 09:38 AM
+
+Logoff:                             Adam
+001/27/20 09:41 AM
+
+Logon:                               Ray
+001/27/20 09:44 AM
+
+Logon:                              Paul
+001/27/20 09:44 AM
+
+Logon:                              Adam
+001/27/20 09:44 AM
+
+(Online Deposit)                        
+Transaction #                         15
+001/27/20 09:45 AM
+Paul
+
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Deposit Total                      40.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         16
+001/27/20 09:45 AM
+Adam
+
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Deposit Total                      40.00
+----------------------------------------
+             Deposit Failure            
+
+(Online Deposit)                        
+001/27/20 09:46 AM
+Ray
+
+
+
+Logoff:                             Paul
+001/27/20 09:46 AM
+
+Logoff:                             Adam
+001/27/20 09:46 AM
+
+Logon:                              Adam
+001/27/20 09:48 AM
+
+Logoff:                             Adam
+001/27/20 09:48 AM
+
+Logon:                              Adam
+001/27/20 09:49 AM
+
+Logoff:                             Adam
+001/27/20 09:49 AM
+
+Logon:                               Ray
+001/27/20 09:51 AM
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/27/20 09:51 AM At 001/27/20 09:49 AM
+
+Logon:                              Adam
+001/27/20 09:51 AM
+
+Logon:                              Paul
+001/27/20 09:51 AM
+
+(Online Deposit)                        
+Transaction #                         17
+001/27/20 09:52 AM
+Adam
+
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Deposit Total                       2.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         18
+001/27/20 09:52 AM
+Paul
+
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Deposit Total                       2.00
+----------------------------------------
+
+Logon:                             Peter
+001/27/20 09:53 AM
+
+(Online Deposit)                        
+Transaction #                         19
+001/27/20 09:53 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Deposit Total                       2.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         20
+001/27/20 09:53 AM
+Peter
+
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Deposit Total                      40.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         21
+001/27/20 09:54 AM
+Peter
+
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Deposit Total                      40.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         22
+001/27/20 09:54 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Deposit Total                      40.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         23
+001/27/20 09:55 AM
+Adam
+
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Deposit Total                      40.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         24
+001/27/20 09:55 AM
+Paul
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Deposit Total                      20.00
+----------------------------------------
+
+Logoff:                             Paul
+001/27/20 09:56 AM
+
+Logon:                              Josh
+001/27/20 09:56 AM
+
+Logoff:                              Ray
+001/27/20 09:56 AM At 001/27/20 09:57 AM
+
+Logoff:                             Josh
+001/27/20 09:57 AM
+
+
+      *** Client Disconnection ***      
+Logoff:                             Adam
+001/27/20 09:57 AM
+
+Logon:                               Ray
+001/27/20 09:57 AM
+
+Logon:                              Josh
+001/27/20 09:58 AM
+
+(Online Deposit)                        
+Transaction #                         25
+001/27/20 09:58 AM
+Josh
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         26
+001/27/20 09:58 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         27
+001/27/20 09:59 AM
+Peter
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         28
+001/27/20 09:59 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         29
+001/27/20 09:59 AM
+Josh
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         30
+001/27/20 10:00 AM
+Peter
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         31
+001/27/20 10:00 AM
+Josh
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         32
+001/27/20 10:01 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         33
+001/27/20 10:01 AM
+Peter
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Deposit Total                      20.00
+----------------------------------------
+
+Logoff:                             Josh
+001/27/20 10:01 AM
+
+Logoff:                            Peter
+001/27/20 10:02 AM
+
+Logoff:                              Ray
+001/27/20 10:02 AM
+
+Logon:                              Adam
+001/27/20 10:02 AM
+
+Logon:                               Ray
+001/27/20 10:02 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/27/20 10:06 AM
+Adam
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/27/20 10:07 AM
+Adam
+
+
+
+Logoff:                              Ray
+001/27/20 10:07 AM
+
+Logoff:                             Adam
+001/27/20 10:07 AM
+
+Logon:                              Adam
+001/27/20 10:08 AM
+
+Logon:                               Ray
+001/27/20 10:08 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/27/20 10:09 AM
+Adam
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/27/20 10:09 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                              Adam
+001/27/20 10:13 AM
+
+Logon:                               Ray
+001/27/20 10:13 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/27/20 10:17 AM
+Adam
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/27/20 10:17 AM
+
+Logon:                               Ray
+001/27/20 10:32 AM
+
+Logon:                              Josh
+001/27/20 10:32 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/27/20 10:38 AM
+Ray
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                             Josh
+001/27/20 10:38 AM
+
+Logon:                              josh
+001/27/20 10:39 AM
+
+Logoff:                             josh
+001/27/20 10:40 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.085 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                              Adam
+001/27/20 10:41 AM
+
+Logon:                              josh
+001/27/20 10:41 AM
+
+Logon:                               Ray
+001/27/20 10:41 AM
+
+(Online Deposit)                        
+Transaction #                         34
+001/27/20 10:42 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         35
+001/27/20 10:42 AM
+Josh
+
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Deposit Total                      10.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         36
+001/27/20 10:43 AM
+Adam
+
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Deposit Total                       1.00
+----------------------------------------
+*** Forced Logoff of Non-Admin Users ***
+
+
+   *** Entered Configuration Mode ***   
+001/27/20 10:56 AM
+ID:                                 josh
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                               Ray
+001/27/20 10:59 AM
+
+Logoff:                              Ray
+001/27/20 10:59 AM
+
+Logon:                               Ray
+001/27/20 11:01 AM
+
+
+Logoff:                              Ray
+001/27/20 11:01 AM
+
+Logon:                               Ray
+001/27/20 11:01 AM
+
+
+   *** Entered Configuration Mode ***   
+001/27/20 11:01 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/27/20 11:01 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/27/20 11:01 AM
+
+Logon:                              josh
+001/27/20 11:22 AM
+
+Logon:                               Ray
+001/27/20 11:23 AM
+
+(Online Deposit)                        
+Transaction #                          1
+001/27/20 11:24 AM
+Ray
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Machine Total                      10.00
+Deposit Total                      10.00
+----------------------------------------
+
+Logon:                              adam
+001/27/20 11:24 AM
+
+(Online Deposit)                        
+Transaction #                          2
+001/27/20 11:24 AM
+Josh
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Deposit Total                       1.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          3
+001/27/20 11:25 AM
+Ray
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          4
+001/27/20 11:25 AM
+Josh
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+             Deposit Failure            
+
+(Online Deposit)                        
+001/27/20 11:25 AM
+adam
+
+
+
+(Online Deposit)                        
+Transaction #                          5
+001/27/20 11:26 AM
+Ray
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          6
+001/27/20 11:26 AM
+Josh
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/27/20 11:32 AM
+
+Logon:                              adam
+001/27/20 11:32 AM
+
+Logon:                              josh
+001/27/20 11:33 AM
+
+Logon:                             Peter
+001/27/20 11:34 AM
+
+           RBG-100 Link Error           
+
+(Online Deposit)                        
+Transaction #                          7
+001/27/20 11:35 AM
+Josh
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Machine Total                      10.00
+Deposit Total                      10.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          8
+001/27/20 11:35 AM
+Ray
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Machine Total                      10.00
+Deposit Total                      10.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          9
+001/27/20 11:35 AM
+Adam
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Machine Total                       5.00
+Deposit Total                       5.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         10
+001/27/20 11:36 AM
+Peter
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Machine Total                       5.00
+Deposit Total                       5.00
+----------------------------------------
+
+Logon:                              Paul
+001/27/20 11:38 AM
+
+Logon:                             Charo
+001/27/20 11:38 AM
+
+(Online Deposit)                        
+Transaction #                         11
+001/27/20 11:39 AM
+Paul
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+             Deposit Failure            
+
+(Online Deposit)                        
+001/27/20 11:40 AM
+Ray
+
+
+             Deposit Failure            
+
+(Online Deposit)                        
+001/27/20 11:40 AM
+Charo
+
+
+             Deposit Failure            
+
+(Online Deposit)                        
+001/27/20 11:40 AM
+josh
+
+
+
+(Online Deposit)                        
+Transaction #                         12
+001/27/20 11:41 AM
+Peter
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+             Deposit Failure            
+
+(Online Deposit)                        
+001/27/20 11:41 AM
+adam
+
+
+
+(Online Deposit)                        
+Transaction #                         13
+001/27/20 11:42 AM
+Paul
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         14
+001/27/20 11:42 AM
+Charo
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+             Deposit Failure            
+
+(Online Deposit)                        
+001/27/20 11:42 AM
+josh
+
+
+             Deposit Failure            
+
+(Online Deposit)                        
+001/27/20 11:43 AM
+Paul
+
+
+
+(Online Deposit)                        
+Transaction #                         15
+001/27/20 11:43 AM
+Peter
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         16
+001/27/20 11:43 AM
+Paul
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         17
+001/27/20 11:43 AM
+Charo
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         18
+001/27/20 11:44 AM
+Peter
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         19
+001/27/20 11:44 AM
+Paul
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         20
+001/27/20 11:45 AM
+Charo
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         21
+001/27/20 11:45 AM
+Paul
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         22
+001/27/20 11:45 AM
+Peter
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         23
+001/27/20 11:45 AM
+Paul
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         24
+001/27/20 11:46 AM
+Charo
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         25
+001/27/20 11:47 AM
+Ray
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         26
+001/27/20 11:47 AM
+Paul
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         27
+001/27/20 11:47 AM
+Charo
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         28
+001/27/20 11:47 AM
+Peter
+
+Denom            Pieces            Value
+$50                   1            50.00
+
+Machine Total                      50.00
+Deposit Total                      50.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                             adam
+001/27/20 11:48 AM At 001/27/20 11:47 AM
+
+(Online Deposit)                        
+Transaction #                         29
+001/27/20 11:48 AM
+Paul
+
+Denom            Pieces            Value
+$50                   1            50.00
+
+Machine Total                      50.00
+Deposit Total                      50.00
+----------------------------------------
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited         100.00
+Reversed Amount                   100.00
+
+(Online Deposit)                        
+Transaction #                         30
+001/27/20 11:49 AM
+Charo
+
+Denom            Pieces            Value
+$100                  2           200.00
+
+Machine Total                     200.00
+Deposit Total                     200.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         31
+001/27/20 11:49 AM
+Ray
+
+Denom            Pieces            Value
+$20                   1            20.00
+$1                    1             1.00
+
+Machine Total                      21.00
+Deposit Total                      21.00
+----------------------------------------
+             Deposit Failure            
+
+(Online Deposit)                        
+001/27/20 11:49 AM
+Peter
+
+
+
+(Online Deposit)                        
+Transaction #                         32
+001/27/20 11:49 AM
+Paul
+
+Denom            Pieces            Value
+$20                   2            40.00
+$1                    1             1.00
+
+Machine Total                      41.00
+Deposit Total                      41.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         33
+001/27/20 11:50 AM
+Charo
+
+Denom            Pieces            Value
+$20                   2            40.00
+
+Machine Total                      40.00
+Deposit Total                      40.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         34
+001/27/20 11:51 AM
+Ray
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+             Deposit Failure            
+
+(Online Deposit)                        
+001/27/20 11:51 AM
+Paul
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/27/20 11:52 AM
+Peter
+
+
+
+(Online Nominated Dispense)             
+Transaction #                         35
+001/27/20 11:53 AM
+Paul
+
+Denom            Pieces            Value
+$5                   20           100.00
+$1                  100           100.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+Logoff:                             Paul
+001/27/20 11:55 AM
+
+Logoff:                            Charo
+001/27/20 11:56 AM
+
+Logoff:                            Peter
+001/27/20 11:58 AM
+
+Logoff:                              Ray
+001/27/20 12:00 PM
+
+Logoff:                             josh
+001/27/20 12:01 PM
+
+Logon:                             Peter
+001/27/20 12:04 PM
+
+Logon:                              Paul
+001/27/20 12:04 PM
+
+Logon:                             Charo
+001/27/20 12:04 PM
+
+Logoff:                             Paul
+001/27/20 12:10 PM
+
+Logoff:                            Peter
+001/27/20 12:10 PM
+
+Logoff:                            Charo
+001/27/20 12:10 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/27/20 12:18 PM
+
+Logoff:                              Ray
+001/27/20 12:18 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                             Peter
+001/27/20 12:45 PM
+
+Logon:                              Paul
+001/27/20 12:45 PM
+
+Logon:                             Charo
+001/27/20 12:45 PM
+
+Logon:                               Ray
+001/27/20 12:45 PM
+
+Logon:                              Josh
+001/27/20 12:46 PM
+
+
+Logon:                              Adam
+001/27/20 12:46 PM
+
+(Online Deposit)                        
+Transaction #                         36
+001/27/20 12:47 PM
+Adam
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Machine Total                       5.00
+Deposit Total                       5.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         37
+001/27/20 12:48 PM
+Josh
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         38
+001/27/20 12:48 PM
+Charo
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         39
+001/27/20 12:49 PM
+Paul
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         40
+001/27/20 12:49 PM
+Peter
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         41
+001/27/20 12:49 PM
+Ray
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         42
+001/27/20 12:53 PM
+Josh
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         43
+001/27/20 12:53 PM
+Paul
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         44
+001/27/20 12:53 PM
+Charo
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         45
+001/27/20 12:54 PM
+Adam
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Machine Total                       5.00
+Deposit Total                       5.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         46
+001/27/20 12:54 PM
+Peter
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         47
+001/27/20 12:54 PM
+Ray
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         48
+001/27/20 12:55 PM
+Josh
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         49
+001/27/20 12:55 PM
+Paul
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         50
+001/27/20 12:55 PM
+Charo
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         51
+001/27/20 12:55 PM
+Adam
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+             Deposit Failure            
+
+(Online Deposit)                        
+001/27/20 12:56 PM
+Peter
+
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/27/20 01:31 PM
+
+
+   *** Entered Configuration Mode ***   
+001/27/20 01:31 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/27/20 01:31 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/27/20 01:31 PM
+
+Logon:                              Adam
+001/27/20 01:33 PM
+
+Logoff:                             Adam
+001/27/20 01:44 PM
+
+Logon:                              Adam
+001/27/20 01:46 PM
+
+   *** Entered Configuration Mode ***   
+001/27/20 01:47 PM
+ID:                                 Adam
+
+    *** Exited Configuration Mode ***   
+001/27/20 01:50 PM
+ID:                                 Adam
+
+Logoff:                             Adam
+001/27/20 01:51 PM
+
+Logon:                              Adam
+001/27/20 01:51 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/27/20 01:52 PM
+Adam
+
+
+
+(Online Deposit)                        
+Transaction #                         52
+001/27/20 01:54 PM
+Adam
+
+Denom            Pieces            Value
+$20                   4            80.00
+
+Machine Total                      80.00
+
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$2                    1             2.00
+$1                    1             1.00
+
+Other Coin                           .69
+Other Cash Deposited              188.69
+
+Deposit Total                     268.69
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         53
+001/27/20 01:55 PM
+Adam
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Machine Total                     100.00
+
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$2                    1             2.00
+$1                    1             1.00
+
+Other Coin                           .69
+Other Cash Deposited              188.69
+
+Deposit Total                     288.69
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         54
+001/27/20 01:57 PM
+Adam
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Amount Tendered                   286.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/27/20 01:57 PM
+ID:                                 Adam
+
+    *** Exited Configuration Mode ***   
+001/27/20 01:58 PM
+ID:                                 Adam
+
+Logoff:                             Adam
+001/27/20 01:58 PM
+
+Logon:                              Adam
+001/27/20 01:59 PM
+
+Logoff:                             Adam
+001/27/20 02:01 PM
+
+Logon:                              Adam
+001/27/20 02:03 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/27/20 02:05 PM
+Adam
+
+
+
+      *** Client Disconnection ***      
+Logoff:                             Adam
+001/27/20 02:05 PM
+
+Logon:                               Ray
+001/27/20 02:13 PM
+
+
+Logoff:                              Ray
+001/27/20 02:13 PM
+
+Logon:                               Ray
+001/27/20 02:18 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/27/20 02:29 PM
+Ray
+
+
+
+Logoff:                              Ray
+001/27/20 02:29 PM
+
+Logon:                               Ray
+001/27/20 02:29 PM
+
+
+   *** Entered Configuration Mode ***   
+001/27/20 02:29 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/27/20 02:29 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/27/20 02:29 PM

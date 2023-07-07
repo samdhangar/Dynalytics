@@ -1,0 +1,626 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.085 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+             TCR Link Error             
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.085 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+
+Logon:                             Charo
+001/25/20 09:53 AM
+
+
+   *** Entered Configuration Mode ***   
+001/25/20 09:53 AM
+ID:                                Charo
+
+
+    *** Exited Configuration Mode ***   
+001/25/20 09:54 AM
+ID:                                Charo
+
+
+Logoff:                            Charo
+001/25/20 09:54 AM
+
+
+Logon:                             Charo
+001/25/20 09:55 AM
+
+
+   *** Entered Configuration Mode ***   
+001/25/20 09:55 AM
+ID:                                Charo
+
+
+    *** Exited Configuration Mode ***   
+001/25/20 09:55 AM
+ID:                                Charo
+
+
+Logoff:                            Charo
+001/25/20 09:55 AM
+
+
+Logon:                               Ray
+001/25/20 09:57 AM
+
+
+   *** Entered Configuration Mode ***   
+001/25/20 09:57 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/25/20 09:58 AM
+ID:                                  Ray
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                    10001
+EEProm Serial #                     2711
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0c:27:5c
+LAN 1 IP Address           192.168.1.239
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0c:29:1e
+LAN 2 IP Address           192.168.1.240
+LAN 2 Subnet               255.255.255.0
+LAN 2 Gateway                192.168.1.1
+LAN 2 DNS                    192.168.1.4
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.085
+Release Date                    03/21/19
+Subscription Level                     3
+Subscription Start              09/25/18
+Subscription End                09/25/19
+
+Min. Console Version           00.00.001
+Min. DynaCash Version          00.00.002
+Min. DynaLog Server Version    00.00.003
+Min. DynaLog Viewer Version    00.00.004
+========================================
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.085 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.085 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                             Charo
+001/25/20 11:00 AM
+
+   *** Entered Configuration Mode ***   
+001/25/20 11:00 AM
+ID:                                Charo
+
+    *** Exited Configuration Mode ***   
+001/25/20 11:00 AM
+ID:                                Charo
+
+   *** Entered Configuration Mode ***   
+001/25/20 11:00 AM
+ID:                                Charo
+
+    *** Exited Configuration Mode ***   
+001/25/20 11:00 AM
+ID:                                Charo
+
+Logoff:                            Charo
+001/25/20 11:01 AM At 001/25/20 11:00 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.085 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/25/20 11:05 AM
+
+   *** Entered Configuration Mode ***   
+001/25/20 11:06 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/25/20 11:06 AM
+ID:                                  Ray
+
+(Vault Buy)                             
+Transaction #                         34
+001/25/20 11:07 AM
+Paul
+
+
+Denom            Pieces            Value
+$1                   30            30.00
+
+Amount Tendered                    30.00
+----------------------------------------
+
+Logon:                             Charo
+001/25/20 11:09 AM
+
+       *** Vault Sell Reversed ***      
+
+Original Amount Sold               30.00
+Reversed Amount                    30.00
+
+(Vault Sell)                            
+Transaction #                         35
+001/25/20 11:14 AM
+Paul
+
+
+Denom            Pieces            Value
+$1                   30            30.00
+
+Deposit Total                      30.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         36
+001/25/20 11:20 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+$1                    2             2.00
+
+Amount Tendered                    22.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         37
+001/25/20 11:23 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+$1                    2             2.00
+
+Deposit Total                      22.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         38
+001/25/20 11:24 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                   22            22.00
+
+Amount Tendered                    22.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         39
+001/25/20 11:25 AM
+Ray
+
+
+Denom            Pieces            Value
+$1                   22            22.00
+
+Deposit Total                      22.00
+----------------------------------------
+*** Forced Logoff of Non-Admin Users ***
+
+
+   *** Entered Configuration Mode ***   
+001/25/20 11:27 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/25/20 11:33 AM
+ID:                                  Ray
+       *** Cassette 2 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         40
+001/25/20 11:40 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Total Inventory Removed            20.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded             20.00
+Reversed Amount                    20.00
+
+(Inventory Load)                        
+Transaction #                         41
+001/25/20 11:43 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Total Inventory Added              20.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/25/20 11:46 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/25/20 11:47 AM
+ID:                                  Ray
+       *** Cassette 3 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         42
+001/25/20 11:49 AM
+Ray
+
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Total Inventory Removed           100.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         43
+001/25/20 11:50 AM
+Ray
+
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Total Inventory Added             100.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/25/20 11:51 AM
+ID:                                  Ray
+
+           *** Added User ***           
+001/25/20 11:51 AM
+ID:                                Peter
+
+
+    *** Exited Configuration Mode ***   
+001/25/20 11:52 AM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Users             
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+001/25/20 11:52 AM
+
+Addon
+     MasterUser
+
+Charo
+     MasterUser
+
+Paul
+     MasterUser
+
+Peter
+     MasterUser
+
+Ray
+     MasterUser
+
+========================================
+
+
+Logon:                             Peter
+001/25/20 11:52 AM
+       *** Cassette 2 Emptied ***       
+       TCR Error #95D0052 Occurred      
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.085 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+          *** Power Failed ***          
+
+
+(Inventory Removal)                     
+Transaction #                         44
+001/25/20 11:53 AM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Total Inventory Removed            20.00
+----------------------------------------
+
+Logon:                               Ray
+001/25/20 11:59 AM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/25/20 12:00 PM
+Ray
+
+
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/25/20 12:00 PM
+Ray
+
+
+
+(Inventory Load)                        
+Transaction #                         45
+001/25/20 12:02 PM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Total Inventory Added              20.00
+----------------------------------------
+       *** Cassette 2 Emptied ***       
+       TCR Error #95D0052 Occurred      
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.085 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/25/20 01:06 PM
+
+   *** Entered Configuration Mode ***   
+001/25/20 01:06 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/25/20 01:06 PM
+ID:                                  Ray
+       *** Cassette 2 Emptied ***       
+       TCR Error #95D0052 Occurred      
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.085 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+          *** Power Failed ***          
+
+
+(Inventory Removal)                     
+Transaction #                         47
+001/25/20 01:08 PM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Total Inventory Removed            20.00
+----------------------------------------
+
+Logon:                               Ray
+001/25/20 01:43 PM
+
+(Inventory Load)                        
+Transaction #                         48
+001/25/20 01:43 PM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Total Inventory Added              20.00
+----------------------------------------
+       *** Cassette 2 Emptied ***       
+       *** Cassette 4 Emptied ***       
+       *** Cassette 5 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         49
+001/25/20 01:44 PM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+
+Total Inventory Removed            35.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         50
+001/25/20 01:45 PM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+
+Total Inventory Added              35.00
+----------------------------------------
+       *** Cassette 2 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         51
+001/25/20 01:46 PM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Total Inventory Removed            20.00
+----------------------------------------
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/25/20 01:48 PM
+Ray
+
+
+
+(Inventory Load)                        
+Transaction #                         52
+001/25/20 01:50 PM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Total Inventory Added              20.00
+----------------------------------------
+       *** Cassette 2 Emptied ***       
+       TCR Error #95D0052 Occurred      
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.085 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+          *** Power Failed ***          
+
+
+(Inventory Removal)                     
+Transaction #                         53
+001/25/20 01:53 PM
+Ray
+
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Total Inventory Removed            20.00
+----------------------------------------
+
+Logon:                               Ray
+001/25/20 02:31 PM
+
+Logoff:                              Ray
+001/25/20 02:31 PM

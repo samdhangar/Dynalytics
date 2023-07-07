@@ -1,0 +1,117 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.141 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.141 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                              josh
+001/16/20 08:13 AM
+
+             TCR Link Error             
+       *** Cassette 1 Emptied ***       
+       *** Cassette 4 Emptied ***       
+       *** Cassette 5 Emptied ***       
+       *** Cassette 6 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          1
+001/16/20 08:14 AM
+Josh
+
+Denom            Pieces            Value
+$50                  41          2050.00
+$10                  11           110.00
+$5                   19            95.00
+$1                   37            37.00
+
+Total Inventory Removed          2292.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          2
+001/16/20 08:17 AM
+Josh
+
+Denom            Pieces            Value
+$10                  11           110.00
+$5                   19            95.00
+$1                   78            78.00
+
+Machine Total                     283.00
+Total Inventory Added             283.00
+----------------------------------------
+
+Logoff:                             josh
+001/16/20 08:18 AM
+
+Logon:                              josh
+001/16/20 10:02 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/16/20 10:04 AM
+josh
+
+
+
+   *** Entered Configuration Mode ***   
+001/16/20 10:12 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/16/20 10:19 AM
+ID:                                 josh
+
+Logoff:                             josh
+001/16/20 10:19 AM
+
+Logon:                              josh
+001/16/20 12:06 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/16/20 12:07 PM
+josh
+
+
+
+   *** Entered Configuration Mode ***   
+001/16/20 12:12 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/16/20 12:20 PM
+ID:                                 josh
+
+
+    *** Exited Configuration Mode ***   
+001/16/20 12:20 PM
+ID:                                 josh
+
+Logoff:                             josh
+001/16/20 12:23 PM

@@ -1,0 +1,287 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    LTA 350 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.164 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    LTA 350 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+00001/08/20 06:00 PM
+ID:                               Level2
+
+
+Logon:                   Addon_tester_01
+00001/08/20 06:00 PM
+
+          *** Deleted User ***          
+00001/08/20 06:00 PM
+ID:                                 Josh
+
+           *** Added User ***           
+00001/08/20 06:01 PM
+ID:                                 josh
+
+
+          *** Deleted User ***          
+00001/08/20 06:01 PM
+ID:                                 josh
+
+           *** Added User ***           
+00001/08/20 06:02 PM
+ID:                                 Josh
+
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.173 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    LTA 350 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+Logon:                              josh
+00001/08/20 06:09 PM
+
+   *** Entered Configuration Mode ***   
+00001/08/20 06:09 PM
+ID:                                 josh
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.173 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    LTA 350 Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+00001/08/20 06:10 PM
+
+========================================
+             Activity Report            
+
+Station:                    LTA 350 Test
+Branch:                      Test Branch
+Region:                      Test Region
+00001/08/20 06:10 PM
+
+ID:                                 josh
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                 56          5600.00
+$50                  97          4850.00
+$20                  64          1280.00
+$10                  71           710.00
+$5                   91           455.00
+$2                    0              .00
+$1                   19            19.00
+Starting Inventory              12914.00
+Net Adjustments                      .00
+Total Inventory                 12914.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                 56          5600.00
+$50                  97          4850.00
+$20                  64          1280.00
+$10                  71           710.00
+$5                   91           455.00
+$1                   19            19.00
+Total Dispensable Notes         12914.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Notes              .00
+
+Cass. 1 $1           19            19.00
+Cass. 2 $20          64          1280.00
+Cass. 3 $5           91           455.00
+Cass. 4 $100         56          5600.00
+Cass. 5 $10          71           710.00
+Cass. 6 $50          97          4850.00
+              $1 Notes Low              
+                CST-A Low               
+                CST-B Low               
+                CST-C Low               
+                CST-D Low               
+                CST-E Low               
+========================================
+
+        User Grand Totals Cleared       
+            Activity Cleared            
+
+
+
+
+
+
+
+            Deposit Canceled            
+
+(Online Deposit)                        
+00001/08/20 06:11 PM
+josh
+
+
+
+   *** Entered Configuration Mode ***   
+00001/08/20 06:11 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+00001/08/20 06:12 PM
+ID:                                 josh
+
+
+========================================
+            Hardware Settings           
+Station:                    LTA 350 Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.61
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser             No Coin Usage
+Bill Discriminator       Toshiba IBS-200
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          150
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+
+Logoff:                             josh
+00001/08/20 06:12 PM
+
+   *** Entered Configuration Mode ***   
+00001/08/20 06:12 PM
+ID:                               Level2
+
+
+Logon:                   Addon_tester_01
+00001/08/20 06:12 PM
+
+    *** Exited Configuration Mode ***   
+00001/08/20 06:13 PM
+ID:                      Addon_tester_01
+
+
+========================================
+              User Settings             
+Station:                    LTA 350 Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                     Yes
+iButton Mode            iButton Disabled
+========================================
+

@@ -1,0 +1,1760 @@
+
+Logon:                             charo
+00001/02/20 09:29 AM
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  81           810.00
+$5                   93           465.00
+$2                    0              .00
+$1                 1861          1861.00
+Coin                                 .00
+Starting Inventory               4546.00
+Net Adjustments                 -3793.75
+Total Inventory                  4346.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  3           300.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  81           810.00
+$5                   93           465.00
+$1                 1846          1846.00
+Total Dispensable Notes          4331.00
+
+----------------------------------------
+          Reject Cassette Notes         
+----------------------------------------
+$1                   15            15.00
+Total Reject Notes                 15.00
+
+Cass. 1 $1          582           582.00
+Cass. 2 $1          702           702.00
+Cass. 3 $5           93           465.00
+Cass. 4 $10          81           810.00
+Cass. 5 $1          562           562.00
+Cass. 6 $20          33           660.00
+           $1 Notes Near Full           
+              $20 Notes Low             
+              $50 Notes Low             
+             $100 Notes Low             
+               CST-A High               
+               CST-B Full               
+                CST-C Low               
+                CST-D Low               
+               CST-E High               
+                CST-F Low               
+                CST-G Low               
+                CST-H Low               
+========================================
+
+
+
+
+
+
+
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                          9
+00001/02/20 09:30 AM
+Charo
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$1                   15            15.00
+
+Reject Notes Removed               15.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$1                   15            15.00
+
+Reloaded Notes                     15.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+      TCR Result Code 124 Occurred      
+      *** TCR Note Audit Failed ***     
+
+CST-G ($50) Assumed Count:             5
+CST-G ($50) Actual Count:              5
+CST-H ($100) Assumed Count:            3
+CST-H ($100) Actual Count:             3
+
+(Auto Audit Note Count)                 
+Transaction #                         10
+00001/02/20 09:34 AM
+Charo
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   5           250.00
+
+Audited Total                     550.00
+----------------------------------------
+
+Logoff:                            charo
+00001/02/20 09:38 AM
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+Logon:                              josh
+00001/02/20 11:50 AM
+
+   *** Entered Configuration Mode ***   
+00001/02/20 11:50 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+00001/02/20 11:50 AM
+ID:                                 josh
+
+
+========================================
+            Hardware Settings           
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.99
+TCD/TCR Port                        9998
+TCD/TCR Connection                 LAN 1
+Coin Dispenser               InstaChange
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+   *** Entered Configuration Mode ***   
+00001/02/20 11:50 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+00001/02/20 11:51 AM
+ID:                                 josh
+
+
+Logoff:                             josh
+00001/02/20 11:51 AM
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+00001/02/20 11:54 AM
+
+   *** Entered Configuration Mode ***   
+00001/02/20 11:54 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+00001/02/20 11:54 AM
+ID:                                 josh
+
+Logoff:                             josh
+00001/02/20 11:55 AM
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+00001/02/20 12:05 PM
+
+   *** Entered Configuration Mode ***   
+00001/02/20 12:05 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+00001/02/20 12:05 PM
+ID:                                 josh
+
+
+Logoff:                             josh
+00001/02/20 12:05 PM
+
+Logon:                              josh
+00001/02/20 12:06 PM
+
+Logoff:                             josh
+00001/02/20 12:06 PM
+
+Logon:                              josh
+00001/02/20 12:07 PM
+
+   *** Entered Configuration Mode ***   
+00001/02/20 12:07 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+00001/02/20 12:07 PM
+ID:                                 josh
+
+Logoff:                             josh
+00001/02/20 12:07 PM
+
+   *** Entered Configuration Mode ***   
+00001/02/20 12:08 PM
+ID:                                  OEM
+
+    *** Exited Configuration Mode ***   
+00001/02/20 12:08 PM
+ID:                                  OEM
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+00001/02/20 12:09 PM
+ID:                               Level2
+
+
+Logon:                   Addon_tester_01
+00001/02/20 12:09 PM
+
+    *** Exited Configuration Mode ***   
+00001/02/20 12:09 PM
+ID:                      Addon_tester_01
+
+
+========================================
+              User Settings             
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+00001/02/20 12:10 PM
+
+   *** Entered Configuration Mode ***   
+00001/02/20 12:10 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+00001/02/20 12:10 PM
+ID:                                 josh
+
+(Duress Dispense)                       
+Transaction #                          1
+00001/02/20 12:10 PM
+Josh
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  22           440.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+Logoff:                             josh
+00001/02/20 12:10 PM
+
+Logon:                              josh
+00001/02/20 12:11 PM
+
+Logoff:                             josh
+00001/02/20 12:11 PM
+
+Logon:                              josh
+00001/02/20 12:11 PM
+
+   *** Entered Configuration Mode ***   
+00001/02/20 12:11 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+00001/02/20 12:11 PM
+ID:                                 josh
+
+
+========================================
+             DynaCore Groups            
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+00001/02/20 12:11 PM
+
+Group 0
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Teller
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Manager
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+Logoff:                             josh
+00001/02/20 12:11 PM
+
+Logon:                              josh
+00001/02/20 12:11 PM
+    *** Onboard Alarm Deactivated ***   
+     *** Duress Lockout Released ***    
+00001/02/20 12:11 PM
+ID:                                 josh
+
+(Online Deposit)                        
+Transaction #                          2
+00001/02/20 12:11 PM
+Josh
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  22           440.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                    1000.00
+Deposit Total                    1000.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                             josh
+00001/02/20 12:11 PM
+
+Logon:                              josh
+00001/02/20 12:14 PM
+
+(Online Mix Dispense)                   
+Transaction #                          3
+00001/02/20 12:14 PM
+Josh
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  22           440.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          4
+00001/02/20 12:15 PM
+Josh
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  22           440.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                    1000.00
+Deposit Total                    1000.00
+----------------------------------------
+
+(Duress Dispense)                       
+Transaction #                          5
+00001/02/20 12:15 PM
+Josh
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  22           440.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+    *** Onboard Alarm Deactivated ***   
+     *** Duress Lockout Released ***    
+00001/02/20 12:16 PM
+ID:                                 josh
+
+(Online Deposit)                        
+Transaction #                          6
+00001/02/20 12:16 PM
+Josh
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  22           440.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                    1000.00
+Deposit Total                    1000.00
+----------------------------------------
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+00001/02/20 12:17 PM
+josh
+
+
+
+   *** Entered Configuration Mode ***   
+00001/02/20 12:17 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+00001/02/20 12:17 PM
+ID:                                 josh
+
+
+========================================
+            Security Settings           
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         8:00    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                    No
+Use DynaCore Alarm                   Yes
+Use Machine Alarm                    Yes
+AutoLogoff                      Disabled
+Duress Lump Sum                     1000
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+========================================
+
+
+(Duress Dispense)                       
+Transaction #                          7
+00001/02/20 12:17 PM
+Josh
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  22           440.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+00001/02/20 12:18 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+00001/02/20 12:18 PM
+ID:                                 josh
+
+Logoff:                             josh
+00001/02/20 12:18 PM
+
+Logon:                              josh
+00001/02/20 12:18 PM
+
+(Online Deposit)                        
+Transaction #                          8
+00001/02/20 12:18 PM
+Josh
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  22           440.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                    1000.00
+Deposit Total                    1000.00
+----------------------------------------
+
+Logoff:                             josh
+00001/02/20 12:18 PM
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+00001/02/20 12:19 PM
+
+   *** Entered Configuration Mode ***   
+00001/02/20 12:19 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+00001/02/20 12:19 PM
+ID:                                 josh
+
+(Duress Dispense)                       
+Transaction #                          9
+00001/02/20 12:19 PM
+Josh
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  22           440.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+00001/02/20 12:19 PM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+00001/02/20 12:20 PM
+ID:                                 josh
+
+(Duress Dispense)                       
+Transaction #                         10
+00001/02/20 12:20 PM
+Josh
+
+Denom            Pieces            Value
+$20                  11           220.00
+$10                  75           750.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         11
+00001/02/20 12:21 PM
+Josh
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  33           660.00
+$10                  78           780.00
+$5                   10            50.00
+$1                   10            10.00
+
+Machine Total                    2000.00
+Deposit Total                    2000.00
+----------------------------------------
+
+Logoff:                             josh
+00001/02/20 12:21 PM
+
+   *** Entered Configuration Mode ***   
+00001/02/20 12:35 PM
+ID:                               Level2
+
+
+Logon:                   Addon_tester_01
+00001/02/20 12:35 PM
+
+    *** Exited Configuration Mode ***   
+00001/02/20 12:37 PM
+ID:                      Addon_tester_01
+
+Console Disconnected During Transaction!
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+00001/02/20 12:38 PM
+ID:                               Level2
+
+
+Logon:                   Addon_tester_01
+00001/02/20 12:38 PM
+
+    *** Exited Configuration Mode ***   
+00001/02/20 12:38 PM
+ID:                      Addon_tester_01
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                             Charo
+00001/02/20 12:39 PM
+
+Logoff:                            Charo
+00001/02/20 12:39 PM
+
+Logon:                             Charo
+00001/02/20 01:31 PM
+
+(Reconciled Rejects)                    
+Transaction #                         12
+00001/02/20 01:33 PM
+Charo
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$5                    1             5.00
+
+Reject Notes Removed                5.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$5                    1             5.00
+
+Reloaded Notes                      5.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+CST-A ($1) Assumed Count:            597
+CST-A ($1) Actual Count:             597
+       TCR Error #5x0NK00 Occurred      
+    *** TCR Note Audit Incomplete ***   
+
+
+(Auto Audit Note Count)                 
+Transaction #                         13
+00001/02/20 02:13 PM
+Charo
+
+Denom            Pieces            Value
+$1                  597           597.00
+
+Audited Total                     597.00
+----------------------------------------
+       TCR Error #5791500 Occurred      
+       *** Rejects NOT Emptied ***      
+
+(Reconciled Rejects)                    
+Transaction #                         14
+00001/02/20 02:19 PM
+Charo
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$1                  608           608.00
+
+Reject Notes Removed              608.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$1                  253           253.00
+
+Reloaded Notes                    253.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$1                  355          -355.00
+
+Differences                      -355.00
+----------------------------------------
+         *** Rejects Emptied ***        
+       TCR Error #5221600 Occurred      
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+          *** Power Failed ***          
+
+
+(Reconciled Rejects)                    
+Transaction #                         15
+00001/02/20 02:22 PM
+Charo
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+
+Reject Notes Removed                 .00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+Logon:                             charo
+00001/02/20 02:48 PM
+
+(Replenished Cassettes)                 
+Transaction #                         16
+00001/02/20 02:50 PM
+Charo
+
+Denom            Pieces            Value
+
+Replenished Total                    .00
+----------------------------------------
+
+Coin Adjusted                    +100.69
+New Coin Total                    100.69
+
+(Inventory Adjustment)                  
+Transaction #                         17
+00001/02/20 02:50 PM
+Charo
+
+Coin                             +100.69
+
+Total Net Added                  +100.69
+Total Net Removed                   -.00
+Total Net Adjusted               +100.69
+----------------------------------------
+
+Coin Adjusted                       -.39
+New Coin Total                    100.30
+
+(Inventory Adjustment)                  
+Transaction #                         18
+00001/02/20 02:51 PM
+Charo
+
+Coin                                -.39
+
+Total Net Added                     +.00
+Total Net Removed                   -.39
+Total Net Adjusted                  -.39
+----------------------------------------
+
+Coin Adjusted                       +.20
+New Coin Total                    100.50
+
+(Inventory Adjustment)                  
+Transaction #                         19
+00001/02/20 02:51 PM
+Charo
+
+Coin                                +.20
+
+Total Net Added                     +.20
+Total Net Removed                   -.00
+Total Net Adjusted                  +.20
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+00001/02/20 02:51 PM
+ID:                                charo
+    *** Exited Configuration Mode ***   
+00001/02/20 02:52 PM
+ID:                                charo
+
+
+========================================
+            Hardware Settings           
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.99
+TCD/TCR Port                        9998
+TCD/TCR Connection                 LAN 1
+Coin Dispenser               InstaChange
+Bill Discriminator       Toshiba IBS-200
+Coin Sorter                         None
+Use Printer                          Yes
+
+Per-Pass Max Dispense Count          200
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  81           810.00
+$5                   93           465.00
+$2                    0              .00
+$1                 1860          1860.00
+Coin                              100.50
+Starting Inventory               4346.00
+Net Adjustments                   102.91
+Total Inventory                  4445.50
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  3           300.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  81           810.00
+$5                   93           465.00
+$1                 1860          1860.00
+Total Dispensable Notes          4345.00
+
+Cass. 1 $1          721           721.00
+Cass. 2 $1          547           547.00
+Cass. 3 $5           93           465.00
+Cass. 4 $10          81           810.00
+Cass. 5 $1          592           592.00
+Cass. 6 $20          33           660.00
+           $1 Notes Near Full           
+              $20 Notes Low             
+              $50 Notes Low             
+             $100 Notes Low             
+               CST-A Full               
+               CST-B High               
+                CST-C Low               
+                CST-D Low               
+               CST-E High               
+                CST-F Low               
+                CST-G Low               
+                CST-H Low               
+========================================
+
+
+
+
+
+
+
+
+(Online Mix Dispense)                   
+Transaction #                         20
+00001/02/20 02:53 PM
+Charo
+
+Denom            Pieces            Value
+Coin                                 .33
+
+Amount Tendered                      .33
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+00001/02/20 02:54 PM
+ID:                                charo
+
+    *** Exited Configuration Mode ***   
+00001/02/20 02:54 PM
+ID:                                charo
+
+
+========================================
+            Security Settings           
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         8:00    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                    No
+Use DynaCore Alarm                   Yes
+Use Machine Alarm                    Yes
+AutoLogoff                      Disabled
+Duress Lump Sum                     1000
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+========================================
+
+
+(Duress Dispense)                       
+Transaction #                         21
+00001/02/20 02:54 PM
+Charo
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  22           440.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         22
+00001/02/20 02:55 PM
+Charo
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  22           440.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                    1000.00
+Total Inventory Added            1000.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+00001/02/20 02:55 PM
+ID:                                charo
+
+    *** Exited Configuration Mode ***   
+00001/02/20 02:56 PM
+ID:                                charo
+
+
+========================================
+            Security Settings           
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         8:00    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                   Yes
+Use DynaCore Alarm                   Yes
+Use Machine Alarm                    Yes
+AutoLogoff                      Disabled
+Duress Lump Sum                     1000
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+========================================
+
+
+(Duress Dispense)                       
+Transaction #                         23
+00001/02/20 02:56 PM
+Charo
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  22           440.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         24
+00001/02/20 02:57 PM
+Charo
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  22           440.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                    1000.00
+Deposit Total                    1000.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+00001/02/20 02:57 PM
+ID:                                charo
+
+    *** Exited Configuration Mode ***   
+00001/02/20 02:57 PM
+ID:                                charo
+
+
+========================================
+            Security Settings           
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         8:00    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                   Yes
+Use DynaCore Alarm                   Yes
+Use Machine Alarm                    Yes
+AutoLogoff                      Disabled
+Duress Lump Sum                        0
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+========================================
+
+            Dispense Failure            
+
+
+(Duress Dispense)                       
+00001/02/20 02:58 PM
+charo
+
+
+Amount Requested                  186.00
+Amount Tendered                      .00
+Balance Due                       186.00
+----------------------------------------
+
+    *** Onboard Alarm Deactivated ***   
+     *** Duress Lockout Released ***    
+00001/02/20 02:58 PM
+ID:                                charo
+
+(Duress Dispense)                       
+Transaction #                         25
+00001/02/20 02:58 PM
+Charo
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Amount Tendered                   186.00
+----------------------------------------
+    *** Onboard Alarm Deactivated ***   
+     *** Duress Lockout Released ***    
+00001/02/20 02:59 PM
+ID:                                charo
+
+   *** Entered Configuration Mode ***   
+00001/02/20 02:59 PM
+ID:                                charo
+
+    *** Exited Configuration Mode ***   
+00001/02/20 02:59 PM
+ID:                                charo
+
+
+========================================
+            Security Settings           
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+      Vault Times (24 Hour Format)      
+----------------------------------------
+              Start      End
+Sunday         8:00    17:30
+Monday         8:00    17:30
+Tuesday        8:00    17:30
+Wednesday      8:00    17:30
+Thursday       8:00    17:30
+Friday         8:00    17:30
+Saturday       8:00    17:30
+----------------------------------------
+             Duress Settings            
+----------------------------------------
+Use Duress Lockout                    No
+Use DynaCore Alarm                   Yes
+Use Machine Alarm                    Yes
+AutoLogoff                      Disabled
+Duress Lump Sum                        0
+----------------------------------------
+         Duress By Denomination         
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+========================================
+
+
+(Duress Dispense)                       
+Transaction #                         26
+00001/02/20 03:00 PM
+Charo
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Amount Tendered                   186.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         27
+00001/02/20 03:00 PM
+Charo
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   2           100.00
+$20                   2            40.00
+$10                   2            20.00
+$5                    2            10.00
+$1                    2             2.00
+
+Machine Total                     372.00
+Deposit Total                     372.00
+----------------------------------------
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                             charo
+00001/02/20 03:02 PM
+
+(Duress Dispense)                       
+Transaction #                         29
+00001/02/20 03:02 PM
+Charo
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Amount Tendered                   186.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         30
+00001/02/20 03:03 PM
+Charo
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    2             2.00
+
+Machine Total                     187.00
+Deposit Total                     187.00
+----------------------------------------
+
+Logoff:                            charo
+00001/02/20 03:04 PM
+
+Logon:                             charo
+00001/02/20 04:43 PM
+
+       TCR Error #5X11600 Occurred      
+      *** TCR Note Audit Failed ***     
+
+(Inventory Load)                        
+Transaction #                         31
+00001/02/20 04:51 PM
+Charo
+
+Denom            Pieces            Value
+$1                   11            11.00
+
+Machine Total                      11.00
+Total Inventory Added              11.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+00001/02/20 04:55 PM
+ID:                                charo
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.171 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+00001/02/20 04:57 PM
+
+Logoff:                             josh
+00001/02/20 04:57 PM
+
+Logon:                           teller1
+00001/02/20 04:57 PM
+
+(Online Mix Dispense)                   
+Transaction #                         32
+00001/02/20 04:57 PM
+Teller1
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  12           240.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   800.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         33
+00001/02/20 04:58 PM
+Teller1
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   4           200.00
+$20                  12           240.00
+$10                   3            30.00
+$5                    5            25.00
+$1                    5             5.00
+
+Machine Total                     800.00
+Deposit Total                     800.00
+----------------------------------------
+
+Logoff:                          teller1
+00001/02/20 04:59 PM
+
+Logon:                             charo
+00001/02/20 04:59 PM
+
+   *** Entered Configuration Mode ***   
+00001/02/20 04:59 PM
+ID:                                charo
+
+    *** Exited Configuration Mode ***   
+00001/02/20 04:59 PM
+ID:                                charo
+
+
+========================================
+             DynaCore Groups            
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+00001/02/20 04:59 PM
+
+Group 0
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Teller
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+
+     Transaction Limit            500.00
+     Daily Limit                 1000.00
+
+Manager
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+Logoff:                            charo
+00001/02/20 04:59 PM

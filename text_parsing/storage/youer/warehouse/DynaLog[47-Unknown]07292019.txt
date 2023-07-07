@@ -1,0 +1,889 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.135 (MoniSafe 500S)   
+
+              DynaCore Test             
+        9000 Stinson Hartis Road        
+         Indian Trail, NC 28079         
+          Drive Through Window          
+
+Station:                              47
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                           Stephen
+001/29/20 11:19 AM
+
+Logoff:                          Stephen
+001/29/20 11:22 AM
+
+Logon:                           Stephen
+001/29/20 11:24 AM
+
+Logoff:                          Stephen
+001/29/20 11:26 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.135 (MoniSafe 500S)   
+
+              DynaCore Test             
+        9000 Stinson Hartis Road        
+         Indian Trail, NC 28079         
+          Drive Through Window          
+
+Station:                              47
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                           Stephen
+001/29/20 11:43 AM
+
+   *** Entered Configuration Mode ***   
+001/29/20 11:43 AM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/29/20 11:43 AM
+ID:                              Stephen
+
+
+Logoff:                          Stephen
+001/29/20 11:43 AM
+
+Logon:                           Stephen
+001/29/20 11:50 AM
+       *** Cassette 1 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          1
+001/29/20 11:51 AM
+Stephen
+
+Denom            Pieces            Value
+$1                  204           204.00
+
+Total Inventory Removed           204.00
+----------------------------------------
+       *** Cassette 3 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          2
+001/29/20 11:51 AM
+Stephen
+
+Denom            Pieces            Value
+$5                   30           150.00
+
+Total Inventory Removed           150.00
+----------------------------------------
+       *** Cassette 4 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          3
+001/29/20 11:52 AM
+Stephen
+
+Denom            Pieces            Value
+$10                  39           390.00
+
+Total Inventory Removed           390.00
+----------------------------------------
+       *** Cassette 5 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          4
+001/29/20 11:52 AM
+Stephen
+
+Denom            Pieces            Value
+$20                  33           660.00
+
+Total Inventory Removed           660.00
+----------------------------------------
+       *** Cassette 7 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          5
+001/29/20 11:53 AM
+Stephen
+
+Denom            Pieces            Value
+$50                   2           100.00
+
+Total Inventory Removed           100.00
+----------------------------------------
+       *** Cassette 8 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          6
+001/29/20 11:53 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  6           600.00
+
+Total Inventory Removed           600.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          7
+001/29/20 11:55 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   2           100.00
+$20                  33           660.00
+$10                  39           390.00
+$5                   30           150.00
+$1                  204           204.00
+
+Machine Total                    2104.00
+Total Inventory Added            2104.00
+----------------------------------------
+       *** Cassette 2 Emptied ***       
+       *** Cassette 3 Emptied ***       
+       *** Cassette 4 Emptied ***       
+       *** Cassette 6 Emptied ***       
+       *** Cassette 7 Emptied ***       
+       *** Cassette 8 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          8
+001/29/20 11:56 AM
+Stephen
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   2           100.00
+$20                  33           660.00
+$10                  39           390.00
+$5                   30           150.00
+$1                  204           204.00
+
+Total Inventory Removed          2104.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          9
+001/29/20 12:00 PM
+Stephen
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   2           100.00
+$20                  33           660.00
+$10                  39           390.00
+$5                   30           150.00
+$1                  204           204.00
+
+Machine Total                    2104.00
+Total Inventory Added            2104.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/29/20 12:00 PM
+
+Logon:                           Stephen
+001/29/20 12:09 PM
+
+
+   *** Entered Configuration Mode ***   
+001/29/20 12:09 PM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/29/20 12:13 PM
+ID:                              Stephen
+
+
+Logoff:                          Stephen
+001/29/20 12:13 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.135 (MoniSafe 500S)   
+
+              DynaCore Test             
+        9000 Stinson Hartis Road        
+         Indian Trail, NC 28079         
+          Drive Through Window          
+
+Station:                              47
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                           Stephen
+001/29/20 12:15 PM
+
+   *** Entered Configuration Mode ***   
+001/29/20 12:15 PM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/29/20 12:15 PM
+ID:                              Stephen
+
+Logoff:                          Stephen
+001/29/20 12:15 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.135 (MoniSafe 500S)   
+
+              DynaCore Test             
+        9000 Stinson Hartis Road        
+         Indian Trail, NC 28079         
+          Drive Through Window          
+
+Station:                              47
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                           Stephen
+001/29/20 12:30 PM
+
+   *** Entered Configuration Mode ***   
+001/29/20 12:30 PM
+ID:                              Stephen
+
+    *** Exited Configuration Mode ***   
+001/29/20 12:30 PM
+ID:                              Stephen
+
+
+Logoff:                          Stephen
+001/29/20 12:30 PM
+
+Logon:                           Stephen
+001/29/20 01:34 PM
+       *** Cassette 2 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         10
+001/29/20 01:34 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  204           204.00
+
+Total Inventory Removed           204.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         11
+001/29/20 01:36 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  204           204.00
+
+Machine Total                     204.00
+Total Inventory Added             204.00
+----------------------------------------
+       *** Cassette 2 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         12
+001/29/20 01:37 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  204           204.00
+
+Total Inventory Removed           204.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         13
+001/29/20 01:38 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  204           204.00
+
+Machine Total                     204.00
+Total Inventory Added             204.00
+----------------------------------------
+       *** Cassette 3 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         14
+001/29/20 01:44 PM
+Stephen
+
+Denom            Pieces            Value
+$5                   30           150.00
+
+Total Inventory Removed           150.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         15
+001/29/20 01:45 PM
+Stephen
+
+Denom            Pieces            Value
+$5                   30           150.00
+
+Machine Total                     150.00
+Total Inventory Added             150.00
+----------------------------------------
+         Inventory Load Failure         
+
+(Inventory Load)                        
+001/29/20 01:55 PM
+Stephen
+
+
+
+Logoff:                          Stephen
+001/29/20 02:04 PM
+
+Logon:                           Stephen
+001/29/20 02:05 PM
+
+             TCR Link Error             
+             Deposit Failure            
+
+(Online Deposit)                        
+001/29/20 02:35 PM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/29/20 02:35 PM
+
+Logon:                           Stephen
+001/29/20 02:37 PM
+
+(Online Deposit)                        
+Transaction #                         16
+001/29/20 02:37 PM
+Stephen
+
+Denom            Pieces            Value
+$50                   2           100.00
+
+Machine Total                     100.00
+Deposit Total                     100.00
+----------------------------------------
+
+($1) Assumed Count:                  204
+($1) Actual Count:                   204
+($5) Assumed Count:                   30
+($5) Actual Count:                    30
+($10) Assumed Count:                  39
+($10) Actual Count:                   39
+($20) Assumed Count:                  33
+($20) Actual Count:                   33
+($50) Assumed Count:                   2
+($50) Actual Count:                    2
+       TCR Error #5X0GC00 Occurred      
+    *** TCR Note Audit Incomplete ***   
+
+
+(Auto Audit Note Count)                 
+Transaction #                         17
+001/29/20 02:39 PM
+Stephen
+
+Denom            Pieces            Value
+$50                   2           100.00
+$20                  33           660.00
+$10                  39           390.00
+$5                   30           150.00
+$1                  204           204.00
+
+Audited Total                    1504.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/29/20 02:43 PM
+
+Logon:                           Stephen
+001/29/20 02:44 PM
+
+(Replenished Cassettes)                 
+Transaction #                         18
+001/29/20 02:44 PM
+Stephen
+
+Denom            Pieces            Value
+
+Replenished Total                    .00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         19
+001/29/20 02:46 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  204           204.00
+
+Total Inventory Removed           204.00
+----------------------------------------
+       *** Cassette 3 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         20
+001/29/20 02:47 PM
+Stephen
+
+Denom            Pieces            Value
+$5                   30           150.00
+
+Total Inventory Removed           150.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         21
+001/29/20 02:48 PM
+Stephen
+
+Denom            Pieces            Value
+$5                   30           150.00
+
+Machine Total                     150.00
+Total Inventory Added             150.00
+----------------------------------------
+       *** Cassette 3 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         22
+001/29/20 02:50 PM
+Stephen
+
+Denom            Pieces            Value
+$5                   30           150.00
+
+Total Inventory Removed           150.00
+----------------------------------------
+       *** Cassette 4 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         23
+001/29/20 02:50 PM
+Stephen
+
+Denom            Pieces            Value
+$10                  39           390.00
+
+Total Inventory Removed           390.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         24
+001/29/20 02:51 PM
+Stephen
+
+Denom            Pieces            Value
+$10                  39           390.00
+
+Machine Total                     390.00
+Total Inventory Added             390.00
+----------------------------------------
+       *** Cassette 4 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         25
+001/29/20 02:52 PM
+Stephen
+
+Denom            Pieces            Value
+$10                  39           390.00
+
+Total Inventory Removed           390.00
+----------------------------------------
+       *** Cassette 5 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         26
+001/29/20 02:53 PM
+Stephen
+
+Denom            Pieces            Value
+$20                  33           660.00
+
+Total Inventory Removed           660.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/29/20 02:53 PM
+
+Logon:                           Stephen
+001/29/20 02:53 PM
+       *** Cassette 7 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         27
+001/29/20 02:53 PM
+Stephen
+
+Denom            Pieces            Value
+$50                   2           100.00
+
+Total Inventory Removed           100.00
+----------------------------------------
+       *** Cassette 8 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         28
+001/29/20 02:53 PM
+Stephen
+
+Denom            Pieces            Value
+$100                  6           600.00
+
+Total Inventory Removed           600.00
+----------------------------------------
+
+(Replenished Cassettes)                 
+Transaction #                         29
+001/29/20 02:56 PM
+Stephen
+
+Denom            Pieces            Value
+
+Replenished Total                    .00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         30
+001/29/20 02:56 PM
+Stephen
+
+Denom            Pieces            Value
+$5                    2            10.00
+
+Machine Total                      10.00
+Total Inventory Added              10.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+       *** Cassette 3 Emptied ***       
+       *** Cassette 4 Emptied ***       
+       *** Cassette 5 Emptied ***       
+       *** Cassette 7 Emptied ***       
+       *** Cassette 8 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         31
+001/29/20 02:58 PM
+Stephen
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   2           100.00
+$20                  33           660.00
+$10                  39           390.00
+$5                   30           150.00
+$1                  204           204.00
+
+Total Inventory Removed          2104.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         32
+001/29/20 03:01 PM
+Stephen
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   2           100.00
+$20                  33           660.00
+$10                  39           390.00
+$5                   30           150.00
+$1                  204           204.00
+
+Machine Total                    2104.00
+Total Inventory Added            2104.00
+----------------------------------------
+       *** Cassette 2 Emptied ***       
+       *** Cassette 3 Emptied ***       
+       *** Cassette 4 Emptied ***       
+       *** Cassette 6 Emptied ***       
+       *** Cassette 7 Emptied ***       
+       *** Cassette 8 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         33
+001/29/20 03:02 PM
+Stephen
+
+Denom            Pieces            Value
+$100                  6           600.00
+$50                   2           100.00
+$20                  33           660.00
+$10                  39           390.00
+$5                   30           150.00
+$1                  204           204.00
+
+Total Inventory Removed          2104.00
+----------------------------------------
+
+(Replenished Cassettes)                 
+Transaction #                         34
+001/29/20 03:05 PM
+Stephen
+
+Denom            Pieces            Value
+
+Replenished Total                    .00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         35
+001/29/20 03:07 PM
+Stephen
+
+Denom            Pieces            Value
+$5                    2            10.00
+$1                    5             5.00
+
+Machine Total                      15.00
+Total Inventory Added              15.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         36
+001/29/20 03:13 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  199           199.00
+
+Total Inventory Removed           199.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/29/20 03:14 PM
+
+
+Logon:                           Stephen
+001/29/20 03:15 PM
+
+
+Logoff:                          Stephen
+001/29/20 03:15 PM
+
+
+Logon:                           Stephen
+001/29/20 03:19 PM
+
+
+(Inventory Load)                        
+Transaction #                         37
+001/29/20 03:19 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  204           204.00
+
+Machine Total                     204.00
+Total Inventory Added             204.00
+----------------------------------------
+
+       TCR Error #5X0GC00 Occurred      
+      *** TCR Note Audit Failed ***     
+
+
+Logoff:                          Stephen
+001/29/20 03:23 PM
+
+
+Logon:                           Stephen
+001/29/20 03:26 PM
+
+(Replenished Cassettes)                 
+Transaction #                         38
+001/29/20 03:27 PM
+Stephen
+
+Denom            Pieces            Value
+
+Replenished Total                    .00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         39
+001/29/20 03:27 PM
+Stephen
+
+Denom            Pieces            Value
+$1                    2             2.00
+
+Machine Total                       2.00
+Total Inventory Added               2.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/29/20 03:28 PM
+
+Logon:                           Stephen
+001/29/20 03:28 PM
+       TCR Error #570GC00 Occurred      
+** Possible Exposed Notes Need Audit! **
+
+Logoff:                          Stephen
+001/29/20 03:30 PM
+
+
+Logon:                           Stephen
+001/29/20 03:31 PM
+             Deposit Failure            
+
+(Online Deposit)                        
+001/29/20 03:31 PM
+Stephen
+
+
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/29/20 03:34 PM
+
+Logon:                           Stephen
+001/29/20 03:35 PM
+
+(Online Deposit)                        
+Transaction #                         40
+001/29/20 03:35 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  200           200.00
+
+Machine Total                     200.00
+Deposit Total                     200.00
+----------------------------------------
+
+($1) Assumed Count:                  209
+($1) Actual Count:                   204
+   *** $1 Needs Manual Adjustment! ***  
+
+
+(Auto Audit Note Count)                 
+Transaction #                         41
+001/29/20 03:38 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  204           204.00
+
+Audited Total                     204.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.135 (MoniSafe 500S)   
+
+              DynaCore Test             
+        9000 Stinson Hartis Road        
+         Indian Trail, NC 28079         
+          Drive Through Window          
+
+Station:                              47
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                           Stephen
+001/29/20 03:48 PM
+       *** Cassette 1 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         42
+001/29/20 03:54 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  204           204.00
+
+Total Inventory Removed           204.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         43
+001/29/20 03:55 PM
+Stephen
+
+Denom            Pieces            Value
+$1                  204           204.00
+
+Machine Total                     204.00
+Total Inventory Added             204.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+       *** Cassette 3 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         44
+001/29/20 03:55 PM
+Stephen
+
+Denom            Pieces            Value
+$5                   30           150.00
+$1                  204           204.00
+
+Total Inventory Removed           354.00
+----------------------------------------
+
+Logoff:                          Stephen
+001/29/20 04:09 PM
+
+Logon:                           Stephen
+001/29/20 04:09 PM
+
+             TCR Link Error             
+       TCR Result Code 0 Occurred       
+
+             TCR Link Error             
+
+      *** Client Disconnection ***      
+Logoff:                          Stephen
+001/29/20 04:16 PM At 001/29/20 04:09 PM
+
+Logon:                           Stephen
+001/29/20 04:20 PM
+
+             TCR Link Error             
+
+(Replenished Cassettes)                 
+Transaction #                         45
+001/29/20 04:21 PM
+Stephen
+
+Denom            Pieces            Value
+
+Replenished Total                    .00
+----------------------------------------
+
+Logoff:                          Stephen
+001/29/20 04:22 PM
+
+
+Logon:                           Stephen
+001/29/20 04:23 PM
+
+Logoff:                          Stephen
+001/29/20 04:23 PM

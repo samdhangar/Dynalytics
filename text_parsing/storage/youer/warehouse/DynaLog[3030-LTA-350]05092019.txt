@@ -1,0 +1,425 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.106 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/09/20 10:16 AM
+
+Logoff:                              Ray
+001/09/20 10:16 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.106 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/09/20 01:04 PM
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/09/20 01:04 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.106 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/09/20 01:05 PM
+      *** $5 Partial Collection ***     
+
+
+(Inventory Collected)                   
+Transaction #                          3
+001/09/20 01:05 PM
+Ray
+
+Denom            Pieces            Value
+$5                   75           375.00
+
+Total Inventory Collected         375.00
+----------------------------------------
+
+Logoff:                              Ray
+001/09/20 01:05 PM
+
+Logon:                               Ray
+001/09/20 01:46 PM
+     *** $20 Partial Collection ***     
+
+
+(Inventory Collected)                   
+Transaction #                          4
+001/09/20 01:46 PM
+Ray
+
+Denom            Pieces            Value
+$20                  47           940.00
+
+Total Inventory Collected         940.00
+----------------------------------------
+     *** $10 Partial Collection ***     
+
+
+(Inventory Collected)                   
+Transaction #                          5
+001/09/20 01:47 PM
+Ray
+
+Denom            Pieces            Value
+$10                  85           850.00
+
+Total Inventory Collected         850.00
+----------------------------------------
+      *** $1 Partial Collection ***     
+
+
+(Inventory Collected)                   
+Transaction #                          6
+001/09/20 01:48 PM
+Ray
+
+Denom            Pieces            Value
+$1                   80            80.00
+
+Total Inventory Collected          80.00
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+001/09/20 01:48 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.106 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/09/20 01:50 PM
+     *** $100 Partial Collection ***    
+
+
+(Inventory Collected)                   
+Transaction #                          7
+001/09/20 01:51 PM
+Ray
+
+Denom            Pieces            Value
+$100                100         10000.00
+
+Total Inventory Collected       10000.00
+----------------------------------------
+
+Logoff:                              Ray
+001/09/20 01:52 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.106 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/09/20 01:57 PM
+      *** $5 Partial Collection ***     
+
+
+(Inventory Collected)                   
+Transaction #                          8
+001/09/20 01:57 PM
+Ray
+
+Denom            Pieces            Value
+$5                  100           500.00
+
+Total Inventory Collected         500.00
+----------------------------------------
+
+Logoff:                              Ray
+001/09/20 01:59 PM
+
+Logon:                               Ray
+001/09/20 02:00 PM
+
+Logoff:                              Ray
+001/09/20 02:00 PM
+
+Logon:                               Ray
+001/09/20 02:04 PM
+     *** $100 Partial Collection ***    
+
+
+(Inventory Collected)                   
+Transaction #                          9
+001/09/20 02:04 PM
+Ray
+
+Denom            Pieces            Value
+$100                100         10000.00
+
+Total Inventory Collected       10000.00
+----------------------------------------
+
+Logoff:                              Ray
+001/09/20 02:06 PM
+
+Logon:                               Ray
+001/09/20 02:13 PM
+
+Logoff:                              Ray
+001/09/20 02:13 PM
+
+Logon:                               Ray
+001/09/20 02:46 PM
+     *** $20 Partial Collection ***     
+
+
+(Inventory Collected)                   
+Transaction #                         10
+001/09/20 02:46 PM
+Ray
+
+Denom            Pieces            Value
+$20                 100          2000.00
+
+Total Inventory Collected        2000.00
+----------------------------------------
+
+Logoff:                              Ray
+001/09/20 02:46 PM
+
+Logon:                               Ray
+001/09/20 02:49 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.106 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/09/20 02:50 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.106 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/09/20 02:51 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.106 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/09/20 02:52 PM
+
+Logoff:                              Ray
+001/09/20 02:52 PM
+
+Logon:                               Ray
+001/09/20 02:52 PM
+
+Logoff:                              Ray
+001/09/20 02:52 PM
+
+Logon:                               Ray
+001/09/20 02:54 PM
+     *** $10 Partial Collection ***     
+
+
+(Inventory Collected)                   
+Transaction #                         11
+001/09/20 02:54 PM
+Ray
+
+Denom            Pieces            Value
+$10                 100          1000.00
+
+Total Inventory Collected        1000.00
+----------------------------------------
+
+Logoff:                              Ray
+001/09/20 02:54 PM
+
+Logon:                               Ray
+001/09/20 02:56 PM
+      *** $1 Partial Collection ***     
+
+
+(Inventory Collected)                   
+Transaction #                         12
+001/09/20 02:56 PM
+Ray
+
+Denom            Pieces            Value
+$1                  100           100.00
+
+Total Inventory Collected         100.00
+----------------------------------------
+
+Logoff:                              Ray
+001/09/20 02:56 PM
+
+Logon:                               Ray
+001/09/20 02:58 PM
+     *** $50 Partial Collection ***     
+
+
+(Inventory Collected)                   
+Transaction #                         13
+001/09/20 02:58 PM
+Ray
+
+Denom            Pieces            Value
+$50                 100          5000.00
+
+Total Inventory Collected        5000.00
+----------------------------------------
+
+Logoff:                              Ray
+001/09/20 02:58 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.106 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/09/20 02:59 PM
+      *** $5 Partial Collection ***     
+
+
+(Inventory Collected)                   
+Transaction #                         14
+001/09/20 02:59 PM
+Ray
+
+Denom            Pieces            Value
+$5                  100           500.00
+
+Total Inventory Collected         500.00
+----------------------------------------
+
+Logoff:                              Ray
+001/09/20 03:00 PM
+
+Logon:                               Ray
+001/09/20 04:06 PM
+
+Logoff:                              Ray
+001/09/20 04:06 PM
+
+Logon:                               Ray
+001/09/20 04:07 PM
+
+Logoff:                              Ray
+001/09/20 04:07 PM
+
+Logon:                               Ray
+001/09/20 04:08 PM
+
+   *** Entered Configuration Mode ***   
+001/09/20 04:08 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.106 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/09/20 04:08 PM
+
+Logoff:                              Ray
+001/09/20 04:09 PM
+
+Logon:                               Ray
+05/10/19 09:43 AM
+
+   *** Entered Configuration Mode ***   
+05/10/19 09:43 AM
+ID:                                  Ray

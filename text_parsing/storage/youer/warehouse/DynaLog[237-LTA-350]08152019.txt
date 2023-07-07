@@ -1,0 +1,104 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                             Charo
+001/15/20 09:30 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/15/20 09:31 AM
+Charo
+
+
+
+Logoff:                            Charo
+001/15/20 09:31 AM
+
+   *** Entered Configuration Mode ***   
+001/15/20 09:32 AM
+ID:                                addon
+
+    *** Exited Configuration Mode ***   
+001/15/20 09:32 AM
+ID:                Addon date: 6-10-2019
+
+
+========================================
+              User Settings             
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                             Charo
+001/15/20 09:33 AM
+
+Logoff:                            Charo
+001/15/20 09:34 AM
+
+Logon:                             Charo
+001/15/20 09:35 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/15/20 09:38 AM
+Charo
+
+
+
+   *** Entered Configuration Mode ***   
+001/15/20 09:40 AM
+ID:                                Charo
+
+    *** Exited Configuration Mode ***   
+001/15/20 09:41 AM
+ID:                                Charo
+
+Logon:                              josh
+001/15/20 10:48 AM
+
+Logoff:                            Charo
+001/15/20 10:49 AM
+
+   *** Entered Configuration Mode ***   
+001/15/20 10:49 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+001/15/20 10:59 AM
+ID:                                 josh
+
+
+Logoff:                             josh
+001/15/20 10:59 AM

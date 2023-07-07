@@ -1,0 +1,282 @@
+
+Logon:                               Ray
+001/15/20 12:38 PM
+
+
+   *** Entered Configuration Mode ***   
+001/15/20 12:38 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.128 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/15/20 01:06 PM
+
+
+   *** Entered Configuration Mode ***   
+001/15/20 01:06 PM
+ID:                                  Ray
+
+========================================
+             Activity Report            
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+001/15/20 01:06 PM
+
+ID:                                  Ray
+========================================
+              User Activity             
+----------------------------------------
+Ray
+# of Deposits                          3
+# of Withdrawals                       2
+
+Denom            Pieces            Value
+$1                   62            62.00
+
+Deposit Total                      62.00
+
+Denom            Pieces            Value
+$1                   60            60.00
+
+Withdrawal Total                   60.00
+----------------------------------------
+Net Total                          +2.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                   62            62.00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                      62.00
+Total Deposited                    62.00
+# of Deposits                          3
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                   60            60.00
+Coin                                 .00
+Total Dispensed                    60.00
+# of Withdrawals                       2
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    2            +2.00
+Coin                                 .00
+Net Total                          +2.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Starting Inventory               2556.00
+Net Adjustments                 -2373.00
+Total Inventory                      .00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Notes              .00
+
+Cass. 1 $1            0              .00
+Cass. 2 $1            0              .00
+Cass. 3 $5            0              .00
+Cass. 4 $10           0              .00
+Cass. 5 $20           0              .00
+Cass. 6 $20           0              .00
+             $1 Notes Empty             
+             $5 Notes Empty             
+             $10 Notes Empty            
+             $20 Notes Empty            
+             $50 Notes Empty            
+            $100 Notes Empty            
+               CST-A Empty              
+               CST-B Empty              
+               CST-C Empty              
+               CST-D Empty              
+               CST-E Empty              
+               CST-F Empty              
+               CST-G Empty              
+               CST-H Empty              
+========================================
+
+      *** System Memory Cleared ***     
+001/15/20 01:06 PM
+ID:                                  Ray
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.129 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                               Ray
+001/15/20 01:19 PM
+
+   *** Entered Configuration Mode ***   
+001/15/20 01:19 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/15/20 01:19 PM
+ID:                                  Ray
+
+(Inventory Load)                        
+Transaction #                          1
+001/15/20 01:21 PM
+Ray
+
+Denom            Pieces            Value
+$1                  247           247.00
+
+Machine Total                     247.00
+Total Inventory Added             247.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          2
+001/15/20 01:21 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                  13           260.00
+$5                    8            40.00
+
+Machine Total                     400.00
+Total Inventory Added             400.00
+----------------------------------------
+
+($1) Assumed Count:                  247
+($1) Actual Count:                   243
+   *** $1 Needs Manual Adjustment! ***  
+($5) Assumed Count:                    8
+($5) Actual Count:                     8
+($10) Assumed Count:                   0
+($10) Actual Count:                    0
+($20) Assumed Count:                  13
+($20) Actual Count:                   13
+($50) Assumed Count:                   0
+($50) Actual Count:                    0
+($100) Assumed Count:                  1
+($100) Actual Count:                   1
+
+(Auto Audit Note Count)                 
+Transaction #                          3
+001/15/20 01:23 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   0              .00
+$20                  13           260.00
+$10                   0              .00
+$5                    8            40.00
+$1                  243           243.00
+
+Audited Total                     643.00
+----------------------------------------
+
+Logoff:                              Ray
+001/15/20 01:28 PM
+
+Logon:                               Ray
+001/15/20 01:31 PM
+
+Logoff:                              Ray
+001/15/20 01:31 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.129 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             239
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/15/20 04:55 PM
+
+   *** Entered Configuration Mode ***   
+001/15/20 04:55 PM
+ID:                                  Ray

@@ -1,0 +1,666 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+
+   *** Entered Configuration Mode ***   
+001/09/20 11:34 AM
+ID:                                Addon
+
+    *** Exited Configuration Mode ***   
+001/09/20 11:35 AM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+
+   *** Entered Configuration Mode ***   
+001/09/20 11:38 AM
+ID:                                aDDON
+
+    *** Exited Configuration Mode ***   
+001/09/20 11:38 AM
+ID:                                aDDON
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+
+Logon:                               Ray
+001/09/20 11:40 AM
+
+
+   *** Entered Configuration Mode ***   
+001/09/20 11:40 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/09/20 11:40 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/09/20 11:40 AM
+
+   *** Entered Configuration Mode ***   
+001/09/20 11:40 AM
+ID:                                aDDON
+
+    *** Exited Configuration Mode ***   
+001/09/20 11:40 AM
+ID:                                aDDON
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+
+Logon:                               Ray
+001/09/20 11:41 AM
+
+   *** Entered Configuration Mode ***   
+001/09/20 11:41 AM
+ID:                                  Ray
+
+           *** Added User ***           
+001/09/20 11:41 AM
+ID:                                 DAVE
+
+
+           *** Added User ***           
+001/09/20 11:41 AM
+ID:                                MANDY
+
+
+    *** Exited Configuration Mode ***   
+001/09/20 11:41 AM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Groups            
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+001/09/20 11:41 AM
+
+Group 0
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+DUMP
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+NOO
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+========================================
+             DynaCore Users             
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+001/09/20 11:41 AM
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+DAVE
+     Master
+
+MANDY
+     Master
+     DUMP
+
+Ray
+     Master
+
+========================================
+
+
+
+Logoff:                              Ray
+001/09/20 11:41 AM At 001/09/20 11:42 AM
+
+   *** Entered Configuration Mode ***   
+001/09/20 11:42 AM
+ID:                                aDDON
+
+    *** Exited Configuration Mode ***   
+001/09/20 11:42 AM
+ID:                                aDDON
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+
+Logon:                               rAY
+001/09/20 11:45 AM
+
+
+   *** Entered Configuration Mode ***   
+001/09/20 11:45 AM
+ID:                                  rAY
+
+    *** Exited Configuration Mode ***   
+001/09/20 11:45 AM
+ID:                                  rAY
+
+
+Logoff:                              rAY
+001/09/20 11:45 AM
+
+   *** Entered Configuration Mode ***   
+001/09/20 12:01 PM
+ID:                                Addon
+
+    *** Exited Configuration Mode ***   
+001/09/20 12:04 PM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+
+   *** Entered Configuration Mode ***   
+001/09/20 12:32 PM
+ID:                                Addon
+
+           *** Added User ***           
+001/09/20 12:32 PM
+ID:                                 DAVE
+
+
+           *** Added User ***           
+001/09/20 12:34 PM
+ID:                                ninja
+
+
+    *** Exited Configuration Mode ***   
+001/09/20 12:34 PM
+ID:                                Addon
+
+
+========================================
+             DynaCore Groups            
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+001/09/20 12:34 PM
+
+Group 0
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+dump
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+this
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+stuff
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+========================================
+             DynaCore Users             
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+001/09/20 12:34 PM
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+DAVE
+     Master
+     dump
+     this
+
+ninja
+     Master
+     dump
+     this
+
+Ray
+     Master
+
+========================================
+
+
+
+========================================
+              User Settings             
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+
+
+   *** Entered Configuration Mode ***   
+001/09/20 12:35 PM
+ID:                                Addon
+
+    *** Exited Configuration Mode ***   
+001/09/20 12:35 PM
+ID:                                Addon
+
+
+========================================
+              User Settings             
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            1010
+Branch:                      Dave Branch
+Region:                      Dave Region
+

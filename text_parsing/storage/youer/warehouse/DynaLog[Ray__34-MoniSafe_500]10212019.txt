@@ -1,0 +1,392 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.156 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+   *** Entered Configuration Mode ***   
+01/21/20 01:36 PM
+ID:                                  OEM
+
+    *** Exited Configuration Mode ***   
+01/21/20 01:37 PM
+ID:                                  OEM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.156 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.156 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+   *** Entered Configuration Mode ***   
+01/21/20 01:41 PM
+ID:                                  OEM
+
+    *** Exited Configuration Mode ***   
+01/21/20 01:43 PM
+ID:                                  OEM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.156 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+   *** Entered Configuration Mode ***   
+01/21/20 01:44 PM
+ID:                                Addon
+
+
+Logon:                             Addon
+01/21/20 01:44 PM
+
+    *** Exited Configuration Mode ***   
+01/21/20 01:44 PM
+ID:                                Addon
+
+
+========================================
+            Hardware Settings           
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+TCD/TCR Address            192.168.1.202
+TCD/TCR Port                        9998
+TCD/TCR Connection                 LAN 1
+Coin Dispenser             No Coin Usage
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.156 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/21/20 01:50 PM
+
+($10) Assumed Count:                 149
+($10) Actual Count:                    0
+
+  *** Inventory Adjusted Per Audit ***  
+
+
+(Auto Audit Note Count)                 
+Transaction #                          1
+01/21/20 01:51 PM
+Ray
+
+Denom            Pieces            Value
+$10                   0              .00
+
+Audited Total                        .00
+----------------------------------------
+
+($10) Assumed Count:                   0
+($10) Actual Count:                    0
+      TCR Result Code 103 Occurred      
+      TCR Result Code 103 Occurred      
+  *** Inventory Adjustment Failed! ***  
+  *** TCR Needs Manual Adjustment! ***  
+
+
+(Auto Audit Note Count)                 
+Transaction #                          2
+01/21/20 01:54 PM
+Ray
+
+Denom            Pieces            Value
+$10                   0              .00
+
+Audited Total                        .00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          3
+01/21/20 01:58 PM
+Ray
+
+Denom            Pieces            Value
+$1                  458           458.00
+
+Machine Total                     458.00
+Deposit Total                     458.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          4
+01/21/20 02:00 PM
+Ray
+
+Denom            Pieces            Value
+$1                  266           266.00
+
+Machine Total                     266.00
+Deposit Total                     266.00
+----------------------------------------
+
+Logoff:                              Ray
+01/21/20 02:02 PM
+
+Logon:                               Ray
+01/21/20 02:03 PM
+
+Logoff:                              Ray
+01/21/20 02:03 PM
+
+Logon:                               Ray
+01/21/20 02:05 PM
+
+   *** Entered Configuration Mode ***   
+01/21/20 02:05 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/21/20 02:05 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+01/21/20 02:06 PM
+
+Logon:                        Paul Lewis
+01/21/20 02:07 PM
+
+Logoff:                       Paul Lewis
+01/21/20 02:08 PM
+
+Logon:                               Ray
+01/21/20 02:08 PM
+       TCR Error #570Q300 Occurred      
+       TCR Error #570Q300 Occurred      
+
+(Vault Buy)                             
+Transaction #                          5
+01/21/20 02:16 PM
+Paul Lewis
+
+Denom            Pieces            Value
+$1                   26            26.00
+
+Amount Tendered                    26.00
+----------------------------------------
+
+========================================
+             Activity Report            
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+01/21/20 02:21 PM
+
+ID:                                  Ray
+========================================
+              User Activity             
+----------------------------------------
+Ray
+# of Deposits                          2
+# of Withdrawals                       0
+
+Denom            Pieces            Value
+$1                  724           724.00
+
+Deposit Total                     724.00
+
+Withdrawal Total                     .00
+----------------------------------------
+Net Total                        +724.00
+----------------------------------------
+Paul Lewis
+# of Deposits                          0
+# of Withdrawals                       1
+
+Deposit Total                        .00
+
+Denom            Pieces            Value
+$1                   26            26.00
+
+Withdrawal Total                   26.00
+----------------------------------------
+Net Total                         -26.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                  724           724.00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                     724.00
+Total Deposited                   724.00
+# of Deposits                          2
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                65562         65562.00
+Total Dispensed                 65562.00
+# of Withdrawals                       1
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                64838        -64838.00
+Net Total                      -64838.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                  637           637.00
+Starting Inventory               1490.00
+Net Adjustments                      .00
+Total Inventory                   637.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                  637           637.00
+Total Dispensable Notes           637.00
+
+Cass. 1 $1          637           637.00
+Cass. 2 $20           0              .00
+Cass. 3 $100          0              .00
+Cass. 4 $10           0              .00
+Cass. 5 $5            0              .00
+Cass. 6 $50           0              .00
+             $5 Notes Empty             
+             $10 Notes Empty            
+             $20 Notes Empty            
+             $50 Notes Empty            
+            $100 Notes Empty            
+               CST-B Empty              
+               CST-C Empty              
+               CST-D Empty              
+               CST-E Empty              
+               CST-F Empty              
+========================================
+
+
+
+
+
+
+
+     *** Cassette CST-A Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                          6
+01/21/20 02:32 PM
+Ray
+
+Denom            Pieces            Value
+$1                  637           637.00
+
+Total Inventory Removed           637.00
+----------------------------------------
+
+Logoff:                              Ray
+01/21/20 02:55 PM

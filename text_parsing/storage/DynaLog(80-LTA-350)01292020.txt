@@ -1,0 +1,86 @@
+       DynaCash (c) 1999 - 2018 by      
+        Add-On Technologies, Inc.       
+     LG LTA-350 Pgm. Ver. 5.5.93-DC     
+           DynaCash Mode: LAN           
+
+               LG LTA-350               
+                Test Unit               
+                TCR Hall                
+
+Station #                             80
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             4/30/19
+Time                          4:07:26 PM
+       *** Audited Cassette 4 ***       
+
+($100) Assumed Count:                592
+($100) Actual Count:                 589
+
+(Auto Audit Bill Count)                 
+Transaction #                         47
+Date                             4/30/19
+Time                          4:11:37 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                589         58900.00
+
+Audited Total                   58900.00
+----------------------------------------
+
+  *** Inventory Adjusted Per Audit ***  
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             80
+Denom            Pieces            Value
+$100                589         58900.00
+$50                 387         19350.00
+$20                 307          6140.00
+$10                 103          1030.00
+$5                  151           755.00
+$2                    0              .00
+$1                  223           223.00
+Starting Inventory              77610.00
+Net Adjustments                 13310.00
+Total Inventory                 86398.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                589         58900.00
+$50                 387         19350.00
+$20                 307          6140.00
+$10                 103          1030.00
+$5                  151           755.00
+$1                  223           223.00
+Total Dispensable Bills         86398.00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+Cass. 1 ($1)        223           223.00
+Cass. 2 ($5)        151           755.00
+Cass. 3 ($20)       307          6140.00
+Cass. 4 ($100)      589         58900.00
+Cass. 5 ($10)       103          1030.00
+Cass. 6 ($50)       387         19350.00
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             4/30/19
+Time                          4:11:47 PM
+****************************************

@@ -1,0 +1,1288 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.127 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/22/20 11:59 AM
+       TCR Error #68-210E Occurred      
+  Exchange Cassette 4/(D): Call Service 
+       TCR Error #68-210E Occurred      
+  Exchange Cassette 4/(D): Call Service 
+       TCR Error #68-210E Occurred      
+  Exchange Cassette 4/(D): Call Service 
+
+(Inventory Load)                        
+Transaction #                         28
+001/22/20 12:12 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$20                   4            80.00
+$10                   1            10.00
+$5                    4            20.00
+
+Machine Total                     210.00
+Total Inventory Added             210.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         29
+001/22/20 12:19 PM
+Ray
+
+Denom            Pieces            Value
+$20                   4            80.00
+
+Total Inventory Removed            80.00
+----------------------------------------
+       *** Cassette 2 Emptied ***       
+       *** Cassette 3 Emptied ***       
+       *** Cassette 4 Emptied ***       
+      TCR Error #FFFFFBAE Occurred      
+        API Parameters Not Valid        
+
+(Inventory Removal)                     
+Transaction #                         30
+001/22/20 12:19 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$10                   1            10.00
+$1                  356           356.00
+
+Total Inventory Removed           466.00
+----------------------------------------
+       TCR Error #04-9090 Occurred      
+   Entrance/Exit In Improper Position   
+
+(Reconciled Rejects)                    
+Transaction #                         31
+001/22/20 12:22 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$1                   25            25.00
+
+Reject Notes Removed               25.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$5                   20           100.00
+$1                   25            25.00
+
+Removed (Mutilated) Notes         125.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$5                   20          -100.00
+Differences                      +100.00
+----------------------------------------
+Cass. 5 Adjustment Pending          -.50
+New Cassette Total                   .00
+
+
+
+(Inventory Adjustment)                  
+Transaction #                         32
+001/22/20 12:29 PM
+Ray
+
+Denom            Pieces            Value
+$50                   1           -50.00
+
+Total Net Added                     +.00
+Total Net Removed                 -50.00
+Total Net Adjusted                -50.00
+----------------------------------------
+
+(Inventory Adjustment)                  
+Transaction #                         33
+001/22/20 12:30 PM
+Ray
+
+
+
+Total Net Added                     +.00
+Total Net Removed                   -.00
+Total Net Adjusted                  +.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         34
+001/22/20 12:31 PM
+Ray
+
+Denom            Pieces            Value
+$1                  114           114.00
+
+Machine Total                     114.00
+Total Inventory Added             114.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                         35
+001/22/20 12:32 PM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+$5                    4            20.00
+$1                   32            32.00
+
+Machine Total                     152.00
+Deposit Total                     152.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         36
+001/22/20 12:33 PM
+Josh
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         37
+001/22/20 12:33 PM
+Ray
+
+Denom            Pieces            Value
+$20                   4            80.00
+$10                   1            10.00
+$1                   92            92.00
+
+Machine Total                     182.00
+
+$10                   5            50.00
+
+Other Cash Deposited               50.00
+
+Deposit Total                     232.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   0              .00
+$20                   4            80.00
+$10                   1            10.00
+$5                    4            20.00
+$2                    0              .00
+$1                  232           232.00
+Starting Inventory                  7.00
+Net Adjustments                  -335.00
+Total Inventory                   442.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  1           100.00
+$50                   0              .00
+$20                   4            80.00
+$10                   1            10.00
+$5                    8            40.00
+$1                  228           228.00
+Total Dispensable Notes           458.00
+
+Cass. 1 $20           4            80.00
+Cass. 2 $10           1            10.00
+Cass. 3 $100          1           100.00
+Cass. 4 $1          228           228.00
+Cass. 5 $50           0              .00
+Cass. 8 $5            8            40.00
+Cass. 9 $1            0              .00
+              $5 Notes Low              
+              $10 Notes Low             
+              $20 Notes Low             
+             $50 Notes Empty            
+             $100 Notes Low             
+               Cass. A Low              
+               Cass. B Low              
+               Cass. C Low              
+              Cass. E Empty             
+              Cass. C2 Low              
+             Cass. D2 Empty             
+========================================
+
+
+
+
+
+
+
+
+========================================
+           User Totals Report           
+----------------------------------------
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+001/22/20 12:36 PM
+
+
+Chad
+# of Deposits                          5
+# of Withdrawals                       1
+Denom            Pieces            Value
+$1                   35            35.00
+
+Deposit Total                      35.00
+
+Denom            Pieces            Value
+$1                   50            50.00
+
+Withdrawal Total                   50.00
+----------------------------------------
+Buy                                15.00
+========================================
+
+
+
+
+
+
+
+
+========================================
+             Activity Report            
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+001/22/20 12:36 PM
+
+ID:                                  Ray
+========================================
+              User Activity             
+----------------------------------------
+Ray
+# of Deposits                          4
+# of Withdrawals                       6
+
+Denom            Pieces            Value
+$20                   4            80.00
+$10                   1            10.00
+$1                  545           545.00
+
+$10                   5            50.00
+
+Other Cash Deposited               50.00
+Machine Total                     635.00
+Deposit Total                     685.00
+
+Denom            Pieces            Value
+$1                  112           112.00
+
+Non-Cash Total                     10.00
+Withdrawal Total                  112.00
+----------------------------------------
+Net Total                        +523.00
+----------------------------------------
+Josh
+# of Deposits                          2
+# of Withdrawals                       1
+
+Denom            Pieces            Value
+$100                  1           100.00
+$5                    4            20.00
+$1                   50            50.00
+
+Deposit Total                     170.00
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Withdrawal Total                   10.00
+----------------------------------------
+Net Total                        +160.00
+----------------------------------------
+Chad
+# of Deposits                          5
+# of Withdrawals                       1
+
+Denom            Pieces            Value
+$1                   35            35.00
+
+Deposit Total                      35.00
+
+Denom            Pieces            Value
+$1                   50            50.00
+
+Withdrawal Total                   50.00
+----------------------------------------
+Net Total                         -15.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   0              .00
+$20                   4            80.00
+$10                   1            10.00
+$5                    4            20.00
+$2                    0              .00
+$1                  630           630.00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   5            50.00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                5.00
+Machine Total                     840.00
+Total Deposited                   845.00
+# of Deposits                         11
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                  172           172.00
+Non-Cash Total                     10.00
+Total Dispensed                   172.00
+# of Withdrawals                       8
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  1          +100.00
+$50                   0              .00
+$20                   4           +80.00
+$10                   1           +10.00
+$5                    4           +20.00
+$2                    0              .00
+$1                  458          +458.00
+Net Total                        +668.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   0              .00
+$20                   4            80.00
+$10                   1            10.00
+$5                    4            20.00
+$2                    0              .00
+$1                  232           232.00
+Starting Inventory                  7.00
+Net Adjustments                  -335.00
+Total Inventory                   442.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  1           100.00
+$50                   0              .00
+$20                   4            80.00
+$10                   1            10.00
+$5                    8            40.00
+$1                  228           228.00
+Total Dispensable Notes           458.00
+
+Cass. 1 $20           4            80.00
+Cass. 2 $10           1            10.00
+Cass. 3 $100          1           100.00
+Cass. 4 $1          228           228.00
+Cass. 5 $50           0              .00
+Cass. 8 $5            8            40.00
+Cass. 9 $1            0              .00
+              $5 Notes Low              
+              $10 Notes Low             
+              $20 Notes Low             
+             $50 Notes Empty            
+             $100 Notes Low             
+               Cass. A Low              
+               Cass. B Low              
+               Cass. C Low              
+              Cass. E Empty             
+              Cass. C2 Low              
+             Cass. D2 Empty             
+========================================
+
+
+
+
+
+
+
+
+(Online Nominated Dispense)             
+Transaction #                         38
+001/22/20 12:44 PM
+Ray
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+      TCR Error #FFFFFBAC Occurred      
+      Driver Timeout During Request     
+      TCR Error #FFFFFBAC Occurred      
+      Driver Timeout During Request     
+      TCR Error #FFFFFBAC Occurred      
+      Driver Timeout During Request     
+      TCR Error #FFFFFBAC Occurred      
+      Driver Timeout During Request     
+
+(Inventory Removal)                     
+Transaction #                         39
+001/22/20 12:45 PM
+Ray
+
+Denom            Pieces            Value
+$1                  100           100.00
+
+Total Inventory Removed           100.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         40
+001/22/20 12:47 PM
+Ray
+
+Denom            Pieces            Value
+$1                   50            50.00
+
+Total Inventory Removed            50.00
+----------------------------------------
+
+(Inventory Adjustment)                  
+Transaction #                         41
+001/22/20 12:50 PM
+Ray
+
+
+
+Total Net Added                     +.00
+Total Net Removed                   -.00
+Total Net Adjusted                  +.00
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         42
+001/22/20 12:54 PM
+Ray
+
+Denom            Pieces            Value
+$1                   50            50.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         43
+001/22/20 12:56 PM
+Ray
+
+Denom            Pieces            Value
+$10                   3            30.00
+$1                  303           303.00
+
+Machine Total                     333.00
+Deposit Total                     333.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/22/20 12:57 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 12:57 PM
+ID:                                  Ray
+
+(Online Nominated Dispense)             
+Transaction #                         44
+001/22/20 12:58 PM
+Ray
+
+Denom            Pieces            Value
+$10                   1            10.00
+$1                   50            50.00
+
+Amount Tendered                    60.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+001/22/20 01:00 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/22/20 01:00 PM
+ID:                                  Ray
+      TCR Error #FFFFFBAC Occurred      
+      Driver Timeout During Request     
+      TCR Error #FFFFFBAC Occurred      
+      Driver Timeout During Request     
+
+            Partial Dispense            
+
+(Inventory Removal)                     
+Transaction #                         45
+001/22/20 01:00 PM
+Ray
+
+Denom            Pieces            Value
+$1                   40            40.00
+
+Amount Requested                   60.00
+Total Inventory Removed            40.00
+Balance Due                        20.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         46
+001/22/20 01:02 PM
+Ray
+
+Denom            Pieces            Value
+$20                   4            80.00
+
+Total Inventory Removed            80.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         47
+001/22/20 01:03 PM
+Ray
+
+Denom            Pieces            Value
+$1                  124           124.00
+
+Machine Total                     124.00
+Total Inventory Added             124.00
+----------------------------------------
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded             80.00
+Reversed Amount                    80.00
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/22/20 01:04 PM
+Ray
+
+
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited          80.00
+Reversed Amount                    80.00
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/22/20 01:05 PM
+Ray
+
+
+       *** Cassette 2 Emptied ***       
+       *** Cassette 3 Emptied ***       
+       *** Cassette 4 Emptied ***       
+      TCR Error #FFFFFBAE Occurred      
+        API Parameters Not Valid        
+
+(Inventory Removal)                     
+Transaction #                         48
+001/22/20 01:06 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$10                   3            30.00
+$1                  326           326.00
+
+Total Inventory Removed           456.00
+----------------------------------------
+      TCR Error #FFFFFBAE Occurred      
+        API Parameters Not Valid        
+       TCR Error #04-9090 Occurred      
+   Entrance/Exit In Improper Position   
+
+(Reconciled Rejects)                    
+Transaction #                         49
+001/22/20 01:08 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$1                   29            29.00
+
+Reject Notes Removed               29.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$1                   29           +29.00
+Differences                       +29.00
+----------------------------------------
+      TCR Error #FFFFFBAB Occurred      
+    Note Dispense Shortage Occurred!    
+                $5 Empty                
+
+            Partial Dispense            
+
+(Inventory Removal)                     
+Transaction #                         50
+001/22/20 01:14 PM
+Ray
+
+Denom            Pieces            Value
+$5                    3            15.00
+
+Amount Requested                   40.00
+Total Inventory Removed            15.00
+Balance Due                        25.00
+----------------------------------------
+       TCR Error #04-9090 Occurred      
+   Entrance/Exit In Improper Position   
+
+(Reconciled Rejects)                    
+Transaction #                         51
+001/22/20 01:14 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$5                    1             5.00
+
+Reject Notes Removed                5.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$5                    1            +5.00
+Differences                        +5.00
+----------------------------------------
+      TCR Error #FFFFFBAE Occurred      
+        API Parameters Not Valid        
+      TCR Error #FFFFFBAE Occurred      
+        API Parameters Not Valid        
+       *** Cassette 8 Emptied ***       
+ Prior Undocumented Cassette(s) Emptied!
+ 
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         52
+001/22/20 01:22 PM
+Ray
+
+Denom            Pieces            Value
+$5                    4            20.00
+
+Total Inventory Removed            20.00
+----------------------------------------
+  Removed Notes Subject To Fine Count!  
+
+Logoff:                              Ray
+001/22/20 01:27 PM
+
+Logon:                               Ray
+001/22/20 01:27 PM
+
+========================================
+             Activity Report            
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+001/22/20 01:27 PM
+
+ID:                                  Ray
+========================================
+              User Activity             
+----------------------------------------
+Ray
+# of Deposits                          4
+# of Withdrawals                       9
+
+Denom            Pieces            Value
+$20                   4            80.00
+$10                   4            40.00
+$1                  848           848.00
+
+$10                   5            50.00
+
+Other Cash Deposited               50.00
+Machine Total                     968.00
+Deposit Total                    1018.00
+
+Denom            Pieces            Value
+$10                   1            10.00
+$1                  222           222.00
+
+Non-Cash Total                     10.00
+Withdrawal Total                  232.00
+----------------------------------------
+Net Total                        +736.00
+----------------------------------------
+Josh
+# of Deposits                          2
+# of Withdrawals                       1
+
+Denom            Pieces            Value
+$100                  1           100.00
+$5                    4            20.00
+$1                   50            50.00
+
+Deposit Total                     170.00
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Withdrawal Total                   10.00
+----------------------------------------
+Net Total                        +160.00
+----------------------------------------
+Chad
+# of Deposits                          5
+# of Withdrawals                       1
+
+Denom            Pieces            Value
+$1                   35            35.00
+
+Deposit Total                      35.00
+
+Denom            Pieces            Value
+$1                   50            50.00
+
+Withdrawal Total                   50.00
+----------------------------------------
+Net Total                         -15.00
+========================================
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   0              .00
+$20                   4            80.00
+$10                   4            40.00
+$5                    4            20.00
+$2                    0              .00
+$1                  933           933.00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   5            50.00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                5.00
+Machine Total                    1173.00
+Total Deposited                  1178.00
+# of Deposits                         11
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   1            10.00
+$5                    0              .00
+$1                  282           282.00
+Non-Cash Total                     10.00
+Total Dispensed                   292.00
+# of Withdrawals                      11
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  1          +100.00
+$50                   0              .00
+$20                   4           +80.00
+$10                   3           +30.00
+$5                    4           +20.00
+$2                    0              .00
+$1                  651          +651.00
+Net Total                        +881.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    4             4.00
+Starting Inventory                  7.00
+Net Adjustments                  -972.00
+Total Inventory                     4.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Notes              .00
+
+Cass. 1 $20           0              .00
+Cass. 2 $10           0              .00
+Cass. 3 $100          0              .00
+Cass. 4 $1            0              .00
+Cass. 5 $50           0              .00
+Cass. 8 $5            0              .00
+Cass. 9 $1            0              .00
+             $1 Notes Empty             
+             $5 Notes Empty             
+             $10 Notes Empty            
+             $20 Notes Empty            
+             $50 Notes Empty            
+            $100 Notes Empty            
+              Cass. A Empty             
+              Cass. B Empty             
+              Cass. C Empty             
+              Cass. D Empty             
+              Cass. E Empty             
+             Cass. C2 Empty             
+             Cass. D2 Empty             
+========================================
+
+        User Grand Totals Cleared       
+            Activity Cleared            
+
+
+
+
+
+
+
+
+Logoff:                              Ray
+001/22/20 01:27 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.127 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/22/20 01:46 PM
+
+
+   *** Entered Configuration Mode ***   
+001/22/20 01:46 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+001/22/20 01:50 PM
+
+   *** Entered Configuration Mode ***   
+001/22/20 01:50 PM
+ID:                                  Ray
+
+========================================
+             Activity Report            
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+001/22/20 01:50 PM
+
+ID:                                  Ray
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+
+      *** Inventory Read Failed ***     
+  *** Can't Create Inventory Report *** 
+
+========================================
+
+      *** System Memory Cleared ***     
+001/22/20 01:50 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/22/20 01:50 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/22/20 01:50 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/22/20 01:51 PM
+
+(Inventory Load)                        
+Transaction #                          1
+001/22/20 01:51 PM
+Ray
+
+Denom            Pieces            Value
+$1                  138           138.00
+
+Machine Total                     138.00
+Total Inventory Added             138.00
+----------------------------------------
+      TCR Error #FFFFFBAC Occurred      
+      Driver Timeout During Request     
+
+            Partial Dispense            
+
+(Inventory Removal)                     
+Transaction #                          2
+001/22/20 01:52 PM
+Ray
+
+Denom            Pieces            Value
+$1                   20            20.00
+
+Amount Requested                  100.00
+Total Inventory Removed            20.00
+Balance Due                        80.00
+----------------------------------------
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+001/22/20 01:52 PM
+Ray
+
+
+Amount Requested                   50.00
+Amount Tendered                      .00
+Balance Due                        50.00
+----------------------------------------
+
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+001/22/20 01:53 PM
+Ray
+
+
+Amount Requested                   50.00
+Amount Tendered                      .00
+Balance Due                        50.00
+----------------------------------------
+
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+001/22/20 01:53 PM
+Ray
+
+
+Amount Requested                   50.00
+Amount Tendered                      .00
+Balance Due                        50.00
+----------------------------------------
+
+
+   *** Entered Configuration Mode ***   
+001/22/20 01:53 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+001/22/20 01:54 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+001/22/20 01:56 PM
+
+(Online Nominated Dispense)             
+Transaction #                          3
+001/22/20 01:56 PM
+Ray
+
+Denom            Pieces            Value
+$1                   50            50.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          4
+001/22/20 01:57 PM
+Ray
+
+Denom            Pieces            Value
+$1                   68            68.00
+
+Machine Total                      68.00
+Deposit Total                      68.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          5
+001/22/20 01:57 PM
+Ray
+
+Denom            Pieces            Value
+$1                   53            53.00
+
+Machine Total                      53.00
+Total Inventory Added              53.00
+----------------------------------------
+       *** Cassette 4 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          6
+001/22/20 01:58 PM
+Ray
+
+Denom            Pieces            Value
+$1                  161           161.00
+
+Total Inventory Removed           161.00
+----------------------------------------
+       TCR Error #04-9090 Occurred      
+   Entrance/Exit In Improper Position   
+
+(Reconciled Rejects)                    
+Transaction #                          7
+001/22/20 01:58 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$1                   28            28.00
+
+Reject Notes Removed               28.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$1                   28           +28.00
+Differences                       +28.00
+----------------------------------------
+
+Logoff:                              Ray
+001/22/20 02:00 PM At 001/22/20 02:01 PM

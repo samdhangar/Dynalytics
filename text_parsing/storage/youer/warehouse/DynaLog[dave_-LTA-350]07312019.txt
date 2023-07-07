@@ -1,0 +1,188 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/31/20 08:15 AM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.136 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                               Ray
+001/31/20 09:20 AM
+
+   *** Entered Configuration Mode ***   
+001/31/20 09:20 AM
+ID:                                  Ray
+
+========================================
+             Activity Report            
+
+Station:                           dave 
+Branch:                      Test Branch
+Region:                      Test Region
+001/31/20 09:20 AM
+
+ID:                                  Ray
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Coin                                 .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                341         34100.00
+$50                 494         24700.00
+$20                 201          4020.00
+$10                 715          7150.00
+$5                  280          1400.00
+$2                    0              .00
+$1                  114           114.00
+Coin                                 .00
+Starting Inventory              71484.00
+Net Adjustments                      .00
+Total Inventory                 71484.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                341         34100.00
+$50                 494         24700.00
+$20                 201          4020.00
+$10                 715          7150.00
+$5                  280          1400.00
+$1                  114           114.00
+Total Dispensable Notes         71484.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Notes              .00
+
+Cass. 1 $1          114           114.00
+Cass. 2 $5          280          1400.00
+Cass. 3 $20         201          4020.00
+Cass. 4 $100        341         34100.00
+Cass. 5 $10         715          7150.00
+Cass. 6 $50         494         24700.00
+========================================
+
+      *** System Memory Cleared ***     
+001/31/20 09:20 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/31/20 09:20 AM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/31/20 09:20 AM
+
+Logon:                               Ray
+001/31/20 09:21 AM
+
+
+   *** Entered Configuration Mode ***   
+001/31/20 09:21 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/31/20 09:22 AM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/31/20 09:22 AM
+
+   *** Entered Configuration Mode ***   
+001/31/20 09:23 AM
+ID:                                Addon

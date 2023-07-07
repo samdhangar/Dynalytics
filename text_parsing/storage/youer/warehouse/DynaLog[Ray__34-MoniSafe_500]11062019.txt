@@ -1,0 +1,542 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.162 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               ray
+01/06/20 09:55 AM
+
+CST-B ($20) Assumed Count:            35
+CST-B ($20) Actual Count:             35
+       *** CST-C ($100) Empty ***       
+       *** CST-C Not Audited! ***       
+CST-D ($10) Assumed Count:             1
+CST-D ($10) Actual Count:              1
+CST-E ($5) Assumed Count:              1
+CST-E ($5) Actual Count:               1
+
+(Auto Audit Note Count)                 
+Transaction #                         17
+01/06/20 09:56 AM
+Ray
+
+Denom            Pieces            Value
+$20                  35           700.00
+$10                   1            10.00
+$5                    1             5.00
+
+Audited Total                     715.00
+----------------------------------------
+
+Logoff:                              ray
+01/06/20 09:58 AM
+
+Logon:                               ray
+01/06/20 09:58 AM
+
+CST-B ($20) Assumed Count:            35
+CST-B ($20) Actual Count:             35
+       *** CST-C ($100) Empty ***       
+       *** CST-C Not Audited! ***       
+CST-E ($5) Assumed Count:              1
+CST-E ($5) Actual Count:               1
+CST-F ($50) Assumed Count:             5
+CST-F ($50) Actual Count:              5
+
+(Auto Audit Note Count)                 
+Transaction #                         18
+01/06/20 09:58 AM
+Ray
+
+Denom            Pieces            Value
+$50                   5           250.00
+$20                  35           700.00
+$5                    1             5.00
+
+Audited Total                     955.00
+----------------------------------------
+
+Logoff:                              ray
+01/06/20 10:01 AM
+
+Logon:                               Ray
+01/06/20 10:02 AM
+
+CST-B ($20) Assumed Count:            35
+CST-B ($20) Actual Count:             35
+       *** CST-C ($100) Empty ***       
+       *** CST-C Not Audited! ***       
+CST-E ($5) Assumed Count:              1
+CST-E ($5) Actual Count:               1
+CST-F ($50) Assumed Count:             5
+CST-F ($50) Actual Count:              5
+
+(Auto Audit Note Count)                 
+Transaction #                         19
+01/06/20 10:03 AM
+Ray
+
+Denom            Pieces            Value
+$50                   5           250.00
+$20                  35           700.00
+$5                    1             5.00
+
+Audited Total                     955.00
+----------------------------------------
+       *** Cassette 2 Emptied ***       
+       *** Cassette 4 Emptied ***       
+       *** Cassette 5 Emptied ***       
+
+
+(Inventory Removal)                     
+Transaction #                         20
+01/06/20 10:08 AM
+Ray
+
+Denom            Pieces            Value
+$20                  35           700.00
+$10                   1            10.00
+$5                    1             5.00
+
+Total Inventory Removed           715.00
+----------------------------------------
+
+(Replenished Cassettes)                 
+Transaction #                         21
+01/06/20 10:09 AM
+Ray
+
+Denom            Pieces            Value
+
+Replenished Total                    .00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         22
+01/06/20 10:10 AM
+Ray
+
+Denom            Pieces            Value
+$100                  2           200.00
+
+Machine Total                     200.00
+Total Inventory Added             200.00
+----------------------------------------
+
+CST-A ($1) Assumed Count:             13
+CST-A ($1) Actual Count:              13
+CST-B ($20) Assumed Count:            35
+CST-B ($20) Actual Count:             35
+CST-C ($100) Assumed Count:            2
+CST-C ($100) Actual Count:             2
+CST-D ($10) Assumed Count:             1
+CST-D ($10) Actual Count:              1
+CST-E ($5) Assumed Count:              1
+CST-E ($5) Actual Count:               1
+CST-F ($50) Assumed Count:             5
+CST-F ($50) Actual Count:              5
+
+(Auto Audit Note Count)                 
+Transaction #                         23
+01/06/20 11:07 AM
+Ray
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   5           250.00
+$20                  35           700.00
+$10                   1            10.00
+$5                    1             5.00
+$1                   13            13.00
+
+Audited Total                    1178.00
+----------------------------------------
+     *** Cassette CST-B Emptied ***     
+
+(Inventory Removal)                     
+Transaction #                         24
+01/06/20 11:30 AM
+Ray
+
+Denom            Pieces            Value
+$20                  35           700.00
+
+Total Inventory Removed           700.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         25
+01/06/20 11:39 AM
+Ray
+
+Denom            Pieces            Value
+$1                   71            71.00
+
+Machine Total                      71.00
+Total Inventory Added              71.00
+----------------------------------------
+
+CST-A ($1) Assumed Count:             42
+CST-A ($1) Actual Count:              42
+      TCR Result Code 124 Occurred      
+    *** TCR Note Audit Incomplete ***   
+
+
+(Auto Audit Note Count)                 
+Transaction #                         26
+01/06/20 11:40 AM
+Ray
+
+Denom            Pieces            Value
+$1                   42            42.00
+
+Audited Total                      42.00
+----------------------------------------
+
+      TCR Result Code 124 Occurred      
+      *** TCR Note Audit Failed ***     
+
+CST-A ($1) Assumed Count:             42
+CST-A ($1) Actual Count:              42
+CST-B ($1) Assumed Count:             42
+CST-B ($1) Actual Count:              42
+CST-C ($100) Assumed Count:            2
+CST-C ($100) Actual Count:             2
+CST-D ($10) Assumed Count:             1
+CST-D ($10) Actual Count:              1
+CST-E ($5) Assumed Count:              1
+CST-E ($5) Actual Count:               1
+CST-F ($50) Assumed Count:             5
+CST-F ($50) Actual Count:              5
+
+(Auto Audit Note Count)                 
+Transaction #                         27
+01/06/20 11:44 AM
+Ray
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   5           250.00
+$10                   1            10.00
+$5                    1             5.00
+$1                   84            84.00
+
+Audited Total                     549.00
+----------------------------------------
+
+      TCR Result Code 124 Occurred      
+      *** TCR Note Audit Failed ***     
+
+      TCR Result Code 124 Occurred      
+      *** TCR Note Audit Failed ***     
+
+      TCR Result Code 124 Occurred      
+      *** TCR Note Audit Failed ***     
+
+CST-A ($1) Assumed Count:             42
+CST-A ($1) Actual Count:              42
+CST-B ($1) Assumed Count:             42
+CST-B ($1) Actual Count:              42
+CST-C ($100) Assumed Count:            2
+CST-C ($100) Actual Count:             2
+CST-D ($10) Assumed Count:             1
+CST-D ($10) Actual Count:              1
+CST-E ($5) Assumed Count:              1
+CST-E ($5) Actual Count:               1
+CST-F ($50) Assumed Count:             5
+CST-F ($50) Actual Count:              5
+
+(Auto Audit Note Count)                 
+Transaction #                         28
+01/06/20 12:21 PM
+Ray
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   5           250.00
+$10                   1            10.00
+$5                    1             5.00
+$1                   84            84.00
+
+Audited Total                     549.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+01/06/20 12:33 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.162 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.162 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               ray
+01/06/20 12:45 PM
+
+CST-A ($1) Assumed Count:             42
+CST-A ($1) Actual Count:              37
+CST-B ($1) Assumed Count:             42
+CST-B ($1) Actual Count:              52
+CST-C ($100) Assumed Count:            2
+CST-C ($100) Actual Count:             2
+CST-D ($10) Assumed Count:             1
+CST-D ($10) Actual Count:              1
+CST-E ($5) Assumed Count:              1
+CST-E ($5) Actual Count:               1
+CST-F ($50) Assumed Count:             5
+CST-F ($50) Actual Count:              4
+
+(Auto Audit Note Count)                 
+Transaction #                         29
+01/06/20 12:47 PM
+Ray
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   4           200.00
+$10                   1            10.00
+$5                    1             5.00
+$1                   89            89.00
+
+Audited Total                     504.00
+----------------------------------------
+
+Logoff:                              ray
+01/06/20 12:53 PM
+
+Logon:                               Ray
+01/06/20 01:08 PM
+
+Logoff:                              Ray
+01/06/20 01:11 PM
+
+Logon:                               ray
+01/06/20 01:15 PM
+
+CST-A ($1) Assumed Count:             37
+CST-A ($1) Actual Count:              37
+CST-B ($1) Assumed Count:             52
+CST-B ($1) Actual Count:              52
+CST-C ($100) Assumed Count:            2
+CST-C ($100) Actual Count:             2
+CST-D ($10) Assumed Count:             1
+CST-D ($10) Actual Count:              1
+CST-E ($5) Assumed Count:              1
+CST-E ($5) Actual Count:               1
+CST-F ($50) Assumed Count:             4
+CST-F ($50) Actual Count:              4
+
+(Auto Audit Note Count)                 
+Transaction #                         30
+01/06/20 01:15 PM
+Ray
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   4           200.00
+$10                   1            10.00
+$5                    1             5.00
+$1                   89            89.00
+
+Audited Total                     504.00
+----------------------------------------
+
+Logoff:                              ray
+01/06/20 01:19 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.162 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/06/20 01:31 PM
+
+CST-A ($1) Assumed Count:             37
+CST-A ($1) Actual Count:              42
+CST-B ($1) Assumed Count:             52
+CST-B ($1) Actual Count:              42
+CST-C ($100) Assumed Count:            2
+CST-C ($100) Actual Count:             2
+CST-D ($10) Assumed Count:             1
+CST-D ($10) Actual Count:              1
+CST-E ($5) Assumed Count:              1
+CST-E ($5) Actual Count:               1
+CST-F ($50) Assumed Count:             4
+CST-F ($50) Actual Count:              4
+
+(Auto Audit Note Count)                 
+Transaction #                         31
+01/06/20 01:33 PM
+Ray
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   4           200.00
+$10                   1            10.00
+$5                    1             5.00
+$1                   84            84.00
+
+Audited Total                     499.00
+----------------------------------------
+
+Logoff:                              Ray
+01/06/20 01:38 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.162 (MoniSafe 500)    
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/06/20 02:57 PM
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                         32
+01/06/20 02:57 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$50                   1            50.00
+
+Reject Notes Removed               50.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$1                    1             1.00
+
+Reloaded Notes                      1.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$50                   1           -50.00
+$1                    1            +1.00
+
+Differences                       -49.00
+----------------------------------------
+
+CST-A ($1) Assumed Count:             42
+CST-A ($1) Actual Count:              37
+CST-B ($1) Assumed Count:             43
+CST-B ($1) Actual Count:              53
+CST-C ($100) Assumed Count:            2
+CST-C ($100) Actual Count:             2
+CST-D ($10) Assumed Count:             1
+CST-D ($10) Actual Count:              1
+CST-E ($5) Assumed Count:              1
+CST-E ($5) Actual Count:               1
+CST-F ($50) Assumed Count:             4
+CST-F ($50) Actual Count:              5
+
+(Auto Audit Note Count)                 
+Transaction #                         33
+01/06/20 03:00 PM
+Ray
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   5           250.00
+$10                   1            10.00
+$5                    1             5.00
+$1                   90            90.00
+
+Audited Total                     555.00
+----------------------------------------
+
+Logoff:                              Ray
+01/06/20 03:07 PM
+
+Logon:                               Ray
+01/06/20 03:12 PM
+
+CST-A ($1) Assumed Count:             37
+CST-A ($1) Actual Count:              37
+CST-B ($1) Assumed Count:             53
+CST-B ($1) Actual Count:              53
+CST-C ($100) Assumed Count:            2
+CST-C ($100) Actual Count:             2
+CST-D ($10) Assumed Count:             1
+CST-D ($10) Actual Count:              1
+CST-E ($5) Assumed Count:              1
+CST-E ($5) Actual Count:               1
+CST-F ($50) Assumed Count:             5
+CST-F ($50) Actual Count:              5
+
+(Auto Audit Note Count)                 
+Transaction #                         34
+01/06/20 03:12 PM
+Ray
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   5           250.00
+$10                   1            10.00
+$5                    1             5.00
+$1                   90            90.00
+
+Audited Total                     555.00
+----------------------------------------
+       *** $1 Notes Collected ***       
+       *** $1 Notes Collected ***       

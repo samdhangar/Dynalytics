@@ -1,0 +1,230 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.163 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                     MS500S Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.163 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                     MS500S Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.163 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                     MS500S Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.163 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                     MS500S Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.163 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                     MS500S Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               ray
+01/12/20 09:12 AM
+
+Logoff:                              ray
+01/12/20 09:12 AM
+
+Logon:                               ray
+01/12/20 09:13 AM
+
+(Online Deposit)                        
+Transaction #                         20
+01/12/20 09:13 AM
+Ray
+       *** Dual Control Logon ***       
+Patrick
+Denom            Pieces            Value
+$100                  1           100.00
+
+Other Cash Deposited              100.00
+
+Deposit Total                     100.00
+----------------------------------------
+
+Logoff:                              ray
+01/12/20 09:13 AM
+
+      *** Client Disconnection ***      
+Logoff:                                 
+01/12/20 09:14 AM
+
+Logon:                             Charo
+01/12/20 09:15 AM
+            Deposit Canceled            
+
+(Vault Sell)                            
+01/12/20 09:15 AM
+ray
+
+
+
+(Vault Buy)                             
+Transaction #                         21
+01/12/20 09:16 AM
+Ray
+
+Denom            Pieces            Value
+$50                   2           100.00
+$20                   2            40.00
+$5                    9            45.00
+$1                    1             1.00
+
+Amount Tendered                   186.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                         22
+01/12/20 09:17 AM
+Peter
+
+Denom            Pieces            Value
+$50                   2           100.00
+$20                   2            40.00
+$5                    9            45.00
+$1                    1             1.00
+
+Machine Total                     186.00
+Deposit Total                     186.00
+----------------------------------------
+
+Logoff:                            Charo
+01/12/20 09:17 AM
+
+      *** Client Disconnection ***      
+Logoff:                                 
+01/12/20 09:19 AM
+
+(Vault Buy)                             
+Transaction #                         23
+01/12/20 09:22 AM
+Charo
+       *** Dual Control Logon ***       
+Paterick
+Denom            Pieces            Value
+$1                    1             1.00
+
+Amount Tendered                     1.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                         24
+01/12/20 01:55 PM
+Ray
+       *** Dual Control Logon ***       
+shithead
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Deposit Total                       1.00
+----------------------------------------
+            Deposit Canceled            
+
+(Vault Sell)                            
+01/12/20 01:56 PM
+Ray
+       *** Dual Control Logon ***       
+Chad
+
+            Deposit Canceled            
+
+(Vault Sell)                            
+01/12/20 01:56 PM
+Ray
+       *** Dual Control Logon ***       
+Chad
+
+            Deposit Canceled            
+
+(Vault Sell)                            
+01/12/20 02:28 PM
+Ray
+       *** Dual Control Logon ***       
+Chad
+
+            Deposit Canceled            
+
+(Vault Sell)                            
+01/12/20 02:29 PM
+Ray
+       *** Dual Control Logon ***       
+Chad
+
+            Deposit Canceled            
+
+(Vault Sell)                            
+01/12/20 03:13 PM
+Ray
+       *** Dual Control Logon ***       
+Chad
+
+
+Logon:                             Charo
+01/12/20 03:16 PM
+
+Logoff:                            Charo
+01/12/20 03:16 PM
+
+      *** Client Disconnection ***      
+Logoff:                                 
+01/12/20 03:16 PM
+            Deposit Canceled            
+
+(Vault Sell)                            
+01/12/20 04:49 PM
+Ray
+       *** Dual Control Logon ***       
+Chad
+
+
+
+Logon:                               Ray
+01/12/20 04:50 PM

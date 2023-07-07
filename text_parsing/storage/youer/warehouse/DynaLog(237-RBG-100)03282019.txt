@@ -1,0 +1,79 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+
+
+Logon:                               Ray
+001/28/20 09:35 AM
+
+Logon:                              josh
+001/28/20 09:35 AM
+      RBG-100 Error #6900 Occurred      
+
+(Online Mix Dispense)                   
+Transaction #                         55
+001/28/20 09:43 AM
+Josh
+
+Denom            Pieces            Value
+$10                   7            70.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         56
+001/28/20 09:43 AM
+Ray
+
+Denom            Pieces            Value
+$10                   7            70.00
+$5                    5            25.00
+$1                    5             5.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         57
+001/28/20 09:45 AM
+Josh
+
+Denom            Pieces            Value
+$100                  2           200.00
+$50                   1            50.00
+$20                  36           720.00
+$10                  15           150.00
+$5                   11            55.00
+$1                   11            11.00
+
+Machine Total                    1186.00
+Deposit Total                    1186.00
+----------------------------------------
+
+Logoff:                              Ray
+001/28/20 10:37 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.086 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                   Example Branch
+Region:                   Example Region
+

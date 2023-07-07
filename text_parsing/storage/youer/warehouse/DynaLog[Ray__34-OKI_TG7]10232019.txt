@@ -1,0 +1,343 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/23/20 11:15 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/23/20 11:36 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/23/20 11:38 AM
+
+   *** Entered Configuration Mode ***   
+01/23/20 11:52 AM
+ID:                                  Ray
+
+========================================
+             Activity Report            
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+01/23/20 11:52 AM
+
+ID:                                  Ray
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+500k                  0               0k
+200k                  0               0k
+100k                  0               0k
+50k                   0               0k
+20k                   0               0k
+10k                   0               0k
+
+           Other Cash Deposits          
+
+500k                  0               0k
+200k                  0               0k
+100k                  0               0k
+50k                   0               0k
+20k                   0               0k
+10k                   0               0k
+
+Other Cash Deposited                  0k
+Machine Total                         0k
+Total Deposited                       0k
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+Total Dispensed                       0k
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+500k                  0               0k
+200k                  0               0k
+100k                  0               0k
+50k                   0               0k
+20k                   0               0k
+10k                   0               0k
+Net Total                     In Balance
+========================================
+----------------------------------------
+
+      *** Inventory Read Failed ***     
+  *** Can't Create Inventory Report *** 
+
+========================================
+
+      *** System Memory Cleared ***     
+01/23/20 11:52 AM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+01/23/20 11:53 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+TCD/TCR Address            192.168.1.115
+TCD/TCR Port                       60000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser             No Coin Usage
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.155 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/23/20 11:58 AM
+
+         *** Security Event! ***        
+            01/23/20 11:58 AM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/23/20 11:58 AM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/23/20 12:01 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            01/23/20 12:01 PM           
+      *** TCR Safe Door Closed ***      
+       *** Cassette 1 Emptied ***       
+       *** Cassette 2 Emptied ***       
+       *** Cassette 3 Emptied ***       
+       *** Cassette 4 Emptied ***       
+       *** Cassette 5 Emptied ***       
+       *** Cassette 10 Emptied ***      
+ Prior Undocumented Cassette(s) Emptied!
+ 
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                          1
+01/23/20 12:01 PM
+Ray
+
+Denom            Pieces            Value
+500k                118           59000k
+200k                 29            5800k
+100k                 36            3600k
+50k                   2             100k
+20k                 127            2540k
+
+Total Inventory Removed           71040k
+----------------------------------------
+  Removed Notes Subject To Fine Count!  
+
+========================================
+             Activity Report            
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+01/23/20 12:03 PM
+
+ID:                                  Ray
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+500k                  0               0k
+200k                  0               0k
+100k                  0               0k
+50k                   0               0k
+20k                   0               0k
+10k                   0               0k
+
+           Other Cash Deposits          
+
+500k                  0               0k
+200k                  0               0k
+100k                  0               0k
+50k                   0               0k
+20k                   0               0k
+10k                   0               0k
+
+Other Cash Deposited                  0k
+Machine Total                         0k
+Total Deposited                       0k
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+500k                  0               0k
+200k                  0               0k
+100k                  0               0k
+50k                   0               0k
+20k                   0               0k
+10k                   0               0k
+Total Dispensed                       0k
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+500k                  0               0k
+200k                  0               0k
+100k                  0               0k
+50k                   0               0k
+20k                   0               0k
+10k                   0               0k
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+500k                  0               0k
+200k                  0               0k
+100k                  0               0k
+50k                   0               0k
+20k                   0               0k
+10k                   0               0k
+Starting Inventory                71140k
+Net Adjustments                  -71040k
+Total Inventory                       0k
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+500k                  0               0k
+200k                  0               0k
+100k                  0               0k
+50k                   0               0k
+20k                   0               0k
+10k                   0               0k
+Total Dispensable Notes               0k
+
+Cass. 1 500k          0               0k
+Cass. 2 200k          0               0k
+Cass. 3 100k          0               0k
+Cass. 4 10k           0               0k
+Cass. 5 50k           0               0k
+Cass. 10 20k          0               0k
+             10k Notes Empty            
+             20k Notes Empty            
+             50k Notes Empty            
+            100k Notes Empty            
+            200k Notes Empty            
+            500k Notes Empty            
+              Cass. A Empty             
+              Cass. B Empty             
+              Cass. C Empty             
+              Cass. D Empty             
+              Cass. E Empty             
+             Cass. E2 Empty             
+========================================
+
+        User Grand Totals Cleared       
+            Activity Cleared            
+
+
+
+
+
+
+
+
+Logoff:                              Ray
+01/23/20 12:36 PM

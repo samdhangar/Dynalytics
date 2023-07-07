@@ -1,0 +1,119 @@
+       DynaCash (c) 1999 - 2018 by      
+        Add-On Technologies, Inc.       
+     LG LTA-350 Pgm. Ver. 5.5.93-DC     
+           DynaCash Mode: LAN           
+
+               LG LTA-350               
+                Test Unit               
+                TCR Hall                
+
+Station #                             80
+
+
+(Vault Buy)                             
+Transaction #                         48
+Date                             5/11/19
+Time                          3:13:00 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$5                   20           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                         49
+Date                             5/11/19
+Time                          3:13:41 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$5                   20           100.00
+$1                    1             1.00
+
+Deposit Total                     101.00
+----------------------------------------
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             5/11/19
+Time                          3:14:15 PM
+
+(Inventory Load)                        
+Transaction #                         50
+Date                             5/11/19
+Time                          3:14:30 PM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                   15            15.00
+
+Total Inventory Added              15.00
+----------------------------------------
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             80
+Denom            Pieces            Value
+$100                589         58900.00
+$50                 387         19350.00
+$20                 307          6140.00
+$10                 103          1030.00
+$5                  151           755.00
+$2                    0              .00
+$1                   16            16.00
+Starting Inventory              77610.00
+Net Adjustments                 13325.00
+Total Inventory                 86191.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                589         58900.00
+$50                 387         19350.00
+$20                 307          6140.00
+$10                 103          1030.00
+$5                  151           755.00
+Total Dispensable Bills         86175.00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                   16            16.00
+Total Op Cassette Bills            16.00
+
+Cass. 1                     Not Assigned
+Cass. 2 ($5)        151           755.00
+Cass. 3 ($20)       307          6140.00
+Cass. 4 ($100)      589         58900.00
+Cass. 5 ($10)       103          1030.00
+Cass. 6 ($50)       387         19350.00
+----------------------------------------
+          Verification Required         
+----------------------------------------
+Cass. 1                      Long Verify
+
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                             5/11/19
+Time                          3:14:58 PM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             5/11/19
+Time                          3:16:09 PM
+           Manager Logged Off           
+Manager #                              1
+Date                             5/11/19
+Time                          3:29:28 PM
+****************************************

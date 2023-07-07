@@ -1,0 +1,368 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+01/18/20 01:47 PM
+
+(Online Nominated Dispense)             
+Transaction #                         46
+01/18/20 01:47 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1             500k
+
+Amount Tendered                     500k
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         47
+01/18/20 01:48 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1             500k
+
+Other Cash Deposited                500k
+
+Deposit Total                       500k
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         48
+01/18/20 01:49 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1             500k
+
+Amount Tendered                     500k
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         49
+01/18/20 01:49 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1             500k
+
+Other Cash Deposited                500k
+
+Deposit Total                       500k
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         50
+01/18/20 01:50 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1             500k
+
+Amount Tendered                     500k
+----------------------------------------
+
+Logoff:                              Ray
+01/18/20 01:50 PM
+
+Logon:                               Ray
+01/18/20 02:01 PM
+
+(Online Nominated Dispense)             
+Transaction #                         51
+01/18/20 02:01 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1             500k
+
+Amount Tendered                     500k
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         52
+01/18/20 02:02 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1             500k
+
+Other Cash Deposited                500k
+
+Deposit Total                       500k
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         53
+01/18/20 02:02 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1             500k
+
+Amount Tendered                     500k
+----------------------------------------
+
+Logoff:                              Ray
+01/18/20 02:02 PM
+
+Logon:                               Ray
+01/18/20 02:22 PM
+
+(Online Nominated Dispense)             
+Transaction #                         54
+01/18/20 02:26 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1             500k
+
+Amount Tendered                     500k
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         55
+01/18/20 02:26 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1             500k
+
+Other Cash Deposited                500k
+
+Deposit Total                       500k
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                         56
+01/18/20 02:26 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1             500k
+
+Amount Tendered                     500k
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         57
+01/18/20 02:28 PM
+Ray
+
+Denom            Pieces            Value
+100k                  3             300k
+
+Machine Total                       300k
+Total Inventory Added               300k
+----------------------------------------
+
+Logoff:                              Ray
+01/18/20 02:28 PM
+
+Logon:                               Ray
+01/18/20 02:43 PM
+
+(Inventory Load)                        
+Transaction #                         58
+01/18/20 02:43 PM
+Ray
+
+Denom            Pieces            Value
+500k                 29           14500k
+
+Machine Total                     14500k
+Total Inventory Added             14500k
+----------------------------------------
+
+Logoff:                              Ray
+01/18/20 02:43 PM
+
+Logon:                               Ray
+01/18/20 03:36 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/18/20 03:36 PM
+Ray
+
+
+
+     *** Inventory Load Reversed ***    
+
+Original Amount Loaded            19000k
+Reversed Amount                   19000k
+
+(Inventory Load)                        
+Transaction #                         59
+01/18/20 03:38 PM
+Ray
+
+Denom            Pieces            Value
+500k                 33           16500k
+200k                 27            5400k
+20k                  19             380k
+10k                  16             160k
+
+Machine Total                     22440k
+Total Inventory Added             22440k
+----------------------------------------
+
+Cass. 1 Adjustment Pending         -500k
+New Cassette Total                58500k
+
+
+
+Cass. 2 Adjustment Pending         -200k
+New Cassette Total                 5600k
+
+
+
+Cass. 3 Adjustment Pending         +100k
+New Cassette Total                 3700k
+
+
+
+Cass. 4 Adjustment Pending          +10k
+New Cassette Total                  210k
+
+
+
+Cass. 5 Adjustment Pending          +50k
+New Cassette Total                  300k
+
+
+
+(Inventory Adjustment)                  
+Transaction #                         60
+01/18/20 03:40 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1            -500k
+200k                  1            -200k
+100k                  1            +100k
+50k                   1             +50k
+10k                   1             +10k
+
+Total Net Added                    +160k
+Total Net Removed                  -700k
+Total Net Adjusted                 -540k
+----------------------------------------
+
+Logoff:                              Ray
+01/18/20 03:41 PM
+
+Logon:                               Ray
+01/18/20 03:46 PM
+
+Cass. 1 Adjustment Pending         +500k
+New Cassette Total                59000k
+
+
+
+Cass. 2 Adjustment Pending         +200k
+New Cassette Total                 5800k
+
+
+
+Cass. 3 Adjustment Pending         -100k
+New Cassette Total                 3600k
+
+
+
+Cass. 4 Adjustment Pending          -10k
+New Cassette Total                  200k
+
+
+
+Cass. 5 Adjustment Pending          +50k
+New Cassette Total                  350k
+
+
+
+(Inventory Adjustment)                  
+Transaction #                         61
+01/18/20 03:46 PM
+Ray
+
+Denom            Pieces            Value
+500k                  1            +500k
+200k                  1            +200k
+100k                  1            -100k
+50k                   1             +50k
+10k                   1             -10k
+
+Total Net Added                    +750k
+Total Net Removed                  -110k
+Total Net Adjusted                 +640k
+----------------------------------------
+
+Logoff:                              Ray
+01/18/20 03:46 PM
+
+
+Logon:                               Ray
+01/18/20 03:47 PM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/18/20 03:47 PM
+Ray
+
+
+
+Logoff:                              Ray
+01/18/20 03:47 PM

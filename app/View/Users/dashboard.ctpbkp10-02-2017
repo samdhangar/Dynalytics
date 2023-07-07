@@ -1,0 +1,312 @@
+<?php
+$this->assign('pagetitle', __('Dashboard'));
+$this->Custom->addCrumb(__('Dashboard'));
+$this->start('top_links');
+//echo $this->Html->link('<span>' . __(getReportFilter($this->Session->read('Report.DashboardErrors'))) . '</span>', 'javascript:void(0)', array('data-toggle' => 'tooltip', 'title' => __('Select Date'), 'icon' => 'fa-calendar', 'class' => 'btn btn-primary btn-sm daterange pull-right', 'escape' => false));
+echo $this->Html->link('<span>' . __(!empty($this->Session->read('Dashboard.Filter')) ? getReportFilter($this->Session->read('Dashboard.Filter')) : 'Last 7 Days') . '</span>', 'javascript:void(0)', array('data-toggle' => 'tooltip', 'title' => __('Select Date'), 'icon' => 'fa-calendar', 'class' => 'btn btn-primary btn-sm daterange pull-right', 'escape' => false));
+if (isCompany()) {
+    echo $this->Html->link(__('Export CSV'), array('controller' => 'export', 'action' => 'dashboard'), array('title' => __('Export CSV'), 'icon' => 'fa-download', 'class' => 'btn btn-primary btn-sm pull-right', 'escape' => false));
+}
+if (isCompany() || isAdminDealer() || isSuparDealer()):
+    echo $this->Html->link(__('Inventory Management'), array('controller' => 'analytics', 'action' => 'inventory_management'), array('icon' => 'fa-calendar', 'class' => 'btn btn-primary btn-sm'));
+endif;
+$this->end();
+
+?>
+<?php if (!isSupportDealer() && !isCompany()): ?>
+    <div class="row">
+        <div class="col-md-4 col-sm-4 col-xs-12 procesedFiles">
+            <!--<a href="<?php echo Router::url(array('controller' => 'users', 'action' => 'dashboard'), true) ?>" class="procesedFiles">-->
+            <div class="info-box">
+                <span class="info-box-icon bg-green">
+                    <i class="fa fa-file"></i>
+                </span>
+                <div class="info-box-content">
+                    <span class="info-box-text">
+                        <?php echo __('Total Processed Files'); ?>
+                    </span>
+                    <span class="info-box-number">
+                        <?php echo $totalPFiles; ?>
+                    </span>
+                </div>
+            </div>
+            <!--</a>-->
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-12 errors">
+            <!--<a href="<?php echo Router::url(array('controller' => 'users', 'action' => 'dashboard'), true) ?>" class="errors">-->
+            <div class="info-box">
+                <span class="info-box-icon bg-yellow">
+                    <i class="fa fa-warning"></i>
+                </span>
+                <div class="info-box-content">
+                    <span class="info-box-text">
+                        <?php echo __('Total Error/Warnings'); ?>
+                    </span>
+                    <span class="info-box-number">
+                        <?php echo $totalErros; ?>
+                    </span>
+                </div>
+            </div>
+            <!--</a>-->
+        </div>
+        <div class="col-md-4 col-sm-4 col-xs-12 notification">
+            <!--<a href="<?php echo Router::url(array('controller' => 'users', 'action' => 'dashboard'), true) ?>" class="notification">-->
+            <div class="info-box">
+                <span class="info-box-icon bg-navy">
+                    <i class="fa fa-cube"></i>
+                </span>
+                <div class="info-box-content">
+                    <span class="info-box-text">
+                        <?php echo __('Notification Events'); ?>
+                    </span>
+                    <span class="info-box-number">
+                        <?php
+                        echo count($tickets['New']) + count($tickets['Open']) + count($tickets['Closed']);
+
+                        ?>
+                    </span>
+                </div>
+            </div>
+            <!--</a>-->
+        </div>
+        <?php if (!isDealer() && !isCompany()) : ?>
+            <div class="col-md-4 col-sm-4 col-xs-12 messages">
+                <!--<a href="<?php echo Router::url(array('controller' => 'users', 'action' => 'dashboard'), true) ?>" class="messages">-->
+                <div class="info-box">
+                    <span class="info-box-icon bg-purple">
+                        <i class="fa fa-envelope"></i>
+                    </span>
+                    <div class="info-box-content">
+                        <span class="info-box-text">
+                            <?php echo __('Unidentified Message'); ?>
+                        </span>
+                        <span class="info-box-number">
+                            <?php echo $totalUnIdentiMsg; ?>
+                        </span>
+                    </div>
+                </div>
+                <!--</a>-->
+            </div>
+        <?php endif; ?>
+
+        <?php if (isDealer()): ?>
+            <div class="col-md-4 col-sm-4 col-xs-12 clients">
+                <!--<a href="<?php echo Router::url(array('controller' => 'companies', 'action' => 'index'), true) ?>" class="clients">-->
+                <div class="info-box">
+                    <span class="info-box-icon bg-aqua">
+                        <i class="fa fa-money"></i>
+                    </span>
+                    <div class="info-box-content">
+                        <span class="info-box-text">
+                            <?php echo __('No. of Client'); ?>
+                        </span>
+                        <span class="info-box-number">
+                            <?php echo!empty($totalClients) ? $totalClients : '0'; ?>
+                        </span>
+                    </div>
+                </div>
+                <!--</a>-->
+            </div>
+        <?php endif; ?>
+
+        <?php if (isCompanyAdmin()): ?>
+            <div class="col-md-4 col-sm-4 col-xs-12 transactions">
+                <!--<a href="<?php echo Router::url(array('controller' => 'users', 'action' => 'dashboard'), true) ?>" class="transactions">-->
+                <div class="info-box">
+                    <span class="info-box-icon bg-aqua">
+                        <i class="fa fa-money"></i>
+                    </span>
+                    <div class="info-box-content">
+                        <span class="info-box-text">
+                            <?php echo __('No. of Transactions'); ?>
+                        </span>
+                        <span class="info-box-number">
+                            <?php echo $totalTrans; ?>
+                        </span>
+                    </div>
+                </div>
+                <!--</a>-->
+            </div>
+        <?php endif; ?>
+    </div>
+<?php endif; ?>
+<?php if (isDealer() || isSuparAdmin()): ?>
+    <div class="row">
+        <div class="col-md-12">
+            <!-- Custom Tabs (Pulled to the right) -->
+            <div class="nav-tabs-custom" id="ticketTable">
+                <?php echo $this->element('ticketAjaxTable') ?>
+            </div>
+        </div>
+    </div>
+<?php endif; ?>
+<?php
+echo $this->Html->script('/js/lib/daterangepicker/daterangepicker');
+echo $this->Html->css('/css/lib/daterangepicker/daterangepicker-bs3');
+
+?>
+<?php if (isCompany()): ?>
+    <div class="row">
+        <?php
+        echo $this->element('user/line_chart_container');
+
+        ?>
+        <div class="col-md-12 col-sm-12 form-group">
+            <div id="container1"></div>
+        </div>
+        <div class="col-md-12 col-sm-12 form-group">
+            <div id="container2"></div>
+        </div>
+        <div class="col-md-12 col-sm-12 " id="file_processed_data">
+            <label class="h3"> <strong>File Processed Data</strong></label>
+        </div>
+        <div class="col-md-12 col-sm-12 table-responsive htmlDataTable">
+            <?php echo $this->element('reports/dashboard_filedata', array('processFiles' => $processFiles,'navId'=>'file_processed_data')); ?>
+        </div>
+    </div>
+    <?php
+    echo $this->Html->script('user/chart');
+
+    ?>
+    <script type="text/javascript">
+        jQuery(document).ready(function () {
+            var data = '<?php echo $temp; ?>';
+            var xAxisDates = '<?php echo $xAxisDates; ?>';
+            var tickInterval = '<?php echo $tickInterval; ?>';
+            var options = {
+                name: 'Errors',
+                title: 'Errors',
+                xTitle: 'Error Date',
+                yTitle: 'No. of Errors',
+                id: '#container'
+            };
+            multiLineChart(data, xAxisDates, tickInterval, options);
+            var startDate = moment('<?php echo $this->Session->read('Report.DashboardErrors.start_date') ?>', 'YYYY-MM-DD');
+            var endDate = moment('<?php echo $this->Session->read('Report.DashboardErrors.end_date') ?>', 'YYYY-MM-DD');
+            //            addDateRange(startDate, endDate, "users/dashboard", 'multiLineChart');
+
+            var data1 = '<?php echo $temp1; ?>';
+            var options1 = {
+                name: 'Transaction',
+                title: 'Transaction',
+                xTitle: 'Transaction Date',
+                yTitle: 'Transaction',
+                id: '#container1'
+            };
+            multiLineChart(data1, xAxisDates, tickInterval, options1);
+
+            //            addDateRange(startDate, endDate, "users/dashboard", 'multiLineChart');
+
+
+            var data2 = '<?php echo $sentTemp; ?>';
+            var options2 = {
+                name: 'Transaction',
+                title: 'Transaction Denom',
+                xTitle: 'Transaction Time',
+                yTitle: 'No. Of Denom',
+                id: '#container2'
+            };
+           // alert(data2);
+
+            var xAxisDatesTime = '<?php echo $xAxisDatesTime; ?>';
+            multiLineChart(data2, xAxisDatesTime, tickInterval, options2);
+            var extraParams = {
+                //                pieCatTitle: pieCatTitle,
+                //                pieClientTitle: pieClientTitle,
+                charts: {
+                    0: {
+                        type: 'multiLine',
+                        name: 'Transaction',
+                        title: 'Transaction',
+                        data: 'transactionDetails',
+                        xTitle: 'Transaction Date',
+                        yTitle: 'Transaction',
+                        id: '#container1'
+                    }
+                }
+
+            };
+            addDateRange(startDate, endDate, "users/dashboard", 'multiLineChart', '', extraParams);
+            //            addDateRange(startDate, endDate, "users/dashboard", 'multiLineChart');
+        });
+    </script>
+<?php endif; ?>
+<?php echo $this->Html->script('user/chart'); ?>
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+        var startDate = moment().subtract('days', 7);
+        var endDate = moment();
+        addDateRange(startDate, endDate, 'dashboardData');
+//        $('.daterange').daterangepicker({
+//            ranges: {
+//                'Today': [moment(), moment()],
+////                'Yesterday': [moment().subtract('days', 1), moment().subtract('days', 1)],
+//                'Last 7 Days': [moment().subtract('days', 7), moment()],
+//                'Last 15 Days': [moment().subtract('days', 14), moment()],
+////                'Last Month': [moment().subtract('month', 1).startOf('month'), moment().subtract('month', 1).endOf('month')],
+//                'Last Month': [moment().subtract('month', 1), moment()],
+////                'Last 3 Month': [moment().subtract('month', 3).startOf('month'), moment().subtract('month').startOf('month')],
+//                'Last 3 Month': [moment().subtract('month', 3), moment()],
+//                'Last 6 Month': [moment().subtract('month', 6), moment()],
+////                'Last 30 Days': [moment().subtract('days', 29), moment()],
+////                'This Month': [moment().startOf('month'), moment().endOf('month')],
+//            },
+//            startDate: moment().subtract('days', 7),
+//            endDate: moment()
+//        },
+//        function (start, end) {
+//            var clickedLabel = getSelectedRange(start, end);
+//            loader('show');
+//            var formData = {
+//                'Filter': {
+//                    'start_date': start.format('YYYY-MM-DD'),
+//                    'end_date': end.format('YYYY-MM-DD'),
+//                    'from': clickedLabel.key
+//                }
+//            };
+//            console.log(formData);
+//            jQuery.ajax({
+//                url: BaseUrl + "users/dashboard",
+//                type: 'post',
+//                data: formData,
+//                dataType: 'json',
+//                success: function (response) {
+////                    jQuery('.transactions').attr('href', response.transactions.url);
+//                    totalTrans = parseInt(response.transactions.totalTrans);
+//                    jQuery('.transactions').find('.info-box-number').html(totalTrans);
+//
+////                    jQuery('.clients').attr('href', response.clients.url);
+//                    totalClients = parseInt(response.clients.totalClients);
+//                    jQuery('.clients').find('.info-box-number').html(totalClients);
+//
+////                    jQuery('.errors').attr('href', response.errors.url);
+//                    totalErros = parseInt(response.errors.totalErros);
+//                    jQuery('.errors').find('.info-box-number').html(totalErros);
+//
+////                    jQuery('.messages').attr('href', response.messages.url);
+//                    totalUnIdentiMsg = parseInt(response.messages.totalUnIdentiMsg);
+//                    jQuery('.messages').find('.info-box-number').html(totalUnIdentiMsg);
+//
+////                    jQuery('.procesedFiles').attr('href', response.errors.url);
+//                    totalPFiles = parseInt(response.files.totalPFiles);
+//                    jQuery('.procesedFiles').find('.info-box-number').html(totalPFiles);
+//                    loader('hide');
+//                    var displText = jQuery('.ranges li.active').html();
+//                    if (displText == 'Custom Range') {
+//                        displText = start.format('YYYY-MM-DD') + " to " + end.format('YYYY-MM-DD');
+//                    }
+//                    jQuery('.daterange span').html(displText);
+//
+//                    if (response.ticketTable) {
+//                        jQuery('#ticketTable').html(response.ticketTable);
+//                    }
+//
+//                },
+//                error: function () {
+//                    loader('hide');
+//                }
+//            });
+//        });
+
+    });
+</script>

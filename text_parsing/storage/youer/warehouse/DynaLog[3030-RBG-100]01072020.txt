@@ -1,0 +1,980 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+   *** Entered Configuration Mode ***   
+00001/07/20 11:19 AM
+ID:                               Level2
+
+
+Logon:                   Ray's bait shop
+00001/07/20 11:19 AM
+
+    *** Exited Configuration Mode ***   
+00001/07/20 11:19 AM
+ID:                      Ray's bait shop
+
+
+========================================
+              User Settings             
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+00001/07/20 11:20 AM
+      RBG-100 Error #3906 Occurred      
+
+
+         *** Security Event! ***        
+            00001/07/20 11:21 AM           
+    *** TCR Collection Box Opened ***   
+
+           RBG-100 Link Error           
+            Deposit Canceled            
+
+(Online Deposit)                        
+00001/07/20 11:21 AM
+Ray
+
+
+
+Logoff:                              Ray
+00001/07/20 11:22 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               ray
+00001/07/20 11:23 AM
+
+   *** Entered Configuration Mode ***   
+00001/07/20 11:24 AM
+ID:                                  ray
+
+           *** Added User ***           
+00001/07/20 11:24 AM
+ID:                           trash dump
+
+
+           *** Added User ***           
+00001/07/20 11:24 AM
+ID:                          trash dump1
+
+
+           *** Edited User ***          
+00001/07/20 11:24 AM
+ID:                          trash dump1
+
+
+           *** Added User ***           
+00001/07/20 11:24 AM
+ID:                          trash dump2
+
+
+           *** Added User ***           
+00001/07/20 11:24 AM
+ID:                          trash dump3
+
+
+           *** Added User ***           
+00001/07/20 11:25 AM
+ID:                                    4
+
+
+    *** Exited Configuration Mode ***   
+00001/07/20 11:25 AM
+ID:                                  ray
+
+
+========================================
+             DynaCore Users             
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+00001/07/20 11:25 AM
+
+4
+     Master user
+     Group 2
+     Group 3
+     Group 4
+     Group 5
+     Group 6
+     Group 7
+     Group 8
+     Group 9
+     Group 10
+     Group 11
+     Group 12
+     Group 13
+     Group 14
+     Group 15
+
+Dave
+     Master user
+
+Paul
+     Master user
+
+ray
+     Master user
+
+trash dump
+     Master user
+
+trash dump1
+     Master user
+     Group 2
+     Group 3
+     Group 4
+     Group 5
+     Group 6
+     Group 7
+     Group 8
+     Group 9
+     Group 10
+     Group 11
+     Group 12
+     Group 13
+     Group 14
+     Group 15
+
+trash dump2
+     Master user
+     Group 2
+     Group 3
+     Group 4
+     Group 5
+     Group 6
+     Group 7
+     Group 8
+     Group 9
+     Group 10
+     Group 11
+     Group 12
+     Group 13
+     Group 14
+     Group 15
+
+trash dump3
+     Master user
+     Group 2
+     Group 3
+     Group 4
+     Group 5
+     Group 6
+     Group 7
+     Group 8
+     Group 9
+     Group 10
+     Group 11
+     Group 12
+     Group 13
+     Group 14
+     Group 15
+
+========================================
+
+
+
+Logoff:                              ray
+00001/07/20 11:25 AM
+
+   *** Entered Configuration Mode ***   
+00001/07/20 11:26 AM
+ID:                               Level2
+
+
+Logon:                   Ray's bait shop
+00001/07/20 11:26 AM
+
+    *** Exited Configuration Mode ***   
+00001/07/20 11:29 AM
+ID:                      Ray's bait shop
+
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+========================================
+            Network Settings            
+
+System Serial #                         
+EEProm Serial #         90254B3F80000000
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Network                          Enabled
+Use DHCP                              No
+
+LAN 1 MAC Address      00:03:f4:0b:82:d1
+LAN 1 IP Address           192.168.1.213
+LAN 1 Subnet               255.255.255.0
+LAN 1 Gateway                192.168.1.1
+LAN 1 DNS                    192.168.1.4
+
+LAN 2 MAC Address      00:03:f4:0b:83:99
+LAN 2 IP Address           192.168.1.214
+LAN 2 Subnet                     0.0.0.0
+LAN 2 Gateway                    0.0.0.0
+LAN 2 DNS                        0.0.0.0
+
+DynaLog EJ            Standard Archiving
+DynaLog IP Address         192.168.1.250
+DynaLog Data Port                   9007
+DynaLog Maintenance Port            9008
+
+Firmware Version               10.00.170
+Release Date                    12/17/19
+Subscription Level                     3
+Subscription Start              10/10/19
+Subscription End                12/30/20
+
+Min. Console Version           1.1.0.085
+Min. DynaCash Version          4.3.0.065
+Min. DynaLog Server Version    2.0.0.005
+Min. DynaLog Viewer Version    2.0.0.000
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+           RBG-100 Link Error           
+
+Logon:                               ray
+00001/07/20 11:36 AM
+
+   *** Entered Configuration Mode ***   
+00001/07/20 11:36 AM
+ID:                                  ray
+
+          *** Deleted User ***          
+00001/07/20 11:36 AM
+ID:                                    4
+
+          *** Deleted User ***          
+00001/07/20 11:37 AM
+ID:                           trash dump
+
+    *** Exited Configuration Mode ***   
+00001/07/20 11:38 AM
+ID:                                  ray
+
+
+========================================
+             DynaCore Users             
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+00001/07/20 11:38 AM
+
+Dave
+     Master user
+
+Paul
+     Master user
+
+ray
+     Master user
+
+trash dump1
+     Master user
+     Group 2
+     Group 3
+     Group 4
+     Group 5
+     Group 6
+     Group 7
+     Group 8
+     Group 9
+     Group 10
+     Group 11
+     Group 12
+     Group 13
+     Group 14
+     Group 15
+
+trash dump2
+     Master user
+     Group 2
+     Group 3
+     Group 4
+     Group 5
+     Group 6
+     Group 7
+     Group 8
+     Group 9
+     Group 10
+     Group 11
+     Group 12
+     Group 13
+     Group 14
+     Group 15
+
+trash dump3
+     Master user
+     Group 2
+     Group 3
+     Group 4
+     Group 5
+     Group 6
+     Group 7
+     Group 8
+     Group 9
+     Group 10
+     Group 11
+     Group 12
+     Group 13
+     Group 14
+     Group 15
+
+========================================
+
+
+   *** Entered Configuration Mode ***   
+00001/07/20 11:38 AM
+ID:                                  ray
+
+    *** Exited Configuration Mode ***   
+00001/07/20 11:38 AM
+ID:                                  ray
+
+Logoff:                              ray
+00001/07/20 11:45 AM
+
+   *** Entered Configuration Mode ***   
+00001/07/20 11:46 AM
+ID:                               Level2
+
+Logon:                   Ray's bait shop
+00001/07/20 11:46 AM
+
+    *** Exited Configuration Mode ***   
+00001/07/20 11:48 AM
+ID:                      Ray's bait shop
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+           RBG-100 Link Error           
+
+   *** Entered Configuration Mode ***   
+00001/07/20 02:58 PM
+ID:                               Level2
+
+Logon:                   Ray's bait shop
+00001/07/20 02:58 PM
+
+    *** Exited Configuration Mode ***   
+00001/07/20 02:59 PM
+ID:                      Ray's bait shop
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               ray
+00001/07/20 03:02 PM
+
+   *** Entered Configuration Mode ***   
+00001/07/20 03:02 PM
+ID:                                  ray
+
+          *** Deleted User ***          
+00001/07/20 03:02 PM
+ID:                          trash dump1
+
+          *** Deleted User ***          
+00001/07/20 03:02 PM
+ID:                          trash dump2
+
+          *** Deleted User ***          
+00001/07/20 03:02 PM
+ID:                          trash dump3
+
+    *** Exited Configuration Mode ***   
+00001/07/20 03:02 PM
+ID:                                  ray
+
+
+========================================
+             DynaCore Groups            
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+00001/07/20 03:02 PM
+
+Group 0
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Master user
+     Online Withdrawals
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Empty & Remove Note Inventory
+     User Management
+     Group Management
+     Hardware Setup
+     Inventory Control Setup
+     Security Setup
+     Network Setup
+     Reset TCD/TCR Machine
+     Firmware Updates
+     Reboot System
+     Default System
+     Limit Overrides
+     Exit Duress Mode
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 2
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 3
+     Online Withdrawals
+     Online Deposits
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+     Load Notes & Adjust Coin
+     Reboot System
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 4
+     Online Deposits
+     Manual (Offline) Withdrawals
+     Manual (Offline) Deposits
+     View Reports (Self Only)
+     View Reports (All)
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 5
+     View Reports (Self Only)
+     View Reports (All)
+     Clear Daily Activity Totals
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 6
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 7
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 8
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 9
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 10
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 11
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 12
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 13
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 14
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+Group 15
+     No Enabled Functions
+
+     Transaction Limit          No Limit
+     Daily Limit                No Limit
+
+========================================
+
+
+
+========================================
+             DynaCore Users             
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+00001/07/20 03:02 PM
+
+Dave
+     Master user
+
+Paul
+     Master user
+
+ray
+     Master user
+
+========================================
+
+
+
+========================================
+            Hardware Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.72
+TCD/TCR Port                       58000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+Logoff:                              ray
+00001/07/20 03:03 PM
+
+   *** Entered Configuration Mode ***   
+00001/07/20 03:04 PM
+ID:                               Level2
+
+
+Logon:                   Ray's bait shop
+00001/07/20 03:04 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+00001/07/20 03:13 PM
+ID:                               Level2
+
+
+Logon:                   Ray's bait shop
+00001/07/20 03:13 PM
+
+    *** Exited Configuration Mode ***   
+00001/07/20 03:13 PM
+ID:                      Ray's bait shop
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+00001/07/20 03:17 PM
+ID:                               Level2
+
+Logon:                   Ray's bait shop
+00001/07/20 03:17 PM
+
+    *** Exited Configuration Mode ***   
+00001/07/20 03:23 PM
+ID:                      Ray's bait shop
+
+
+========================================
+              User Settings             
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+00001/07/20 03:27 PM
+ID:                                  OEM
+
+    *** Exited Configuration Mode ***   
+00001/07/20 03:27 PM
+ID:                                  OEM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+00001/07/20 03:27 PM
+ID:                               Level2
+
+
+Logon:                   Ray's bait shop
+00001/07/20 03:27 PM
+
+    *** Exited Configuration Mode ***   
+00001/07/20 03:56 PM
+ID:                      Ray's bait shop
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+00001/07/20 04:04 PM
+ID:                               Level2
+
+
+Logon:                   Ray's bait shop
+00001/07/20 04:04 PM
+
+    *** Exited Configuration Mode ***   
+00001/07/20 04:05 PM
+ID:                      Ray's bait shop
+
+
+========================================
+              User Settings             
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+Use Active Directory                  No
+Use Batch Totals                      No
+iButton Mode            iButton Disabled
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+00001/07/20 04:09 PM
+ID:                               Level2
+
+    *** Exited Configuration Mode ***   
+00001/07/20 04:09 PM
+ID:                               Level2
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+00001/07/20 04:09 PM
+ID:                               Level2
+
+
+Logon:                   Ray's bait shop
+00001/07/20 04:09 PM
+
+    *** Exited Configuration Mode ***   
+00001/07/20 04:09 PM
+ID:                      Ray's bait shop
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+00001/07/20 04:21 PM
+ID:                               Level2
+
+
+Logon:                   Ray's bait shop
+00001/07/20 04:21 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+00001/07/20 04:23 PM
+ID:                               Level2
+
+
+Logon:                   Ray's bait shop
+00001/07/20 04:23 PM
+
+    *** Exited Configuration Mode ***   
+00001/07/20 04:23 PM
+ID:                      Ray's bait shop
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+00001/07/20 04:28 PM
+ID:                               Level2
+
+Logon:                   Ray's bait shop
+00001/07/20 04:28 PM
+
+    *** Exited Configuration Mode ***   
+00001/07/20 04:28 PM
+ID:                      Ray's bait shop
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.170 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+

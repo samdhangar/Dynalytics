@@ -1,0 +1,171 @@
+       DynaCash (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    MoniSafe 500S Pgm. Ver. 5.6.10-DC   
+           DynaCash Mode: LAN           
+
+
+
+Station #                             47
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                            01/31/20
+Time                         10:24:54 AM
+
+($5) Assumed Count:                    4
+($5) Actual Count:                     4
+
+(Auto Audit Bill Count)                 
+Transaction #                         18
+Date                            01/31/20
+Time                         10:26:59 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$5                    4            20.00
+
+Audited Total                      20.00
+----------------------------------------
+
+($1) Assumed Count:                  300
+($1) Actual Count:                   300
+
+(Auto Audit Bill Count)                 
+Transaction #                         19
+Date                            01/31/20
+Time                         10:29:39 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  300           300.00
+
+Audited Total                     300.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         20
+Date                            01/31/20
+Time                         10:31:54 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$1                  300           300.00
+
+Total Inventory Removed           300.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         21
+Date                            01/31/20
+Time                         10:32:16 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$5                    4            20.00
+
+Total Inventory Removed            20.00
+----------------------------------------
+       *** Cassette 3 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         22
+Date                            01/31/20
+Time                         10:35:06 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$10                   7            70.00
+
+Total Inventory Removed            70.00
+----------------------------------------
+       *** Cassette 4 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         23
+Date                            01/31/20
+Time                         10:35:36 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$20                   3            60.00
+
+Total Inventory Removed            60.00
+----------------------------------------
+       *** Cassette 6 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         24
+Date                            01/31/20
+Time                         10:35:58 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$50                   1            50.00
+
+Total Inventory Removed            50.00
+----------------------------------------
+       *** Cassette 7 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         25
+Date                            01/31/20
+Time                         10:36:17 AM
+Manager #                              1
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Total Inventory Removed           100.00
+----------------------------------------
+       *** Cassette 8 Emptied ***       
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                             47
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Starting Inventory                  1.00
+Net Adjustments                  -262.00
+Total Inventory                      .00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensable Bills              .00
+
+Cass. 1 ($1)          0              .00
+Cass. 2 ($1)          0              .00
+Cass. 3 ($5)          0              .00
+Cass. 4 ($10)         0              .00
+Cass. 5 ($20)         0              .00
+Cass. 6 ($20)         0              .00
+Cass. 7 ($50)         0              .00
+Cass. 8 ($100)        0              .00
+               Ones Empty               
+               Fives Empty              
+               Tens Empty               
+             Twenties Empty             
+              Fifties Empty             
+             Hundreds Empty             
+========================================
+           Manager Logged Off           
+Manager #                              1
+Date                            01/31/20
+Time                         10:36:30 AM
+****************************************

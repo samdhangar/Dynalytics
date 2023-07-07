@@ -1,0 +1,370 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.102 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
+
+Logon:                              Paul
+001/29/20 09:23 AM
+
+   *** Entered Configuration Mode ***   
+001/29/20 09:23 AM
+ID:                                 Paul
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.104 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+Logon:                              Paul
+001/29/20 09:30 AM
+
+   *** Entered Configuration Mode ***   
+001/29/20 09:30 AM
+ID:                                 Paul
+
+    *** Exited Configuration Mode ***   
+001/29/20 09:30 AM
+ID:                                 Paul
+
+Logoff:                             Paul
+001/29/20 09:30 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.104 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.104 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.104 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+001/29/20 10:22 AM
+
+   *** Entered Configuration Mode ***   
+001/29/20 10:22 AM
+ID:                                 josh
+
+          *** Deleted User ***          
+001/29/20 10:22 AM
+ID: ∂˛EvùΩ†!ÜÄÑY#°ËmUàø+—√Pi$' mU
+àø+—√Pi$' mUàø+—√Pi$' mUàø+—√Pi
+$' 
+
+    *** Exited Configuration Mode ***   
+001/29/20 10:22 AM
+ID:                                 josh
+
+
+========================================
+             DynaCore Users             
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/29/20 10:22 AM
+
+Addon
+     MasterUser
+
+Josh
+     MasterUser
+
+Paul
+     MasterUser
+
+Ray
+     MasterUser
+
+========================================
+
+      TCR Error #FFFFFBAB Occurred      
+    Note Dispense Shortage Occurred!    
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+001/29/20 10:24 AM
+josh
+
+
+Amount Requested                  100.00
+Amount Tendered                      .00
+Balance Due                       100.00
+----------------------------------------
+
+
+Logoff:                             josh
+001/29/20 10:26 AM
+
+Logon:                              josh
+001/29/20 10:27 AM
+
+(Online Nominated Dispense)             
+Transaction #                          1
+001/29/20 10:27 AM
+Josh
+
+Denom            Pieces            Value
+$50                   1            50.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          2
+001/29/20 10:28 AM
+Josh
+
+Denom            Pieces            Value
+$50                 101          5050.00
+$20                 202          4040.00
+$10                 290          2900.00
+
+Machine Total                   11990.00
+Total Inventory Added           11990.00
+----------------------------------------
+       *** Cassette 1 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          3
+001/29/20 10:31 AM
+Josh
+
+Denom            Pieces            Value
+$20                 202          4040.00
+
+Total Inventory Removed          4040.00
+----------------------------------------
+       *** Cassette 2 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          4
+001/29/20 10:33 AM
+Josh
+
+Denom            Pieces            Value
+$10                 291          2910.00
+
+Total Inventory Removed          2910.00
+----------------------------------------
+       *** Cassette 5 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          5
+001/29/20 10:34 AM
+Josh
+
+Denom            Pieces            Value
+$50                 116          5800.00
+
+Total Inventory Removed          5800.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.104 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+          *** Power Failed ***          
+
+
+(Reconciled Rejects)                    
+Transaction #                          6
+001/29/20 10:39 AM
+Josh
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$20                  32           640.00
+$10                  16           160.00
+Unknown Notes       114              .00
+
+Reject Notes Removed              800.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$20                  32          +640.00
+$10                  16          +160.00
+Differences                      +800.00
+----------------------------------------
+
+Logon:                              josh
+001/29/20 10:49 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/29/20 10:49 AM
+josh
+
+
+
+Logoff:                             josh
+001/29/20 10:50 AM
+
+Logon:                              josh
+001/29/20 10:51 AM
+
+(Online Deposit)                        
+Transaction #                          7
+001/29/20 10:51 AM
+Josh
+
+Denom            Pieces            Value
+$50                  42          2100.00
+
+Machine Total                    2100.00
+Deposit Total                    2100.00
+----------------------------------------
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.104 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+001/29/20 11:07 AM
+       *** Cassette 5 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                          8
+001/29/20 11:08 AM
+Josh
+
+Denom            Pieces            Value
+$50                  42          2100.00
+
+Total Inventory Removed          2100.00
+----------------------------------------
+       *** Cassette 5 Emptied ***       
+ Prior Undocumented Cassette(s) Emptied!
+ 
+       TCR Error #29-0901 Occurred      
+        Line Error: Call Service        
+       TCR Error #29-0902 Occurred      
+      Driver Timeout During Request     
+       TCR Error #29-0902 Occurred      
+        Line Error: Call Service        
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                          9
+001/29/20 11:09 AM
+Josh
+
+Denom            Pieces            Value
+$50                  34          1700.00
+
+Total Inventory Removed          1700.00
+----------------------------------------
+ *** TCR Note Counts Are Incorrect! *** 
+  Removed Notes Subject To Fine Count!  
+
+      *** Client Disconnection ***      
+Logoff:                             josh
+001/29/20 11:16 AM
+
+Logon:                              Josh
+001/29/20 11:17 AM
+
+   *** Entered Configuration Mode ***   
+001/29/20 11:17 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/29/20 11:18 AM
+ID:                                 Josh
+
+   *** Entered Configuration Mode ***   
+001/29/20 11:18 AM
+ID:                                 Josh
+
+    *** Exited Configuration Mode ***   
+001/29/20 11:19 AM
+ID:                                 Josh
+
+Logoff:                             Josh
+001/29/20 11:19 AM

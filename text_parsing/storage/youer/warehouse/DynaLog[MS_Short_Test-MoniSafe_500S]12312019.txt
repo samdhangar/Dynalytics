@@ -1,0 +1,378 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.169 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+01/31/20 08:42 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.169 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+01/31/20 09:48 AM
+
+
+   *** Entered Configuration Mode ***   
+01/31/20 09:48 AM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2020 by      
+        Add-On Technologies, Inc.       
+    Version 10.00.170 (MoniSafe 500S)   
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+Logon:                             charo
+01/31/20 10:25 AM
+
+             TCR Link Error             
+      *** $1 Partial Collection ***     
+       *** $1 Notes Collected ***       
+       *** $5 Notes Collected ***       
+       *** $10 Notes Collected ***      
+       *** $1 Notes Collected ***       
+
+
+(Inventory Removal)                     
+Transaction #                          1
+01/31/20 10:30 AM
+Charo
+
+Denom            Pieces            Value
+$10                  81           810.00
+$5                   91           455.00
+$1                 1860          1860.00
+
+Total Inventory Removed          3125.00
+----------------------------------------
+
+(Replenished Cassettes)                 
+Transaction #                          2
+01/31/20 10:46 AM
+Charo
+
+Denom            Pieces            Value
+
+Replenished Total                    .00
+----------------------------------------
+
+CST-A ($1) Assumed Count:            682
+CST-A ($1) Actual Count:             682
+CST-B ($1) Assumed Count:            689
+CST-B ($1) Actual Count:             684
+CST-C ($5) Assumed Count:             91
+CST-C ($5) Actual Count:              91
+CST-D ($10) Assumed Count:            81
+CST-D ($10) Actual Count:             81
+CST-E ($1) Assumed Count:            489
+CST-E ($1) Actual Count:             489
+CST-F ($20) Assumed Count:            33
+CST-F ($20) Actual Count:             33
+CST-G ($50) Assumed Count:             5
+CST-G ($50) Actual Count:              5
+CST-H ($100) Assumed Count:            5
+CST-H ($100) Actual Count:             3
+
+(Auto Audit Note Count)                 
+Transaction #                          3
+01/31/20 10:54 AM
+Charo
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  81           810.00
+$5                   91           455.00
+$1                 1855          1855.00
+
+Audited Total                    4330.00
+----------------------------------------
+         *** Rejects Emptied ***        
+
+(Reconciled Rejects)                    
+Transaction #                          4
+01/31/20 11:11 AM
+Charo
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+$5                    2            10.00
+$1                    6             6.00
+
+Reject Notes Removed               16.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$5                    2            10.00
+$1                    6             6.00
+
+Reloaded Notes                     16.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes            .00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+Logoff:                            charo
+01/31/20 11:13 AM
+
+Logon:                             charo
+01/31/20 11:24 AM
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  81           810.00
+$5                   93           465.00
+$2                    0              .00
+$1                 1861          1861.00
+Coin                                 .00
+Starting Inventory               4546.00
+Net Adjustments                 -3093.75
+Total Inventory                  4346.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                  3           300.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  81           810.00
+$5                   93           465.00
+$1                 1861          1861.00
+Total Dispensable Notes          4346.00
+
+Cass. 1 $1          682           682.00
+Cass. 2 $1          684           684.00
+Cass. 3 $5           93           465.00
+Cass. 4 $10          81           810.00
+Cass. 5 $1          495           495.00
+Cass. 6 $20          33           660.00
+           $1 Notes Near Full           
+              $20 Notes Low             
+              $50 Notes Low             
+             $100 Notes Low             
+               CST-A High               
+               CST-B High               
+                CST-C Low               
+                CST-D Low               
+               CST-E High               
+                CST-F Low               
+                CST-G Low               
+                CST-H Low               
+========================================
+
+
+
+
+
+
+
+
+   *** Entered Configuration Mode ***   
+01/31/20 11:34 AM
+ID:                                charo
+
+    *** Exited Configuration Mode ***   
+01/31/20 11:34 AM
+ID:                                charo
+
+   *** Entered Configuration Mode ***   
+01/31/20 11:39 AM
+ID:                                charo
+
+    *** Exited Configuration Mode ***   
+01/31/20 11:40 AM
+ID:                                charo
+
+
+========================================
+           Inventory Settings           
+Station:                   MS Short Test
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+            AutoMix Settings            
+----------------------------------------
+Mix 1 Below $                        300
+Mix 2 Below $                        600
+
+         Low   Mid   High   Weight  Odds
+$100       0     0      0      6     Yes
+$50        0     0      0      5      No
+$20        5     5      5      1     Yes
+$10        3     3      3      2     Yes
+$5         5     5      5      3     Yes
+$1         5     5      5      4     Yes
+----------------------------------------
+            Warnings/Bundling           
+----------------------------------------
+          Warn At          Bundle At    
+         Low   High     Teller   Manager
+$100      50    900         25       100
+$50       50    900         25       100
+$20       50    900        100       100
+$10       50    900        100       100
+$5        50    900        100       100
+$1        50    900         50       100
+========================================
+
+(Inventory Removal)                     
+Transaction #                          5
+01/31/20 11:42 AM
+Charo
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                  300           300.00
+
+Total Inventory Removed           485.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                          6
+01/31/20 11:44 AM
+Charo
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                  300           300.00
+
+Machine Total                     485.00
+Total Inventory Added             485.00
+----------------------------------------
+Cass. 1 Adjustment Pending         -1.00
+New Cassette Total                  4.82
+
+Cass. 2 Adjustment Pending         -1.00
+New Cassette Total                  6.17
+
+Cass. 3 Adjustment Pending         -1.00
+New Cassette Total                  3.65
+
+Cass. 4 Adjustment Pending         -1.00
+New Cassette Total                  7.10
+
+Cass. 5 Adjustment Pending         -1.00
+New Cassette Total                  4.62
+
+Cass. 6 Adjustment Pending         -1.00
+New Cassette Total                   .00
+
+Cass. 7 Adjustment Pending         -1.00
+New Cassette Total                  1.50
+
+Cass. 8 Adjustment Pending         -1.00
+New Cassette Total                  2.00
+
+
+(Inventory Adjustment)                  
+Transaction #                          7
+01/31/20 11:45 AM
+Charo
+
+Denom            Pieces            Value
+$100                  1          -100.00
+$50                   2          -100.00
+$10                  10          -100.00
+$5                   20          -100.00
+$1                  300          -300.00
+
+Total Net Added                     +.00
+Total Net Removed                -700.00
+Total Net Adjusted               -700.00
+----------------------------------------
+
+CST-A ($1) Assumed Count:            482
+CST-A ($1) Actual Count:             582
+CST-B ($1) Assumed Count:            617
+CST-B ($1) Actual Count:             702
+CST-C ($5) Assumed Count:             73
+CST-C ($5) Actual Count:              93
+CST-D ($10) Assumed Count:            71
+CST-D ($10) Actual Count:             81
+CST-E ($1) Assumed Count:            462
+CST-E ($1) Actual Count:             562
+CST-F ($20) Assumed Count:            33
+CST-F ($20) Actual Count:             33
+CST-G ($50) Assumed Count:             3
+CST-G ($50) Actual Count:              5
+CST-H ($100) Assumed Count:            2
+CST-H ($100) Actual Count:             3
+
+(Auto Audit Note Count)                 
+Transaction #                          8
+01/31/20 11:48 AM
+Charo
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   5           250.00
+$20                  33           660.00
+$10                  81           810.00
+$5                   93           465.00
+$1                 1846          1846.00
+
+Audited Total                    4331.00
+----------------------------------------
+
+Logoff:                            charo
+01/31/20 12:13 PM

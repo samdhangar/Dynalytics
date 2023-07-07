@@ -1,0 +1,842 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/10/20 08:55 AM
+
+   *** Entered Configuration Mode ***   
+01/10/20 08:55 AM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/10/20 08:55 AM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+TCD/TCR Address            192.168.1.116
+TCD/TCR Port                       60000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser             No Coin Usage
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.152 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+  *** Automatic System Memory Clear *** 
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/10/20 09:34 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/10/20 09:43 AM
+
+Logoff:                              Ray
+01/10/20 09:44 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/10/20 10:02 AM
+
+             TCR Link Error             
+
+Console Disconnected During Transaction!
+
+             TCR Link Error             
+
+Console Disconnected During Transaction!
+             Deposit Failure            
+
+(Online Deposit)                        
+01/10/20 10:35 AM
+Ray
+
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/10/20 10:35 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/10/20 10:47 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/10/20 11:01 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/10/20 11:10 AM
+
+Logoff:                              Ray
+01/10/20 11:32 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/10/20 11:40 AM
+            Deposit Canceled            
+
+(Online Deposit)                        
+01/10/20 11:41 AM
+Ray
+
+
+
+Console Disconnected During Transaction!
+
+             TCR Link Error             
+
+Console Disconnected During Transaction!
+
+             Deposit Failure            
+    *** Possible Partial Deposit ***    
+
+(Online Deposit)                        
+Transaction #                          1
+01/10/20 11:42 AM
+Ray
+
+Denom            Pieces            Value
+200k                200           40000k
+
+Machine Total                     40000k
+Deposit Total                     40000k
+----------------------------------------
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/10/20 12:05 PM At 01/10/20 11:44 AM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/10/20 12:06 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+          *** Power Failed ***          
+    *** Possible Partial Deposit ***    
+
+
+(Online Deposit)                        
+Transaction #                          2
+01/10/20 12:06 PM
+Ray
+
+Denom            Pieces            Value
+500k                200          100000k
+
+Machine Total                    100000k
+Deposit Total                    100000k
+----------------------------------------
+
+             TCR Link Error             
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+01/10/20 01:01 PM
+
+   *** Entered Configuration Mode ***   
+01/10/20 01:01 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+01/10/20 01:01 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+01/10/20 01:02 PM
+
+Logon:                               Ray
+01/10/20 01:02 PM
+
+             TCR Link Error             
+
+(Online Nominated Dispense)             
+Transaction #                          3
+01/10/20 01:05 PM
+Ray
+
+Denom            Pieces            Value
+100k                 20            2000k
+
+Amount Tendered                    2000k
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                          4
+01/10/20 01:07 PM
+Ray
+
+Denom            Pieces            Value
+100k                 56            5600k
+
+Amount Tendered                    5600k
+----------------------------------------
+
+(Online Nominated Dispense)             
+Transaction #                          5
+01/10/20 01:09 PM
+Ray
+
+Denom            Pieces            Value
+100k                 56            5600k
+
+Amount Tendered                    5600k
+----------------------------------------
+
+Logoff:                              Ray
+01/10/20 01:12 PM
+
+Logon:                               Ray
+01/10/20 01:17 PM
+
+Logoff:                              Ray
+01/10/20 01:17 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/10/20 01:27 PM
+       TCR Error #04-9090 Occurred      
+   Entrance/Exit In Improper Position   
+
+         *** Security Event! ***        
+            01/10/20 01:33 PM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/10/20 01:34 PM           
+      *** TCR Safe Door Closed ***      
+      TCR Error #FFFFFBAB Occurred      
+    Note Dispense Shortage Occurred!    
+
+            Partial Dispense            
+
+(Online Nominated Dispense)             
+Transaction #                          6
+01/10/20 01:36 PM
+Ray
+
+Denom            Pieces            Value
+200k                  1             200k
+100k                  1             100k
+20k                   3              60k
+10k                   2              20k
+
+Amount Requested                    880k
+Amount Tendered                     380k
+Balance Due                         500k
+----------------------------------------
+
+         *** Security Event! ***        
+            01/10/20 01:38 PM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/10/20 01:39 PM           
+      *** TCR Safe Door Closed ***      
+
+(Reconciled Rejects)                    
+Transaction #                          7
+01/10/20 01:42 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+Unknown Notes        25               0k
+
+Reject Notes Removed                  0k
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+500k                 15            7500k
+200k                 10            2000k
+
+Reloaded Notes                     9500k
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes             0k
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+500k                 15           -7500k
+200k                 10           -2000k
+Differences                    -8580434k
+----------------------------------------
+
+         *** Security Event! ***        
+            01/10/20 01:39 PM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/10/20 01:42 PM           
+      *** TCR Safe Door Closed ***      
+
+         *** Security Event! ***        
+            01/10/20 01:39 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/10/20 01:42 PM           
+      *** TCR Lower Unit Closed ***     
+
+Logoff:                              Ray
+01/10/20 01:47 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/10/20 02:23 PM
+      TCR Error #FFFFFBAB Occurred      
+    Note Dispense Shortage Occurred!    
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+01/10/20 02:27 PM
+Ray
+
+
+Amount Requested                    500k
+Amount Tendered                       0k
+Balance Due                         500k
+----------------------------------------
+
+
+(Reconciled Rejects)                    
+Transaction #                          8
+01/10/20 02:30 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+Unknown Notes        15               0k
+
+Reject Notes Removed                  0k
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+500k                 15            7500k
+
+Reloaded Notes                     7500k
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes             0k
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+500k                 15           -7500k
+Differences                    -4287467k
+----------------------------------------
+
+         *** Security Event! ***        
+            01/10/20 02:28 PM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/10/20 02:30 PM           
+      *** TCR Safe Door Closed ***      
+
+         *** Security Event! ***        
+            01/10/20 02:29 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/10/20 02:30 PM           
+      *** TCR Lower Unit Closed ***     
+
+Logoff:                              Ray
+01/10/20 02:56 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/10/20 03:06 PM
+      TCR Error #FFFFFBAB Occurred      
+    Note Dispense Shortage Occurred!    
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+01/10/20 03:12 PM
+Ray
+
+
+Amount Requested                    500k
+Amount Tendered                       0k
+Balance Due                         500k
+----------------------------------------
+
+
+(Reconciled Rejects)                    
+Transaction #                          9
+01/10/20 03:15 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+Unknown Notes        15               0k
+
+Reject Notes Removed                  0k
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+500k                 15            7500k
+
+Reloaded Notes                     7500k
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes             0k
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+500k                 15           -7500k
+Differences                    -4287467k
+----------------------------------------
+
+         *** Security Event! ***        
+            01/10/20 03:13 PM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/10/20 03:15 PM           
+      *** TCR Safe Door Closed ***      
+
+         *** Security Event! ***        
+            01/10/20 03:13 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/10/20 03:14 PM           
+      *** TCR Lower Unit Closed ***     
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+01/10/20 03:57 PM At 01/10/20 03:16 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/10/20 04:00 PM
+      TCR Error #FFFFFBAB Occurred      
+    Note Dispense Shortage Occurred!    
+            Dispense Failure            
+
+
+(Online Nominated Dispense)             
+01/10/20 04:03 PM
+Ray
+
+
+Amount Requested                    500k
+Amount Tendered                       0k
+Balance Due                         500k
+----------------------------------------
+
+
+(Reconciled Rejects)                    
+Transaction #                         10
+01/10/20 04:06 PM
+Ray
+
+----------------------------------------
+          Reject Notes Removed          
+----------------------------------------
+Denom            Pieces            Value
+Unknown Notes        15               0k
+
+Reject Notes Removed                  0k
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+500k                 15            7500k
+
+Reloaded Notes                     7500k
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+
+Removed (Mutilated) Notes             0k
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+500k                 15           +7500k
+Differences                       +7500k
+----------------------------------------
+
+         *** Security Event! ***        
+            01/10/20 04:05 PM           
+      *** TCR Safe Door Opened ***      
+
+         *** Security Event! ***        
+            01/10/20 04:06 PM           
+      *** TCR Safe Door Closed ***      
+
+         *** Security Event! ***        
+            01/10/20 04:05 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            01/10/20 04:06 PM           
+      *** TCR Lower Unit Closed ***     
+
+Logoff:                              Ray
+01/10/20 04:11 PM At 01/10/20 04:10 PM
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.153 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                         Ray  34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+Logon:                               Ray
+01/10/20 04:40 PM
+
+(Inventory Load)                        
+Transaction #                         11
+01/10/20 04:40 PM
+Ray
+
+Denom            Pieces            Value
+500k                101           50500k
+
+Machine Total                     50500k
+Total Inventory Added             50500k
+----------------------------------------
+       *** Cassette 3 Emptied ***       
+
+(Inventory Removal)                     
+Transaction #                         12
+01/10/20 04:47 PM
+Ray
+
+Denom            Pieces            Value
+100k                133           13300k
+
+Total Inventory Removed           13300k
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         13
+01/10/20 04:49 PM
+Ray
+
+Denom            Pieces            Value
+500k                 67           33500k
+100k                133           13300k
+
+Machine Total                     46800k
+Total Inventory Added             46800k
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         14
+01/10/20 04:50 PM
+Ray
+
+Denom            Pieces            Value
+500k                 34           17000k
+200k                  2             400k
+100k                  5             500k
+20k                  38             760k
+10k                   2              20k
+
+Machine Total                     18680k
+Total Inventory Added             18680k
+----------------------------------------
+
+Logoff:                              Ray
+01/10/20 04:59 PM

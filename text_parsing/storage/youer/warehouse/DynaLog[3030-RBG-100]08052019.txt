@@ -1,0 +1,208 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.134 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/05/20 11:10 AM
+
+Logoff:                              Ray
+001/05/20 11:10 AM
+
+Logon:                               Ray
+001/05/20 02:25 PM
+
+Logoff:                              Ray
+001/05/20 02:25 PM
+
+Logon:                               Ray
+001/05/20 03:50 PM
+
+
+   *** Entered Configuration Mode ***   
+001/05/20 03:50 PM
+ID:                                  Ray
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.137 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+(Vault Buy)                             
+Transaction #                          1
+001/05/20 04:01 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Amount Tendered                   186.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                          2
+001/05/20 04:02 PM
+Ray
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   1            20.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Amount Tendered                   186.00
+----------------------------------------
+
+       *** Vault Sell Reversed ***      
+
+Original Amount Sold              336.00
+Reversed Amount                   336.00
+            Deposit Canceled            
+
+(Vault Sell)                            
+001/05/20 04:15 PM
+Ray
+
+
+
+(Vault Sell)                            
+Transaction #                          3
+001/05/20 04:15 PM
+Ray
+
+Denom            Pieces            Value
+$100                  3           300.00
+$50                   2           100.00
+$20                   2            40.00
+$10                   1            10.00
+$5                    1             5.00
+$1                    1             1.00
+
+Machine Total                     456.00
+Deposit Total                     456.00
+----------------------------------------
+
+Logon:                               Ray
+001/05/20 04:28 PM
+
+(Online Mix Dispense)                   
+Transaction #                          4
+001/05/20 04:28 PM
+Ray
+
+Denom            Pieces            Value
+$20                   6           120.00
+$10                   3            30.00
+$5                    6            30.00
+$1                    6             6.00
+
+Amount Tendered                   186.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                          5
+001/05/20 04:29 PM
+Ray
+
+Denom            Pieces            Value
+$20                   2            40.00
+$10                   1            10.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                          6
+001/05/20 04:29 PM
+Ray
+
+Denom            Pieces            Value
+$20                   1            20.00
+$5                    1             5.00
+
+Non-Cash Total                     25.00
+Amount Tendered                    25.00
+----------------------------------------
+
+Logoff:                              Ray
+001/05/20 04:29 PM
+
+Logon:                               Ray
+001/05/20 04:38 PM
+
+Logoff:                              Ray
+001/05/20 04:38 PM
+
+Logon:                               Ray
+001/05/20 04:48 PM
+
+     *** Online Deposit Reversed ***    
+
+Original Amount Deposited          50.00
+Reversed Amount                    50.00
+            Deposit Canceled            
+
+(Online Deposit)                        
+001/05/20 04:49 PM
+Ray
+
+
+
+(Online Deposit)                        
+Transaction #                          7
+001/05/20 04:49 PM
+Ray
+
+Denom            Pieces            Value
+$20                   6           120.00
+$10                   1            10.00
+$5                    1             5.00
+
+Machine Total                     135.00
+Deposit Total                     135.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          8
+001/05/20 04:49 PM
+Ray
+
+Denom            Pieces            Value
+$10                   1            10.00
+$5                    1             5.00
+$2                    1             2.00
+$1                    1             1.00
+
+Other Coin                           .99
+Other Cash Deposited               18.99
+
+Deposit Total                      18.99
+----------------------------------------
+
+Logoff:                              Ray
+001/05/20 04:50 PM

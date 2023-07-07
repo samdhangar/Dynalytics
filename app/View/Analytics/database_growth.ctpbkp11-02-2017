@@ -1,0 +1,60 @@
+<?php
+$this->assign('pagetitle', __('Database Growth Report'));
+$this->Custom->addCrumb(__('Analytics'));
+$this->start('top_links');
+echo $this->Html->link('<span>' . __(getReportFilter($this->Session->read('Report.databaseGrowthReport'))) . '</span>', 'javascript:void(0)', array('data-toggle' => 'tooltip', 'title' => __('Select Date'), 'icon' => 'fa-calendar', 'class' => 'btn btn-primary btn-sm daterange pull-right', 'escape' => false));
+echo $this->Html->link(__('Export CSV'), array('controller' => 'export', 'action' => 'database_growth'), array('title' => __('Export CSV'), 'icon' => 'fa-download', 'class' => 'btn btn-primary btn-sm pull-right', 'escape' => false));
+$this->end();
+
+?>
+<div class="row">
+    <label class="col-md-12 col-sm-12 graphTitle h4">
+        <?php
+        echo getReportFilter($this->Session->read('Report.databaseGrowthReport'));
+
+        ?>
+    </label>
+    <?php 
+    echo $this->element('user/line_chart_container');
+    ?>
+    <div class="col-md-12 col-sm-12 form-group">
+        <div id="containerPie"></div>
+    </div>
+    
+    <div class="col-md-12 col-sm-12 ">
+        <label class="h3"> <strong>Database Growth Data</strong></label>
+    </div>
+    <div class="col-md-12 col-sm-12 table-responsive htmlDataTable">
+        <?php echo $this->element('reports/database_growth', array('dbGrowth' => $DatabaseGrowths));?>
+    </div>
+</div>
+<?php
+echo $this->Html->script('user/chart');
+
+?>
+
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+        var data = '<?php echo $temp; ?>';
+        var xAxisDates = '<?php echo $xAxisDates; ?>';
+        var tickInterval = '<?php echo $tickInterval; ?>';
+        var pieData = '<?php echo $dbGrowthPieData; ?>';
+        var pieTitle = '<?php echo $pieTitle; ?>';
+        var pieName = '<?php echo $pieName; ?>';
+        var options = {
+            name: '<?php echo $lineChartName; ?>',
+            title: '<?php echo $lineChartTitle; ?>',
+            xTitle: '<?php echo $lineChartxAxisTitle; ?>',
+            yTitle: '<?php echo $lineChartyAxisTitle; ?>',
+            id: '#container'
+        };
+        multiLineChart(data, xAxisDates, tickInterval, options);
+        pieChart(pieData, pieTitle, pieName);
+
+        var startDate = moment('<?php echo $this->Session->read('Report.databaseGrowthReport.start_date') ?>', 'YYYY-MM-DD');
+        var endDate = moment('<?php echo $this->Session->read('Report.databaseGrowthReport.end_date') ?>', 'YYYY-MM-DD');
+
+        addDateRange(startDate, endDate, "analytics/database_growth", 'multiLineChart');
+
+    });
+</script>

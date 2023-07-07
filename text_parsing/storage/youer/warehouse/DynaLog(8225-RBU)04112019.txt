@@ -1,0 +1,260 @@
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.60-DC       
+           DynaCash Mode: USB           
+
+
+
+Station #                           8225
+
+
+     Recycler Inventory NOT Cleared     
+         Coin Inventory Cleared         
+           Defaults Installed           
+   Side A Coin On - Machine Dispensing  
+   Side B Coin On - Machine Dispensing  
+
+
+========================================
+              Manager Setup             
+Date                             1/01/00
+Time                         12:00:02 AM
+Added Manager                          1
+           Exit Manager Setup           
+========================================
+
+========================================
+              Teller Setup              
+Date                             1/01/00
+Time                         12:00:14 AM
+
+Added Teller                           1
+Transaction Limit               No Limit
+Daily Limit                     No Limit
+Deposit Limit                   No Limit
+            Exit Teller Setup           
+========================================
+
+
+****************************************
+            Manager Logged On           
+Manager #                              1
+Date                             1/01/00
+Time                         12:00:42 AM
+Coin  Adjusted                   +100.00
+New Coin Total                    100.00
+
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                           8225
+Denom            Pieces            Value
+$100                744         74400.00
+$50                 744         37200.00
+$20                 745         14900.00
+$10                 848          8480.00
+$5                  798          3990.00
+$2                    0              .00
+$1                  234           234.00
+Coin                              100.00
+Starting Inventory             139204.00
+Net Adjustments                   100.00
+Total Inventory                139304.00
+========================================
+
+           Manager Logged Off           
+Manager #                              1
+Date                             1/01/00
+Time                         12:00:53 AM
+****************************************
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.60-DC       
+           DynaCash Mode: USB           
+
+
+
+Station #                           8225
+
+
+            Side A Logged On            
+Date                             01/11/20
+Time                          5:26:00 PM
+Teller #                               1
+            Side B Logged On            
+Date                             01/11/20
+Time                          5:28:09 PM
+Teller #                               1
+
+
+      This Transaction Went Offline     
+
+
+(Online Mix Dispense)                   
+Transaction #                          1
+Date                             01/11/20
+Time                          5:28:22 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+
+
+      This Transaction Went Offline     
+
+
+(Online Mix Dispense)                   
+Transaction #                          2
+Date                             01/11/20
+Time                          5:28:57 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.60-DC       
+           DynaCash Mode: USB           
+
+
+
+Station #                           8225
+
+
+            Side A Logged On            
+Date                             01/11/20
+Time                          5:43:00 PM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          3
+Date                             01/11/20
+Time                          5:43:04 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          4
+Date                             01/11/20
+Time                          5:44:25 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+            Side B Logged On            
+Date                             01/11/20
+Time                          5:45:01 PM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          5
+Date                             01/11/20
+Time                          5:45:06 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.60-DC       
+           DynaCash Mode: USB           
+
+
+
+Station #                           8225
+
+
+            Side B Logged On            
+Date                             01/11/20
+Time                          5:46:27 PM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          6
+Date                             01/11/20
+Time                          5:46:32 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          7
+Date                             01/11/20
+Time                          5:46:54 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+       DynaCash (c) 1999 - 2017 by      
+        Add-On Technologies, Inc.       
+       RBU-11 Pgm. Ver. 5.5.60-DC       
+           DynaCash Mode: USB           
+
+
+
+Station #                           8225
+
+
+            Side B Logged On            
+Date                             01/11/20
+Time                          5:52:54 PM
+Teller #                               1
+
+
+(Online Mix Dispense)                   
+Transaction #                          8
+Date                             01/11/20
+Time                          5:52:59 PM
+Teller #                               1
+
+Denom            Pieces            Value
+$1                    1             1.00
+Coin                                 .10
+
+Amount Tendered                     1.10
+----------------------------------------
+
+            Side B Logged Off           
+Teller #                               1
+Date                             01/11/20
+Time                          5:56:35 PM
+

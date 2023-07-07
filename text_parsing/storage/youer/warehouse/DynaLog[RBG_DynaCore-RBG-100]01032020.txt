@@ -1,0 +1,673 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.169 (RBG-100)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                    RBG DynaCore
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                              josh
+00001/03/20 08:31 AM
+
+   *** Entered Configuration Mode ***   
+00001/03/20 08:31 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+00001/03/20 08:34 AM
+ID:                                 josh
+
+
+Logoff:                             josh
+00001/03/20 08:34 AM
+
+Logon:                              josh
+00001/03/20 08:35 AM
+
+Logoff:                             josh
+00001/03/20 08:35 AM
+
+Logon:                               Ray
+00001/03/20 08:51 AM
+
+(Online Nominated Dispense)             
+Transaction #                          5
+00001/03/20 08:52 AM
+Ray
+       *** Dual Control Logon ***       
+josh
+Denom            Pieces            Value
+$1                   20            20.00
+
+Amount Tendered                    20.00
+----------------------------------------
+
+           RBG-100 Link Error           
+
+           RBG-100 Link Error           
+            Deposit Canceled            
+
+(Online Deposit)                        
+00001/03/20 09:04 AM
+Ray
+
+
+
+      *** Client Disconnection ***      
+Logoff:                              Ray
+00001/03/20 09:05 AM
+
+Logon:                              Josh
+00001/03/20 09:06 AM
+
+========================================
+          Excess Notes History          
+Station:                    RBG DynaCore
+Branch:                      Test Branch
+Region:                      Test Region
+00001/03/20 09:12 AM
+ID:                                 Josh
+       *** Dual Control Logon ***       
+ray-------------------------------------
+---
+
+(Online Deposit)                        
+Transaction #                 Incomplete
+00001/03/20 09:00 AM
+Ray
+
+Denom            Pieces            Value
+$1                   20            20.00
+
+Total Excess Notes                 20.00
+========================================
+
+
+
+
+
+
+
+
+
+(Processed Excess Notes)                
+Transaction #                          6
+00001/03/20 09:12 AM
+Josh
+
+Denom            Pieces            Value
+$1                   20            20.00
+
+Excess Notes Processed             20.00
+----------------------------------------
+  *** Excess Notes History Cleared ***  
+
+         *** Security Event! ***        
+            00001/03/20 09:38 AM           
+    *** TCR Main Safe Door Opened ***   
+
+         *** Security Event! ***        
+            00001/03/20 09:38 AM           
+  *** TCR Main Storage Unit Opened ***  
+
+         *** Security Event! ***        
+            00001/03/20 09:39 AM           
+  *** TCR Main Storage Unit Closed ***  
+
+         *** Security Event! ***        
+            00001/03/20 09:39 AM           
+    *** TCR Main Safe Door Closed ***   
+
+(Reconciled Exposed Notes)              
+Transaction #                          7
+00001/03/20 09:42 AM
+Josh
+       *** Dual Control Logon ***       
+ray
+Denom            Pieces            Value
+$5                  160           800.00
+
+Exposed Notes Reconciled          800.00
+----------------------------------------
+  *** Exposed Notes History Cleared *** 
+
+(Online Nominated Dispense)             
+Transaction #                          8
+00001/03/20 09:44 AM
+Josh
+
+Denom            Pieces            Value
+$100                140         14000.00
+$5                  165           825.00
+
+Amount Tendered                 14825.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                          9
+00001/03/20 09:46 AM
+Josh
+
+Denom            Pieces            Value
+$100                140         14000.00
+$5                  165           825.00
+
+Machine Total                   14825.00
+Deposit Total                   14825.00
+----------------------------------------
+ *** Cassette Cass. 2 Needs Long Verify 
+***                                     
+                                        
+                                        
+                                        
+                                        
+                                        
+                     *** Use Manual Cas
+sette Removal ***  
+
+         *** Security Event! ***        
+            00001/03/20 09:49 AM           
+    *** TCR Main Safe Door Opened ***   
+
+         *** Security Event! ***        
+            00001/03/20 09:49 AM           
+  *** TCR Main Storage Unit Opened ***  
+
+         *** Security Event! ***        
+            00001/03/20 09:50 AM           
+  *** TCR Main Storage Unit Closed ***  
+
+         *** Security Event! ***        
+            00001/03/20 09:51 AM           
+    *** TCR Main Safe Door Closed ***   
+       *** Cassette 2 Emptied ***       
+       *** Cassette 5 Emptied ***       
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         10
+00001/03/20 09:51 AM
+Josh
+       *** Dual Control Logon ***       
+ray
+Denom            Pieces            Value
+$100                140         14000.00
+$5                  165           825.00
+
+Total Inventory Removed         14825.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         11
+00001/03/20 09:52 AM
+Josh
+
+Denom            Pieces            Value
+$100                140         14000.00
+$5                  165           825.00
+
+Machine Total                   14825.00
+Total Inventory Added           14825.00
+----------------------------------------
+
+Logoff:                             Josh
+00001/03/20 09:57 AM
+
+Logon:                              josh
+00001/03/20 09:57 AM
+
+(Online Mix Dispense)                   
+Transaction #                         12
+00001/03/20 09:57 AM
+Josh
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         13
+00001/03/20 09:57 AM
+Josh
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Machine Total                      10.00
+Deposit Total                      10.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         14
+00001/03/20 09:58 AM
+Josh
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Amount Tendered                     5.00
+----------------------------------------
+
+(Online Mix Dispense)                   
+Transaction #                         15
+00001/03/20 09:58 AM
+Josh
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Amount Tendered                     5.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         16
+00001/03/20 09:59 AM
+Josh
+
+Denom            Pieces            Value
+$5                    2            10.00
+
+Machine Total                      10.00
+Deposit Total                      10.00
+----------------------------------------
+
+   *** Entered Configuration Mode ***   
+00001/03/20 09:59 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+00001/03/20 10:00 AM
+ID:                                 josh
+
+
+Logoff:                             josh
+00001/03/20 10:00 AM
+
+Logon:                               ray
+00001/03/20 10:27 AM
+
+Logoff:                              ray
+00001/03/20 10:27 AM
+
+Logon:                               ray
+00001/03/20 10:28 AM
+
+Console Disconnected During Transaction!
+
+Console Disconnected During Transaction!
+
+      *** Client Disconnection ***      
+Logoff:                              ray
+00001/03/20 10:28 AM
+
+Logon:                              josh
+00001/03/20 10:53 AM
+
+   *** Entered Configuration Mode ***   
+00001/03/20 11:01 AM
+ID:                                 josh
+
+    *** Exited Configuration Mode ***   
+00001/03/20 11:03 AM
+ID:                                 josh
+
+Logoff:                             josh
+00001/03/20 11:04 AM
+
+Logon:                              josh
+00001/03/20 11:05 AM
+
+(Online Mix Dispense)                   
+Transaction #                         17
+00001/03/20 11:05 AM
+Josh
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+
+(Online Deposit)                        
+Transaction #                         18
+00001/03/20 11:05 AM
+Josh
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Machine Total                      10.00
+Deposit Total                      10.00
+----------------------------------------
+
+Logoff:                             josh
+00001/03/20 11:07 AM
+
+Logon:                              josh
+00001/03/20 11:29 AM
+
+Logoff:                             josh
+00001/03/20 11:31 AM
+
+Logon:                              Josh
+00001/03/20 01:14 PM
+
+(Inventory Removal)                     
+Transaction #                         19
+00001/03/20 01:14 PM
+Josh
+       *** Dual Control Logon ***       
+ray
+Denom            Pieces            Value
+$1                   50            50.00
+
+Total Inventory Removed            50.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         20
+00001/03/20 01:22 PM
+Josh
+
+Denom            Pieces            Value
+$1                   50            50.00
+
+Machine Total                      50.00
+Total Inventory Added              50.00
+----------------------------------------
+    *** Cassette Cass. 1 Emptied ***    
+    *** Cassette Cass. 2 Emptied ***    
+    *** Cassette Cass. 3 Emptied ***    
+
+
+(Inventory Removal)                     
+Transaction #                         21
+00001/03/20 02:39 PM
+Josh
+       *** Dual Control Logon ***       
+ray
+Denom            Pieces            Value
+$10                 252          2520.00
+$5                  164           820.00
+$1                  180           180.00
+
+Total Inventory Removed          3520.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         22
+00001/03/20 02:46 PM
+Josh
+
+Denom            Pieces            Value
+$10                 250          2500.00
+$5                  164           820.00
+$1                  179           179.00
+
+Machine Total                    3499.00
+Total Inventory Added            3499.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         23
+00001/03/20 03:31 PM
+Josh
+       *** Dual Control Logon ***       
+ray
+Denom            Pieces            Value
+$1                  101           101.00
+
+Total Inventory Removed           101.00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         24
+00001/03/20 03:35 PM
+Josh
+       *** Dual Control Logon ***       
+ray
+Denom            Pieces            Value
+$1                    1             1.00
+
+Total Inventory Removed             1.00
+----------------------------------------
+
+         *** Security Event! ***        
+            00001/03/20 04:08 PM           
+    *** TCR Main Safe Door Opened ***   
+
+         *** Security Event! ***        
+            00001/03/20 04:08 PM           
+    *** TCR Main Safe Door Closed ***   
+
+   *** Manual Note Removal Attempt ***  
+      *** No Notes Were Removed ***     
+
+Logoff:                             Josh
+00001/03/20 04:09 PM
+
+Logon:                              josh
+00001/03/20 04:14 PM
+
+         *** Security Event! ***        
+            00001/03/20 04:19 PM           
+    *** TCR Main Safe Door Opened ***   
+
+         *** Security Event! ***        
+            00001/03/20 04:22 PM           
+  *** TCR Main Storage Unit Opened ***  
+
+         *** Security Event! ***        
+            00001/03/20 04:23 PM           
+  *** TCR Main Storage Unit Closed ***  
+
+         *** Security Event! ***        
+            00001/03/20 04:23 PM           
+    *** TCR Main Safe Door Closed ***   
+       *** Cassette 5 Emptied ***       
+    *** Cassette And Note Removal ***   
+
+(Inventory Removal)                     
+Transaction #                         25
+00001/03/20 04:23 PM
+Josh
+       *** Dual Control Logon ***       
+ray
+Denom            Pieces            Value
+$100                140         14000.00
+
+Total Inventory Removed         14000.00
+----------------------------------------
+
+         *** Security Event! ***        
+            00001/03/20 04:34 PM           
+   *** TCR Lower Safe Door Opened ***   
+
+         *** Security Event! ***        
+            00001/03/20 04:34 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            00001/03/20 04:34 PM           
+    *** TCR Collection Box Opened ***   
+
+         *** Security Event! ***        
+            00001/03/20 04:34 PM           
+    *** TCR Collection Box Closed ***   
+
+         *** Security Event! ***        
+            00001/03/20 04:34 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            00001/03/20 04:34 PM           
+   *** TCR Lower Safe Door Closed ***   
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         26
+00001/03/20 04:35 PM
+Josh
+       *** Dual Control Logon ***       
+ray
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$10                  15           150.00
+$5                    1             5.00
+
+Collection Notes Removed          155.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+Denom            Pieces            Value
+$1                   99            99.00
+
+Reloaded Notes                     99.00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$10                  15           150.00
+$5                    1             5.00
+
+Removed (Mutilated) Notes         155.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Denom            Pieces            Value
+$1                   99           +99.00
+
+Differences                       +99.00
+----------------------------------------
+    *** Cassette Cass. 1 Emptied ***    
+
+(Inventory Removal)                     
+Transaction #                         27
+00001/03/20 04:38 PM
+Josh
+       *** Dual Control Logon ***       
+ray
+Denom            Pieces            Value
+$1                  177           177.00
+
+Total Inventory Removed           177.00
+----------------------------------------
+
+(Inventory Load)                        
+Transaction #                         28
+00001/03/20 04:40 PM
+Josh
+
+Denom            Pieces            Value
+$100                140         14000.00
+$10                  15           150.00
+$5                    1             5.00
+$1                  176           176.00
+
+Machine Total                   14331.00
+Total Inventory Added           14331.00
+----------------------------------------
+       *** $1 Notes Collected ***       
+       *** $10 Notes Collected ***      
+
+
+(Inventory Collected)                   
+Transaction #                         29
+00001/03/20 04:41 PM
+Josh
+       *** Dual Control Logon ***       
+ray
+Denom            Pieces            Value
+$10                  15           150.00
+$1                    1             1.00
+
+Total Inventory Collected         151.00
+----------------------------------------
+
+         *** Security Event! ***        
+            00001/03/20 04:43 PM           
+   *** TCR Lower Safe Door Opened ***   
+
+         *** Security Event! ***        
+            00001/03/20 04:43 PM           
+      *** TCR Lower Unit Opened ***     
+
+         *** Security Event! ***        
+            00001/03/20 04:43 PM           
+    *** TCR Collection Box Opened ***   
+
+         *** Security Event! ***        
+            00001/03/20 04:43 PM           
+    *** TCR Collection Box Closed ***   
+
+         *** Security Event! ***        
+            00001/03/20 04:43 PM           
+      *** TCR Lower Unit Closed ***     
+
+         *** Security Event! ***        
+            00001/03/20 04:43 PM           
+   *** TCR Lower Safe Door Closed ***   
+   *** Collection Cassette Emptied ***  
+     *** Collection Note Removal ***    
+
+(Reconciled Collection Box)             
+Transaction #                         30
+00001/03/20 04:43 PM
+Josh
+       *** Dual Control Logon ***       
+ray
+----------------------------------------
+        Collection Notes Removed        
+----------------------------------------
+Denom            Pieces            Value
+$10                  15           150.00
+$1                    1             1.00
+
+Collection Notes Removed          151.00
+
+----------------------------------------
+             Reloaded Notes             
+----------------------------------------
+
+Reloaded Notes                       .00
+
+----------------------------------------
+        Removed (Mutilated) Notes       
+----------------------------------------
+Denom            Pieces            Value
+$10                  15           150.00
+$1                    1             1.00
+
+Removed (Mutilated) Notes         151.00
+
+----------------------------------------
+               Differences              
+----------------------------------------
+Differences                          .00
+----------------------------------------
+
+(Inventory Removal)                     
+Transaction #                         31
+00001/03/20 04:44 PM
+Josh
+       *** Dual Control Logon ***       
+ray
+Denom            Pieces            Value
+$1                  100           100.00
+
+Total Inventory Removed           100.00
+----------------------------------------

@@ -1,0 +1,52 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.141 (OKI TG7)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+
+
+             TCR Link Error             
+
+Logon:                               Ray
+001/10/20 05:18 PM
+
+             TCR Link Error             
+
+   *** Entered Configuration Mode ***   
+001/10/20 05:39 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/10/20 05:40 PM
+ID:                                  Ray
+
+
+========================================
+            Hardware Settings           
+Station:                              34
+Branch:                       Ray Branch
+Region:                       Ray Region
+----------------------------------------
+TCD/TCR Address            192.168.1.115
+TCD/TCR Port                       60000
+TCD/TCR Connection                 LAN 1
+Coin Dispenser             No Coin Usage
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+
+Logoff:                              Ray
+001/10/20 05:40 PM

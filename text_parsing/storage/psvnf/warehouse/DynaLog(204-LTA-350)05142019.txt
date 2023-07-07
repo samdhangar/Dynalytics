@@ -1,0 +1,1525 @@
+           Manager Logged Off           
+Manager #                            280
+Date                             9/14/17
+Time                          9:09:50 AM
+****************************************
+            Side B Logged On            
+Date                             9/14/17
+Time                          9:09:53 AM
+Teller #                             243
+
+            Side B Logged Off           
+Teller #                             243
+Date                             9/14/17
+Time                          9:10:14 AM
+
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/14/17
+Time                          9:33:31 AM
+
+         Inventory Load Failure         
+
+(Inventory Load)                        
+Date                             9/14/17
+Time                          9:33:40 AM
+Manager #                            243
+
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/14/17
+Time                          9:33:43 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/14/17
+Time                          9:33:46 AM
+
+
+(Inventory Load)                        
+Transaction #                          1
+Date                             9/14/17
+Time                          9:35:07 AM
+Manager #                            243
+
+Denom            Pieces            Value
+$50                   4           200.00
+$20                 696         13920.00
+
+Total Inventory Added           14120.00
+----------------------------------------
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                            204
+Denom            Pieces            Value
+$100                162         16200.00
+$50                 347         17350.00
+$20                1433         28660.00
+$10                 279          2790.00
+$5                  813          4065.00
+$2                    1             2.00
+$1                  440           440.00
+Starting Inventory              55387.00
+Net Adjustments                 14120.00
+Total Inventory                 69507.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                148         14800.00
+$50                 331         16550.00
+$20                1428         28560.00
+$10                 277          2770.00
+$5                  813          4065.00
+$1                  440           440.00
+Total Dispensable Bills         67185.00
+
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                  12           600.00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    1             2.00
+$1                    0              .00
+Total Op Cassette Bills           602.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$100                 14          1400.00
+$50                   4           200.00
+$20                   5           100.00
+$10                   2            20.00
+Total Reject Bills               1720.00
+
+Cass. 1 ($1)        440           440.00
+Cass. 2 ($5)        813          4065.00
+Cass. 3 ($20)      1428         28560.00
+Cass. 4 ($100)      148         14800.00
+Cass. 5 ($10)       277          2770.00
+Cass. 6 ($50)       331         16550.00
+
+========================================
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/14/17
+Time                          9:59:23 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/14/17
+Time                          9:59:33 AM
+
+
+(Inventory Load)                        
+Transaction #                          2
+Date                             9/14/17
+Time                          9:59:54 AM
+Manager #                            243
+
+Denom            Pieces            Value
+$100                200         20000.00
+$50                  96          4800.00
+$20                 304          6080.00
+
+Total Inventory Added           30880.00
+----------------------------------------
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                            204
+Denom            Pieces            Value
+$100                362         36200.00
+$50                 443         22150.00
+$20                1737         34740.00
+$10                 279          2790.00
+$5                  813          4065.00
+$2                    1             2.00
+$1                  440           440.00
+Starting Inventory              55387.00
+Net Adjustments                 45000.00
+Total Inventory                100387.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                348         34800.00
+$50                 427         21350.00
+$20                1732         34640.00
+$10                 277          2770.00
+$5                  813          4065.00
+$1                  440           440.00
+Total Dispensable Bills         98065.00
+
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                  12           600.00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    1             2.00
+$1                    0              .00
+Total Op Cassette Bills           602.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$100                 14          1400.00
+$50                   4           200.00
+$20                   5           100.00
+$10                   2            20.00
+Total Reject Bills               1720.00
+
+Cass. 1 ($1)        440           440.00
+Cass. 2 ($5)        813          4065.00
+Cass. 3 ($20)      1732         34640.00
+Cass. 4 ($100)      348         34800.00
+Cass. 5 ($10)       277          2770.00
+Cass. 6 ($50)       427         21350.00
+
+========================================
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/14/17
+Time                         10:01:29 AM
+****************************************
+            Side B Logged On            
+Date                             9/14/17
+Time                         10:02:07 AM
+Teller #                             243
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/14/17
+Time                         10:02:52 AM
+
+
+ *** Reject Box Was Emptied To Exit *** 
+ *** Rejects Need To Be Reconciled! *** 
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/14/17
+Time                         10:03:39 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/14/17
+Time                         10:03:42 AM
+
+
+(Inventory Removal)                     
+Transaction #                          3
+Date                             9/14/17
+Time                         10:06:24 AM
+Manager #                            243
+
+Denom            Pieces            Value
+$50                  12           600.00
+$2                    1             2.00
+
+Total Inventory Removed           602.00
+----------------------------------------
+       *** Op Cassette Emptied ***      
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                            204
+Denom            Pieces            Value
+$100                348         34800.00
+$50                 427         21350.00
+$20                1732         34640.00
+$10                 277          2770.00
+$5                  813          4065.00
+$2                    0              .00
+$1                  440           440.00
+Starting Inventory              55387.00
+Net Adjustments                 44398.00
+Total Inventory                 98065.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                348         34800.00
+$50                 427         21350.00
+$20                1732         34640.00
+$10                 277          2770.00
+$5                  813          4065.00
+$1                  440           440.00
+Total Dispensable Bills         98065.00
+
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+Cass. 1 ($1)        440           440.00
+Cass. 2 ($5)        813          4065.00
+Cass. 3 ($20)      1732         34640.00
+Cass. 4 ($100)      348         34800.00
+Cass. 5 ($10)       277          2770.00
+Cass. 6 ($50)       427         21350.00
+========================================
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/14/17
+Time                         10:06:33 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/14/17
+Time                         10:06:38 AM
+        TCR Error #1225 Occurred        
+
+
+      *** Failed To Occupy TCR ***      
+        TCR Error #E102 Occurred        
+
+
+
+      *** TCR Bill Audit Failed ***     
+ *** Audit Bills Remain In Op Cass! *** 
+
+        TCR Error #2654 Occurred        
+
+
+
+*** Error During Reject Box Emptying ***
+ *** Possible Exposed Reject Bills! *** 
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/14/17
+Time                         10:10:40 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/14/17
+Time                         10:11:04 AM
+
+
+(Inventory Removal)                     
+Transaction #                          4
+Date                             9/14/17
+Time                         10:11:38 AM
+Manager #                            243
+
+Denom            Pieces            Value
+$1                   62            62.00
+
+Total Inventory Removed            62.00
+----------------------------------------
+       *** Op Cassette Emptied ***      
+
+        TCR Error #2654 Occurred        
+
+
+
+*** Error During Reject Box Emptying ***
+ *** Possible Exposed Reject Bills! *** 
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                            204
+Denom            Pieces            Value
+$100                348         34800.00
+$50                 427         21350.00
+$20                1732         34640.00
+$10                 277          2770.00
+$5                  813          4065.00
+$2                    0              .00
+$1                  378           378.00
+Starting Inventory              55387.00
+Net Adjustments                 44336.00
+Total Inventory                 98003.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                348         34800.00
+$50                 427         21350.00
+$20                1732         34640.00
+$10                 277          2770.00
+$5                  813          4065.00
+$1                  378           378.00
+Total Dispensable Bills         98003.00
+
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+Cass. 1 ($1)        378           378.00
+Cass. 2 ($5)        813          4065.00
+Cass. 3 ($20)      1732         34640.00
+Cass. 4 ($100)      348         34800.00
+Cass. 5 ($10)       277          2770.00
+Cass. 6 ($50)       427         21350.00
+========================================
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/14/17
+Time                         10:15:58 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/14/17
+Time                         10:16:02 AM
+($1) Assumed Count:                  378
+($1) Actual Count:                   378
+($5) Assumed Count:                  813
+($5) Actual Count:                   813
+($20) Assumed Count:                1732
+($20) Actual Count:                 1691
+($100) Assumed Count:                348
+($100) Actual Count:                 348
+($10) Assumed Count:                 277
+($10) Actual Count:                  277
+($50) Assumed Count:                 427
+($50) Actual Count:                  427
+
+(Auto Audit Bill Count)                 
+Transaction #                          5
+Date                             9/14/17
+Time                         10:18:13 AM
+Manager #                            243
+
+Denom            Pieces            Value
+$100                348         34800.00
+$50                 427         21350.00
+$20                1691         33820.00
+$10                 277          2770.00
+$5                  813          4065.00
+$1                  378           378.00
+
+Audited Total                   97183.00
+----------------------------------------
+
+  *** Inventory Adjusted Per Audit ***  
+
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                            204
+Denom            Pieces            Value
+$100                348         34800.00
+$50                 427         21350.00
+$20                1732         34640.00
+$10                 277          2770.00
+$5                  813          4065.00
+$2                    0              .00
+$1                  378           378.00
+Starting Inventory              55387.00
+Net Adjustments                 44336.00
+Total Inventory                 98003.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                348         34800.00
+$50                 427         21350.00
+$20                1691         33820.00
+$10                 277          2770.00
+$5                  813          4065.00
+$1                  378           378.00
+Total Dispensable Bills         97183.00
+
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$20                  41           820.00
+Total Reject Bills                820.00
+
+Cass. 1 ($1)        378           378.00
+Cass. 2 ($5)        813          4065.00
+Cass. 3 ($20)      1691         33820.00
+Cass. 4 ($100)      348         34800.00
+Cass. 5 ($10)       277          2770.00
+Cass. 6 ($50)       427         21350.00
+========================================
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/14/17
+Time                         10:39:13 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/14/17
+Time                         10:39:47 AM
+
+
+ *** Reject Box Was Emptied To Exit *** 
+ *** Rejects Need To Be Reconciled! *** 
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/14/17
+Time                         10:40:36 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/14/17
+Time                         10:40:42 AM
+           Manager Logged Off           
+Manager #                            243
+Date                             9/14/17
+Time                         10:40:44 AM
+****************************************
+
+
+(Online Deposit)                        
+Transaction #                          5
+Date                            1/01/-30
+Time                         12:00:00 AM
+Manager #                              0
+
+Denom            Pieces            Value
+
+Total Inventory Added                .00
+----------------------------------------
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/14/17
+Time                         11:02:44 AM
+
+
+(Inventory Load)                        
+Transaction #                          6
+Date                             9/14/17
+Time                         11:03:20 AM
+Manager #                            243
+
+Denom            Pieces            Value
+$100                 14          1400.00
+$50                  16           800.00
+$20                  45           900.00
+$10                   2            20.00
+$1                   64            64.00
+
+Total Inventory Added            3184.00
+----------------------------------------
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                            204
+Denom            Pieces            Value
+$100                362         36200.00
+$50                 443         22150.00
+$20                1736         34720.00
+$10                 279          2790.00
+$5                  813          4065.00
+$2                    0              .00
+$1                  442           442.00
+Starting Inventory              55387.00
+Net Adjustments                 47520.00
+Total Inventory                100367.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                362         36200.00
+$50                 443         22150.00
+$20                1736         34720.00
+$10                 279          2790.00
+$5                  813          4065.00
+$1                  442           442.00
+Total Dispensable Bills        100367.00
+
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+Cass. 1 ($1)        442           442.00
+Cass. 2 ($5)        813          4065.00
+Cass. 3 ($20)      1736         34720.00
+Cass. 4 ($100)      362         36200.00
+Cass. 5 ($10)       279          2790.00
+Cass. 6 ($50)       443         22150.00
+========================================
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/14/17
+Time                         11:03:44 AM
+****************************************
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/14/17
+Time                         11:03:52 AM
+
+
+(Inventory Load)                        
+Transaction #                          7
+Date                             9/14/17
+Time                         11:04:23 AM
+Manager #                            243
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Total Inventory Added              20.00
+----------------------------------------
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                            204
+Denom            Pieces            Value
+$100                362         36200.00
+$50                 443         22150.00
+$20                1737         34740.00
+$10                 279          2790.00
+$5                  813          4065.00
+$2                    0              .00
+$1                  442           442.00
+Starting Inventory              55387.00
+Net Adjustments                 47540.00
+Total Inventory                100387.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                362         36200.00
+$50                 443         22150.00
+$20                1737         34740.00
+$10                 279          2790.00
+$5                  813          4065.00
+$1                  442           442.00
+Total Dispensable Bills        100387.00
+
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills              .00
+
+Cass. 1 ($1)        442           442.00
+Cass. 2 ($5)        813          4065.00
+Cass. 3 ($20)      1737         34740.00
+Cass. 4 ($100)      362         36200.00
+Cass. 5 ($10)       279          2790.00
+Cass. 6 ($50)       443         22150.00
+========================================
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/14/17
+Time                         11:05:15 AM
+****************************************
+
+            Side B Logged Off           
+Teller #                             243
+Date                             9/14/17
+Time                         11:31:37 AM
+
+            Side B Logged On            
+Date                             9/14/17
+Time                         11:34:18 AM
+Teller #                             277
+
+
+(Vault Buy)                             
+Transaction #                          8
+Date                             9/14/17
+Time                         12:05:41 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$5                   10            50.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                          9
+Date                             9/14/17
+Time                         12:07:53 PM
+Teller #                             277
+
+Denom            Pieces            Value
+$20                   4            80.00
+
+Amount Tendered                    80.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         10
+Date                             9/14/17
+Time                         12:11:02 PM
+Teller #                             277
+
+Denom            Pieces            Value
+$20                   2            40.00
+$10                   1            10.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         11
+Date                             9/14/17
+Time                         12:12:05 PM
+Teller #                             277
+
+Denom            Pieces            Value
+$100                 15          1500.00
+
+Amount Tendered                  1500.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         12
+Date                             9/14/17
+Time                         12:28:33 PM
+Teller #                             277
+
+Denom            Pieces            Value
+$20                   5           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                         13
+Date                             9/14/17
+Time                         12:31:46 PM
+Teller #                             277
+
+Denom            Pieces            Value
+$100                  5           500.00
+
+Deposit Total                     500.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         14
+Date                             9/14/17
+Time                         12:45:11 PM
+Teller #                             277
+
+Denom            Pieces            Value
+$20                   2            40.00
+$10                   1            10.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+            Side B Logged Off           
+Teller #                             277
+Date                             9/14/17
+Time                         12:59:38 PM
+
+            Side B Logged On            
+Date                             9/14/17
+Time                          1:10:01 PM
+Teller #                             120
+
+            Side B Logged Off           
+Teller #                             120
+Date                             9/14/17
+Time                          1:10:29 PM
+
+            Side B Logged On            
+Date                             9/14/17
+Time                          1:54:17 PM
+Teller #                             243
+
+
+(Vault Buy)                             
+Transaction #                         15
+Date                             9/14/17
+Time                          2:26:19 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$100                 38          3800.00
+$20                   7           140.00
+$10                   4            40.00
+$5                    4            20.00
+
+Amount Tendered                  4000.00
+----------------------------------------
+
+            Side B Logged Off           
+Teller #                             243
+Date                             9/14/17
+Time                          2:30:02 PM
+
+
+
+(Vault Buy)                             
+Transaction #                         16
+Date                             9/14/17
+Time                          2:35:27 PM
+Teller #                             243
+
+Denom            Pieces            Value
+$100                 10          1000.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         17
+Date                             9/14/17
+Time                          2:43:56 PM
+Teller #                             243
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   2           100.00
+$20                  12           240.00
+$10                   1            10.00
+
+Amount Tendered                   450.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         18
+Date                             9/14/17
+Time                          2:50:54 PM
+Teller #                             243
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                   5           100.00
+
+Amount Tendered                   250.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         19
+Date                             9/14/17
+Time                          2:53:02 PM
+Teller #                             243
+
+Denom            Pieces            Value
+$50                   1            50.00
+
+Amount Tendered                    50.00
+----------------------------------------
+            Side B Logged On            
+Date                             9/14/17
+Time                          2:54:52 PM
+Teller #                             120
+
+
+(Online Mix Dispense)                   
+Transaction #                         20
+Date                             9/14/17
+Time                          2:55:09 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$20                  10           200.00
+$10                   5            50.00
+
+Amount Tendered                   250.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         21
+Date                             9/14/17
+Time                          3:07:45 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         22
+Date                             9/14/17
+Time                          3:09:48 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+
+Amount Tendered                    30.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         23
+Date                             9/14/17
+Time                          3:23:57 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$100                  2           200.00
+$20                   5           100.00
+
+Amount Tendered                   300.00
+----------------------------------------
+
+
+(Vault Buy)                             
+Transaction #                         24
+Date                             9/14/17
+Time                          3:25:32 PM
+Teller #                             243
+
+Denom            Pieces            Value
+$100                  2           200.00
+$20                   2            40.00
+$10                   1            10.00
+
+Amount Tendered                   250.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         25
+Date                             9/14/17
+Time                          3:30:40 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$100                  5           500.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         26
+Date                             9/14/17
+Time                          3:42:09 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$100                 10          1000.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         27
+Date                             9/14/17
+Time                          3:52:10 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$100                  5           500.00
+$50                   1            50.00
+
+Amount Tendered                   550.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         28
+Date                             9/14/17
+Time                          3:53:31 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$20                  12           240.00
+$10                   1            10.00
+
+Amount Tendered                   250.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         29
+Date                             9/14/17
+Time                          3:56:11 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   2           100.00
+$20                  11           220.00
+
+Amount Tendered                   420.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         30
+Date                             9/14/17
+Time                          3:58:24 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$100                 30          3000.00
+$50                   2           100.00
+$20                   5           100.00
+
+Amount Tendered                  3200.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         31
+Date                             9/14/17
+Time                          4:01:32 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$20                   1            20.00
+$10                   1            10.00
+
+Amount Tendered                    30.00
+----------------------------------------
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/14/17
+Time                          4:24:43 PM
+
+
+(Inventory Load)                        
+Transaction #                         32
+Date                             9/14/17
+Time                          4:25:05 PM
+Manager #                            243
+
+Denom            Pieces            Value
+$50                 102          5100.00
+
+Total Inventory Added            5100.00
+----------------------------------------
+
+
+========================================
+                Inventory               
+----------------------------------------
+Station #                            204
+Denom            Pieces            Value
+$100                247         24700.00
+$50                 536         26800.00
+$20                1653         33060.00
+$10                 262          2620.00
+$5                  799          3995.00
+$2                    0              .00
+$1                  442           442.00
+Starting Inventory              55387.00
+Net Adjustments                 52640.00
+Total Inventory                 91617.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                240         24000.00
+$50                 532         26600.00
+$20                1652         33040.00
+$10                 260          2600.00
+$5                  799          3995.00
+$1                  442           442.00
+Total Dispensable Bills         90677.00
+
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                   4           200.00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills           200.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$100                  7           700.00
+$20                   1            20.00
+$10                   2            20.00
+Total Reject Bills                740.00
+
+Cass. 1 ($1)        442           442.00
+Cass. 2 ($5)        799          3995.00
+Cass. 3 ($20)      1652         33040.00
+Cass. 4 ($100)      240         24000.00
+Cass. 5 ($10)       260          2600.00
+Cass. 6 ($50)       532         26600.00
+              Cass. 6 Full              
+========================================
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/14/17
+Time                          4:25:18 PM
+****************************************
+
+
+(Online Mix Dispense)                   
+Transaction #                         33
+Date                             9/14/17
+Time                          4:29:46 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$20                   7           140.00
+$10                   1            10.00
+$1                    2             2.00
+
+Amount Tendered                   152.00
+----------------------------------------
+
+            Side B Logged Off           
+Teller #                             120
+Date                             9/14/17
+Time                          4:30:57 PM
+
+            Side B Logged On            
+Date                             9/14/17
+Time                          4:31:01 PM
+Teller #                             243
+
+            Side B Logged Off           
+Teller #                             243
+Date                             9/14/17
+Time                          4:31:12 PM
+
+            Side B Logged On            
+Date                             9/14/17
+Time                          4:31:18 PM
+Teller #                             120
+
+            Side B Logged Off           
+Teller #                             120
+Date                             9/14/17
+Time                          4:31:55 PM
+
+            Side B Logged On            
+Date                             9/14/17
+Time                          4:32:02 PM
+Teller #                             243
+
+            Side B Logged Off           
+Teller #                             243
+Date                             9/14/17
+Time                          4:32:12 PM
+
+            Side B Logged On            
+Date                             9/14/17
+Time                          4:32:20 PM
+Teller #                             120
+
+
+(Online Deposit)                        
+Transaction #                         34
+Date                             9/14/17
+Time                          4:35:26 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$100                  1           100.00
+$50                   1            50.00
+$20                  10           200.00
+
+Deposit Total                     350.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                         35
+Date                             9/14/17
+Time                          4:36:48 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$50                   6           300.00
+$1                   27            27.00
+
+Deposit Total                     327.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         36
+Date                             9/14/17
+Time                          4:40:29 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$5                    1             5.00
+$1                    3             3.00
+
+Amount Tendered                     8.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                         37
+Date                             9/14/17
+Time                          4:49:36 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$100                  2           200.00
+
+Deposit Total                     200.00
+----------------------------------------
+
+
+(Online Mix Dispense)                   
+Transaction #                         38
+Date                             9/14/17
+Time                          4:49:59 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$20                   2            40.00
+$10                   1            10.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+
+(Online Nominated Dispense)             
+Transaction #                         39
+Date                             9/14/17
+Time                          4:50:26 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$50                   1            50.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+
+(Online Deposit)                        
+Transaction #                         40
+Date                             9/14/17
+Time                          4:50:51 PM
+Teller #                             120
+
+Denom            Pieces            Value
+$20                   2            40.00
+$10                   1            10.00
+
+Deposit Total                      50.00
+----------------------------------------
+
+            Side B Logged Off           
+Teller #                             120
+Date                             9/14/17
+Time                          5:09:38 PM
+
+****************************************
+            Manager Logged On           
+Manager #                            243
+Date                             9/14/17
+Time                          5:33:04 PM
+
+
+========================================
+             Activity Report            
+Station #                            204
+Date                             9/14/17
+Time                          5:33:07 PM
+Manager #                            243
+========================================
+             Teller Activity            
+----------------------------------------
+Teller #                             120
+# of Deposits                          4
+# of Withdrawals                      17
+
+Deposit Total                     927.00
+
+Vault Buy Total                  4050.00
+Withdrawal Total                10850.00
+----------------------------------------
+Net Total                       -9923.00
+----------------------------------------
+Teller #                             243
+# of Deposits                          0
+# of Withdrawals                       5
+
+Deposit Total                        .00
+
+Vault Buy Total                  2000.00
+Withdrawal Total                 2000.00
+----------------------------------------
+Net Total                       -2000.00
+----------------------------------------
+Teller #                             277
+# of Deposits                          1
+# of Withdrawals                       5
+
+Deposit Total                     500.00
+
+Withdrawal Total                 1780.00
+----------------------------------------
+Net Total                       -1280.00
+========================================
+----------------------------------------
+            Side A Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Deposited                      .00
+----------------------------------------
+            Side B Deposited            
+----------------------------------------
+Denom            Pieces            Value
+$100                  8           800.00
+$50                   7           350.00
+$20                  12           240.00
+$10                   1            10.00
+$5                    0              .00
+$2                    0              .00
+$1                   27            27.00
+Total Deposited                  1427.00
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+Denom            Pieces            Value
+$100                  8           800.00
+$50                   7           350.00
+$20                  12           240.00
+$10                   1            10.00
+$5                    0              .00
+$2                    0              .00
+$1                   27            27.00
+Total Deposited                  1427.00
+# of Deposits                          5
+========================================
+----------------------------------------
+            Side A Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Total Dispensed                      .00
+----------------------------------------
+            Side B Dispensed            
+----------------------------------------
+Denom            Pieces            Value
+$100                 68          6800.00
+$50                   6           300.00
+$20                  67          1340.00
+$10                  13           130.00
+$5                    1             5.00
+$1                    5             5.00
+Total Dispensed                  8580.00
+----------------------------------------
+               Vault Buys               
+----------------------------------------
+Denom            Pieces            Value
+$100                 52          5200.00
+$50                   4           200.00
+$20                  26           520.00
+$10                   6            60.00
+$5                   14            70.00
+$1                    0              .00
+Vault Buy Total                  6050.00
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                120         12000.00
+$50                  10           500.00
+$20                  93          1860.00
+$10                  19           190.00
+$5                   15            75.00
+$1                    5             5.00
+Total Dispensed                 14630.00
+# of Withdrawals                      27
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                 60         -6000.00
+$50                   1           +50.00
+$20                  55         -1100.00
+$10                  12          -120.00
+$5                    1            -5.00
+$2                    0              .00
+$1                   22           +22.00
+Net Total                      -13203.00
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                250         25000.00
+$50                 542         27100.00
+$20                1656         33120.00
+$10                 261          2610.00
+$5                  798          3990.00
+$2                    0              .00
+$1                  464           464.00
+Starting Inventory              55387.00
+Net Adjustments                 52640.00
+Total Inventory                 92284.00
+
+----------------------------------------
+            Dispensable Bills           
+----------------------------------------
+$100                243         24300.00
+$50                 531         26550.00
+$20                1655         33100.00
+$10                 259          2590.00
+$5                  798          3990.00
+$1                  464           464.00
+Total Dispensable Bills         90994.00
+
+----------------------------------------
+            Op Cassette Bills           
+----------------------------------------
+$100                  0              .00
+$50                  11           550.00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Bills           550.00
+
+----------------------------------------
+          Reject Cassette Bills         
+----------------------------------------
+$100                  7           700.00
+$20                   1            20.00
+$10                   2            20.00
+Total Reject Bills                740.00
+
+Cass. 1 ($1)        464           464.00
+Cass. 2 ($5)        798          3990.00
+Cass. 3 ($20)      1655         33100.00
+Cass. 4 ($100)      243         24300.00
+Cass. 5 ($10)       259          2590.00
+Cass. 6 ($50)       531         26550.00
+              Cass. 6 Full              
+========================================
+
+
+       Teller Grand Totals Cleared      
+            Activity Cleared            
+
+
+
+
+
+
+
+
+
+
+           Manager Logged Off           
+Manager #                            243
+Date                             9/14/17
+Time                          5:33:31 PM
+****************************************

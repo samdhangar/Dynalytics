@@ -1,0 +1,467 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.131 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/23/20 09:58 AM
+
+========================================
+                Inventory               
+----------------------------------------
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+Denom            Pieces            Value
+$100                575         57500.00
+$50                 115          5750.00
+$20                  76          1520.00
+$10                 112          1120.00
+$5                  107           535.00
+$2                    0              .00
+$1                  241           241.00
+Starting Inventory              66666.00
+Net Adjustments                      .00
+Total Inventory                 66666.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                575         57500.00
+$50                 115          5750.00
+$20                  76          1520.00
+$10                 112          1120.00
+$5                  107           535.00
+$1                  241           241.00
+Total Dispensable Notes         66666.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Notes              .00
+
+Cass. 1 $1          241           241.00
+Cass. 2 $20          76          1520.00
+Cass. 3 $5          107           535.00
+Cass. 4 $100        575         57500.00
+Cass. 5 $10         112          1120.00
+Cass. 6 $50         115          5750.00
+                CST-B Low               
+========================================
+
+
+
+
+
+
+
+
+Logon:                              Josh
+001/23/20 11:28 AM
+
+Logoff:                             Josh
+001/23/20 12:18 PM
+
+(Vault Sell)                            
+Transaction #                          1
+001/23/20 12:18 PM
+Josh
+
+Denom            Pieces            Value
+$50                   1            50.00
+
+Machine Total                      50.00
+Deposit Total                      50.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          2
+001/23/20 12:20 PM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Machine Total                     100.00
+Deposit Total                     100.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          3
+001/23/20 12:21 PM
+Josh
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          4
+001/23/20 12:21 PM
+Josh
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Machine Total                       5.00
+Deposit Total                       5.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          5
+001/23/20 12:22 PM
+Josh
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Deposit Total                       1.00
+----------------------------------------
+
+Logon:                              Josh
+001/23/20 12:32 PM
+
+Logoff:                             Josh
+001/23/20 12:32 PM
+
+(Vault Sell)                            
+Transaction #                          6
+001/23/20 12:33 PM
+Josh
+
+Denom            Pieces            Value
+$100                  1           100.00
+
+Machine Total                     100.00
+Deposit Total                     100.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          7
+001/23/20 12:33 PM
+Josh
+
+Denom            Pieces            Value
+$50                   1            50.00
+
+Machine Total                      50.00
+Deposit Total                      50.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          8
+001/23/20 12:34 PM
+Josh
+
+Denom            Pieces            Value
+$10                   1            10.00
+
+Machine Total                      10.00
+Deposit Total                      10.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                          9
+001/23/20 12:34 PM
+Josh
+
+Denom            Pieces            Value
+$1                    1             1.00
+
+Machine Total                       1.00
+Deposit Total                       1.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                         10
+001/23/20 12:35 PM
+Josh
+
+Denom            Pieces            Value
+$5                    1             5.00
+
+Machine Total                       5.00
+Deposit Total                       5.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                         11
+001/23/20 12:35 PM
+Josh
+
+Denom            Pieces            Value
+$20                   1            20.00
+
+Machine Total                      20.00
+Deposit Total                      20.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         12
+001/23/20 12:37 PM
+Josh
+
+Denom            Pieces            Value
+$100                 10          1000.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+Logon:                              Josh
+001/23/20 12:39 PM
+*** Forced Logoff of Non-Admin Users ***
+
+
+   *** Entered Configuration Mode ***   
+001/23/20 12:39 PM
+ID:                                 Josh
+
+           *** Added User ***           
+001/23/20 12:40 PM
+ID:                                 Adam
+
+
+           *** Added User ***           
+001/23/20 12:41 PM
+ID:                              Patrick
+
+
+           *** Added User ***           
+001/23/20 12:41 PM
+ID:                                Peter
+
+
+           *** Added User ***           
+001/23/20 12:42 PM
+ID:                              Stephen
+
+
+    *** Exited Configuration Mode ***   
+001/23/20 12:46 PM
+ID:                                 Josh
+
+
+========================================
+             DynaCore Users             
+
+Station:                             237
+Branch:                      Test Branch
+Region:                      Test Region
+001/23/20 12:46 PM
+
+Adam
+     Master Users
+
+Chad
+     Master Users
+
+Charo
+     Master Users
+
+Josh
+     Master Users
+
+Patrick
+     Master Users
+
+Peter
+     Master Users
+
+Ray
+     Transactions HL
+     Inventory Control
+     Close Day
+     User Control
+     Settings (Setup)
+     Transactions LL
+     Manual Transactions
+     Online Only
+     Report Only
+     IT Only
+
+Stephen
+     Master Users
+
+========================================
+
+
+Logoff:                             Josh
+001/23/20 12:46 PM
+
+(Vault Buy)                             
+Transaction #                         13
+001/23/20 12:48 PM
+Josh
+
+Denom            Pieces            Value
+$50                  10           500.00
+
+Amount Tendered                   500.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         14
+001/23/20 12:48 PM
+Josh
+
+Denom            Pieces            Value
+$20                  10           200.00
+
+Amount Tendered                   200.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         15
+001/23/20 12:49 PM
+Josh
+
+Denom            Pieces            Value
+$10                  10           100.00
+
+Amount Tendered                   100.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         16
+001/23/20 12:50 PM
+Josh
+
+Denom            Pieces            Value
+$5                   10            50.00
+
+Amount Tendered                    50.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         17
+001/23/20 12:50 PM
+Josh
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Amount Tendered                    10.00
+----------------------------------------
+
+(Vault Buy)                             
+Transaction #                         18
+001/23/20 12:52 PM
+Josh
+
+Denom            Pieces            Value
+$100                 10          1000.00
+
+Amount Tendered                  1000.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                         19
+001/23/20 01:40 PM
+Josh
+
+Denom            Pieces            Value
+$5                   10            50.00
+
+Machine Total                      50.00
+Deposit Total                      50.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                         20
+001/23/20 01:43 PM
+Josh
+
+Denom            Pieces            Value
+$10                  10           100.00
+
+Machine Total                     100.00
+Deposit Total                     100.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                         21
+001/23/20 01:44 PM
+Josh
+
+Denom            Pieces            Value
+$1                   10            10.00
+
+Machine Total                      10.00
+Deposit Total                      10.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                         22
+001/23/20 01:45 PM
+Josh
+
+Denom            Pieces            Value
+$100                 10          1000.00
+$50                  10           500.00
+
+Machine Total                    1500.00
+Deposit Total                    1500.00
+----------------------------------------
+
+(Vault Sell)                            
+Transaction #                         23
+001/23/20 01:45 PM
+Josh
+
+Denom            Pieces            Value
+$20                  10           200.00
+
+Machine Total                     200.00
+Deposit Total                     200.00
+----------------------------------------
+
+Logon:                              Josh
+001/23/20 01:46 PM
+($1) Assumed Count:                  243
+($1) Actual Count:                   243
+($20) Assumed Count:                  78
+($20) Actual Count:                   78
+($5) Assumed Count:                  109
+($5) Actual Count:                   109
+($100) Assumed Count:                567
+($100) Actual Count:                 567
+($10) Assumed Count:                 113
+($10) Actual Count:                  113
+($50) Assumed Count:                 117
+($50) Actual Count:                  117
+
+(Auto Audit Note Count)                 
+Transaction #                         24
+001/23/20 01:47 PM
+Josh
+
+Denom            Pieces            Value
+$100                567         56700.00
+$50                 117          5850.00
+$20                  78          1560.00
+$10                 113          1130.00
+$5                  109           545.00
+$1                  243           243.00
+
+Audited Total                   66028.00
+----------------------------------------

@@ -1,0 +1,743 @@
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+  *** Automatic System Memory Clear *** 
+
+
+   *** Entered Configuration Mode ***   
+001/15/20 02:44 PM
+ID:                                     
+
+    *** Exited Configuration Mode ***   
+001/15/20 02:45 PM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/15/20 02:46 PM
+ID:                                     
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/15/20 02:48 PM
+ID:                                     
+
+    *** Exited Configuration Mode ***   
+001/15/20 02:48 PM
+ID:                                Addon
+
+
+========================================
+            Hardware Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.57
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator                  None
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/15/20 02:49 PM
+ID:                                     
+
+    *** Exited Configuration Mode ***   
+001/15/20 02:49 PM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/15/20 03:17 PM
+
+
+   *** Entered Configuration Mode ***   
+001/15/20 03:17 PM
+ID:                                  Ray
+
+           *** Added User ***           
+001/15/20 03:17 PM
+ID:                                 dave
+
+
+    *** Exited Configuration Mode ***   
+001/15/20 03:17 PM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Users             
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/15/20 03:17 PM
+
+Chad
+     Master User
+
+Charo
+     Master User
+
+dave
+     Master User
+
+Josh
+     Master User
+
+Ray
+     Transactions HL
+     Inventory Control
+     Close Day
+     User Control
+     Settings (Setup)
+     Transactions LL
+     Manual Transactions
+     Online Only
+     Report Only
+     IT Only
+
+========================================
+
+
+Logoff:                              Ray
+001/15/20 03:17 PM
+
+   *** Entered Configuration Mode ***   
+001/15/20 03:18 PM
+ID:                                     
+
+          *** Deleted User ***          
+001/15/20 03:18 PM
+ID:                                Charo
+
+    *** Exited Configuration Mode ***   
+001/15/20 03:18 PM
+ID:                                Addon
+
+
+========================================
+             DynaCore Users             
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/15/20 03:18 PM
+
+Chad
+     Master User
+
+dave
+     Master User
+
+Josh
+     Master User
+
+Ray
+     Transactions HL
+     Inventory Control
+     Close Day
+     User Control
+     Settings (Setup)
+     Transactions LL
+     Manual Transactions
+     Online Only
+     Report Only
+     IT Only
+
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/15/20 03:19 PM
+ID:                                     
+
+           *** Added User ***           
+001/15/20 03:19 PM
+ID:                                dummy
+
+
+    *** Exited Configuration Mode ***   
+001/15/20 03:20 PM
+ID:                                Addon
+
+
+========================================
+             DynaCore Users             
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/15/20 03:20 PM
+
+Chad
+     Master User
+
+dave
+     Master User
+
+dummy
+     No Groups Assigned
+
+Josh
+     Master User
+
+Ray
+     Transactions HL
+     Inventory Control
+     Close Day
+     User Control
+     Settings (Setup)
+     Transactions LL
+     Manual Transactions
+     Online Only
+     Report Only
+     IT Only
+
+========================================
+
+
+
+========================================
+            Hardware Settings           
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+----------------------------------------
+TCD/TCR Address             192.168.1.57
+TCD/TCR Port                   4001/4002
+TCD/TCR Connection                 LAN 1
+Coin Dispenser                  Telequip
+Bill Discriminator      Glory GFR Series
+Coin Sorter                         None
+Use Printer                           No
+
+Per-Pass Max Dispense Count          100
+Transaction End Line Feeds             1
+Report End Line Feeds                  8
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/15/20 03:22 PM
+ID:                                     
+
+    *** Exited Configuration Mode ***   
+001/15/20 03:22 PM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/15/20 03:23 PM
+
+Logoff:                              Ray
+001/15/20 03:23 PM
+
+Logon:                               Ray
+001/15/20 03:41 PM
+*** Forced Logoff of Non-Admin Users ***
+
+
+   *** Entered Configuration Mode ***   
+001/15/20 03:41 PM
+ID:                                     
+
+    *** Exited Configuration Mode ***   
+001/15/20 03:41 PM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/15/20 03:42 PM
+         Inventory Load Canceled        
+
+(Inventory Load)                        
+001/15/20 03:42 PM
+Ray
+
+
+*** Forced Logoff of Non-Admin Users ***
+
+
+   *** Entered Configuration Mode ***   
+001/15/20 03:42 PM
+ID:                                     
+
+    *** Exited Configuration Mode ***   
+001/15/20 03:42 PM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+   *** Entered Configuration Mode ***   
+001/15/20 03:48 PM
+ID:                                     
+
+           *** Added User ***           
+001/15/20 03:48 PM
+ID:                                 Dave
+
+
+           *** Added User ***           
+001/15/20 03:48 PM
+ID:                                  Ray
+
+
+           *** Edited User ***          
+001/15/20 03:48 PM
+ID:                                 Dave
+
+
+           *** Edited User ***          
+001/15/20 03:48 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/15/20 03:48 PM
+ID:                                Addon
+
+
+========================================
+             DynaCore Users             
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/15/20 03:48 PM
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+Dave
+     Master User
+
+Ray
+     Master User
+
+========================================
+
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+Logon:                               Ray
+001/15/20 03:50 PM
+
+
+   *** Entered Configuration Mode ***   
+001/15/20 03:50 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/15/20 03:50 PM
+ID:                                  Ray
+
+Logoff:                              Ray
+001/15/20 03:50 PM
+
+Logon:                               Ray
+001/15/20 03:51 PM
+
+   *** Entered Configuration Mode ***   
+001/15/20 03:51 PM
+ID:                                  Ray
+
+           *** Added User ***           
+001/15/20 03:51 PM
+ID:                                 Josh
+
+
+========================================
+             Activity Report            
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/15/20 03:52 PM
+
+ID:                                  Ray
+         No Teller Transactions         
+----------------------------------------
+          Grand Total Deposited         
+----------------------------------------
+
+            Machine Deposits            
+
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+           Other Cash Deposits          
+
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+
+Other Coin                           .00
+
+Other Cash Deposited                 .00
+Machine Total                        .00
+Total Deposited                      .00
+# of Deposits                          0
+========================================
+----------------------------------------
+          Grand Total Dispensed         
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$1                    0              .00
+Coin                                 .00
+Total Dispensed                      .00
+# of Withdrawals                       0
+========================================
+----------------------------------------
+             Net Cash Usage             
+----------------------------------------
+Denom            Pieces            Value
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Coin                                 .00
+Net Total                     In Balance
+========================================
+----------------------------------------
+                Inventory               
+----------------------------------------
+Denom            Pieces            Value
+$100                341         34100.00
+$50                 494         24700.00
+$20                 201          4020.00
+$10                 715          7150.00
+$5                  280          1400.00
+$2                    0              .00
+$1                  114           114.00
+Coin                                 .00
+Starting Inventory              71484.00
+Net Adjustments                      .00
+Total Inventory                 71484.00
+
+----------------------------------------
+            Dispensable Notes           
+----------------------------------------
+$100                341         34100.00
+$50                 494         24700.00
+$20                 201          4020.00
+$10                 715          7150.00
+$5                  280          1400.00
+$1                  114           114.00
+Total Dispensable Notes         71484.00
+
+----------------------------------------
+            Op Cassette Notes           
+----------------------------------------
+$100                  0              .00
+$50                   0              .00
+$20                   0              .00
+$10                   0              .00
+$5                    0              .00
+$2                    0              .00
+$1                    0              .00
+Total Op Cassette Notes              .00
+
+Cass. 1 $1          114           114.00
+Cass. 2 $5          280          1400.00
+Cass. 3 $20         201          4020.00
+Cass. 4 $100        341         34100.00
+Cass. 5 $10         715          7150.00
+Cass. 6 $50         494         24700.00
+========================================
+
+      *** System Memory Cleared ***     
+001/15/20 03:52 PM
+ID:                                  Ray
+
+
+    *** Exited Configuration Mode ***   
+001/15/20 03:52 PM
+ID:                                  Ray
+
+
+========================================
+             DynaCore Users             
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+001/15/20 03:52 PM
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+
+     No Groups Assigned
+
+Dave
+     Master User
+
+Josh
+     Master User
+
+Ray
+     Master User
+
+========================================
+
+
+Logoff:                              Ray
+001/15/20 03:52 PM
+
+Logon:                               Ray
+001/15/20 03:53 PM
+
+
+   *** Entered Configuration Mode ***   
+001/15/20 03:53 PM
+ID:                                  Ray
+
+    *** Exited Configuration Mode ***   
+001/15/20 03:54 PM
+ID:                                  Ray
+
+
+Logoff:                              Ray
+001/15/20 03:54 PM
+
+   *** Entered Configuration Mode ***   
+001/15/20 03:54 PM
+ID:                                     
+
+    *** Exited Configuration Mode ***   
+001/15/20 03:58 PM
+ID:                                Addon
+       DynaCore (c) 1999 - 2019 by      
+        Add-On Technologies, Inc.       
+       Version 10.00.128 (LTA-350)      
+
+           DynaCore Test Bank           
+              DynaCore Ave.             
+              DynaCore City             
+          Drive Through Window          
+
+Station:                            3030
+Branch:                      Test Branch
+Region:                      Test Region
+
+
+             TCR Link Error             
